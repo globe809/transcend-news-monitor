@@ -17,18 +17,24 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 抓取最新新聞
-        run: node scripts/fetch-news.js
+      - name: 安裝相依套件
+        run: npm install
 
-      - name: 提交新聞資料
+      - name: 抓取新聞並存入 Firestore
+        run: node scripts/fetch-news.js
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+
+      - name: 提交新聞 JSON 到 GitHub
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add public/news-data.json
-          git diff --staged --quiet || git commit -m "chore: 自動更新新聞資料"
+          git add public/news-today.json public/news-week.json public/news-month.json public/news-year.json public/news-data.json
+          git diff --staged --quiet || git commit -m "chore: 自動更新新聞 $(TZ='Asia/Taipei' date +'%Y-%m-%d %H:%M')"
           git push
 
-      - name: 部署到 Firebase
+      - name: 部署到 Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}

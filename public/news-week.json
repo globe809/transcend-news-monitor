@@ -1,1 +1,72 @@
-{"period":"","generatedAt":"","generatedAtTW":"尚未抓取","stats":{"total":0,"positive":0,"negative":0,"neutral":0,"byCategory":{},"trend":[]},"news":[]}
+{
+  "period": "week",
+  "generatedAt": "2026-04-06T12:41:06.211Z",
+  "generatedAtTW": "2026-04-06 20:41 台灣時間",
+  "stats": {
+    "total": 3,
+    "positive": 2,
+    "negative": 0,
+    "neutral": 1,
+    "byCategory": {
+      "創見資訊": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "上游供應商": {
+        "total": 1,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 1,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      }
+    },
+    "trend": [
+      {
+        "date": "2026-04-06",
+        "positive": 2,
+        "negative": 0,
+        "neutral": 1,
+        "total": 3
+      }
+    ]
+  },
+  "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemlva2J4TzEwTUFsWTY1MFZTNXQ0bmNDSlRWd2NWQ2ppSFZPYUhiZ2RFVGVXRF93c2h3ci1PUDdqdmJUcEpqeWRISHV1aDZiU3dSR1hKT2ljbHpxTmlQaUxlTGRGMzBhN3FwRXFaMXBXTWVQeHE4YjRJY3RMd3RPX3pjMA?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOemlva2J4TzEwTUFsWTY1MFZTNXQ0bmNDSlRWd2NWQ2ppSFZPYUhiZ2RFVGVXRF93c2h3ci1PUDdqdmJUcEpqeWRISHV1aDZiU3dSR1hKT2ljbHpxTmlQaUxlTGRGMzBhN3FwRXFaMXBXTWVQeHE4YjRJY3RMd3RPX3pjMA?oc=5\" target=\"_bla",
+      "fetchedAt": "2026-04-06T12:41:06.211Z",
+      "source": "TechNews 科技新報",
+      "category": "競品",
+      "title": "宜鼎3月營收月增35.8% - TechNews 科技新報",
+      "pubDate": "Mon, 06 Apr 2026 10:38:06 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5N2JDZ3lIZ2hPMUs5MEpZTngySDV0TmxuOTU3THMtQ0x4dndzT0E1R1NlWmRFdW5GTE9ERVRIQTRQbUVaTGdraGVqQzVPTzhUV0lITjBwTXU?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5N2JDZ3lIZ2hPMUs5MEpZTngySDV0TmxuOTU3THMtQ0x4dndzT0E1R1NlWmRFdW5GTE9ERVRIQTRQbUVaTGdraGVqQzVPTzhUV0lITjBwTXU?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見亮相展會，推智慧製造產品- 股市爆料同學會&lt;/a&gt;&amp;nbsp",
+      "fetchedAt": "2026-04-06T12:41:06.211Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 創見亮相展會，推智慧製造產品- 股市爆料同學會 - CMoney",
+      "pubDate": "Mon, 06 Apr 2026 03:33:58 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcUhySVdrdTFzQVJ5NjBhMHY5QnJEWTNJSFVwdlF4X09NU2JfY01IRXY5LW5oSkhiM090MXBNRVR2WnpRSzFYRmRuTFlUcHRyMGwwU2c5RExtckJqa2FUampscjM1bXEtcnc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcUhySVdrdTFzQVJ5NjBhMHY5QnJEWTNJSFVwdlF4X09NU2JfY01IRXY5LW5oSkhiM090MXBNRVR2WnpRSzFYRmRuTFlUcHRyMGwwU2c5RExtckJqa2FUampscjM1bXEtcnc?oc=5\" target=\"_blank\"&gt;鎧俠停產是救命草還催命符？專家揭記憶體先殺後拉真相「愛普",
+      "fetchedAt": "2026-04-06T12:41:06.211Z",
+      "source": "旺得富理財網",
+      "category": "上游供應商",
+      "title": "鎧俠停產是救命草還催命符？專家揭記憶體先殺後拉真相「愛普殺破季線、華邦電慘貼息」另有2檔夢幻連動逆勢噴漲- 上市櫃 - 旺得富理財網",
+      "pubDate": "Mon, 06 Apr 2026 02:22:37 GMT"
+    }
+  ]
+}

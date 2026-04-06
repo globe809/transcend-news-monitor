@@ -3,225 +3,505 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>創見資訊 新聞監控儀表板</title>
+<title>創見資訊 新聞監控儀表板 v2</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
-  :root {
-    --primary:#1a56db;--bg:#f3f6fb;--card:#fff;--border:#e2e8f0;
-    --text:#1e293b;--muted:#64748b;
-    --positive:#16a34a;--positive-bg:#dcfce7;
-    --negative:#dc2626;--negative-bg:#fee2e2;
-    --neutral:#d97706;--neutral-bg:#fef3c7;
-    --shadow:0 2px 12px rgba(0,0,0,0.08);
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
-  header{background:linear-gradient(135deg,#1a56db,#1e429f);color:white;padding:20px 32px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;box-shadow:0 4px 20px rgba(26,86,219,.3)}
-  .header-left h1{font-size:1.5rem;font-weight:700}
-  .header-left .subtitle{font-size:.85rem;opacity:.8;margin-top:2px}
-  .header-right{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
-  .last-update{font-size:.8rem;opacity:.85;background:rgba(255,255,255,.15);padding:5px 12px;border-radius:20px}
-  .schedule-badge{font-size:.75rem;background:rgba(255,255,255,.2);padding:4px 10px;border-radius:12px}
-  .btn{padding:9px 20px;border:none;border-radius:8px;font-size:.875rem;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:all .18s}
-  .btn-ai{background:linear-gradient(135deg,#7c3aed,#a855f7);color:white;box-shadow:0 2px 8px rgba(124,58,237,.4)}
-  .btn-ai:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(124,58,237,.5)}
-  .btn-ai:disabled{opacity:.6;cursor:not-allowed;transform:none}
-  .container{max-width:1100px;margin:0 auto;padding:28px 20px}
-  .stats-bar{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:14px;margin-bottom:24px}
-  .stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 20px;box-shadow:var(--shadow);text-align:center}
-  .stat-card .stat-num{font-size:2rem;font-weight:800;line-height:1}
-  .stat-card .stat-label{font-size:.78rem;color:var(--muted);margin-top:4px}
-  .stat-positive .stat-num{color:var(--positive)}.stat-negative .stat-num{color:var(--negative)}.stat-neutral .stat-num{color:var(--neutral)}.stat-total .stat-num{color:var(--primary)}
-  .schedule-card{background:linear-gradient(135deg,#eff6ff,#dbeafe);border:1.5px solid #93c5fd;border-radius:14px;padding:16px 20px;margin-bottom:20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-  .schedule-card .icon{font-size:1.8rem;flex-shrink:0}
-  .schedule-card .info strong{color:#1d4ed8;font-size:.95rem}
-  .schedule-card .info p{font-size:.82rem;color:#3730a3;margin-top:2px}
-  .ai-panel{background:linear-gradient(135deg,#faf5ff,#ede9fe);border:1.5px solid #c4b5fd;border-radius:16px;padding:24px;margin-bottom:24px;box-shadow:var(--shadow)}
-  .ai-panel-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:16px}
-  .ai-panel-title{font-size:1.05rem;font-weight:700;color:#5b21b6;display:flex;align-items:center;gap:8px}
-  .ai-panel-title .badge{font-size:.7rem;background:#7c3aed;color:white;padding:2px 8px;border-radius:12px;font-weight:600}
-  #aiSummaryContent{color:#3b0764;font-size:.92rem;line-height:1.75;white-space:pre-wrap}
-  .ai-placeholder{color:#7c3aed;opacity:.6;font-style:italic;text-align:center;padding:12px 0}
-  .filter-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:20px}
-  .filter-chip{padding:6px 16px;border-radius:20px;border:1.5px solid var(--border);background:white;font-size:.82rem;cursor:pointer;font-weight:500;transition:all .15s;color:var(--muted)}
-  .filter-chip:hover{border-color:var(--primary);color:var(--primary)}
-  .filter-chip.active{background:var(--primary);color:white;border-color:var(--primary)}
-  .filter-chip.positive.active{background:var(--positive);border-color:var(--positive)}
-  .filter-chip.negative.active{background:var(--negative);border-color:var(--negative)}
-  .filter-chip.neutral.active{background:var(--neutral);border-color:var(--neutral)}
-  #newsGrid{display:flex;flex-direction:column;gap:14px}
-  .news-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px 22px;box-shadow:var(--shadow);display:flex;gap:18px;align-items:flex-start;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden}
-  .news-card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.12)}
-  .news-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;border-radius:4px 0 0 4px}
-  .news-card.positive::before{background:var(--positive)}.news-card.negative::before{background:var(--negative)}.news-card.neutral::before{background:var(--neutral)}
-  .sentiment-badge{flex-shrink:0;width:42px;height:42px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.3rem;margin-top:2px}
-  .positive .sentiment-badge{background:var(--positive-bg)}.negative .sentiment-badge{background:var(--negative-bg)}.neutral .sentiment-badge{background:var(--neutral-bg)}
-  .news-content{flex:1;min-width:0}
-  .news-meta{display:flex;align-items:center;gap:10px;margin-bottom:6px;flex-wrap:wrap}
-  .news-source{font-size:.75rem;font-weight:600;color:var(--muted);background:var(--bg);padding:2px 8px;border-radius:6px}
-  .news-date{font-size:.75rem;color:var(--muted)}
-  .sentiment-label{font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:6px}
-  .positive .sentiment-label{color:var(--positive);background:var(--positive-bg)}.negative .sentiment-label{color:var(--negative);background:var(--negative-bg)}.neutral .sentiment-label{color:var(--neutral);background:var(--neutral-bg)}
-  .news-title{font-size:1rem;font-weight:700;color:var(--text);margin-bottom:6px;line-height:1.4}
-  .news-title a{color:inherit;text-decoration:none}.news-title a:hover{color:var(--primary)}
-  .news-snippet{font-size:.85rem;color:var(--muted);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-  .loading-area{text-align:center;padding:60px 20px;color:var(--muted)}
-  .spinner{width:44px;height:44px;border:4px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
-  @keyframes spin{to{transform:rotate(360deg)}}
-  .empty-state{text-align:center;padding:60px 20px;color:var(--muted)}
-  .empty-state .icon{font-size:3rem;margin-bottom:12px}
-  .typing::after{content:'▋';animation:blink .7s step-end infinite}
-  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
-  #toast{position:fixed;bottom:28px;right:28px;background:#1e293b;color:white;padding:12px 20px;border-radius:10px;font-size:.875rem;font-weight:500;box-shadow:0 4px 20px rgba(0,0,0,.25);transform:translateY(80px);opacity:0;transition:all .3s;z-index:9999}
-  #toast.show{transform:translateY(0);opacity:1}
+:root{
+  --primary:#1a56db;--primary-dark:#1e429f;
+  --bg:#f1f5f9;--card:#fff;--border:#e2e8f0;
+  --text:#1e293b;--muted:#64748b;
+  --positive:#16a34a;--positive-bg:#dcfce7;
+  --negative:#dc2626;--negative-bg:#fee2e2;
+  --neutral:#d97706;--neutral-bg:#fef3c7;
+  --shadow:0 2px 12px rgba(0,0,0,.07);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+
+/* ─ Header ─ */
+header{background:linear-gradient(135deg,#1a56db,#1e429f);color:#fff;padding:18px 32px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;box-shadow:0 4px 20px rgba(26,86,219,.3)}
+.header-left h1{font-size:1.4rem;font-weight:700}
+.header-left .sub{font-size:.8rem;opacity:.75;margin-top:2px}
+.header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.update-badge{font-size:.75rem;background:rgba(255,255,255,.15);padding:4px 12px;border-radius:20px}
+.btn-ai{padding:8px 18px;border:none;border-radius:8px;font-size:.85rem;font-weight:600;cursor:pointer;background:linear-gradient(135deg,#7c3aed,#a855f7);color:#fff;box-shadow:0 2px 8px rgba(124,58,237,.4);transition:all .18s}
+.btn-ai:hover{transform:translateY(-1px)}
+.btn-ai:disabled{opacity:.6;cursor:not-allowed;transform:none}
+
+.container{max-width:1140px;margin:0 auto;padding:24px 18px}
+
+/* ─ Period tabs ─ */
+.period-bar{display:flex;gap:6px;margin-bottom:20px;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:5px;width:fit-content;box-shadow:var(--shadow)}
+.period-btn{padding:7px 22px;border:none;border-radius:9px;font-size:.875rem;font-weight:600;cursor:pointer;background:transparent;color:var(--muted);transition:all .18s}
+.period-btn.active{background:var(--primary);color:#fff;box-shadow:0 2px 8px rgba(26,86,219,.3)}
+.period-btn:hover:not(.active){background:var(--bg)}
+
+/* ─ Category tabs ─ */
+.cat-bar{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap}
+.cat-btn{padding:6px 18px;border:1.5px solid var(--border);border-radius:20px;font-size:.82rem;font-weight:600;cursor:pointer;background:#fff;color:var(--muted);transition:all .15s}
+.cat-btn:hover{border-color:var(--primary);color:var(--primary)}
+.cat-btn.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+.cat-btn[data-cat="上游供應商"].active{background:#0891b2;border-color:#0891b2}
+.cat-btn[data-cat="競品"].active{background:#7c3aed;border-color:#7c3aed}
+
+/* ─ Stats ─ */
+.stats-bar{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:22px}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 18px;text-align:center;box-shadow:var(--shadow)}
+.stat-num{font-size:1.9rem;font-weight:800;line-height:1}
+.stat-label{font-size:.75rem;color:var(--muted);margin-top:3px}
+.stat-card.s-total .stat-num{color:var(--primary)}
+.stat-card.s-pos .stat-num{color:var(--positive)}
+.stat-card.s-neg .stat-num{color:var(--negative)}
+.stat-card.s-neu .stat-num{color:var(--neutral)}
+
+/* ─ Category stats mini ─ */
+.cat-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:22px}
+.cat-stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 18px;box-shadow:var(--shadow)}
+.cat-stat-header{font-size:.82rem;font-weight:700;color:var(--muted);margin-bottom:8px;display:flex;align-items:center;gap:6px}
+.cat-stat-row{display:flex;gap:10px}
+.cat-stat-item{flex:1;text-align:center}
+.cat-stat-item .n{font-size:1.3rem;font-weight:800}
+.cat-stat-item .l{font-size:.7rem;color:var(--muted)}
+
+/* ─ Chart ─ */
+.chart-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px 22px;margin-bottom:22px;box-shadow:var(--shadow)}
+.chart-title{font-size:.9rem;font-weight:700;color:var(--muted);margin-bottom:14px}
+.chart-wrap{position:relative;height:200px}
+
+/* ─ AI Panel ─ */
+.ai-panel{background:linear-gradient(135deg,#faf5ff,#ede9fe);border:1.5px solid #c4b5fd;border-radius:16px;padding:22px;margin-bottom:22px;box-shadow:var(--shadow)}
+.ai-panel-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+.ai-panel-title{font-size:1rem;font-weight:700;color:#5b21b6;display:flex;align-items:center;gap:8px}
+.ai-badge{font-size:.68rem;background:#7c3aed;color:#fff;padding:2px 8px;border-radius:10px;font-weight:600}
+#aiContent{color:#3b0764;font-size:.9rem;line-height:1.75;white-space:pre-wrap}
+.ai-ph{color:#7c3aed;opacity:.55;font-style:italic;text-align:center;padding:10px 0}
+
+/* ─ Sentiment filter ─ */
+.sent-bar{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap;align-items:center}
+.sent-chip{padding:5px 14px;border-radius:20px;border:1.5px solid var(--border);background:#fff;font-size:.8rem;cursor:pointer;font-weight:500;color:var(--muted);transition:all .15s}
+.sent-chip:hover{border-color:var(--primary);color:var(--primary)}
+.sent-chip.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+.sent-chip.pos.active{background:var(--positive);border-color:var(--positive)}
+.sent-chip.neg.active{background:var(--negative);border-color:var(--negative)}
+.sent-chip.neu.active{background:var(--neutral);border-color:var(--neutral)}
+
+/* ─ News ─ */
+#newsGrid{display:flex;flex-direction:column;gap:12px}
+.news-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;box-shadow:var(--shadow);display:flex;gap:16px;align-items:flex-start;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden}
+.news-card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.11)}
+.news-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;border-radius:4px 0 0 4px}
+.news-card.positive::before{background:var(--positive)}.news-card.negative::before{background:var(--negative)}.news-card.neutral::before{background:var(--neutral)}
+.sm-badge{flex-shrink:0;width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.2rem;margin-top:2px}
+.positive .sm-badge{background:var(--positive-bg)}.negative .sm-badge{background:var(--negative-bg)}.neutral .sm-badge{background:var(--neutral-bg)}
+.nc{flex:1;min-width:0}
+.nm{display:flex;align-items:center;gap:8px;margin-bottom:5px;flex-wrap:wrap}
+.nsrc{font-size:.72rem;font-weight:600;color:var(--muted);background:var(--bg);padding:2px 7px;border-radius:5px}
+.ncat{font-size:.7rem;font-weight:700;padding:2px 7px;border-radius:5px}
+.ncat-創見資訊{color:#1d4ed8;background:#dbeafe}
+.ncat-上游供應商{color:#0e7490;background:#cffafe}
+.ncat-競品{color:#6d28d9;background:#ede9fe}
+.ndate{font-size:.72rem;color:var(--muted)}
+.slabel{font-size:.7rem;font-weight:700;padding:2px 7px;border-radius:5px}
+.positive .slabel{color:var(--positive);background:var(--positive-bg)}.negative .slabel{color:var(--negative);background:var(--negative-bg)}.neutral .slabel{color:var(--neutral);background:var(--neutral-bg)}
+.ntitle{font-size:.97rem;font-weight:700;color:var(--text);margin-bottom:5px;line-height:1.4}
+.ntitle a{color:inherit;text-decoration:none}.ntitle a:hover{color:var(--primary)}
+.nsnip{font-size:.82rem;color:var(--muted);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+.loading-area{text-align:center;padding:50px;color:var(--muted)}
+.spinner{width:40px;height:40px;border:4px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 14px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.empty-state{text-align:center;padding:50px;color:var(--muted)}
+.empty-state .icon{font-size:2.8rem;margin-bottom:10px}
+
+.typing::after{content:'▋';animation:blink .7s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+#toast{position:fixed;bottom:24px;right:24px;background:#1e293b;color:#fff;padding:11px 18px;border-radius:10px;font-size:.85rem;font-weight:500;box-shadow:0 4px 20px rgba(0,0,0,.25);transform:translateY(80px);opacity:0;transition:all .3s;z-index:9999}
+#toast.show{transform:translateY(0);opacity:1}
+
+@media(max-width:600px){
+  header{padding:14px}
+  .period-bar{width:100%}
+  .period-btn{flex:1;padding:7px 8px;font-size:.8rem}
+  .news-card{flex-direction:column;gap:8px}
+}
 </style>
 </head>
 <body>
 
 <header>
   <div class="header-left">
-    <h1>📡 創見資訊 新聞監控</h1>
-    <div class="subtitle">關鍵字：創見資訊 ／ 創見 ／ 2451 ｜ 每日台灣時間 08:00 自動更新</div>
+    <h1>📡 創見資訊 競情監控中心</h1>
+    <div class="sub">創見資訊 · 上游供應商 · 競品 ｜ 每日台灣時間 08:00 自動更新</div>
   </div>
   <div class="header-right">
-    <div class="schedule-badge">⏰ 台灣時間 08:00 自動抓取</div>
-    <div class="last-update" id="lastUpdate">讀取中…</div>
-    <button class="btn btn-ai" id="aiBtn" onclick="generateAISummary()">✨ AI 摘要 &amp; 公關口徑</button>
+    <div class="update-badge" id="lastUpdate">讀取中…</div>
+    <button class="btn-ai" id="aiBtn" onclick="generateAI()">✨ AI 公關口徑</button>
   </div>
 </header>
 
 <div class="container">
 
-  <div class="schedule-card">
-    <div class="icon">🤖</div>
-    <div class="info">
-      <strong>全自動新聞監控</strong>
-      <p>GitHub Actions 每天台灣時間早上 8:00 自動抓取過去 24 小時的新聞，分析情緒後部署至此頁面。如需立即更新，請到 GitHub → Actions → 「每日抓取新聞並部署」→ 點「Run workflow」手動觸發。</p>
-    </div>
+  <!-- 時間頁籤 -->
+  <div class="period-bar">
+    <button class="period-btn active" data-period="today" onclick="switchPeriod('today',this)">今日</button>
+    <button class="period-btn" data-period="week"  onclick="switchPeriod('week',this)">本週</button>
+    <button class="period-btn" data-period="month" onclick="switchPeriod('month',this)">本月</button>
+    <button class="period-btn" data-period="year"  onclick="switchPeriod('year',this)">本年</button>
   </div>
 
+  <!-- 分類頁籤 -->
+  <div class="cat-bar">
+    <button class="cat-btn active" data-cat="all"    onclick="switchCat('all',this)">🔍 全部</button>
+    <button class="cat-btn" data-cat="創見資訊"     onclick="switchCat('創見資訊',this)">📌 創見資訊</button>
+    <button class="cat-btn" data-cat="上游供應商"   onclick="switchCat('上游供應商',this)">🏭 上游供應商</button>
+    <button class="cat-btn" data-cat="競品"         onclick="switchCat('競品',this)">⚔️ 競品</button>
+  </div>
+
+  <!-- 統計數字 -->
   <div class="stats-bar">
-    <div class="stat-card stat-total"><div class="stat-num" id="statTotal">—</div><div class="stat-label">📰 今日新聞總數</div></div>
-    <div class="stat-card stat-positive"><div class="stat-num" id="statPos">—</div><div class="stat-label">🟢 正面新聞</div></div>
-    <div class="stat-card stat-negative"><div class="stat-num" id="statNeg">—</div><div class="stat-label">🔴 負面新聞</div></div>
-    <div class="stat-card stat-neutral"><div class="stat-num" id="statNeu">—</div><div class="stat-label">🟡 中性新聞</div></div>
+    <div class="stat-card s-total"><div class="stat-num" id="sTotal">—</div><div class="stat-label">📰 新聞總數</div></div>
+    <div class="stat-card s-pos">  <div class="stat-num" id="sPos">—</div>  <div class="stat-label">🟢 正面</div></div>
+    <div class="stat-card s-neg">  <div class="stat-num" id="sNeg">—</div>  <div class="stat-label">🔴 負面</div></div>
+    <div class="stat-card s-neu">  <div class="stat-num" id="sNeu">—</div>  <div class="stat-label">🟡 中性</div></div>
   </div>
 
-  <div class="ai-panel">
-    <div class="ai-panel-header">
-      <div class="ai-panel-title">✨ Claude AI 公關口徑建議<span class="badge">Beta</span></div>
-      <div style="display:flex;gap:8px;align-items:center">
-        <input type="password" id="apiKeyInput" placeholder="Anthropic API Key（選填）"
-          style="padding:7px 12px;border:1.5px solid #c4b5fd;border-radius:8px;font-size:.8rem;width:260px;outline:none;background:white"/>
-        <button class="btn btn-ai" onclick="generateAISummary()" id="aiBtn2" style="padding:7px 14px;font-size:.8rem">✨ 產生摘要</button>
+  <!-- 各分類統計 -->
+  <div class="cat-stats">
+    <div class="cat-stat-card" id="cs-創見資訊">
+      <div class="cat-stat-header">📌 創見資訊</div>
+      <div class="cat-stat-row">
+        <div class="cat-stat-item"><div class="n" style="color:var(--positive)" id="cs-創見資訊-pos">—</div><div class="l">正面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--negative)" id="cs-創見資訊-neg">—</div><div class="l">負面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--neutral)"  id="cs-創見資訊-neu">—</div><div class="l">中性</div></div>
       </div>
     </div>
-    <div id="aiSummaryContent"><div class="ai-placeholder">⬆ 點擊「AI 摘要 &amp; 公關口徑」按鈕產生今日分析</div></div>
+    <div class="cat-stat-card" id="cs-上游供應商">
+      <div class="cat-stat-header">🏭 上游供應商</div>
+      <div class="cat-stat-row">
+        <div class="cat-stat-item"><div class="n" style="color:var(--positive)" id="cs-上游供應商-pos">—</div><div class="l">正面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--negative)" id="cs-上游供應商-neg">—</div><div class="l">負面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--neutral)"  id="cs-上游供應商-neu">—</div><div class="l">中性</div></div>
+      </div>
+    </div>
+    <div class="cat-stat-card" id="cs-競品">
+      <div class="cat-stat-header">⚔️ 競品</div>
+      <div class="cat-stat-row">
+        <div class="cat-stat-item"><div class="n" style="color:var(--positive)" id="cs-競品-pos">—</div><div class="l">正面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--negative)" id="cs-競品-neg">—</div><div class="l">負面</div></div>
+        <div class="cat-stat-item"><div class="n" style="color:var(--neutral)"  id="cs-競品-neu">—</div><div class="l">中性</div></div>
+      </div>
+    </div>
   </div>
 
-  <div class="filter-bar">
-    <span style="font-size:.82rem;color:var(--muted);font-weight:600">篩選：</span>
-    <button class="filter-chip active" onclick="filterNews('all',this)">全部</button>
-    <button class="filter-chip positive" onclick="filterNews('positive',this)">🟢 正面</button>
-    <button class="filter-chip negative" onclick="filterNews('negative',this)">🔴 負面</button>
-    <button class="filter-chip neutral"  onclick="filterNews('neutral',this)">🟡 中性</button>
+  <!-- 趨勢圖 -->
+  <div class="chart-card">
+    <div class="chart-title" id="chartTitle">📈 今日情緒分佈</div>
+    <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
   </div>
 
-  <div id="newsGrid"><div class="loading-area"><div class="spinner"></div><div>載入新聞資料中…</div></div></div>
+  <!-- AI 摘要 -->
+  <div class="ai-panel">
+    <div class="ai-panel-header">
+      <div class="ai-panel-title">✨ Claude AI 公關口徑建議<span class="ai-badge">Beta</span></div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <input type="password" id="apiKey" placeholder="Anthropic API Key（選填）"
+          style="padding:6px 12px;border:1.5px solid #c4b5fd;border-radius:8px;font-size:.8rem;width:250px;outline:none;background:#fff"/>
+        <button class="btn-ai" onclick="generateAI()" id="aiBtn2" style="padding:6px 14px;font-size:.78rem">✨ 產生</button>
+      </div>
+    </div>
+    <div id="aiContent"><div class="ai-ph">⬆ 點擊「AI 公關口徑」按鈕，根據目前篩選的新聞產生分析</div></div>
+  </div>
+
+  <!-- 情緒篩選 -->
+  <div class="sent-bar">
+    <span style="font-size:.8rem;color:var(--muted);font-weight:600">情緒：</span>
+    <button class="sent-chip active" onclick="switchSent('all',this)">全部</button>
+    <button class="sent-chip pos"    onclick="switchSent('positive',this)">🟢 正面</button>
+    <button class="sent-chip neg"    onclick="switchSent('negative',this)">🔴 負面</button>
+    <button class="sent-chip neu"    onclick="switchSent('neutral',this)">🟡 中性</button>
+    <span id="newsCount" style="margin-left:auto;font-size:.8rem;color:var(--muted)"></span>
+  </div>
+
+  <!-- 新聞列表 -->
+  <div id="newsGrid"><div class="loading-area"><div class="spinner"></div><div>載入中…</div></div></div>
+
 </div>
-
 <div id="toast"></div>
 
 <script>
+// ════════════════════════════════════════════════
+//  設定
+// ════════════════════════════════════════════════
+const FILES = { today:'news-today.json', week:'news-week.json', month:'news-month.json', year:'news-year.json' };
+const PERIOD_LABELS = { today:'今日', week:'本週', month:'本月', year:'本年' };
 const SM = {
-  positive:{emoji:'🟢',label:'正面',class:'positive'},
-  negative:{emoji:'🔴',label:'負面',class:'negative'},
-  neutral: {emoji:'🟡',label:'中性',class:'neutral'}
+  positive:{e:'🟢',l:'正面',c:'positive'},
+  negative:{e:'🔴',l:'負面',c:'negative'},
+  neutral: {e:'🟡',l:'中性',c:'neutral'}
 };
-let allNews=[], currentFilter='all';
 
-async function loadNews(){
-  const grid=document.getElementById('newsGrid');
-  try{
-    const res=await fetch('/news-data.json?t='+Date.now());
-    const data=await res.json();
-    if(!data.news||data.news.length===0){
-      grid.innerHTML=`<div class="empty-state"><div class="icon">⏳</div><div style="font-weight:700;margin-bottom:8px">新聞資料尚未產生</div><div style="font-size:.85rem;color:#94a3b8">請到 GitHub → Actions → 「每日抓取新聞並部署」→ 點「Run workflow」手動觸發第一次抓取</div></div>`;
-      document.getElementById('lastUpdate').textContent='尚未抓取';
-      updateStats({total:0,positive:0,negative:0,neutral:0});
-      return;
-    }
-    allNews=data.news;
-    document.getElementById('lastUpdate').textContent='資料時間：'+(data.fetchedAtTW||data.fetchedAt?.slice(0,16)||'—');
-    updateStats(data.stats);
+// ════════════════════════════════════════════════
+//  State
+// ════════════════════════════════════════════════
+let cache = {};
+let curPeriod = 'today', curCat = 'all', curSent = 'all';
+let curData = null;
+let trendChart = null;
+
+// ════════════════════════════════════════════════
+//  載入資料
+// ════════════════════════════════════════════════
+async function loadData(period) {
+  if (cache[period]) return cache[period];
+  const res  = await fetch(`/${FILES[period]}?t=${Date.now()}`);
+  const data = await res.json();
+  cache[period] = data;
+  return data;
+}
+
+async function switchPeriod(period, btn) {
+  curPeriod = period;
+  document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  await refresh();
+}
+
+function switchCat(cat, btn) {
+  curCat = cat;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderNews();
+  updateStats();
+}
+
+function switchSent(sent, btn) {
+  curSent = sent;
+  document.querySelectorAll('.sent-chip').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderNews();
+}
+
+async function refresh() {
+  document.getElementById('newsGrid').innerHTML = '<div class="loading-area"><div class="spinner"></div><div>載入中…</div></div>';
+  try {
+    curData = await loadData(curPeriod);
+    document.getElementById('lastUpdate').textContent = (curData.generatedAtTW || '—');
+    updateStats();
+    updateChart();
     renderNews();
-    showToast('✅ 載入 '+data.stats.total+' 則新聞（最近 24 小時）');
-  }catch(e){
-    grid.innerHTML=`<div class="empty-state"><div class="icon">⚠️</div><div style="font-weight:700;margin-bottom:8px">無法讀取新聞資料</div><div style="font-size:.85rem;color:#94a3b8">請確認 GitHub Actions 已執行完成並成功部署</div></div>`;
-    showToast('❌ 讀取資料失敗');
+  } catch(e) {
+    document.getElementById('newsGrid').innerHTML = `<div class="empty-state"><div class="icon">⚠️</div><div>無法載入資料，請確認 GitHub Actions 已執行</div></div>`;
+    showToast('❌ 資料載入失敗');
   }
 }
 
-function renderNews(){
-  const grid=document.getElementById('newsGrid');
-  const list=currentFilter==='all'?allNews:allNews.filter(n=>n.sentiment===currentFilter);
-  if(!list.length){grid.innerHTML=`<div class="empty-state"><div class="icon">🔍</div><div>此篩選條件下沒有新聞</div></div>`;return;}
-  grid.innerHTML=list.map(n=>{
-    const sm=SM[n.sentiment]||SM.neutral;
-    const d=new Date(n.pubDate);
-    const dateStr=isNaN(d)?n.pubDate:d.toLocaleString('zh-TW',{timeZone:'Asia/Taipei',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
-    return `<div class="news-card ${sm.class}"><div class="sentiment-badge">${sm.emoji}</div><div class="news-content"><div class="news-meta"><span class="news-source">${esc(n.source)}</span><span class="news-date">${dateStr}</span><span class="sentiment-label">${sm.label}</span></div><div class="news-title"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>${n.description?`<div class="news-snippet">${esc(n.description)}</div>`:''}</div></div>`;
+// ════════════════════════════════════════════════
+//  統計更新
+// ════════════════════════════════════════════════
+function updateStats() {
+  if (!curData) return;
+  const news = filterNews();
+  const s = curData.stats;
+
+  document.getElementById('sTotal').textContent = news.length;
+  document.getElementById('sPos').textContent   = news.filter(n=>n.sentiment==='positive').length;
+  document.getElementById('sNeg').textContent   = news.filter(n=>n.sentiment==='negative').length;
+  document.getElementById('sNeu').textContent   = news.filter(n=>n.sentiment==='neutral').length;
+
+  // 各分類統計
+  const bc = s.byCategory || {};
+  for (const cat of ['創見資訊','上游供應商','競品']) {
+    const c = bc[cat] || {positive:0,negative:0,neutral:0};
+    const el = id => document.getElementById(`cs-${cat}-${id}`);
+    if (el('pos')) el('pos').textContent = c.positive;
+    if (el('neg')) el('neg').textContent = c.negative;
+    if (el('neu')) el('neu').textContent = c.neutral;
+  }
+}
+
+// ════════════════════════════════════════════════
+//  趨勢圖
+// ════════════════════════════════════════════════
+function updateChart() {
+  if (!curData) return;
+  const trend  = (curData.stats.trend || []);
+  const period = curData.period;
+
+  // 依分類篩選趨勢（重新計算）
+  const news = curCat === 'all' ? curData.news : curData.news.filter(n=>n.category===curCat);
+  const trendMap = {};
+  for (const n of news) {
+    const d = new Date(n.pubDate);
+    if (isNaN(d)) continue;
+    const key = period === 'year'
+      ? d.toISOString().slice(0,7)
+      : d.toISOString().slice(0,10);
+    if (!trendMap[key]) trendMap[key]={date:key,positive:0,negative:0,neutral:0};
+    trendMap[key][n.sentiment]++;
+  }
+  const rows = Object.values(trendMap).sort((a,b)=>a.date.localeCompare(b.date));
+
+  const labels = rows.map(r => {
+    const d = new Date(r.date + (r.date.length===7?'-01':''));
+    return period === 'year'
+      ? d.toLocaleDateString('zh-TW',{month:'short'})
+      : d.toLocaleDateString('zh-TW',{month:'2-digit',day:'2-digit'});
+  });
+
+  const chartTitles = { today:'今日情緒分佈', week:'本週趨勢', month:'本月趨勢', year:'本年月趨勢' };
+  document.getElementById('chartTitle').textContent = '📈 ' + chartTitles[period];
+
+  if (trendChart) trendChart.destroy();
+
+  // 今日用圓餅圖，其他用折線圖
+  if (period === 'today' || rows.length <= 1) {
+    const pos = news.filter(n=>n.sentiment==='positive').length;
+    const neg = news.filter(n=>n.sentiment==='negative').length;
+    const neu = news.filter(n=>n.sentiment==='neutral').length;
+    trendChart = new Chart(document.getElementById('trendChart'), {
+      type: 'doughnut',
+      data: {
+        labels: ['正面','負面','中性'],
+        datasets:[{data:[pos,neg,neu],backgroundColor:['#16a34a','#dc2626','#d97706'],borderWidth:2,borderColor:'#fff'}]
+      },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{position:'right'} } }
+    });
+  } else {
+    trendChart = new Chart(document.getElementById('trendChart'), {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [
+          { label:'正面', data:rows.map(r=>r.positive), borderColor:'#16a34a', backgroundColor:'rgba(22,163,74,.08)', fill:true, tension:.3, pointRadius:3 },
+          { label:'負面', data:rows.map(r=>r.negative), borderColor:'#dc2626', backgroundColor:'rgba(220,38,38,.08)',  fill:true, tension:.3, pointRadius:3 },
+          { label:'中性', data:rows.map(r=>r.neutral),  borderColor:'#d97706', backgroundColor:'rgba(217,119,6,.08)',  fill:true, tension:.3, pointRadius:3 }
+        ]
+      },
+      options: {
+        responsive:true, maintainAspectRatio:false,
+        plugins:{ legend:{position:'top',labels:{boxWidth:12,font:{size:12}}} },
+        scales:{ y:{ beginAtZero:true, ticks:{stepSize:1} }, x:{ ticks:{maxTicksLimit:12} } }
+      }
+    });
+  }
+}
+
+// ════════════════════════════════════════════════
+//  新聞渲染
+// ════════════════════════════════════════════════
+function filterNews() {
+  if (!curData) return [];
+  let list = curData.news || [];
+  if (curCat  !== 'all') list = list.filter(n => n.category  === curCat);
+  if (curSent !== 'all') list = list.filter(n => n.sentiment === curSent);
+  return list;
+}
+
+function renderNews() {
+  const grid = document.getElementById('newsGrid');
+  const list = filterNews();
+  document.getElementById('newsCount').textContent = `共 ${list.length} 則`;
+
+  if (!list.length) {
+    grid.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><div>此篩選條件下沒有新聞</div></div>`;
+    return;
+  }
+
+  grid.innerHTML = list.map(n => {
+    const sm = SM[n.sentiment] || SM.neutral;
+    const d  = new Date(n.pubDate);
+    const ds = isNaN(d) ? '' : d.toLocaleString('zh-TW',{timeZone:'Asia/Taipei',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+    return `<div class="news-card ${sm.c}">
+      <div class="sm-badge">${sm.e}</div>
+      <div class="nc">
+        <div class="nm">
+          <span class="nsrc">${esc(n.source)}</span>
+          <span class="ncat ncat-${esc(n.category||'')}">${esc(n.category||'')}</span>
+          <span class="ndate">${ds}</span>
+          <span class="slabel">${sm.l}</span>
+        </div>
+        <div class="ntitle"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+        ${n.description?`<div class="nsnip">${esc(n.description)}</div>`:''}
+      </div>
+    </div>`;
   }).join('');
 }
 
-function updateStats(s){
-  document.getElementById('statTotal').textContent=s.total??'—';
-  document.getElementById('statPos').textContent=s.positive??'—';
-  document.getElementById('statNeg').textContent=s.negative??'—';
-  document.getElementById('statNeu').textContent=s.neutral??'—';
-}
+// ════════════════════════════════════════════════
+//  AI 摘要
+// ════════════════════════════════════════════════
+async function generateAI() {
+  const list = filterNews();
+  if (!list.length) { showToast('⚠️ 請先載入新聞'); return; }
 
-function filterNews(f,btn){
-  currentFilter=f;
-  document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
-  btn.classList.add('active');renderNews();
-}
+  const [b1,b2] = [document.getElementById('aiBtn'), document.getElementById('aiBtn2')];
+  b1.disabled = b2.disabled = true;
 
-async function generateAISummary(){
-  if(!allNews.length){showToast('⚠️ 新聞資料尚未載入');return;}
-  const b1=document.getElementById('aiBtn'),b2=document.getElementById('aiBtn2');
-  b1.disabled=b2.disabled=true;
-  const apiKey=document.getElementById('apiKeyInput').value.trim();
-  const top5=allNews.slice(0,5);
-  const el=document.getElementById('aiSummaryContent');
-  if(!apiKey){
-    el.innerHTML='<span class="typing"></span>';
-    await sleep(500);
-    const s=allNews.reduce((a,n)=>{a[n.sentiment]++;return a},{positive:0,negative:0,neutral:0});
-    const mood=s.positive>s.negative?'偏正面':s.negative>s.positive?'偏負面':'中性';
-    const lines=top5.map((n,i)=>`${i+1}. 【${SM[n.sentiment]?.emoji} ${SM[n.sentiment]?.label}】${n.title}`).join('\n');
-    await typewriter(el,`📊 今日新聞摘要（共 ${allNews.length} 則 | 模擬模式）\n${'━'.repeat(35)}\n\n📋 Top 5 重要新聞：\n${lines}\n\n📈 情緒概覽：\n正面 ${s.positive} 則 ｜ 負面 ${s.negative} 則 ｜ 整體氛圍${mood}\n\n${'━'.repeat(35)}\n💬 公關口徑建議：\n\n▸ 對媒體詢問：\n  「創見持續聚焦技術創新與產品品質，今日市場關注點已納入管理層視野，公司將依既定策略穩健推進。」\n\n▸ 對投資人詢問：\n  「公司基本面穩健，任何市場波動均在正常範圍，建議關注近期財報與法說會說明。」\n\n▸ 負面報導應對：\n  「針對外界關切，公司已啟動內部評估機制，將在第一時間提供透明說明。」\n\n─────────────────────────────────\n⚠️ 此為模擬示範。填入 Anthropic API Key 可啟用真正的 Claude AI 分析。`,10);
-  }else{
-    el.innerHTML='<span class="typing"></span>';
-    const items=top5.map((n,i)=>`${i+1}. [${SM[n.sentiment]?.label}] ${n.title}\n   摘要：${(n.description||'').slice(0,150)}`).join('\n\n');
-    const prompt=`你是創見資訊（2451）公關顧問，根據以下今日新聞提供分析：\n\n## Top 5 新聞：\n${items}\n\n請提供：1.一句話總結 2.情緒評估 3.媒體/投資人口徑各1-2句 4.公關團隊今日優先事項2-3件。繁體中文，語氣專業。`;
-    try{
-      const res=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'x-api-key':apiKey,'anthropic-version':'2023-06-01','content-type':'application/json','anthropic-dangerous-direct-browser-access':'true'},body:JSON.stringify({model:'claude-opus-4-6',max_tokens:1200,messages:[{role:'user',content:prompt}]})});
-      if(!res.ok){const e=await res.json();throw new Error(e.error?.message||res.statusText);}
-      const data=await res.json();
-      await typewriter(el,data.content?.[0]?.text||'（回應為空）',8);
-      showToast('✅ Claude AI 摘要產生完成');
-    }catch(e){el.textContent='❌ API 錯誤：'+e.message;showToast('❌ API 呼叫失敗');}
+  const apiKey = document.getElementById('apiKey').value.trim();
+  const el     = document.getElementById('aiContent');
+  const top5   = list.slice(0,5);
+  const catLabel = curCat === 'all' ? '所有類別' : curCat;
+  const periodLabel = PERIOD_LABELS[curPeriod];
+
+  if (!apiKey) {
+    el.innerHTML = '<span class="typing"></span>';
+    await sleep(400);
+    const pos = list.filter(n=>n.sentiment==='positive').length;
+    const neg = list.filter(n=>n.sentiment==='negative').length;
+    const mood = pos>neg?'偏正面':neg>pos?'偏負面':'中性';
+    const lines = top5.map((n,i)=>`${i+1}. 【${SM[n.sentiment]?.e} ${SM[n.sentiment]?.l}】[${n.category}] ${n.title}`).join('\n');
+    await typewriter(el,
+`📊 ${periodLabel} · ${catLabel} 新聞摘要（共 ${list.length} 則 | 模擬模式）
+${'━'.repeat(40)}
+
+📋 Top 5 重要新聞：
+${lines}
+
+📈 情緒概覽：
+正面 ${pos} 則 ｜ 負面 ${neg} 則 ｜ 整體氛圍${mood}
+
+${'━'.repeat(40)}
+💬 公關口徑建議（創見資訊）：
+
+▸ 對媒體詢問：
+  「創見持續聚焦技術創新與產品品質，今日市場關注點已納入管理層視野，公司將依既定策略穩健推進。」
+
+▸ 對投資人詢問：
+  「公司基本面穩健，上游供應商動態與競品動向均在持續追蹤，管理層對中長期布局充滿信心。」
+
+▸ 競品/供應鏈有利空時：
+  「相關產業鏈變化屬市場正常波動，創見憑藉多元化布局及穩定客戶關係，可有效降低衝擊。」
+
+─────────────────────────────────────
+⚠️ 此為模擬示範。填入 Anthropic API Key 可啟用真正的 Claude AI 分析。`, 9);
+  } else {
+    el.innerHTML = '<span class="typing"></span>';
+    const items = top5.map((n,i)=>`${i+1}. [${SM[n.sentiment]?.l}][${n.category}] ${n.title}\n   ${(n.description||'').slice(0,120)}`).join('\n\n');
+    const prompt = `你是創見資訊（2451）的公關顧問。以下是「${periodLabel}」「${catLabel}」的 Top 5 新聞：\n\n${items}\n\n請提供：\n1. 一句話總結（20字內）\n2. 情緒評估與品牌影響分析\n3. 對媒體、投資人的公關口徑各1-2句\n4. 供應鏈/競品動態對創見的潛在影響\n5. 公關團隊今日優先事項2-3件\n\n繁體中文，語氣專業具體。`;
+    try {
+      const res = await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'x-api-key':apiKey,'anthropic-version':'2023-06-01','content-type':'application/json','anthropic-dangerous-direct-browser-access':'true'},body:JSON.stringify({model:'claude-opus-4-6',max_tokens:1400,messages:[{role:'user',content:prompt}]})});
+      if (!res.ok) { const e=await res.json(); throw new Error(e.error?.message||res.statusText); }
+      const data = await res.json();
+      await typewriter(el, data.content?.[0]?.text || '（空回應）', 7);
+      showToast('✅ AI 分析完成');
+    } catch(e) { el.textContent='❌ API 錯誤：'+e.message; showToast('❌ API 呼叫失敗'); }
   }
-  b1.disabled=b2.disabled=false;
+  b1.disabled = b2.disabled = false;
 }
 
-function typewriter(el,text,speed=12){return new Promise(r=>{el.textContent='';let i=0;const t=setInterval(()=>{if(i>=text.length){clearInterval(t);r();return;}el.textContent+=text[i++];},speed);})}
+// ════════════════════════════════════════════════
+//  工具
+// ════════════════════════════════════════════════
+function typewriter(el, text, speed=12){
+  return new Promise(r=>{el.textContent='';let i=0;const t=setInterval(()=>{if(i>=text.length){clearInterval(t);r();return;}el.textContent+=text[i++];},speed);});
+}
 function sleep(ms){return new Promise(r=>setTimeout(r,ms))}
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 let tt;
 function showToast(msg){const el=document.getElementById('toast');el.textContent=msg;el.classList.add('show');clearTimeout(tt);tt=setTimeout(()=>el.classList.remove('show'),3500)}
 
-window.addEventListener('DOMContentLoaded',loadNews);
+// 啟動
+window.addEventListener('DOMContentLoaded', refresh);
 </script>
 </body>
 </html>

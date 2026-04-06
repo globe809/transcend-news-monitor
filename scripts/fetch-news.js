@@ -28,15 +28,15 @@ try {
 // ─── 監控關鍵字分組 ──────────────────────────────────────
 const KEYWORD_GROUPS = {
   '創見資訊': [
-    '創見資訊', '2451 股票', 'Transcend 記憶體'
+    '創見資訊', '2451', 'Transcend'
   ],
   '上游供應商': [
     'Samsung NAND Flash', 'Kioxia 記憶體', 'Micron NAND',
     'SanDisk NAND', 'Silicon Motion SMI', 'NAND Flash 報價'
   ],
   '競品': [
-    'Kingston 記憶體', '威剛 ADATA', 'Silicon Power 記憶體',
-    '宜鼎 Innodisk'
+    'Kingston 記憶體', '威剛 ADATA', 'Silicon Power 廣穎',
+    '宜鼎 Innodisk' , 'Apacer 宇瞻'
   ]
 };
 

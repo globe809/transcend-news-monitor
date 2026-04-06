@@ -1,6 +1,11 @@
 {
-  "fetchedAt": "",
-  "fetchedAtTW": "尚未抓取",
-  "stats": { "total": 0, "positive": 0, "negative": 0, "neutral": 0 },
+  "fetchedAt": "2026-04-06T07:15:15.638Z",
+  "fetchedAtTW": "2026-04-06 15:15 (台灣時間)",
+  "stats": {
+    "total": 0,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 0
+  },
   "news": []
 }

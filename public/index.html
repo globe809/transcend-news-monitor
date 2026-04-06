@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>創見資訊 新聞監控儀表板</title>
+<style>
+  :root {
+    --primary: #1a56db;
+    --primary-dark: #1e429f;
+    --bg: #f3f6fb;
+    --card: #ffffff;
+    --border: #e2e8f0;
+    --text: #1e293b;
+    --muted: #64748b;
+    --positive: #16a34a;
+    --positive-bg: #dcfce7;
+    --negative: #dc2626;
+    --negative-bg: #fee2e2;
+    --neutral: #d97706;
+    --neutral-bg: #fef3c7;
+    --shadow: 0 2px 12px rgba(0,0,0,0.08);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* ─── Header ─── */
+  header {
+    background: linear-gradient(135deg, #1a56db 0%, #1e429f 100%);
+    color: white;
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    box-shadow: 0 4px 20px rgba(26,86,219,0.3);
+  }
+
+  .header-left h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .header-left .subtitle {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: 2px;
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .last-update {
+    font-size: 0.8rem;
+    opacity: 0.75;
+    background: rgba(255,255,255,0.15);
+    padding: 5px 12px;
+    border-radius: 20px;
+  }
+
+  /* ─── Buttons ─── */
+  .btn {
+    padding: 9px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.18s;
+  }
+
+  .btn-primary {
+    background: white;
+    color: var(--primary);
+  }
+  .btn-primary:hover { background: #e8f0ff; transform: translateY(-1px); }
+
+  .btn-ai {
+    background: linear-gradient(135deg, #7c3aed, #a855f7);
+    color: white;
+    box-shadow: 0 2px 8px rgba(124,58,237,0.4);
+  }
+  .btn-ai:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(124,58,237,0.5); }
+  .btn-ai:disabled { opacity: 0.6; cursor: not-allowed; transform: none; }
+
+  .btn-sm {
+    padding: 5px 12px;
+    font-size: 0.78rem;
+  }
+
+  /* ─── Layout ─── */
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 28px 20px;
+  }
+
+  /* ─── Stats Bar ─── */
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    box-shadow: var(--shadow);
+    text-align: center;
+  }
+
+  .stat-card .stat-num {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+
+  .stat-card .stat-label {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  .stat-positive .stat-num { color: var(--positive); }
+  .stat-negative .stat-num { color: var(--negative); }
+  .stat-neutral .stat-num  { color: var(--neutral); }
+  .stat-total .stat-num    { color: var(--primary); }
+
+  /* ─── AI Panel ─── */
+  .ai-panel {
+    background: linear-gradient(135deg, #faf5ff, #ede9fe);
+    border: 1.5px solid #c4b5fd;
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow);
+  }
+
+  .ai-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .ai-panel-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #5b21b6;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .ai-panel-title .badge {
+    font-size: 0.7rem;
+    background: #7c3aed;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 600;
+  }
+
+  #aiSummaryContent {
+    color: #3b0764;
+    font-size: 0.92rem;
+    line-height: 1.75;
+    white-space: pre-wrap;
+  }
+
+  .ai-placeholder {
+    color: #7c3aed;
+    opacity: 0.6;
+    font-style: italic;
+    text-align: center;
+    padding: 12px 0;
+  }
+
+  /* ─── Filter Bar ─── */
+  .filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .filter-chip {
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1.5px solid var(--border);
+    background: white;
+    font-size: 0.82rem;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.15s;
+    color: var(--muted);
+  }
+
+  .filter-chip:hover { border-color: var(--primary); color: var(--primary); }
+  .filter-chip.active { background: var(--primary); color: white; border-color: var(--primary); }
+  .filter-chip.positive.active { background: var(--positive); border-color: var(--positive); }
+  .filter-chip.negative.active { background: var(--negative); border-color: var(--negative); }
+  .filter-chip.neutral.active  { background: var(--neutral); border-color: var(--neutral); }
+
+  .api-key-area {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .api-key-area input {
+    padding: 7px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.8rem;
+    width: 260px;
+    outline: none;
+    transition: border 0.15s;
+  }
+  .api-key-area input:focus { border-color: var(--primary); }
+
+  /* ─── News Grid ─── */
+  #newsGrid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px 22px;
+    box-shadow: var(--shadow);
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
+    transition: transform 0.15s, box-shadow 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .news-card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); }
+
+  .news-card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    border-radius: 4px 0 0 4px;
+  }
+  .news-card.positive::before { background: var(--positive); }
+  .news-card.negative::before { background: var(--negative); }
+  .news-card.neutral::before  { background: var(--neutral); }
+
+  .sentiment-badge {
+    flex-shrink: 0;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    margin-top: 2px;
+  }
+  .positive .sentiment-badge { background: var(--positive-bg); }
+  .negative .sentiment-badge { background: var(--negative-bg); }
+  .neutral  .sentiment-badge { background: var(--neutral-bg); }
+
+  .news-content { flex: 1; min-width: 0; }
+
+  .news-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+  }
+
+  .news-source {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--muted);
+    background: var(--bg);
+    padding: 2px 8px;
+    border-radius: 6px;
+  }
+
+  .news-date {
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+
+  .sentiment-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.03em;
+  }
+  .positive .sentiment-label { color: var(--positive); background: var(--positive-bg); }
+  .negative .sentiment-label { color: var(--negative); background: var(--negative-bg); }
+  .neutral  .sentiment-label { color: var(--neutral);  background: var(--neutral-bg); }
+
+  .news-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+
+  .news-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .news-title a:hover { color: var(--primary); }
+
+  .news-snippet {
+    font-size: 0.85rem;
+    color: var(--muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* ─── Loading / Empty ─── */
+  .loading-area {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+
+  .spinner {
+    width: 44px;
+    height: 44px;
+    border: 4px solid var(--border);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+  .empty-state .icon { font-size: 3rem; margin-bottom: 12px; }
+
+  /* ─── AI Writing animation ─── */
+  .typing::after {
+    content: '▋';
+    animation: blink 0.7s step-end infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+  /* ─── API Key Modal ─── */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal {
+    background: white;
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 480px;
+    width: 90%;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+  }
+  .modal h3 { font-size: 1.15rem; margin-bottom: 8px; }
+  .modal p { font-size: 0.88rem; color: var(--muted); margin-bottom: 16px; line-height: 1.6; }
+  .modal input {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.88rem;
+    margin-bottom: 14px;
+    outline: none;
+  }
+  .modal input:focus { border-color: var(--primary); }
+  .modal-btns { display: flex; gap: 10px; justify-content: flex-end; }
+
+  /* ─── Toast ─── */
+  #toast {
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    background: #1e293b;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+    transform: translateY(80px);
+    opacity: 0;
+    transition: all 0.3s;
+    z-index: 9999;
+  }
+  #toast.show { transform: translateY(0); opacity: 1; }
+
+  @media (max-width: 600px) {
+    header { padding: 16px; }
+    .api-key-area { display: none; }
+    .news-card { flex-direction: column; gap: 10px; }
+    .sentiment-badge { width: 36px; height: 36px; font-size: 1.1rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="header-left">
+    <h1>📡 創見資訊 新聞監控</h1>
+    <div class="subtitle">關鍵字：創見資訊 ／ Transcend IR ／ 2451 ｜ 即時新聞情緒分析</div>
+  </div>
+  <div class="header-right">
+    <div class="last-update" id="lastUpdate">尚未抓取</div>
+    <button class="btn btn-primary" onclick="fetchNews()">🔄 立即更新</button>
+    <button class="btn btn-ai" id="aiBtn" onclick="generateAISummary()">✨ AI 摘要 &amp; 公關口徑</button>
+  </div>
+</header>
+
+<!-- Main -->
+<div class="container">
+
+  <!-- Stats -->
+  <div class="stats-bar">
+    <div class="stat-card stat-total">
+      <div class="stat-num" id="statTotal">—</div>
+      <div class="stat-label">📰 今日新聞總數</div>
+    </div>
+    <div class="stat-card stat-positive">
+      <div class="stat-num" id="statPos">—</div>
+      <div class="stat-label">🟢 正面新聞</div>
+    </div>
+    <div class="stat-card stat-negative">
+      <div class="stat-num" id="statNeg">—</div>
+      <div class="stat-label">🔴 負面新聞</div>
+    </div>
+    <div class="stat-card stat-neutral">
+      <div class="stat-num" id="statNeu">—</div>
+      <div class="stat-label">🟡 中性新聞</div>
+    </div>
+  </div>
+
+  <!-- AI Panel -->
+  <div class="ai-panel">
+    <div class="ai-panel-header">
+      <div class="ai-panel-title">
+        ✨ Claude AI 公關口徑建議
+        <span class="badge">Beta</span>
+      </div>
+      <div style="display:flex;gap:8px;align-items:center;">
+        <input type="password" id="apiKeyInput" placeholder="Anthropic API Key（選填，可用模擬模式）"
+               style="padding:7px 12px;border:1.5px solid #c4b5fd;border-radius:8px;font-size:0.8rem;width:280px;outline:none;background:white;"/>
+        <button class="btn btn-sm btn-ai" onclick="generateAISummary()" id="aiBtn2">✨ 產生摘要</button>
+      </div>
+    </div>
+    <div id="aiSummaryContent">
+      <div class="ai-placeholder">⬆ 點擊「AI 摘要 &amp; 公關口徑」按鈕，或先載入新聞後再產生摘要</div>
+    </div>
+  </div>
+
+  <!-- Filter -->
+  <div class="filter-bar">
+    <span style="font-size:0.82rem;color:var(--muted);font-weight:600;">篩選：</span>
+    <button class="filter-chip active" data-filter="all" onclick="filterNews('all', this)">全部</button>
+    <button class="filter-chip positive" data-filter="positive" onclick="filterNews('positive', this)">🟢 正面</button>
+    <button class="filter-chip negative" data-filter="negative" onclick="filterNews('negative', this)">🔴 負面</button>
+    <button class="filter-chip neutral" data-filter="neutral" onclick="filterNews('neutral', this)">🟡 中性</button>
+  </div>
+
+  <!-- News Grid -->
+  <div id="newsGrid">
+    <div class="empty-state">
+      <div class="icon">📭</div>
+      <div>點擊「立即更新」開始抓取新聞</div>
+      <div style="font-size:0.8rem;margin-top:8px;color:#94a3b8;">系統將從 Google News 抓取最新報導</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Toast -->
+<div id="toast"></div>
+
+<script>
+// ════════════════════════════════════════════════════════════
+//  CONFIG
+// ════════════════════════════════════════════════════════════
+const KEYWORDS = ['創見資訊', 'Transcend IR', '2451'];
+const RSS2JSON_API = 'https://api.rss2json.com/v1/api.json';
+
+// ─── 情緒關鍵字庫 ───
+const SENTIMENT = {
+  positive: [
+    '獲獎','得獎','榮獲','表揚','優良','認證','認可','合格','通過',
+    '營收','成長','增長','創高','新高','突破','達成','超越','亮眼',
+    '合作','策略聯盟','夥伴','簽約','合約','投資','擴大','佈局',
+    '發布','推出','上市','發表','創新','技術突破','領先',
+    '獲利','盈餘','獲利','股利','配息','EPS','業績',
+    '正面','利好','樂觀','信心','強勁','穩健','看好'
+  ],
+  negative: [
+    '虧損','虧損','虧','虧蝕','跌','下跌','衰退','下滑','萎縮',
+    '召回','瑕疵','缺陷','問題','故障','異常','事故','意外',
+    '訴訟','官司','起訴','判決','罰款','制裁','調查','稽查',
+    '裁員','資遣','停業','倒閉','退出',
+    '崩盤','大跌','暴跌','崩潰','危機','風險','壓力',
+    '負面','利空','看空','下修','降評','調降'
+  ]
+};
+
+// ─── 模擬新聞資料（當 RSS 無法存取時使用）───
+const MOCK_NEWS = [
+  {
+    title: '創見資訊 Q1 營收創歷史新高，年增 23% 超越預期',
+    snippet: '創見資訊（TWSE：2451）今日公布第一季財報，合併營收達 68.5 億元，較去年同期大幅成長 23%，創下歷史新高。管理層表示，工業用 SSD 及嵌入式記憶體需求強勁，帶動整體業績亮眼。',
+    source: ' 經濟日報',
+    date: new Date().toISOString(),
+    link: '#',
+    sentiment: 'positive'
+  },
+  {
+    title: 'Transcend 榮獲 2025 年台灣精品獎，工業儲存方案獲高度肯定',
+    snippet: 'Transcend（創見資訊）憑藉其創新的工業級儲存解決方案，榮獲 2025 年「台灣精品獎」殊榮。此次得獎產品涵蓋 CFast 工業卡及 mSATA 系列，評審一致肯定其高可靠性與極端溫度耐受設計。',
+    source: '工商時報',
+    date: new Date(Date.now() - 3600000).toISOString(),
+    link: '#',
+    sentiment: 'positive'
+  },
+  {
+    title: '全球記憶體報價持續下滑，NAND Flash 跌幅擴大',
+    snippet: '受市場供過於求影響，全球 NAND Flash 現貨報價本週再度走跌，創下近半年新低。法人指出，品牌廠商如創見等將面臨毛利率壓縮壓力，下半年展望保守。',
+    source: '鉅亨網',
+    date: new Date(Date.now() - 7200000).toISOString(),
+    link: '#',
+    sentiment: 'negative'
+  },
+  {
+    title: '創見資訊攜手工業電腦大廠，共同開拓歐洲智慧製造市場',
+    snippet: '創見資訊宣布與國內工業電腦龍頭簽署策略合作備忘錄（MOU），雙方將整合各自在嵌入式儲存與工業電腦的優勢，共同推進歐洲 Industry 4.0 智慧製造解決方案。',
+    source: '數位時代',
+    date: new Date(Date.now() - 10800000).toISOString(),
+    link: '#',
+    sentiment: 'positive'
+  },
+  {
+    title: '2451 創見資訊召開法說會，法人關注 AI 伺服器需求',
+    snippet: '創見資訊於台北舉辦法人說明會，針對 AI 伺服器市場布局、產能調配及下半年接單能見度進行說明。多位法人提問 AI 記憶體模組商機，管理層態度審慎樂觀。',
+    source: 'MoneyDJ 理財網',
+    date: new Date(Date.now() - 14400000).toISOString(),
+    link: '#',
+    sentiment: 'neutral'
+  },
+  {
+    title: '創見推出全新車規 CFexpress 產品線，搶進車用影像儲存市場',
+    snippet: '創見資訊正式發表通過 AEC-Q100 認證的車規 CFexpress Type B 記憶卡，目標進軍高端行車紀錄與 ADAS 資料儲存應用，預計下半年量產出貨，已取得多家 Tier 1 廠商評測資格。',
+    source: 'iThome',
+    date: new Date(Date.now() - 18000000).toISOString(),
+    link: '#',
+    sentiment: 'positive'
+  }
+];
+
+// ════════════════════════════════════════════════════════════
+//  STATE
+// ════════════════════════════════════════════════════════════
+let allNews = [];
+let currentFilter = 'all';
+
+// ════════════════════════════════════════════════════════════
+//  SENTIMENT ENGINE
+// ════════════════════════════════════════════════════════════
+function analyzeSentiment(text) {
+  const t = text.toLowerCase();
+  let posScore = 0, negScore = 0;
+
+  SENTIMENT.positive.forEach(kw => { if (t.includes(kw)) posScore++; });
+  SENTIMENT.negative.forEach(kw => { if (t.includes(kw)) negScore++; });
+
+  if (posScore === 0 && negScore === 0) return 'neutral';
+  if (posScore > negScore) return 'positive';
+  if (negScore > posScore) return 'negative';
+  return 'neutral';
+}
+
+const SENTIMENT_META = {
+  positive: { emoji: '🟢', label: '正面',  class: 'positive' },
+  negative: { emoji: '🔴', label: '負面',  class: 'negative' },
+  neutral:  { emoji: '🟡', label: '中性',  class: 'neutral'  }
+};
+
+// ════════════════════════════════════════════════════════════
+//  RSS FETCH
+// ════════════════════════════════════════════════════════════
+async function fetchRSS(keyword) {
+  const googleRSSUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(keyword)}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant`;
+  const apiUrl = `${RSS2JSON_API}?rss_url=${encodeURIComponent(googleRSSUrl)}&api_key=PUBLIC&count=10`;
+
+  try {
+    const res = await fetch(apiUrl);
+    if (!res.ok) throw new Error('API error');
+    const data = await res.json();
+    if (data.status !== 'ok') throw new Error('RSS parse error');
+
+    return (data.items || []).map(item => ({
+      title:   item.title   || '',
+      snippet: item.description ? item.description.replace(/<[^>]+>/g, '') : '',
+      source:  item.author  || item.feed?.title || 'Google News',
+      date:    item.pubDate || new Date().toISOString(),
+      link:    item.link    || '#',
+      sentiment: null // will be computed
+    }));
+  } catch (e) {
+    console.warn(`RSS fetch failed for "${keyword}":`, e.message);
+    return [];
+  }
+}
+
+// ════════════════════════════════════════════════════════════
+//  MAIN FETCH CONTROLLER
+// ════════════════════════════════════════════════════════════
+async function fetchNews() {
+  const grid = document.getElementById('newsGrid');
+  grid.innerHTML = `<div class="loading-area"><div class="spinner"></div><div>正在從 Google News 抓取最新報導…</div></div>`;
+
+  updateStats(null);
+
+  let results = [];
+
+  // 嘗試同時抓取三個關鍵字
+  const fetches = await Promise.allSettled(KEYWORDS.map(kw => fetchRSS(kw)));
+  fetches.forEach(f => {
+    if (f.status === 'fulfilled') results.push(...f.value);
+  });
+
+  // 去重（依 title）
+  const seen = new Set();
+  results = results.filter(n => {
+    const key = n.title.trim().slice(0, 40);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  // 若 RSS 全部失敗，改用模擬資料
+  if (results.length === 0) {
+    results = MOCK_NEWS;
+    showToast('⚠️ RSS 暫時無法存取，已載入模擬示範資料');
+  } else {
+    showToast(`✅ 成功抓取 ${results.length} 則新聞`);
+  }
+
+  // 情緒分析
+  results.forEach(n => {
+    n.sentiment = n.sentiment || analyzeSentiment(n.title + ' ' + n.snippet);
+  });
+
+  // 依時間排序
+  results.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  allNews = results;
+  document.getElementById('lastUpdate').textContent = '更新：' + new Date().toLocaleTimeString('zh-TW');
+
+  renderNews();
+  updateStats(results);
+}
+
+// ════════════════════════════════════════════════════════════
+//  RENDER
+// ════════════════════════════════════════════════════════════
+function renderNews() {
+  const grid = document.getElementById('newsGrid');
+  const list = currentFilter === 'all' ? allNews : allNews.filter(n => n.sentiment === currentFilter);
+
+  if (list.length === 0) {
+    grid.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><div>此篩選條件下沒有新聞</div></div>`;
+    return;
+  }
+
+  grid.innerHTML = list.map((n, i) => {
+    const sm = SENTIMENT_META[n.sentiment];
+    const d  = new Date(n.date);
+    const dateStr = isNaN(d) ? n.date : d.toLocaleString('zh-TW', { month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' });
+    const snippet = (n.snippet || '').slice(0, 180);
+
+    return `
+      <div class="news-card ${sm.class}" data-sentiment="${n.sentiment}" data-index="${i}">
+        <div class="sentiment-badge">${sm.emoji}</div>
+        <div class="news-content">
+          <div class="news-meta">
+            <span class="news-source">${escHtml(n.source)}</span>
+            <span class="news-date">${dateStr}</span>
+            <span class="sentiment-label">${sm.label}</span>
+          </div>
+          <div class="news-title">
+            <a href="${escHtml(n.link)}" target="_blank" rel="noopener">${escHtml(n.title)}</a>
+          </div>
+          ${snippet ? `<div class="news-snippet">${escHtml(snippet)}</div>` : ''}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function updateStats(news) {
+  if (!news) {
+    ['statTotal','statPos','statNeg','statNeu'].forEach(id => {
+      document.getElementById(id).textContent = '—';
+    });
+    return;
+  }
+  document.getElementById('statTotal').textContent = news.length;
+  document.getElementById('statPos').textContent   = news.filter(n => n.sentiment === 'positive').length;
+  document.getElementById('statNeg').textContent   = news.filter(n => n.sentiment === 'negative').length;
+  document.getElementById('statNeu').textContent   = news.filter(n => n.sentiment === 'neutral').length;
+}
+
+// ════════════════════════════════════════════════════════════
+//  FILTER
+// ════════════════════════════════════════════════════════════
+function filterNews(filter, btn) {
+  currentFilter = filter;
+  document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  renderNews();
+}
+
+// ════════════════════════════════════════════════════════════
+//  AI SUMMARY
+// ════════════════════════════════════════════════════════════
+async function generateAISummary() {
+  const contentEl = document.getElementById('aiSummaryContent');
+  const apiKey = document.getElementById('apiKeyInput').value.trim();
+
+  if (allNews.length === 0) {
+    showToast('⚠️ 請先載入新聞再產生摘要');
+    return;
+  }
+
+  const btn1 = document.getElementById('aiBtn');
+  const btn2 = document.getElementById('aiBtn2');
+  btn1.disabled = true;
+  btn2.disabled = true;
+
+  // 取前 5 篇重要新聞
+  const top5 = allNews.slice(0, 5);
+
+  if (!apiKey) {
+    // ── 模擬模式 ──
+    contentEl.innerHTML = '<span class="typing"></span>';
+    await sleep(600);
+
+    const posCount = allNews.filter(n => n.sentiment === 'positive').length;
+    const negCount = allNews.filter(n => n.sentiment === 'negative').length;
+    const totalCount = allNews.length;
+    const mood = posCount > negCount ? '偏正面' : negCount > posCount ? '偏負面' : '中性';
+
+    const summaryLines = top5.map((n, i) =>
+      `${i+1}. 【${SENTIMENT_META[n.sentiment].emoji} ${SENTIMENT_META[n.sentiment].label}】${n.title}`
+    ).join('\n');
+
+    const mockResult =
+`📊 今日新聞摘要（共 ${totalCount} 則，模擬模式示範）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Top 5 重要新聞：
+${summaryLines}
+
+📈 情緒概覽：
+正面 ${posCount} 則 ｜ 負面 ${negCount} 則 ｜ 整體氛圍${mood}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💬 公關口徑建議：
+
+▸ 對媒體詢問：
+  「創見持續聚焦技術創新與產品品質，今日市場關注點已納入管理層視野，公司將依既定策略穩健推進。」
+
+▸ 對投資人詢問：
+  「公司基本面穩健，任何市場波動均在正常範圍，建議關注近期財報與法說會說明，管理層對中長期布局充滿信心。」
+
+▸ 對負面報導因應：
+  「針對外界關切，公司已啟動內部評估機制，將在第一時間提供透明說明，維護所有利害關係人權益。」
+
+─────────────────────────────────
+⚠️ 此為模擬示範。填入 Anthropic API Key 後可啟用真正的 Claude AI 分析。`;
+
+    await typewriter(contentEl, mockResult, 12);
+  } else {
+    // ── 真實 Claude API 模式 ──
+    const prompt = buildPrompt(top5);
+    contentEl.innerHTML = '<span class="typing"></span>';
+
+    try {
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'x-api-key': apiKey,
+          'anthropic-version': '2023-06-01',
+          'content-type': 'application/json',
+          'anthropic-dangerous-direct-browser-access': 'true'
+        },
+        body: JSON.stringify({
+          model: 'claude-opus-4-6',
+          max_tokens: 1200,
+          messages: [{ role: 'user', content: prompt }]
+        })
+      });
+
+      if (!response.ok) {
+        const err = await response.json();
+        throw new Error(err.error?.message || response.statusText);
+      }
+
+      const data = await response.json();
+      const text = data.content?.[0]?.text || '（回應為空）';
+      await typewriter(contentEl, text, 8);
+      showToast('✅ Claude AI 摘要產生完成');
+    } catch (e) {
+      contentEl.textContent = `❌ API 錯誤：${e.message}`;
+      showToast('❌ API 呼叫失敗，請確認 Key 是否正確');
+    }
+  }
+
+  btn1.disabled = false;
+  btn2.disabled = false;
+}
+
+function buildPrompt(news) {
+  const items = news.map((n, i) =>
+    `${i+1}. [${SENTIMENT_META[n.sentiment].label}] ${n.title}\n   摘要：${(n.snippet||'').slice(0,150)}`
+  ).join('\n\n');
+
+  return `你是創見資訊（股票代號 2451）的公關顧問，請根據以下今日重要新聞，完成以下任務：
+
+## 今日新聞（Top 5）：
+${items}
+
+## 請提供：
+1. **今日新聞一句話總結**（繁體中文，20字內）
+2. **情緒評估**：整體對公司品牌的影響（正面/負面/中性），說明原因
+3. **公關口徑建議**：
+   - 對媒體詢問的標準回覆（1-2句）
+   - 對投資人詢問的標準回覆（1-2句）
+   - 如有負面新聞，提供危機應對建議
+4. **行動建議**：今日公關團隊應優先處理的 2-3 件事
+
+請用繁體中文回覆，語氣專業且具體。`;
+}
+
+// ════════════════════════════════════════════════════════════
+//  UTILITIES
+// ════════════════════════════════════════════════════════════
+function typewriter(el, text, speed = 12) {
+  return new Promise(resolve => {
+    el.textContent = '';
+    let i = 0;
+    const timer = setInterval(() => {
+      if (i >= text.length) {
+        clearInterval(timer);
+        resolve();
+        return;
+      }
+      el.textContent += text[i++];
+    }, speed);
+  });
+}
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
+}
+
+let toastTimer;
+function showToast(msg) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove('show'), 3500);
+}
+
+// ════════════════════════════════════════════════════════════
+//  AUTO-LOAD on page open
+// ════════════════════════════════════════════════════════════
+window.addEventListener('DOMContentLoaded', () => {
+  // 自動抓一次
+  fetchNews();
+});
+</script>
+</body>
+</html>

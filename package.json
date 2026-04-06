@@ -1,0 +1,9 @@
+{
+  "name": "transcend-news-monitor",
+  "version": "2.0.0",
+  "private": true,
+  "description": "創見資訊新聞監控系統",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}

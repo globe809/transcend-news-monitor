@@ -1,24 +1,24 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-07T00:56:17.153Z",
-  "generatedAtTW": "2026-04-07 08:56 台灣時間",
+  "generatedAt": "2026-04-07T05:59:57.756Z",
+  "generatedAtTW": "2026-04-07 13:59 台灣時間",
   "stats": {
-    "total": 5,
+    "total": 7,
     "positive": 2,
     "negative": 0,
-    "neutral": 3,
+    "neutral": 5,
     "byCategory": {
       "創見資訊": {
-        "total": 3,
+        "total": 4,
         "positive": 0,
         "negative": 0,
-        "neutral": 3
+        "neutral": 4
       },
       "上游供應商": {
-        "total": 1,
+        "total": 2,
         "positive": 1,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
         "total": 1,
@@ -32,31 +32,48 @@
         "date": "2026-04-06",
         "positive": 2,
         "negative": 0,
-        "neutral": 3,
-        "total": 5
+        "neutral": 4,
+        "total": 6
+      },
+      {
+        "date": "2026-04-07",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
       }
     ]
   },
   "news": [
     {
       "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XSHQ2bTRCNFRFd1RqUy1hX3Y2N0ZsTVhVcTVvZ2pVdWNZeHZDTHI4U2Y5SHZFTjBwTXViUEYxOUpZMmFmNmVzbzhjd2hvM3c5MlHSAW5BVV95cUxOVHZuWVFJZld5dGZEYWFDeEJNQjVLOWtiTWs0VkZoVUlaenBzdUszMmIzUklRNV9ScXVzRFA3UV9vaG1BcmZYRVFqaDNWVG1lNnY0WkZrT0N2aUJLd0RreDNXLTE5eGkzQnVvTjlzQQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XSHQ2bTRCNFRFd1RqUy1hX3Y2N0ZsTVhVcTVvZ2pVdWNZeHZDTHI4U2Y5SHZFTjBwTXViUEYxOUpZMmFmNmVzbzhjd2hvM3c5MlHSAW5BVV95cUxOVHZuWVFJZld5dGZEYWFDeEJNQjVLOWtiTWs0VkZoVUlaenBzdUszMmIzUklRNV9ScXVzRFA3U",
+      "fetchedAt": "2026-04-07T05:59:57.756Z",
+      "source": "finance.ettoday.net",
+      "category": "上游供應商",
+      "title": "三星第2季DRAM報價漲3成！記憶體利多續噴　4檔高掛漲停 - finance.ettoday.net",
+      "pubDate": "Tue, 07 Apr 2026 02:31:00 GMT"
+    },
+    {
+      "category": "創見資訊",
+      "fetchedAt": "2026-04-07T05:59:57.756Z",
+      "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkhCOGYxQ2xTUWpJcGZPLUptMEpHdXhYQk5GeUJObThTc1pOcEhRak9hQVJNcUdaTjNvWmQxRE9XVGstUGdFR2dzUTJFVEt4aWp0b0lYWlppN3UxbHpDMk42Wk5ocWYwdE5PRGMycWZqN0RVRDFMWDBBZVROVENLRzdJYmc5WGlT?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkhCOGYxQ2xTUWpJcGZPLUptMEpHdXhYQk5GeUJObThTc1pOcEhRak9hQVJNcUdaTjNvWmQxRE9XVGstUGdFR2dzUTJFVEt4aWp0b0lYWlppN3UxbHpDMk42Wk5ocWYwdE5PRGMycWZqN0RVRDFMWDBBZVROVENLRzdJYmc5WGlT?oc=5\" target",
-      "fetchedAt": "2026-04-07T00:56:17.153Z",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "《台北股市》處置股：07日計29檔 映泰、創見、營邦、統新準備出關 - 富聯網",
+      "source": "ww2.money-link.com.tw",
+      "title": "《台北股市》處置股：07日計29檔 映泰、創見、營邦、統新準備出關 - ww2.money-link.com.tw",
       "pubDate": "Mon, 06 Apr 2026 23:52:00 GMT"
     },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZXpMQXhwN3k3bG9YRGlhQXhkZ29UaDlRRGtvX3RmdHNySXhzeGNSbGEtWjk0OXhnaGIxd2tJUk1WcUNsOGJ2bG1qNXU0cWNiZXZKaGdUVFVUb2s?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZXpMQXhwN3k3bG9YRGlhQXhkZ29UaDlRRGtvX3RmdHNySXhzeGNSbGEtWjk0OXhnaGIxd2tJUk1WcUNsOGJ2bG1qNXU0cWNiZXZKaGdUVFVUb2s?oc=5\" target=\"_blank\"&gt;不走記憶體模組廠威剛、創見老路 宜鼎如何靠工控與 AI 躋身千金股？ | 科技產業 | 產業&l",
-      "fetchedAt": "2026-04-07T00:56:17.153Z",
       "source": "經濟日報",
       "category": "創見資訊",
       "title": "不走記憶體模組廠威剛、創見老路 宜鼎如何靠工控與 AI 躋身千金股？ | 科技產業 | 產業 - 經濟日報",
-      "pubDate": "Mon, 06 Apr 2026 14:48:38 GMT"
+      "pubDate": "Mon, 06 Apr 2026 14:48:38 GMT",
+      "fetchedAt": "2026-04-07T05:59:57.756Z"
     },
     {
       "sentiment": "positive",
@@ -66,7 +83,17 @@
       "category": "競品",
       "title": "宜鼎3月營收月增35.8% - TechNews 科技新報",
       "pubDate": "Mon, 06 Apr 2026 10:38:06 GMT",
-      "fetchedAt": "2026-04-07T00:56:17.153Z"
+      "fetchedAt": "2026-04-07T05:59:57.756Z"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBILVgzV2dHdHRodURxdE9tcG9EOUFFMkNKV21ENExwdkZPeDBDaXN6eHZjdF9pZExvdW56akFzclBrLUN0QWkwbGR0V3NtU3hrd3JLcFpuNFg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBILVgzV2dHdHRodURxdE9tcG9EOUFFMkNKV21ENExwdkZPeDBDaXN6eHZjdF9pZExvdW56akFzclBrLUN0QWkwbGR0V3NtU3hrd3JLcFpuNFg?oc=5\" target=\"_blank\"&gt;2451 創見 - 5MA要站穩- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&amp;nb",
+      "fetchedAt": "2026-04-07T05:59:57.756Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 5MA要站穩- 股市爆料同學會 - CMoney",
+      "pubDate": "Mon, 06 Apr 2026 09:36:29 GMT"
     },
     {
       "sentiment": "neutral",

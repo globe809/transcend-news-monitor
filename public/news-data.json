@@ -1,23 +1,23 @@
 {
-  "fetchedAt": "2026-04-08T06:06:25.829Z",
-  "fetchedAtTW": "2026-04-08 14:06 台灣時間",
+  "fetchedAt": "2026-04-08T16:27:46.059Z",
+  "fetchedAtTW": "2026-04-09 00:27 台灣時間",
   "stats": {
-    "total": 21,
-    "positive": 15,
+    "total": 18,
+    "positive": 17,
     "negative": 0,
-    "neutral": 6,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 16,
-        "positive": 12,
+        "total": 15,
+        "positive": 14,
         "negative": 0,
-        "neutral": 4
+        "neutral": 1
       },
       "上游供應商": {
-        "total": 5,
+        "total": 3,
         "positive": 3,
         "negative": 0,
-        "neutral": 2
+        "neutral": 0
       },
       "競品": {
         "total": 0,
@@ -31,19 +31,59 @@
         "date": "2026-04-07",
         "positive": 1,
         "negative": 0,
-        "neutral": 5,
-        "total": 6
+        "neutral": 1,
+        "total": 2
       },
       {
         "date": "2026-04-08",
-        "positive": 14,
+        "positive": 16,
         "negative": 0,
-        "neutral": 1,
-        "total": 15
+        "neutral": 0,
+        "total": 16
       }
     ]
   },
   "news": [
+    {
+      "title": "【即時新聞】創見最新營收公布，第一季達136.3億元創新高，達成去年全年近八成 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGNaajU5Ti1PcGNLWDJuT0RqWE9VUUlqX0IyVW05dUJCY1ZjWl9ZaVRmTVI4Y3duY3Q3ZzRiYTlHMHhuU28tNUxJRUF6QVVJM3M1dFJIaUIwc2FodzF2ZS15TWE1aTlQb0JrWllBbG0xSEhJdlFPa1FRZzFtSkE2c1RWQ2dvQlRudTFqRUpBczM?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:56:33 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGNaajU5Ti1PcGNLWDJuT0RqWE9VUUlqX0IyVW05dUJCY1ZjWl9ZaVRmTVI4Y3duY3Q3ZzRiYTlHMHhuU28tNUxJRUF6QVVJM3M1dFJIaUIwc2FodzF2ZS15TWE1aTlQb0JrWllBbG0xSEhJdlFPa1FRZzFtSkE2c1RWQ2dvQlRudTFqRUpBczM?o",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
+    },
+    {
+      "title": "【即時新聞】創見3月營收達56.8億元，首季累計136.3億元創歷史新高 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHJKTjhmWHIxLS1TNXlCWmE5U1BzVlhwMHItMk9hZW5Vcm5oMnZ6b0NBQ2dpak4wS1JDTEd6YVdfcUhKLU9YbnliejFUeGdPM0RZUTk5TU1leDE3NkxKMlZpd0p1dk5mN0wxa3BybDBCSUtSWTE5cUsyNGhBWEh1SlRYMHFGVFhLa2N0V0pnY3Y?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:55:42 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHJKTjhmWHIxLS1TNXlCWmE5U1BzVlhwMHItMk9hZW5Vcm5oMnZ6b0NBQ2dpak4wS1JDTEd6YVdfcUhKLU9YbnliejFUeGdPM0RZUTk5TU1leDE3NkxKMlZpd0p1dk5mN0wxa3BybDBCSUtSWTE5cUsyNGhBWEh1SlRYMHFGVFhLa2N0V0pnY3Y?o",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
+    },
+    {
+      "title": "記憶體需求暢旺，創見3月/Q1營收同創歷史新高 - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUt2Y3RlNWdMd1phZWZKcGEwMDlVYUg5d1dlWmczbUxwOXRoaUNsUmdyMWIxdUZiYndLRTdpM2dKcnNSNWc3cFVUeDd4SDlhU1lxZ2g0ZkxwVG9Kd3lISnl4X1V1TjEwb3dZaFF0bEVvYWpaVTByaW9rSmpNaFZvX2NDa2FlbjZHN0d5UHRXRXVMZw?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 06:31:06 GMT",
+      "source": "台視全球資訊網",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUt2Y3RlNWdMd1phZWZKcGEwMDlVYUg5d1dlWmczbUxwOXRoaUNsUmdyMWIxdUZiYndLRTdpM2dKcnNSNWc3cFVUeDd4SDlhU1lxZ2g0ZkxwVG9Kd3lISnl4X1V1TjEwb3dZaFF0bEVvYWpaVTByaW9rSmpNaFZvX2NDa2FlbjZHN0d5UHRXRXVMZ",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
+    },
+    {
+      "title": "記憶體需求居高不下　創見3月營收達56.8億元、單季營收136.3億元創紀錄 - 鏡週刊Mirror Media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSTltUmFiUlBnUTFLUVZLNnhQYVZWdVVvRElMQnhrdi1Yci0tam9aLVZnY0daRndQRndHcDRSMmpDVWsxM3JBS2ZhbzVfaUdySmhZVFhQMnZJbHlfai1XekxYeng3bU1v0gFoQVVfeXFMUFRJOW1SYWJSUGdRMUtRVks2eFBhVlZ1VW9ESUxCeGt2LVhyLS1qb1otVmdjR1pGd1BGd0dwNFIyakNVazEzckFLZmFvNV9pR3JKaFlUWFAydklseV9qLVd6TFh6eDdtTW8?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 05:57:00 GMT",
+      "source": "鏡週刊Mirror Media",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSTltUmFiUlBnUTFLUVZLNnhQYVZWdVVvRElMQnhrdi1Yci0tam9aLVZnY0daRndQRndHcDRSMmpDVWsxM3JBS2ZhbzVfaUdySmhZVFhQMnZJbHlfai1XekxYeng3bU1v0gFoQVVfeXFMUFRJOW1SYWJSUGdRMUtRVks2eFBhVlZ1VW9ESUxCeGt2L",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
+    },
     {
       "title": "創見3月/Q1營收齊創高；午後法說會揭展望 - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTEpMYnktMEd4a1E2dFpRUXFoUlBBcmFrU1kwN1dMQWg5YnU4ZVFxRU9UYjVDUHkxUS1IS015LXlUNDY0czNpU0RhZUJhaXh5NTRzSFA4M0szWjZaVzlGdWdiRk1RRTdjT2pBaHE4NmFWVzhjT3JXN2xONFEyXzl3VDd4Zm5CaUlDek9QbnBYSlJ2QQ?oc=5",
@@ -52,27 +92,17 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTEpMYnktMEd4a1E2dFpRUXFoUlBBcmFrU1kwN1dMQWg5YnU4ZVFxRU9UYjVDUHkxUS1IS015LXlUNDY0czNpU0RhZUJhaXh5NTRzSFA4M0szWjZaVzlGdWdiRk1RRTdjT2pBaHE4NmFWVzhjT3JXN2xONFEyXzl3VDd4Zm5CaUlDek9QbnBYSlJ2Q",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
-      "title": "創見營收／今年首季創歷史新高| 上市電子| 股市 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YQ05hd0w2MlFmcDlwTjdUTFo4eFVYSnNrREFIT0VCRG1HN09SWGtHWG9sdFdaZlhEckY5SElVUFRRbVNrVVB5N0JjeVRybzFnU21Qd0dndDJlSkh0SVhoNF9XRHhVWTNPX1hBSkhLalBFZw?oc=5",
-      "pubDate": "Wed, 08 Apr 2026 04:01:23 GMT",
-      "source": "聯合新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5YQ05hd0w2MlFmcDlwTjdUTFo4eFVYSnNrREFIT0VCRG1HN09SWGtHWG9sdFdaZlhEckY5SElVUFRRbVNrVVB5N0JjeVRybzFnU21Qd0dndDJlSkh0SVhoNF9XRHhVWTNPX1hBSkhLalBFZw?oc=5\" target=\"_blank\"&gt;創見營收／今年首季創歷史新高| 上",
+      "title": "創見營收／今年首季創歷史新高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGdpUnN2dUhuU3UxQl9JQjZkTksxUWRUM3JZcGxnTHk5dFVBc2J4eFk2UExfbmN1QzI5eFdob0U5cE9iSTFpY3JBc0pFRVRSRWtUaGgtWkFIVkNYWUk3dVJwRGRNckdsNE9UVG1pUmZNa2Q3aDN2LXJtdHlkUHNBVlZVTEpoSU9rTmkyOUNMM2HSAV9BVV95cUxOdVplQ1oxblRwY240WkxLSl9hdE9lQ0YzblgxMHBRdDFWX1MycFhJbWctQjRJLUk4X1ZnMWFvel9FZndfeXBFSWo1Z0otd2d1Z0FfcnRyX3U3NURwYjU3cw?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 04:01:25 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGdpUnN2dUhuU3UxQl9JQjZkTksxUWRUM3JZcGxnTHk5dFVBc2J4eFk2UExfbmN1QzI5eFdob0U5cE9iSTFpY3JBc0pFRVRSRWtUaGgtWkFIVkNYWUk3dVJwRGRNckdsNE9UVG1pUmZNa2Q3aDN2LXJtdHlkUHNBVlZVTEpoSU9rTmkyOUNMM2HSA",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "創見營收／今年首季創歷史新高 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SSEY0Y1ZnQkdUX2RJa2tCaXZUUVpTUi0zandKbW56WktpQmVvTGpjYjlqVlVlQURIRUdwQ2FjVUUteFFTaEdYb0RBRDM3SU1xb0M1a2dB0gFWQVVfeXFMTVJIRjRjVmdCR1RfZElra0JpdlRRWlNSLTNqd0ptbnpaS2lCZW9MamNiOWpWVWVBREhFR3BDYWNVRS14UVNoR1hvREFEMzdJTXFvQzVrZ0E?oc=5",
-      "pubDate": "Wed, 08 Apr 2026 04:01:23 GMT",
-      "source": "聯合新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SSEY0Y1ZnQkdUX2RJa2tCaXZUUVpTUi0zandKbW56WktpQmVvTGpjYjlqVlVlQURIRUdwQ2FjVUUteFFTaEdYb0RBRDM3SU1xb0M1a2dB0gFWQVVfeXFMTVJIRjRjVmdCR1RfZElra0JpdlRRWlNSLTNqd0ptbnpaS2lCZW9MamNiOWpWVWVBREhFR",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "創見3月及首季合併營收同寫歷史新高單季達136.3億元- 股市爆料同學會 - CMoney",
@@ -82,7 +112,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE01NU9vZldjWDhrWk1UQzc3YVBRT1hJOGdzZVJpWV94akFKTW82TjNjaVhUbTh2Y3R2WDB5Z3p5amZqM1Ywa1ZKa1hRUE80VUNmc2MxTEtXbUY?oc=5\" target=\"_blank\"&gt;創見3月及首季合併營收同寫歷史新高單季達136.3億元- 股市爆料同學會&lt;/a&gt;&amp;n",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "三星記憶體營收1Q26全球稱王 DRAM、NAND雙創新高 - DIGITIMES",
@@ -92,17 +122,17 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY21MT0lEN1lyU0lIV0FHNzl1Y0pHZFdYa1Z6R2FWaml3ajJsUzQ1UjJqb0lSb1dyd2ZCd2xKVWZTREtyRjlaZGt5NVhZWFRRSElKY1d6cHlPazZ3M1BRMWkwNTNiOVo4Mkg1RUhxZ0k0WGJOb2p6VnpvbnFtSnJOQ2ZpUlhYeG9VcklVd3V3?oc=5",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "擬上市來首配息NAND Flash廠鎧俠飆16%、創史高- 新聞 - MoneyDJ理財網",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcTBIMFZxU1RnQUxjZkFkbGNGczEzbm1jTXZGQmNSY0xwVTR3ZDF2Zld4aVF1WWNnWUpzczI1MnF5YjFUMEFfQ3Z2WHI2UEYwNm9lNHBVV0E3WkNhVTItOFRHMS16c25EdXNWRVljQmgwV0RBWXYyYg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOTVNdnJYSTVCTk1Ocm4tRnNUdmplOFlsMlA1UEpFcFdQYjhfVkdUWW9TR0J5b1hQLWE4T0NrUlN1LWZGV0FNYm5XRDVnVjJ4TUUzc25wV1FnOFFnLWM0NW1meFQzb1E3Y1llOW5HWTVRQ1o0WGhKZnl2aW1vRWRaWDVtYnQyZnpVakE4clBrYjI1dw?oc=5",
       "pubDate": "Wed, 08 Apr 2026 02:25:00 GMT",
       "source": "MoneyDJ理財網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcTBIMFZxU1RnQUxjZkFkbGNGczEzbm1jTXZGQmNSY0xwVTR3ZDF2Zld4aVF1WWNnWUpzczI1MnF5YjFUMEFfQ3Z2WHI2UEYwNm9lNHBVV0E3WkNhVTItOFRHMS16c25EdXNWRVljQmgwV0RBWXYyYg?oc=5\" target=\"_blank\"&gt;擬上市來首配息NA",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNOTVNdnJYSTVCTk1Ocm4tRnNUdmplOFlsMlA1UEpFcFdQYjhfVkdUWW9TR0J5b1hQLWE4T0NrUlN1LWZGV0FNYm5XRDVnVjJ4TUUzc25wV1FnOFFnLWM0NW1meFQzb1E3Y1llOW5HWTVRQ1o0WGhKZnl2aW1vRWRaWDVtYnQyZnpVakE4clBrYjI1d",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "創見3月及首季合併營收同寫歷史新高 單季達136.3億元 - 聯合新聞網",
@@ -112,17 +142,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1vUl9wYTEweGItbVF2U3V4X3dtUlZONnhlT3lLRUVzal9aZ3hmR2Q2T1BmeFdMdzNPbXJFR1ZkaDN6Q1dLbXIyakwwTWdQTURXQzRPZkM3bjJBV1dlandGM1k3SENRWU1LZVVCLVJmWjNEbEIx0gFWQVVfeXFMTjZzVWk1S0JNUkFkcGpodUZCTzl6U",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "記憶體需求持續大噴發！這檔「模組大廠」首季營收衝破136億元 年增狂飆近360% - ftnn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Wd2ZSaWVpVzIzRWJLN2hjSTBhWTFCR243Vl8xZ3VscHpJdC1wNHZvSU9nNnhLWVdwRnNrQUxGV0J6Mnl3Q2k2TlRYRQ?oc=5",
-      "pubDate": "Wed, 08 Apr 2026 02:04:00 GMT",
-      "source": "ftnn.com.tw",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Wd2ZSaWVpVzIzRWJLN2hjSTBhWTFCR243Vl8xZ3VscHpJdC1wNHZvSU9nNnhLWVdwRnNrQUxGV0J6Mnl3Q2k2TlRYRQ?oc=5\" target=\"_blank\"&gt;記憶體需求持續大噴發！這檔「模組大廠」首季營收衝破136億元 年增狂飆近360%&lt;/a&gt;&amp;nbsp;&amp;nbsp",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "創見營收／第一季達136億元創新高 一季達成去年全年近八成 - 聯合新聞網",
@@ -132,7 +152,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5USFN6emM3QldmcURvV3dpT0lRQUtjSG1BOHM2c2tlM1NTbl8tZ0gyYklNbGxwZ1pTMXpZaWYtaDZfWWNVVERPMzNGMmlLc1pFWDk5SjZmckFxMnVzbjE4NlhPdXVMTnlpZ0Fpb0xHclVlUdIBVkFVX3lxTE9uYUtRWmxQMUJSWHhEUHEyeHIzclViZ",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "創見營收／3月 56.8億 首季營收136.3億、創歷史新高 - 聯合新聞網",
@@ -142,7 +162,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzhpb3FsVEtmUjhla09zOENBMURXX2thakxUeHhkNHU5bFRhRVVrSHBKRVU5NzlpTUdWRFVfVXJ0c0tNX0JCdU93RTZkbWtCMXpHLUlWbWVkSTltQmswVHo1TXV6cEtNMHd4LVlQbE5HMWZ1U0hPMGFJRjB2aFliVFhn0gFWQVVfeXFMTkFoc2dDR",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "創見3月營收月增78.6％ 第1季營收創新高 - 自由財經",
@@ -152,17 +172,17 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQTl5eG4yYU81cEVwV1ZsdWwwWTFEY0g2TkJzQjk5amxmR0dlT0E2R0t2ZDhkWlVFaTR3WGJfM0JfdE45a0ZUaUY1V3dDanJiUWwxSklrT1B4T2I2QmhJ0gFkQVVfeXFMTy1JZ3A2VVA4SHdzN2VLNUYxRmhib1Y2UTNVTFM0XzNnYmtZTTNlUEJJQ",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
-      "title": "【2026/03月營收公告】創見(2451) 三月營收56.84億元，表現亮眼、呈現雙成長，創歷史新高，年增380.57% - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2xZS0RpUjZSUms2aTNLMGhOWGF2cHVtVW5fa1k4YzVqaVF1OVpJLWFZVk8yY3dCTUVjUkV2alV6RS05amJ2U0x6Y0otbUhTdzFzeE9vQm0wV01mWHZuSU1pN1JIRUo4bnQ0UTBoQlBFN3dWX2JSOFR1MzR1NEdPTEJJUWp3QjdyQmc?oc=5",
-      "pubDate": "Wed, 08 Apr 2026 01:20:17 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxON2xZS0RpUjZSUms2aTNLMGhOWGF2cHVtVW5fa1k4YzVqaVF1OVpJLWFZVk8yY3dCTUVjUkV2alV6RS05amJ2U0x6Y0otbUhTdzFzeE9vQm0wV01mWHZuSU1pN1JIRUo4bnQ0UTBoQlBFN3dWX2JSOFR1MzR1NEdPTEJJUWp3QjdyQmc?oc=5\" tar",
+      "title": "【2026/03月營收公告】創見(2451) 三月營收56.84億元，表現亮眼、呈現雙成長，創歷史新高，年增380.57% - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQkdTVU1ScWpRNmZSQWFVTmozMmRFRHlCUWhnM3RXUlJ4aUllV2tNVHdsTWpMbGZtcE9sT08xdG5jZEFadk5VS2Nrb0RudnBHb29NeDhVQkFROUhDZWpQWmxrU0FTa1k?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 01:20:04 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQkdTVU1ScWpRNmZSQWFVTmozMmRFRHlCUWhnM3RXUlJ4aUllV2tNVHdsTWpMbGZtcE9sT08xdG5jZEFadk5VS2Nrb0RudnBHb29NeDhVQkFROUhDZWpQWmxrU0FTa1k?oc=5\" target=\"_blank\"&gt;【2026/03月營收公告】創見(2451) 三月營收56.84",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "【數報】營收特報：創見(2451)3月營收創歷史新高，年增率連續14個月成長超過10% - 富聯網",
@@ -172,7 +192,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORE1kQUNQYmg2aTA3aWlBZE1Wb2JTZUtxenQwSVZGTjEzZWVGNlhxZFdyOG9oLW5HcTFLdWM2NE9uNmJvSjQ2RFkyUEZQS0ZWS2Voc0l1dnE3SV9FR1lLMGNsOGEtZXVMZXBRUkdQMlR1bHB4ZnB6YVVPTmtWdU9DdHNRMmpSamRyT2ZyUWotQUk?o",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "營收：創見(2451)3月營收56億8381萬元創新高，月增率78.49%，年增率380.57% - 富聯網",
@@ -182,17 +202,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODVBZkYycjVVMjY0TjE5bjJZak9oSmZiZEpxRFpvR0Q2WU1UN0FuVG9ZOW1KNU9wNHZjNFhFY2xtb21hdE96aGUyOTZhQUM4XzBlODhXNmpraFVKbDJXNDhWekN4YmZkZDhiX29BREV6aVhIak9VOWV1M20tMmItYXViemxKTnA4?oc=5\" target",
       "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "從南亞科的私募案 看台系記憶體的全球戰略合圍｜專家論點【劉佩真】 - technice.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HUUhabG5MSk9lUTJPM04taDZ3QnpNUEstSGVGQnFxcFZveFJhSFBDTmtJUHdHZXJqRnZXODlVRURTbWt0YlVsLW1qdEdLUDMxU0VFcGx3?oc=5",
-      "pubDate": "Wed, 08 Apr 2026 00:30:33 GMT",
-      "source": "technice.com.tw",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HUUhabG5MSk9lUTJPM04taDZ3QnpNUEstSGVGQnFxcFZveFJhSFBDTmtJUHdHZXJqRnZXODlVRURTbWt0YlVsLW1qdEdLUDMxU0VFcGx3?oc=5\" target=\"_blank\"&gt;從南亞科的私募案 看台系記憶體的全球戰略合圍｜專家論點【劉佩真】&lt;/a&gt;&amp;nbsp;&am",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "三星MX事業部獲利恐腰斬 DRAM、NAND漲價侵蝕利潤 - DIGITIMES",
@@ -202,7 +212,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmpxQlAzLWlZaWM3Y3BsUDNCbFllYkhHTE5fYW85bG84X1pyeHAtS1VkcWNhODI0TnlKSGZ0STlSLXJFcDJJV0VYWlBQWWEtS29hYjZkRkd0cnV4OERUaWpHcHVzRG9sZWMtVy1qZm5RU2lYamx5OWd4YWI0OFhXM0wyY3JhOS0wZEVUY1pB?oc=5",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     },
     {
       "title": "2451 創見 - 資金都跑去光通了 感覺要整理一陣子 - 股市爆料同學會 - CMoney",
@@ -212,47 +222,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UcGR5TmNlSVd4NjUxS1FNZFI2dmxoOF9yc3ByQ096RFhZWEhQT2haZU5pbzd1WDAwNlYzNldjbHJvQWgzcWYxNFcyRmlrU1BFMG9zUDlYczU?oc=5\" target=\"_blank\"&gt;2451 創見 - 資金都跑去光通了 感覺要整理一陣子 - 股市爆料同學會&lt;/a&gt;&amp;",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "Transcend任命Elizabeth Jackson為行銷長 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TSUFvSWVtY0lPOVlVT0ZsYXFvZ3djWWJjR2RGN2dqRUFtY094SFBQbVJoYkxuekY0SjhYS1M1SlFXWmhlYy1FZDZSSkNQdGZWNHJDTE40X3ljemtOYkhZX01idWJzR1VtTkxwREtvV0U?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 14:29:05 GMT",
-      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5TSUFvSWVtY0lPOVlVT0ZsYXFvZ3djWWJjR2RGN2dqRUFtY094SFBQbVJoYkxuekY0SjhYS1M1SlFXWmhlYy1FZDZSSkNQdGZWNHJDTE40X3ljemtOYkhZX01idWJzR1VtTkxwREtvV0U?oc=5\" target=\"_blank\"&gt;Transcend任命Elizabeth",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "2451 創見 - 創見預計2026/4/8 15:00 召開法人說明會- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BOC1rTUY3M0dwSDh3Y3hSNGl0cGRCRGVvRE1IWFNFRXFwQUwxek9uVkVROEhVMHEyX3FxSS1ORUZNNlNtcGtDeVdyOFhVRmdFSFpNZVdkVjY?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 12:27:26 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BOC1rTUY3M0dwSDh3Y3hSNGl0cGRCRGVvRE1IWFNFRXFwQUwxek9uVkVROEhVMHEyX3FxSS1ORUZNNlNtcGtDeVdyOFhVRmdFSFpNZVdkVjY?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見預計2026/4/8 15:00 召開法人說明會- 股市爆料同學會&lt;/a&",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "2451 創見 - 今法說會- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOUdsVDZzR3dNajlBbDJ5blhFUDhkamJQMGk2bURWMm9QOWtXSDg0SGF2aXZyTXZveXBUa2ZzcWNPQVBlNnM5Y3lTLUZmUU5zVS10SmlsT0g?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 11:55:09 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOUdsVDZzR3dNajlBbDJ5blhFUDhkamJQMGk2bURWMm9QOWtXSDg0SGF2aXZyTXZveXBUa2ZzcWNPQVBlNnM5Y3lTLUZmUU5zVS10SmlsT0g?oc=5\" target=\"_blank\"&gt;2451 創見 - 今法說會- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&amp;nbsp",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
-    },
-    {
-      "title": "記憶體價格狂飆！三星靠AI神助攻 單季賺贏去年一整年 - peoplenews.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVWtZT1Z6dVBlRUJ3X3phaVFiOWRKa1duRW5iTThuLUlfZVZ3MWQwUERlNEg1dzlRRHdSdFBIVURLd3I1c2FQSWxjQ0FWbExLeDh3Qy1aYVMxdXNVSXV5OGN1ZFQ?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:07:15 GMT",
-      "source": "peoplenews.tw",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVWtZT1Z6dVBlRUJ3X3phaVFiOWRKa1duRW5iTThuLUlfZVZ3MWQwUERlNEg1dzlRRHdSdFBIVURLd3I1c2FQSWxjQ0FWbExLeDh3Qy1aYVMxdXNVSXV5OGN1ZFQ?oc=5\" target=\"_blank\"&gt;記憶體價格狂飆！三星靠AI神助攻 單季賺贏去年一整年&lt;/a&gt;",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-08T06:06:25.829Z"
+      "fetchedAt": "2026-04-08T16:27:46.059Z"
     }
   ]
 }

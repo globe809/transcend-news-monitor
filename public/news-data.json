@@ -1,23 +1,23 @@
 {
-  "fetchedAt": "2026-04-10T06:19:36.715Z",
-  "fetchedAtTW": "2026-04-10 14:19 台灣時間",
+  "fetchedAt": "2026-04-11T05:19:32.008Z",
+  "fetchedAtTW": "2026-04-11 13:19 台灣時間",
   "stats": {
-    "total": 6,
+    "total": 3,
     "positive": 1,
     "negative": 0,
-    "neutral": 5,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "上游供應商": {
         "total": 3,
         "positive": 1,
         "negative": 0,
         "neutral": 2
-      },
-      "上游供應商": {
-        "total": 3,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 3
       },
       "競品": {
         "total": 0,
@@ -28,81 +28,44 @@
     },
     "trend": [
       {
-        "date": "2026-04-09",
+        "date": "2026-04-10",
         "positive": 1,
         "negative": 0,
-        "neutral": 3,
-        "total": 4
-      },
-      {
-        "date": "2026-04-10",
-        "positive": 0,
-        "negative": 0,
         "neutral": 2,
-        "total": 2
+        "total": 3
       }
     ]
   },
   "news": [
     {
+      "title": "Jefferies上調SanDisk目標價至1,000美元,看好NAND前景 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yN0Utem9USGhoZXoyMHhqY3R6ZlFGc2p3ZFBjM3hudHVqaTVCaWZGcE5ySFBqY1pFVTJEZTVWWVpIblRuMXF1cFFkU05zNW0xbWh5TmtJT1JUcjJZb2Q2T1JiSTZ5dGVhUDVaWjBVZTkySUNC?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 21:23:28 GMT",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8yN0Utem9USGhoZXoyMHhqY3R6ZlFGc2p3ZFBjM3hudHVqaTVCaWZGcE5ySFBqY1pFVTJEZTVWWVpIblRuMXF1cFFkU05zNW0xbWh5TmtJT1JUcjJZb2Q2T1JiSTZ5dGVhUDVaWjBVZTkySUNC?oc=5\" target=\"_blank\"&gt;Jefferies上調SanD",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-11T05:19:32.008Z"
+    },
+    {
+      "title": "全球NAND五哥被低估 爆再飆300％！台廠華邦電、旺宏、群聯誰能搶下漲價王？ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YYi1hRC1IYklDYUFLZGRSSnQ0aVNuZThYdGZ3eXRzdnlXTkNvMUJQazBmZzFmNmlDOERFR1hCUTRhSGlqZExnN19fY0hQUXVRR0FjT2l6MGZxdEdrTkxqOElaMHMyX21NWk1PekVR?oc=5",
+      "pubDate": "Fri, 10 Apr 2026 08:21:19 GMT",
+      "source": "中時新聞網",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9YYi1hRC1IYklDYUFLZGRSSnQ0aVNuZThYdGZ3eXRzdnlXTkNvMUJQazBmZzFmNmlDOERFR1hCUTRhSGlqZExnN19fY0hQUXVRR0FjT2l6MGZxdEdrTkxqOElaMHMyX21NWk1PekVR?oc=5\" target=\"_blank\"&gt;全球NAND五哥被低估 爆再飆300％！台廠華",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-11T05:19:32.008Z"
+    },
+    {
       "title": "NAND報價年終恐噴漲200%！Sandisk狂飆點火台股「記憶體3大咖」亮燈狂歡 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPSmphTXc4cExHbjJESWYtQjZaZG5XVzM5b01ndnZSTVlhM2lLbzYzMjN0OTM5TlhrQVd0Y0k5LXNTUURlcUV6YlJJOEdHVThlLVh2STFxVVdidm9PeDFzMDYxd01fUzFpblFGWVdLUldUMGhpQjZpRG15VnlkbW9iYkNFUnBzMEtBNXluRUFZaTdWRjlwMW9nNDVDOFBYTG9GM1Z5MEVqTUlqbzI2Zk9uZll1Q2VXcUc5YlBObU0xY3h0bUk1RlRaNjlicDFGY1VzeVA5dXZseXZvMnVNYlg3ZzFPeVlsSjdfbGxwR1ZsZ295QkhpZEMyMVBlRjRHMGViekhtUVZSRl83Um1XbW5TUG8yM19rSm85SGg2QnF6SFJkNDdYTDUxdkdCVThJclNHSzJwTEE4ZHg1TnRQaUZ1bDBMQ05qOHd2LWJxMS1ZWHVLNEh6VFJuRFBzRnB3S2hyZXd0a3c1S1I2TnBhR2c1d1NncjNhR0UyYW5n?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 04:35:33 GMT",
+      "pubDate": "Fri, 10 Apr 2026 06:45:14 GMT",
       "source": "Yahoo股市",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxPSmphTXc4cExHbjJESWYtQjZaZG5XVzM5b01ndnZSTVlhM2lLbzYzMjN0OTM5TlhrQVd0Y0k5LXNTUURlcUV6YlJJOEdHVThlLVh2STFxVVdidm9PeDFzMDYxd01fUzFpblFGWVdLUldUMGhpQjZpRG15VnlkbW9iYkNFUnBzMEtBNXluRUFZaTdWR",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
-    },
-    {
-      "title": "DRAM 漲勢恐見頂？三星、SK 海力士轉向長期合約鎖價 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RTkZITUZza2NuSDNRZkp5SkJnYmphODlFekFBZ0Z2LTE1ZUkwb1NDWmN0allPaGQ3Rlh1SGdwZHpDRWZhTEpWYlF2RkZhSnVlblY1WjlqQnVTYXA3aVhnczNaaFh1TDRjN1k4UVJVM2w5NVk?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 01:21:58 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1RTkZITUZza2NuSDNRZkp5SkJnYmphODlFekFBZ0Z2LTE1ZUkwb1NDWmN0allPaGQ3Rlh1SGdwZHpDRWZhTEpWYlF2RkZhSnVlblY1WjlqQnVTYXA3aVhnczNaaFh1TDRjN1k4UVJVM2w5NVk?oc=5\" target=\"_blank\"&gt;DRAM 漲勢恐見頂？三星、SK",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
-    },
-    {
-      "title": "創見(2451)-元大-東泰 - 券商分點進出買賣統計 - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb3N1b0pTRGZIRE10Q2FwdzkyMnRkQm0xM1cwRDVKSEJaQWR4Tmh5ejRvZk5GZk96dVE5YVVjMTAxTGtDS0dDeGVXaXNfS3JfVHdpeFZRVFhjZl9jQm9UeDYtcFVwanRTNEE?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 22:06:21 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb3N1b0pTRGZIRE10Q2FwdzkyMnRkQm0xM1cwRDVKSEJaQWR4Tmh5ejRvZk5GZk96dVE5YVVjMTAxTGtDS0dDeGVXaXNfS3JfVHdpeFZRVFhjZl9jQm9UeDYtcFVwanRTNEE?oc=5\" target=\"_blank\"&gt;創見(2451)-元大-東泰 - 券商分點進出買賣統計 ",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
-    },
-    {
-      "title": "Bernstein上調SanDisk股價目標至1,250美元,因NAND價格走強 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pQm4zdy1WVUtUN1A0NDFxOWxVaFZ4UkViTW15QjNiWm5pSEhJdEtzNlJacktGNUFWS2JKVkVybTB3MmVUeFNRdnNKaUtUYUpuYzA0b0VXWGpyRTZFc2RiV05sa0pMWElTQmJPNktwTVlscncz?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 13:12:46 GMT",
-      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1pQm4zdy1WVUtUN1A0NDFxOWxVaFZ4UkViTW15QjNiWm5pSEhJdEtzNlJacktGNUFWS2JKVkVybTB3MmVUeFNRdnNKaUtUYUpuYzA0b0VXWGpyRTZFc2RiV05sa0pMWElTQmJPNktwTVlscncz?oc=5\" target=\"_blank\"&gt;Bernstein上調SanD",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
-    },
-    {
-      "title": "(2451) 創見法說會 2026/04、創見財報、創見展望、創見財報投資亮點｜理柴知道:法說最速報! - 方格子 - Vocus",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YNVVnNXFseENCWHBpLUJVUDhESU16SmVBd2UxUl9POFUzbllndFc5OWpiZm5yaHJGV3UtS3dVczRBaDBVZVdxd3BfOXc4QXRQVnoxSDJIXzJESzN4aW1iaWdqQdIBY0FVX3lxTE9YNVVnNXFseENCWHBpLUJVUDhESU16SmVBd2UxUl9POFUzbllndFc5OWpiZm5yaHJGV3UtS3dVczRBaDBVZVdxd3BfOXc4QXRQVnoxSDJIXzJESzN4aW1iaWdqQQ?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 12:00:12 GMT",
-      "source": "Vocus",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YNVVnNXFseENCWHBpLUJVUDhESU16SmVBd2UxUl9POFUzbllndFc5OWpiZm5yaHJGV3UtS3dVczRBaDBVZVdxd3BfOXc4QXRQVnoxSDJIXzJESzN4aW1iaWdqQdIBY0FVX3lxTE9YNVVnNXFseENCWHBpLUJVUDhESU16SmVBd2UxUl9POFUzbllnd",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
-    },
-    {
-      "title": "2451 創見 - 這檔真的很好笑 大家還對他抱有希望他就不會漲 - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LUpjLWdhT0ktVVMyaU1HNFJuT3MtaUU3MkZNUV93VTh0Mmp0TEtkeGJ0OGZCcEo3MTFxRllpM1EtaERieEFOS3lCTm55M0x0bl9pM2ZtTEw?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 06:37:39 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LUpjLWdhT0ktVVMyaU1HNFJuT3MtaUU3MkZNUV93VTh0Mmp0TEtkeGJ0OGZCcEo3MTFxRllpM1EtaERieEFOS3lCTm55M0x0bl9pM2ZtTEw?oc=5\" target=\"_blank\"&gt;2451 創見 - 這檔真的很好笑 大家還對他抱有希望他就不會漲 - 股市爆料同學會&lt;/a&gt;",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-10T06:19:36.715Z"
+      "fetchedAt": "2026-04-11T05:19:32.008Z"
     }
   ]
 }

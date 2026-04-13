@@ -1,10 +1,10 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-12T06:11:37.816Z",
-  "generatedAtTW": "2026-04-12 14:11 台灣時間",
+  "generatedAt": "2026-04-13T07:27:14.269Z",
+  "generatedAtTW": "2026-04-13 15:27 台灣時間",
   "stats": {
-    "total": 45,
-    "positive": 23,
+    "total": 46,
+    "positive": 24,
     "negative": 0,
     "neutral": 22,
     "byCategory": {
@@ -15,8 +15,8 @@
         "neutral": 15
       },
       "上游供應商": {
-        "total": 12,
-        "positive": 5,
+        "total": 13,
+        "positive": 6,
         "negative": 0,
         "neutral": 7
       },
@@ -62,10 +62,27 @@
         "negative": 0,
         "neutral": 3,
         "total": 4
+      },
+      {
+        "date": "2026-04-12",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0,
+        "total": 1
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
+      "fetchedAt": "2026-04-13T07:27:14.269Z",
+      "source": "DIGITIMES",
+      "category": "上游供應商",
+      "title": "三星、SK海力士NAND事業強勁復甦 2026合計獲利上看116兆韓元 - DIGITIMES",
+      "pubDate": "Sun, 12 Apr 2026 18:11:00 GMT"
+    },
     {
       "sentiment": "positive",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yN0Utem9USGhoZXoyMHhqY3R6ZlFGc2p3ZFBjM3hudHVqaTVCaWZGcE5ySFBqY1pFVTJEZTVWWVpIblRuMXF1cFFkU05zNW0xbWh5TmtJT1JUcjJZb2Q2T1JiSTZ5dGVhUDVaWjBVZTkySUNC?oc=5",

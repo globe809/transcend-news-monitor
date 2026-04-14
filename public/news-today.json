@@ -1,7 +1,7 @@
 {
   "period": "today",
-  "generatedAt": "2026-04-13T07:27:14.269Z",
-  "generatedAtTW": "2026-04-13 15:27 台灣時間",
+  "generatedAt": "2026-04-14T06:19:39.220Z",
+  "generatedAtTW": "2026-04-14 14:19 台灣時間",
   "stats": {
     "total": 1,
     "positive": 1,
@@ -9,14 +9,14 @@
     "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
-        "positive": 0,
+        "total": 1,
+        "positive": 1,
         "negative": 0,
         "neutral": 0
       },
       "上游供應商": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       },
@@ -29,7 +29,7 @@
     },
     "trend": [
       {
-        "date": "2026-04-12",
+        "date": "2026-04-13",
         "positive": 1,
         "negative": 0,
         "neutral": 0,
@@ -39,14 +39,14 @@
   },
   "news": [
     {
-      "title": "三星、SK海力士NAND事業強勁復甦 2026合計獲利上看116兆韓元 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
-      "pubDate": "Sun, 12 Apr 2026 18:11:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
-      "category": "上游供應商",
+      "title": "創見發表工業級8TB大容量SSD 內建斷電保護 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U1YxVDV2cE04bnNXQ2lkV1YzcXFlT2VrdXE0bng1YUt6bnhVbXZTN0VyS2lDSTBMQ1hxNEVsNFh2R1hHRDR1andrQjQ0bHVmNTFTTWtZYzcyMVFiNk5OQ1dpNndteG5yUzNmQnl3ejBhQWl0U0hYd2pDMXRLY3d0Y3VOMDJ4cmhXRnZwNTNMSVFEaHpKVXhwTXd5cmpHQXQzN3FEVGFFTXZpbnRKOS05UzdwdTdzdXlZYkdWTHBvaEc0dHZRV0l6U2g3V3BJUHd2bWZZeHJ4Q2VxbF9iVklsZ214QXBBOEZsY2dvdmpibDVRVHJZRWxPcENWVFk4eDVYd3ZoZ0kxZlRtYVpmTF9rQnE4Y3E1VHJheVlGTzd3WUpvYmNLbHlabV9jQzFaOXMzTnRHTnl6NUF1ZTRR?oc=5",
+      "pubDate": "Mon, 13 Apr 2026 18:14:02 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U",
+      "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-04-13T07:27:14.269Z"
+      "fetchedAt": "2026-04-14T06:19:39.220Z"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-13T07:27:14.269Z",
-  "generatedAtTW": "2026-04-13 15:27 台灣時間",
+  "generatedAt": "2026-04-14T06:19:39.220Z",
+  "generatedAtTW": "2026-04-14 14:19 台灣時間",
   "stats": {
-    "total": 46,
-    "positive": 24,
+    "total": 47,
+    "positive": 25,
     "negative": 0,
     "neutral": 22,
     "byCategory": {
       "創見資訊": {
-        "total": 32,
-        "positive": 17,
+        "total": 33,
+        "positive": 18,
         "negative": 0,
         "neutral": 15
       },
@@ -69,10 +69,27 @@
         "negative": 0,
         "neutral": 0,
         "total": 1
+      },
+      {
+        "date": "2026-04-13",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0,
+        "total": 1
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U1YxVDV2cE04bnNXQ2lkV1YzcXFlT2VrdXE0bng1YUt6bnhVbXZTN0VyS2lDSTBMQ1hxNEVsNFh2R1hHRDR1andrQjQ0bHVmNTFTTWtZYzcyMVFiNk5OQ1dpNndteG5yUzNmQnl3ejBhQWl0U0hYd2pDMXRLY3d0Y3VOMDJ4cmhXRnZwNTNMSVFEaHpKVXhwTXd5cmpHQXQzN3FEVGFFTXZpbnRKOS05UzdwdTdzdXlZYkdWTHBvaEc0dHZRV0l6U2g3V3BJUHd2bWZZeHJ4Q2VxbF9iVklsZ214QXBBOEZsY2dvdmpibDVRVHJZRWxPcENWVFk4eDVYd3ZoZ0kxZlRtYVpmTF9rQnE4Y3E1VHJheVlGTzd3WUpvYmNLbHlabV9jQzFaOXMzTnRHTnl6NUF1ZTRR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U",
+      "fetchedAt": "2026-04-14T06:19:39.220Z",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "創見發表工業級8TB大容量SSD 內建斷電保護 - MSN",
+      "pubDate": "Mon, 13 Apr 2026 18:14:02 GMT"
+    },
     {
       "sentiment": "positive",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",

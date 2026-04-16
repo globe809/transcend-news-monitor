@@ -1,18 +1,18 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-15T06:21:17.592Z",
-  "generatedAtTW": "2026-04-15 14:21 台灣時間",
+  "generatedAt": "2026-04-16T06:23:18.435Z",
+  "generatedAtTW": "2026-04-16 14:23 台灣時間",
   "stats": {
-    "total": 49,
-    "positive": 26,
+    "total": 52,
+    "positive": 27,
     "negative": 0,
-    "neutral": 23,
+    "neutral": 25,
     "byCategory": {
       "創見資訊": {
-        "total": 34,
-        "positive": 19,
+        "total": 37,
+        "positive": 20,
         "negative": 0,
-        "neutral": 15
+        "neutral": 17
       },
       "上游供應商": {
         "total": 14,
@@ -30,23 +30,53 @@
     "trend": [
       {
         "date": "2026-04",
-        "positive": 26,
+        "positive": 27,
         "negative": 0,
-        "neutral": 23,
-        "total": 49
+        "neutral": 25,
+        "total": 52
       }
     ]
   },
   "news": [
     {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTllVNzNlT21sbi03bGpyVktXT3Y3amNEMXZiOUMzeHRjR0NnZUNqd0dYS2FXVDhBWnhHa3hlVEtESFlfQkYtUXI1em5aM002MDA5NzFOeVNqNjFlZGo0c3FCSGk4Z2s?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTllVNzNlT21sbi03bGpyVktXT3Y3amNEMXZiOUMzeHRjR0NnZUNqd0dYS2FXVDhBWnhHa3hlVEtESFlfQkYtUXI1em5aM002MDA5NzFOeVNqNjFlZGo0c3FCSGk4Z2s?oc=5\" target=\"_blank\"&gt;【04/15券商評等報告彙整】創見(2451) 今日僅1家券商發",
+      "fetchedAt": "2026-04-16T06:23:18.435Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "【04/15券商評等報告彙整】創見(2451) 今日僅1家券商發布績效評等報告，評價為看多，目標價為340元。 - CMoney",
+      "pubDate": "Wed, 15 Apr 2026 10:50:03 GMT"
+    },
+    {
       "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiiAhBVV95cUxOT29ZN1NuOFVMQ2V3bUhUTEY0NS00ak03cUJaVFRBWlBqUHpudUQ2RDc0N1V4ODNrQ1NQbW5LQ2hwY0pvNEpKeXM5Nl9GSF8xWFdDYUVjdTU3LVdkSlFOLUVGUzd1eDdvUDZfWVhMTDQ2bG9WY2plelBSenkzbWxkdmRONUFLNFJueWVEVGJ1S0g4aWNRZ1dmenBOQ0VZa0FaeXBGYnc5LVFfWl9DSGQ0OTM0WUI5RXhvTXdlb1RKOXpOdE56NEd4bE1jS3JVQU91YV9OTWptd1p0RWpGeDhrMVBaMGhxTUNEN0xVMGd6OXNYYjJYVjV2M2JIT1NLcV80bnVha3FTWlJic1NxUkRCNGNRRnhuU0dWbkVnOHozZ2otTUdpd19QT2xnV3pGTTAwdlh4anhqUFE1WndPdnZqMnhWemF5SHRmSDdBcGNLWGdLaDhwc2dRXzV5eFE4RDRLRUFvU19HUERLQTAza1JkQmxwNWxFc2g4ZkFQanZyUjNRWWVLTk83QlpqcmVyYzUzdVVHZVNpQkRfcXF5akxEcmVpR1hNaGpEblp3TnlWbWJ1dW1NbkN6enFfeE96dWl1b3lyYnN0aS0yYjdHUThnMGVYbHI4WUs5Q1NBN2RJUXI5d0kyUTZtNDZlbUZDYmpBLUQzSGlNLUNRR2txRTVoTmpCUXR0bktnNFVDRDJhUm90QzY1aVR0QW5fMmxRR0NIYWFtYXJ6TFBXakx3NlF0amhIb29yaGZ3bG51dXI1WGJPNUQ1Rkx4bU1NMG9GWkE1dTlWVmVLLUZwczUwLTRRd3JEeVRoVktuMW96U1hxcE1TU1lvR0hRbVZMT0d4dWFObWgyUW5uUE82QnBNRmR3Z2JNWUQ4WEhzZWtTVms3T1pvdldEcEpza0tXUzBXSDJWcGRYUFNOYW1DT09FRmtaZ3lxd0ZRZ2tiTUZwNVVHTlkweTRKdVgycEpoLXU0Z09VbkhUOVJFaVNOR1FidDFWZG5fOWswWHdhNEdNdlRUR1JkMWx2T2VpQjhaWmwwbmFVRTdvVDJBbWNnSlpTamU2bzJCWGxWVEI0YmlkTTNYaFRnSEc1Ylh1cXpERDNJZDlQdnFYaTI0RjFpS2pUdDdGVWY4LVNpM3hwWkY5cWswN2dFS3g1YlJ0eHRzVWlSZlF4bno0N1lRc29hLUEzOGdHRUtBdEdMTl9KdGNXY2lYNmJUaFZWMXREdm1kSnhXZ2wwODhwMHdSOGEyNUk5UXNNZmdzV0QyRUR6ek1QOTFka2Z3YVNwSnVIY1pPazBqTjdHb1FwNFlqdzFabWZTcklrYlE4S1FQb1NpR2tId1dRczlIdDk3cnc3R3lJTEQ2emRQMWFCNTR2OUY?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAhBVV95cUxOT29ZN1NuOFVMQ2V3bUhUTEY0NS00ak03cUJaVFRBWlBqUHpudUQ2RDc0N1V4ODNrQ1NQbW5LQ2hwY0pvNEpKeXM5Nl9GSF8xWFdDYUVjdTU3LVdkSlFOLUVGUzd1eDdvUDZfWVhMTDQ2bG9WY2plelBSenkzbWxkdmRONUFLNFJueWVEVGJ1S0g4a",
-      "fetchedAt": "2026-04-15T06:21:17.592Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTBKX1I4cTRWaHZhZlJFbTM0UGJMSUNGajQ4OXFnVFQ2OVduanlnQnNJZjdxemJJY1dIU2lTSlpVQXRlU05VNjFlSW5UdWZpRjdPamdpWVpHNF80aHIwVG9ITjV1YXJHd0R2S2hVQkhhRnVNc0huS3ExZFVqNW05bEVkTlVVZWx1SVE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTBKX1I4cTRWaHZhZlJFbTM0UGJMSUNGajQ4OXFnVFQ2OVduanlnQnNJZjdxemJJY1dIU2lTSlpVQXRlU05VNjFlSW5UdWZpRjdPamdpWVpHNF80aHIwVG9ITjV1YXJHd0R2S2hVQkhhRnVNc0huS3ExZFVqNW05bEVkTlVVZWx1SVE?oc=5\" tar",
+      "fetchedAt": "2026-04-16T06:23:18.435Z",
+      "source": "CMoney投資網誌",
+      "category": "創見資訊",
+      "title": "【25Q4財報公告】創見(2451) Q4 營收68.0367億元，連4季成長，季增65.6%、年成長171.89%-CMoney 小編 - CMoney投資網誌",
+      "pubDate": "Wed, 15 Apr 2026 10:20:08 GMT"
+    },
+    {
+      "sentiment": "positive",
       "source": "理財周刊",
       "category": "創見資訊",
       "title": "創見3 月及首季營收創歷史新高 - 理財周刊",
-      "pubDate": "Wed, 15 Apr 2026 06:16:10 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2w0eld3UUljYnNCX1ZGczdfN28zTV9ac1kzTVNRekJZN3VZR3RFcUVCT3F5TjgxeHdlMVdjU3NqMjAydGxnTXJTUUFOUEpKcG9Jdl9fZU44bGdUREEw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2w0eld3UUljYnNCX1ZGczdfN28zTV9ac1kzTVNRekJZN3VZR3RFcUVCT3F5TjgxeHdlMVdjU3NqMjAydGxnTXJTUUFOUEpKcG9Jdl9fZU44bGdUREEw?oc=5\" target=\"_blank\"&gt;創見3 月及首季營收創歷史新高&lt;/a&gt;&amp;nbsp;&amp;nbs",
+      "fetchedAt": "2026-04-16T06:23:18.435Z",
+      "pubDate": "Wed, 15 Apr 2026 06:35:29 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-16T06:23:18.435Z",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1BzT1RvRk9xUTM0NFpIMTNlU2hzYThoT29LRTdvZXc4bk14NFJ4c3Rab1ppUkVPLUFwUkQzNUxkWTB4SFhsOHozZ1B2ajVwaUhDTVNpTmUxanVhdnMxcW5oTk5JX0J5ZFZkdzc5cVd2aTFoOXRkcFhKSWtHbTNQZDlrQ2ZzYUNSUk5SZFVnTEw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1BzT1RvRk9xUTM0NFpIMTNlU2hzYThoT29LRTdvZXc4bk14NFJ4c3Rab1ppUkVPLUFwUkQzNUxkWTB4SFhsOHozZ1B2ajVwaUhDTVNpTmUxanVhdnMxcW5oTk5JX0J5ZFZkdzc5cVd2aTFoOXRkcFhKSWtHbTNQZDlrQ2ZzYUNSUk5SZFVnTEw?o",
+      "source": "經濟日報",
+      "title": "創見擴展嵌入式鏡頭模組產品 強化AIoT視覺應用布局 | 產業熱點 | 產業 - 經濟日報",
+      "pubDate": "Wed, 15 Apr 2026 06:34:30 GMT"
     },
     {
       "sentiment": "neutral",

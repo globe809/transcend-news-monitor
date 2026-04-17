@@ -1,18 +1,18 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-16T06:23:18.435Z",
-  "generatedAtTW": "2026-04-16 14:23 台灣時間",
+  "generatedAt": "2026-04-17T06:24:05.160Z",
+  "generatedAtTW": "2026-04-17 14:24 台灣時間",
   "stats": {
-    "total": 52,
+    "total": 53,
     "positive": 27,
     "negative": 0,
-    "neutral": 25,
+    "neutral": 26,
     "byCategory": {
       "創見資訊": {
-        "total": 37,
+        "total": 38,
         "positive": 20,
         "negative": 0,
-        "neutral": 17
+        "neutral": 18
       },
       "上游供應商": {
         "total": 14,
@@ -32,12 +32,32 @@
         "date": "2026-04",
         "positive": 27,
         "negative": 0,
-        "neutral": 25,
-        "total": 52
+        "neutral": 26,
+        "total": 53
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U29RLWhXbWZhNjlYMEMxS0pydVNsbFNvR05Rem1xQ0d6LS1lRWItb3lyc19IQU15XzcxSTdLeXpObzhTcHFHb1hQalAwVE9UQThzQkhBRTY0M016a2drSVBndEpVbEJiOXlHdVBLb3ZYQWZjakdRSjJ6dW9ObVhZNENubGpwR2VuQ0pLSUF0ZWJKeUE2QmxqZHNROW5kNzJYYU5GSmdxVmNpWmdyUHdITFpCV05SRGV4VWY2aEQ1anI3QllKT1l2QXV6VndnUTh2RWlGUlY2U21qNzhoTU5vLTZBSExTTm9TVFlENG9wcWpzWERoV2cwaEJaX0o5UGFremk2cWlyVjdRNlMtWHJWREtVZ29PazZmeTU2OElGR2pMYi1NY0Zka1lqR0V6cTUwLVo4M3g4?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U",
+      "source": "sinotrade.com.tw",
+      "category": "上游供應商",
+      "title": "SanDisk（SNDK）正式叩關那斯達克100，記憶體超級週期再添機構背書｜美股觀察｜豐雲學堂2026 年 04 月 - sinotrade.com.tw",
+      "fetchedAt": "2026-04-17T06:24:05.160Z",
+      "pubDate": "Fri, 17 Apr 2026 05:35:39 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWUkJNUUptZ1VocFJvNE0wMm1fY1UycEZjcE9uTnZGLXVLOGN2VV9rREw5Y08zRk9ncmZqQ2lXZnNEVklQMDZ6RGUtUTRJdDlDUkpwWlpVMHhETEZrbVUtSEpHSEs?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWUkJNUUptZ1VocFJvNE0wMm1fY1UycEZjcE9uTnZGLXVLOGN2VV9rREw5Y08zRk9ncmZqQ2lXZnNEVklQMDZ6RGUtUTRJdDlDUkpwWlpVMHhETEZrbVUtSEpHSEs?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大漲7.14%，報262.5元",
+      "fetchedAt": "2026-04-17T06:24:05.160Z",
+      "source": "LINE TODAY",
+      "category": "創見資訊",
+      "title": "討論牆 | 盤中速報 - 創見(2451)大漲7.14%，報262.5元 - LINE TODAY",
+      "pubDate": "Thu, 16 Apr 2026 08:23:45 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTllVNzNlT21sbi03bGpyVktXT3Y3amNEMXZiOUMzeHRjR0NnZUNqd0dYS2FXVDhBWnhHa3hlVEtESFlfQkYtUXI1em5aM002MDA5NzFOeVNqNjFlZGo0c3FCSGk4Z2s?oc=5",
@@ -77,16 +97,6 @@
       "source": "經濟日報",
       "title": "創見擴展嵌入式鏡頭模組產品 強化AIoT視覺應用布局 | 產業熱點 | 產業 - 經濟日報",
       "pubDate": "Wed, 15 Apr 2026 06:34:30 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U29RLWhXbWZhNjlYMEMxS0pydVNsbFNvR05Rem1xQ0d6LS1lRWItb3lyc19IQU15XzcxSTdLeXpObzhTcHFHb1hQalAwVE9UQThzQkhBRTY0M016a2drSVBndEpVbEJiOXlHdVBLb3ZYQWZjakdRSjJ6dW9ObVhZNENubGpwR2VuQ0pLSUF0ZWJKeUE2QmxqZHNROW5kNzJYYU5GSmdxVmNpWmdyUHdITFpCV05SRGV4VWY2aEQ1anI3QllKT1l2QXV6VndnUTh2RWlGUlY2U21qNzhoTU5vLTZBSExTTm9TVFlENG9wcWpzWERoV2cwaEJaX0o5UGFremk2cWlyVjdRNlMtWHJWREtVZ29PazZmeTU2OElGR2pMYi1NY0Zka1lqR0V6cTUwLVo4M3g4?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U",
-      "fetchedAt": "2026-04-15T06:21:17.592Z",
-      "source": "sinotrade.com.tw",
-      "category": "上游供應商",
-      "title": "SanDisk（SNDK）正式叩關那斯達克100，記憶體超級週期再添機構背書｜美股觀察｜豐雲學堂2026 年 04 月 - sinotrade.com.tw",
-      "pubDate": "Wed, 15 Apr 2026 05:52:00 GMT"
     },
     {
       "sentiment": "positive",

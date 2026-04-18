@@ -1,12 +1,12 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-17T06:24:05.160Z",
-  "generatedAtTW": "2026-04-17 14:24 台灣時間",
+  "generatedAt": "2026-04-18T05:52:34.812Z",
+  "generatedAtTW": "2026-04-18 13:52 台灣時間",
   "stats": {
-    "total": 53,
+    "total": 54,
     "positive": 27,
     "negative": 0,
-    "neutral": 26,
+    "neutral": 27,
     "byCategory": {
       "創見資訊": {
         "total": 38,
@@ -15,10 +15,10 @@
         "neutral": 18
       },
       "上游供應商": {
-        "total": 14,
+        "total": 15,
         "positive": 6,
         "negative": 0,
-        "neutral": 8
+        "neutral": 9
       },
       "競品": {
         "total": 1,
@@ -95,12 +95,22 @@
         "date": "2026-04-17",
         "positive": 0,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 2,
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Y2x3UWVBUW1OdmEyMHpmelQ3UFBvVWp5SEk3ZUR1RkxhcEh1cW5QR2IwdXlzMHpVVlUyRmtTakRRQ3NsSkJnOEEwRW1ET19TOENPZTczU3VxcVRDSnhvMXZQTkZiZW04bGpQY0Nnbkw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE93Y2x3UWVBUW1OdmEyMHpmelQ3UFBvVWp5SEk3ZUR1RkxhcEh1cW5QR2IwdXlzMHpVVlUyRmtTakRRQ3NsSkJnOEEwRW1ET19TOENPZTczU3VxcVRDSnhvMXZQTkZiZW04bGpQY0Nnbkw?oc=5\" target=\"_blank\"&gt;NAND供應持續緊張 SanDisk目標",
+      "fetchedAt": "2026-04-18T05:52:34.812Z",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "category": "上游供應商",
+      "title": "NAND供應持續緊張 SanDisk目標價再獲上調 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "pubDate": "Fri, 17 Apr 2026 15:04:07 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U29RLWhXbWZhNjlYMEMxS0pydVNsbFNvR05Rem1xQ0d6LS1lRWItb3lyc19IQU15XzcxSTdLeXpObzhTcHFHb1hQalAwVE9UQThzQkhBRTY0M016a2drSVBndEpVbEJiOXlHdVBLb3ZYQWZjakdRSjJ6dW9ObVhZNENubGpwR2VuQ0pLSUF0ZWJKeUE2QmxqZHNROW5kNzJYYU5GSmdxVmNpWmdyUHdITFpCV05SRGV4VWY2aEQ1anI3QllKT1l2QXV6VndnUTh2RWlGUlY2U21qNzhoTU5vLTZBSExTTm9TVFlENG9wcWpzWERoV2cwaEJaX0o5UGFremk2cWlyVjdRNlMtWHJWREtVZ29PazZmeTU2OElGR2pMYi1NY0Zka1lqR0V6cTUwLVo4M3g4?oc=5",

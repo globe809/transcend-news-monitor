@@ -1,12 +1,12 @@
 {
   "period": "today",
-  "generatedAt": "2026-04-19T06:17:12.485Z",
-  "generatedAtTW": "2026-04-19 14:17 台灣時間",
+  "generatedAt": "2026-04-20T07:28:15.258Z",
+  "generatedAtTW": "2026-04-20 15:28 台灣時間",
   "stats": {
-    "total": 0,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -15,19 +15,55 @@
         "neutral": 0
       },
       "上游供應商": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       }
     },
-    "trend": []
+    "trend": [
+      {
+        "date": "2026-04-19",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
+      },
+      {
+        "date": "2026-04-20",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
+      }
+    ]
   },
-  "news": []
+  "news": [
+    {
+      "title": "三星停止接單 LPDDR4 及 LPDDR4X，2027 年停產推動世代更新 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV3hDcXA4RHotMWMzSTFO?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 06:56:24 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-20T07:28:15.258Z"
+    },
+    {
+      "title": "創見、宜鼎需求升溫- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5",
+      "pubDate": "Sun, 19 Apr 2026 19:00:00 GMT",
+      "source": "工商時報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5\" target=\"_blank\"&gt;創見、宜鼎需求升溫- 日報&lt;/a&gt;&amp;nbsp;&amp;nbsp;",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-20T07:28:15.258Z"
+    }
+  ]
 }

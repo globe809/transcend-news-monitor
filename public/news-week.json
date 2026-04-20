@@ -1,12 +1,12 @@
 {
   "period": "week",
-  "generatedAt": "2026-04-19T06:17:12.485Z",
-  "generatedAtTW": "2026-04-19 14:17 台灣時間",
+  "generatedAt": "2026-04-20T07:28:15.258Z",
+  "generatedAtTW": "2026-04-20 15:28 台灣時間",
   "stats": {
-    "total": 9,
-    "positive": 4,
+    "total": 10,
+    "positive": 3,
     "negative": 0,
-    "neutral": 5,
+    "neutral": 7,
     "byCategory": {
       "創見資訊": {
         "total": 6,
@@ -16,25 +16,18 @@
       },
       "上游供應商": {
         "total": 3,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 2
-      },
-      "競品": {
-        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 3
+      },
+      "競品": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
       }
     },
     "trend": [
-      {
-        "date": "2026-04-12",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 0,
-        "total": 1
-      },
       {
         "date": "2026-04-14",
         "positive": 1,
@@ -62,10 +55,44 @@
         "negative": 0,
         "neutral": 2,
         "total": 2
+      },
+      {
+        "date": "2026-04-19",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
+      },
+      {
+        "date": "2026-04-20",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV3hDcXA4RHotMWMzSTFO?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV",
+      "fetchedAt": "2026-04-20T07:28:15.258Z",
+      "source": "TechNews 科技新報",
+      "category": "上游供應商",
+      "title": "三星停止接單 LPDDR4 及 LPDDR4X，2027 年停產推動世代更新 - TechNews 科技新報",
+      "pubDate": "Mon, 20 Apr 2026 06:56:24 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5\" target=\"_blank\"&gt;創見、宜鼎需求升溫- 日報&lt;/a&gt;&amp;nbsp;&amp;nbsp;",
+      "fetchedAt": "2026-04-20T07:28:15.258Z",
+      "source": "工商時報",
+      "category": "競品",
+      "title": "創見、宜鼎需求升溫- 日報 - 工商時報",
+      "pubDate": "Sun, 19 Apr 2026 19:00:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Y2x3UWVBUW1OdmEyMHpmelQ3UFBvVWp5SEk3ZUR1RkxhcEh1cW5QR2IwdXlzMHpVVlUyRmtTakRRQ3NsSkJnOEEwRW1ET19TOENPZTczU3VxcVRDSnhvMXZQTkZiZW04bGpQY0Nnbkw?oc=5",
@@ -145,16 +172,6 @@
       "title": "創見發表工業級8TB大容量SSD 內建斷電保護 - MSN",
       "fetchedAt": "2026-04-15T06:21:17.592Z",
       "pubDate": "Tue, 14 Apr 2026 09:56:30 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmE2bDRUWE12ZGpIXzVqYlg5OFFXVHVvbzk0WmRnNXprd0U5OU93eUpNb0s1MXNRQUhaN0gzVWRaU3BVS1BsVHdsRmt1LTYtSXhDdXc3N2d3ZjZpeXBkRXlwa0Z3dnlHc3d1Z2JZM0dOaFJJWEc1VzFZM29EWHBCM1NQb2RCZG8xR3AwYzJ3?oc=5",
-      "fetchedAt": "2026-04-13T07:27:14.269Z",
-      "source": "DIGITIMES",
-      "category": "上游供應商",
-      "title": "三星、SK海力士NAND事業強勁復甦 2026合計獲利上看116兆韓元 - DIGITIMES",
-      "pubDate": "Sun, 12 Apr 2026 18:11:00 GMT"
     }
   ]
 }

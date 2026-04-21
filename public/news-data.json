@@ -1,41 +1,41 @@
 {
-  "fetchedAt": "2026-04-20T07:28:15.258Z",
-  "fetchedAtTW": "2026-04-20 15:28 台灣時間",
+  "fetchedAt": "2026-04-21T06:24:02.999Z",
+  "fetchedAtTW": "2026-04-21 14:24 台灣時間",
   "stats": {
-    "total": 2,
+    "total": 4,
     "positive": 0,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 4,
     "byCategory": {
       "創見資訊": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "上游供應商": {
+        "total": 3,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 3
+      },
+      "競品": {
         "total": 0,
         "positive": 0,
         "negative": 0,
         "neutral": 0
-      },
-      "上游供應商": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1
-      },
-      "競品": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1
       }
     },
     "trend": [
       {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
         "positive": 0,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 3,
+        "total": 3
       },
       {
-        "date": "2026-04-20",
+        "date": "2026-04-21",
         "positive": 0,
         "negative": 0,
         "neutral": 1,
@@ -45,24 +45,44 @@
   },
   "news": [
     {
+      "title": "東北7.5強震！NAND原廠Kioxia重鎮受衝擊　供應鏈拉警報 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWVTd0QmEtTmRWeVpyT3FUbHV5Qnh6ZVNOQWNEbU9LWjU1eTNDTHBEWVppRkFNa3ZUdw?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 01:35:00 GMT",
+      "source": "ETtoday財經雲",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWV",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-21T06:24:02.999Z"
+    },
+    {
+      "title": "日本東北 7.5 強震！愷俠 Kioxia 岩手廠占全球 NAND 4% 產能，記憶體供給拉警報 - 鏈新聞 ABMedia",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMzFOYVhZZ1hjMjVIWTJwM3ZXSFBuSDVQWTBqSkdWWVB3Vlk0NTF0ZUctMVE1NkFaTnZmX1BtR19rV0U2QzVBblU4U2lBQllLbHdnMDg3dTdGUW8?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 20:37:54 GMT",
+      "source": "鏈新聞 ABMedia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMzFOYVhZZ1hjMjVIWTJwM3ZXSFBuSDVQWTBqSkdWWVB3Vlk0NTF0ZUctMVE1NkFaTnZmX1BtR19rV0U2QzVBblU4U2lBQllLbHdnMDg3dTdGUW8?oc=5\" target=\"_blank\"&gt;日本東北 7.5 強震！愷俠 Kioxia 岩手廠占全球 NAND 4% 產能，記憶體供給拉警報",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-21T06:24:02.999Z"
+    },
+    {
+      "title": "2451 創見 - 記憶體模組廠多角化經營成效不錯- 股市爆料同學會 - 理財寶",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGM2Rm42dFdGX1o3bjNQS0FHNFJvazEwRnctbEc4TEI4Tk93R09paTdQOGM5Uy1xRmhKdkpicE1JTHJIUE9POU9YYmZoZ25BREpKNmRma0g?oc=5",
+      "pubDate": "Mon, 20 Apr 2026 18:00:33 GMT",
+      "source": "理財寶",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGM2Rm42dFdGX1o3bjNQS0FHNFJvazEwRnctbEc4TEI4Tk93R09paTdQOGM5Uy1xRmhKdkpicE1JTHJIUE9POU9YYmZoZ25BREpKNmRma0g?oc=5\" target=\"_blank\"&gt;2451 創見 - 記憶體模組廠多角化經營成效不錯- 股市爆料同學會&lt;/a&gt;&amp;nbs",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-21T06:24:02.999Z"
+    },
+    {
       "title": "三星停止接單 LPDDR4 及 LPDDR4X，2027 年停產推動世代更新 - TechNews 科技新報",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV3hDcXA4RHotMWMzSTFO?oc=5",
-      "pubDate": "Mon, 20 Apr 2026 06:56:24 GMT",
+      "pubDate": "Mon, 20 Apr 2026 07:00:35 GMT",
       "source": "TechNews 科技新報",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-20T07:28:15.258Z"
-    },
-    {
-      "title": "創見、宜鼎需求升溫- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5",
-      "pubDate": "Sun, 19 Apr 2026 19:00:00 GMT",
-      "source": "工商時報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5\" target=\"_blank\"&gt;創見、宜鼎需求升溫- 日報&lt;/a&gt;&amp;nbsp;&amp;nbsp;",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-20T07:28:15.258Z"
+      "fetchedAt": "2026-04-21T06:24:02.999Z"
     }
   ]
 }

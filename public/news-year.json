@@ -1,24 +1,24 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-20T07:28:15.258Z",
-  "generatedAtTW": "2026-04-20 15:28 台灣時間",
+  "generatedAt": "2026-04-21T06:24:02.999Z",
+  "generatedAtTW": "2026-04-21 14:24 台灣時間",
   "stats": {
-    "total": 56,
+    "total": 59,
     "positive": 27,
     "negative": 0,
-    "neutral": 29,
+    "neutral": 32,
     "byCategory": {
       "創見資訊": {
-        "total": 38,
+        "total": 39,
         "positive": 20,
         "negative": 0,
-        "neutral": 18
+        "neutral": 19
       },
       "上游供應商": {
-        "total": 16,
+        "total": 18,
         "positive": 6,
         "negative": 0,
-        "neutral": 10
+        "neutral": 12
       },
       "競品": {
         "total": 2,
@@ -32,21 +32,51 @@
         "date": "2026-04",
         "positive": 27,
         "negative": 0,
-        "neutral": 29,
-        "total": 56
+        "neutral": 32,
+        "total": 59
       }
     ]
   },
   "news": [
     {
       "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWVTd0QmEtTmRWeVpyT3FUbHV5Qnh6ZVNOQWNEbU9LWjU1eTNDTHBEWVppRkFNa3ZUdw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWV",
+      "fetchedAt": "2026-04-21T06:24:02.999Z",
+      "source": "ETtoday財經雲",
+      "category": "上游供應商",
+      "title": "東北7.5強震！NAND原廠Kioxia重鎮受衝擊　供應鏈拉警報 - ETtoday財經雲",
+      "pubDate": "Tue, 21 Apr 2026 01:35:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMzFOYVhZZ1hjMjVIWTJwM3ZXSFBuSDVQWTBqSkdWWVB3Vlk0NTF0ZUctMVE1NkFaTnZmX1BtR19rV0U2QzVBblU4U2lBQllLbHdnMDg3dTdGUW8?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uMzFOYVhZZ1hjMjVIWTJwM3ZXSFBuSDVQWTBqSkdWWVB3Vlk0NTF0ZUctMVE1NkFaTnZmX1BtR19rV0U2QzVBblU4U2lBQllLbHdnMDg3dTdGUW8?oc=5\" target=\"_blank\"&gt;日本東北 7.5 強震！愷俠 Kioxia 岩手廠占全球 NAND 4% 產能，記憶體供給拉警報",
+      "fetchedAt": "2026-04-21T06:24:02.999Z",
+      "source": "鏈新聞 ABMedia",
+      "category": "上游供應商",
+      "title": "日本東北 7.5 強震！愷俠 Kioxia 岩手廠占全球 NAND 4% 產能，記憶體供給拉警報 - 鏈新聞 ABMedia",
+      "pubDate": "Mon, 20 Apr 2026 20:37:54 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGM2Rm42dFdGX1o3bjNQS0FHNFJvazEwRnctbEc4TEI4Tk93R09paTdQOGM5Uy1xRmhKdkpicE1JTHJIUE9POU9YYmZoZ25BREpKNmRma0g?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGM2Rm42dFdGX1o3bjNQS0FHNFJvazEwRnctbEc4TEI4Tk93R09paTdQOGM5Uy1xRmhKdkpicE1JTHJIUE9POU9YYmZoZ25BREpKNmRma0g?oc=5\" target=\"_blank\"&gt;2451 創見 - 記憶體模組廠多角化經營成效不錯- 股市爆料同學會&lt;/a&gt;&amp;nbs",
+      "fetchedAt": "2026-04-21T06:24:02.999Z",
+      "source": "理財寶",
+      "category": "創見資訊",
+      "title": "2451 創見 - 記憶體模組廠多角化經營成效不錯- 股市爆料同學會 - 理財寶",
+      "pubDate": "Mon, 20 Apr 2026 18:00:33 GMT"
+    },
+    {
+      "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV3hDcXA4RHotMWMzSTFO?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1hTUHdZOWZ1M0ZkYld2UktGbEZHbmdsNHV3bFprdjlXZ1dSUVRDZnJ5b2QyR3pNSXVNVzdOcFBMSWZVRlE3RnQtellhQ3Jib2R2SmlHbUdNZ3RYSDV3OUtjTDhNakVVaWVBMjR3NHBraEpTamxUMlV4elUtY0YzaENtVmxQOFpXdUEwTWN3ZlUtV",
-      "fetchedAt": "2026-04-20T07:28:15.258Z",
       "source": "TechNews 科技新報",
       "category": "上游供應商",
       "title": "三星停止接單 LPDDR4 及 LPDDR4X，2027 年停產推動世代更新 - TechNews 科技新報",
-      "pubDate": "Mon, 20 Apr 2026 06:56:24 GMT"
+      "fetchedAt": "2026-04-21T06:24:02.999Z",
+      "pubDate": "Mon, 20 Apr 2026 07:00:35 GMT"
     },
     {
       "sentiment": "neutral",

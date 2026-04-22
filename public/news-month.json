@@ -1,10 +1,10 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-21T06:24:02.999Z",
-  "generatedAtTW": "2026-04-21 14:24 台灣時間",
+  "generatedAt": "2026-04-22T06:23:45.008Z",
+  "generatedAtTW": "2026-04-22 14:23 台灣時間",
   "stats": {
-    "total": 59,
-    "positive": 27,
+    "total": 60,
+    "positive": 28,
     "negative": 0,
     "neutral": 32,
     "byCategory": {
@@ -15,8 +15,8 @@
         "neutral": 19
       },
       "上游供應商": {
-        "total": 18,
-        "positive": 6,
+        "total": 19,
+        "positive": 7,
         "negative": 0,
         "neutral": 12
       },
@@ -114,14 +114,24 @@
       },
       {
         "date": "2026-04-21",
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
         "neutral": 1,
-        "total": 1
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5\" target=\"_blank\"&gt;Kioxia推出針對PC OEM廠商的高性價比QLC架",
+      "fetchedAt": "2026-04-22T06:23:45.008Z",
+      "source": "Business Wire",
+      "category": "上游供應商",
+      "title": "Kioxia推出針對PC OEM廠商的高性價比QLC架構KIOXIA EG7 系列固態硬碟 - Business Wire",
+      "pubDate": "Tue, 21 Apr 2026 18:28:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWVTd0QmEtTmRWeVpyT3FUbHV5Qnh6ZVNOQWNEbU9LWjU1eTNDTHBEWVppRkFNa3ZUdw?oc=5",

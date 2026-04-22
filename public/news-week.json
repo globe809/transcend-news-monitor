@@ -1,7 +1,7 @@
 {
   "period": "week",
-  "generatedAt": "2026-04-21T06:24:02.999Z",
-  "generatedAtTW": "2026-04-21 14:24 台灣時間",
+  "generatedAt": "2026-04-22T06:23:45.008Z",
+  "generatedAtTW": "2026-04-22 14:23 台灣時間",
   "stats": {
     "total": 13,
     "positive": 3,
@@ -9,14 +9,14 @@
     "neutral": 10,
     "byCategory": {
       "創見資訊": {
-        "total": 7,
-        "positive": 3,
+        "total": 6,
+        "positive": 2,
         "negative": 0,
         "neutral": 4
       },
       "上游供應商": {
-        "total": 5,
-        "positive": 0,
+        "total": 6,
+        "positive": 1,
         "negative": 0,
         "neutral": 5
       },
@@ -28,13 +28,6 @@
       }
     },
     "trend": [
-      {
-        "date": "2026-04-14",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 0,
-        "total": 1
-      },
       {
         "date": "2026-04-15",
         "positive": 2,
@@ -72,14 +65,24 @@
       },
       {
         "date": "2026-04-21",
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
         "neutral": 1,
-        "total": 1
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5\" target=\"_blank\"&gt;Kioxia推出針對PC OEM廠商的高性價比QLC架",
+      "fetchedAt": "2026-04-22T06:23:45.008Z",
+      "source": "Business Wire",
+      "category": "上游供應商",
+      "title": "Kioxia推出針對PC OEM廠商的高性價比QLC架構KIOXIA EG7 系列固態硬碟 - Business Wire",
+      "pubDate": "Tue, 21 Apr 2026 18:28:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdER3T3hCd3VwUHRmX210QmJ2SVJDMVNuejhobjQ4T3VFSEc5ZXJZaGZUNi1Cc2tmYWpYXzdhVVNJaGRfa0ZLcWI3ZVZCdUpOMHfSAW5BVV95cUxQSlliYmFlREMtbkVETXpOQTNWMy1VVFlQb1NrVTVfeFdySUtEWE00V00wMjZQMVZ4WXZxcGpWVTd0QmEtTmRWeVpyT3FUbHV5Qnh6ZVNOQWNEbU9LWjU1eTNDTHBEWVppRkFNa3ZUdw?oc=5",
@@ -199,16 +202,6 @@
       "source": "經濟日報",
       "title": "創見擴展嵌入式鏡頭模組產品 強化AIoT視覺應用布局 | 產業熱點 | 產業 - 經濟日報",
       "pubDate": "Wed, 15 Apr 2026 06:34:30 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U1YxVDV2cE04bnNXQ2lkV1YzcXFlT2VrdXE0bng1YUt6bnhVbXZTN0VyS2lDSTBMQ1hxNEVsNFh2R1hHRDR1andrQjQ0bHVmNTFTTWtZYzcyMVFiNk5OQ1dpNndteG5yUzNmQnl3ejBhQWl0U0hYd2pDMXRLY3d0Y3VOMDJ4cmhXRnZwNTNMSVFEaHpKVXhwTXd5cmpHQXQzN3FEVGFFTXZpbnRKOS05UzdwdTdzdXlZYkdWTHBvaEc0dHZRV0l6U2g3V3BJUHd2bWZZeHJ4Q2VxbF9iVklsZ214QXBBOEZsY2dvdmpibDVRVHJZRWxPcENWVFk4eDVYd3ZoZ0kxZlRtYVpmTF9rQnE4Y3E1VHJheVlGTzd3WUpvYmNLbHlabV9jQzFaOXMzTnRHTnl6NUF1ZTRR?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxOTGMtSWR4cE5qS1lWakJlY0RkZnJsdEZuWjBhQ1NCbWtmWlkwbW5YVWpVSXF5TU1xTExDYmczUnJTaUF1UXA3Z3AxYml2RE5rdS1OV2VXbVcwN0E1ODRMYTNNVjlCMlQ0MzF0NlNseG4zbkN1dXE5V1FvcDBZd1phdXh2OE5ZaTg4ZnlNQVJUckc5U",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "創見發表工業級8TB大容量SSD 內建斷電保護 - MSN",
-      "fetchedAt": "2026-04-15T06:21:17.592Z",
-      "pubDate": "Tue, 14 Apr 2026 09:56:30 GMT"
     }
   ]
 }

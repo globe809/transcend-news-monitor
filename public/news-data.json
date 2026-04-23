@@ -1,23 +1,23 @@
 {
-  "fetchedAt": "2026-04-22T06:23:45.008Z",
-  "fetchedAtTW": "2026-04-22 14:23 台灣時間",
+  "fetchedAt": "2026-04-23T06:28:20.712Z",
+  "fetchedAtTW": "2026-04-23 14:28 台灣時間",
   "stats": {
-    "total": 1,
-    "positive": 1,
+    "total": 6,
+    "positive": 0,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 6,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
+        "total": 2,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 2
       },
       "上游供應商": {
-        "total": 1,
-        "positive": 1,
+        "total": 4,
+        "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 4
       },
       "競品": {
         "total": 0,
@@ -28,24 +28,81 @@
     },
     "trend": [
       {
-        "date": "2026-04-21",
-        "positive": 1,
+        "date": "2026-04-22",
+        "positive": 0,
         "negative": 0,
-        "neutral": 0,
+        "neutral": 5,
+        "total": 5
+      },
+      {
+        "date": "2026-04-23",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
         "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "Kioxia推出針對PC OEM廠商的高性價比QLC架構KIOXIA EG7 系列固態硬碟 - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5",
-      "pubDate": "Tue, 21 Apr 2026 18:28:00 GMT",
-      "source": "Business Wire",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUXlLUXpjWW5DVm5ET2xiT1E5S2d1THhBUE5vUFJ6Wnp5d2cwRFQ1SUJiZThaWXhVZklyVmtVQU5BRUVMS0dlSDRNMnRzblVNMmlWN0lLRHlWbk1scXdIZlgzTTRGUmpfTmNz?oc=5\" target=\"_blank\"&gt;Kioxia推出針對PC OEM廠商的高性價比QLC架",
+      "title": "SanDisk靠「混血記憶體」翻身 將是下一個SK海力士？ - AASTOCKS.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84cWM1TEIwNmI0cjlMdzJ5QXNmSHlCdjB0TktmMmhrcU9xUExHNjhCOEZmajdYbGRkTHBTY2lxME5sVXhPVlZydEhXcjdQU2p0dUx2bVB2MWp2UkVQVEh4ZmI2X2JhRzFsT0p4UA?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 01:22:00 GMT",
+      "source": "AASTOCKS.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE84cWM1TEIwNmI0cjlMdzJ5QXNmSHlCdjB0TktmMmhrcU9xUExHNjhCOEZmajdYbGRkTHBTY2lxME5sVXhPVlZydEhXcjdQU2p0dUx2bVB2MWp2UkVQVEh4ZmI2X2JhRzFsT0p4UA?oc=5\" target=\"_blank\"&gt;SanDisk靠「混血記憶體」翻身 將是下一個SK",
       "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-04-22T06:23:45.008Z"
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
+    },
+    {
+      "title": "閃迪，將會是下一個SK海力士？ - 鉅亨號",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EM3h1b08wdTAtbjUyZktQZW1oUHZmSjc4UEhXNFhrQ1VTWFJ3dUJkYnkxTFc4Tm00TVJFSzNzbE5QSkZqX3F6SA?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 21:28:17 GMT",
+      "source": "鉅亨號",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EM3h1b08wdTAtbjUyZktQZW1oUHZmSjc4UEhXNFhrQ1VTWFJ3dUJkYnkxTFc4Tm00TVJFSzNzbE5QSkZqX3F6SA?oc=5\" target=\"_blank\"&gt;閃迪，將會是下一個SK海力士？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 創見(2451)大漲7.39%，報269元 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWTlseW4yQmhzTmh0NWxLUkZoa3NqbmRBZlhIVV8wOTV1Q2psZXJNOWFtRGlyaEU1cGxsNjUySDFOSkZVcUZpblJPd3hWa2o3VXZIVjV2N0RaV2Mxd2ctdVNwYjg?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 21:25:44 GMT",
+      "source": "LINE TODAY",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWTlseW4yQmhzTmh0NWxLUkZoa3NqbmRBZlhIVV8wOTV1Q2psZXJNOWFtRGlyaEU1cGxsNjUySDFOSkZVcUZpblJPd3hWa2o3VXZIVjV2N0RaV2Mxd2ctdVNwYjg?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大漲7.39%，報269元&l",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
+    },
+    {
+      "title": "三星西安NAND廠產量縮減恐至2027 忍痛升級換取長期競爭力 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVc1SDg0UmdNTnVyNmZRR2xyRXBacm9jTjFtZ1dRa1c3RDNyR09PczBRcUF0Q0FtWGxHQktCV1I4a3UycEF4XzYxOE9Sb2M4a05IRGwxRmZBZkNzaDRuN2NtNmktMnRZY2lNNFFDWFpVWnVWeC0yYTFpSmZyMFF2eHJldlNlTElfSmwxeVRR?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 18:04:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObVc1SDg0UmdNTnVyNmZRR2xyRXBacm9jTjFtZ1dRa1c3RDNyR09PczBRcUF0Q0FtWGxHQktCV1I4a3UycEF4XzYxOE9Sb2M4a05IRGwxRmZBZkNzaDRuN2NtNmktMnRZY2lNNFFDWFpVWnVWeC0yYTFpSmZyMFF2eHJldlNlTElfSmwxeVRR?oc=5",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
+    },
+    {
+      "title": "AI帶旺NAND需求 三星、SK海力士為搶市急升級中國廠 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtRcmY5aktVZnE0dHJJWlg1S3dwSTNpU1UyWnBMdmllTmktMkVFZXRuYmpBQmFObnluYlBYSXVmQXJYRmlMNmFRcHVoWTVGZ2hfdmk3bkxPaEMzc3dyWXhpZXluN3NaVHNRMkt4QkQtbnNReDFTMzYxUDFRX3lqbmVqMGxFSjhKOXhxS0dR?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 18:02:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtRcmY5aktVZnE0dHJJWlg1S3dwSTNpU1UyWnBMdmllTmktMkVFZXRuYmpBQmFObnluYlBYSXVmQXJYRmlMNmFRcHVoWTVGZ2hfdmk3bkxPaEMzc3dyWXhpZXluN3NaVHNRMkt4QkQtbnNReDFTMzYxUDFRX3lqbmVqMGxFSjhKOXhxS0dR?oc=5",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
+    },
+    {
+      "title": "創見 X 麻豆傳媒 USB 隨身碟 內含 2TB 高清無碼影片 創見︰絕無此事 - 電腦領域HKEPC Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNb0t1UzI4VkRiUGFpN01waVlvcUtjajJya1Nuc1hld1Nmczh2SUNVLUJMaUxwRnE1RmdEMG0tcllYMkZkb1FRVVUyeDdFdEFjN3BnUUl0Q19FZ29DZF8zU0lyQU8xdm9HY2RpME41d0tGYllVSWtjWkxkaWVFTGVqTWpBbzRudEJRYUpuaUFwaExhYlMxenFtSFM4bVBWRy1MMGFobVZ5a0dyaVN1ZEY0MUVWbVBsS212aG9hQmNQS1pJOG9LZlc3SHpXblpEVGExZVFWRnd1SE9DVUNlSkktUVdOdW43TS1ad2xsOWtBVnlBRUhCNmEwZG5oc2VyTWxjX2RfNmVSWlF5SXRvc2RadU1hRVNvYUFrLURlRFM1UWNONVA3aGI1RkRNeWFQQzdSdHRFMGNmZFFBeXhQODBWMTBEQjVlV0RuaEltTUo2UGdjYU50NEExOEktV2ZEbFZGU2o3cWdTNUhsYlk?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 08:42:37 GMT",
+      "source": "電腦領域HKEPC Hardware",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxNb0t1UzI4VkRiUGFpN01waVlvcUtjajJya1Nuc1hld1Nmczh2SUNVLUJMaUxwRnE1RmdEMG0tcllYMkZkb1FRVVUyeDdFdEFjN3BnUUl0Q19FZ29DZF8zU0lyQU8xdm9HY2RpME41d0tGYllVSWtjWkxkaWVFTGVqTWpBbzRudEJRYUpuaUFwaExhY",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-23T06:28:20.712Z"
     }
   ]
 }

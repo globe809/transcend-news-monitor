@@ -1,12 +1,12 @@
 {
   "period": "week",
-  "generatedAt": "2026-04-23T06:28:20.712Z",
-  "generatedAtTW": "2026-04-23 14:28 台灣時間",
+  "generatedAt": "2026-04-24T06:29:51.332Z",
+  "generatedAtTW": "2026-04-24 14:29 台灣時間",
   "stats": {
-    "total": 14,
-    "positive": 1,
+    "total": 16,
+    "positive": 2,
     "negative": 0,
-    "neutral": 13,
+    "neutral": 14,
     "byCategory": {
       "創見資訊": {
         "total": 3,
@@ -15,10 +15,10 @@
         "neutral": 3
       },
       "上游供應商": {
-        "total": 10,
-        "positive": 1,
+        "total": 12,
+        "positive": 2,
         "negative": 0,
-        "neutral": 9
+        "neutral": 10
       },
       "競品": {
         "total": 1,
@@ -32,8 +32,8 @@
         "date": "2026-04-17",
         "positive": 0,
         "negative": 0,
-        "neutral": 2,
-        "total": 2
+        "neutral": 1,
+        "total": 1
       },
       {
         "date": "2026-04-19",
@@ -65,14 +65,44 @@
       },
       {
         "date": "2026-04-23",
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 3,
+        "total": 4
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-24T06:29:51.332Z",
+      "category": "上游供應商",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WOGc1aXZhZWQ0V3hpSzRzNG1LS3pDdWktNERkbm9UVWVkV1c2OU84aWlvY0JReFdxYTQxODh0QXhybzc3SDMwR0o1Ni1FNXdOcUt2MU9lSEY4c3h4aFNSQTZvQ2dURnJpUnVF?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1WOGc1aXZhZWQ0V3hpSzRzNG1LS3pDdWktNERkbm9UVWVkV1c2OU84aWlvY0JReFdxYTQxODh0QXhybzc3SDMwR0o1Ni1FNXdOcUt2MU9lSEY4c3h4aFNSQTZvQ2dURnJpUnVF?oc=5\" target=\"_blank\"&gt;Kioxia推出針對PC OEM的全新主流KIOXIA",
+      "source": "Business Wire",
+      "title": "Kioxia推出針對PC OEM的全新主流KIOXIA BG8 系列固態硬碟 - Business Wire",
+      "pubDate": "Thu, 23 Apr 2026 18:26:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZVpCenVNRnl0Y09ydEdoc21Jd1UwZ3FrWmtmcWRaU1ZfNXJiTEpZTURNRXgxaEVqeTBUcWxuSnViYm5IaHN0ZEU1SjRCVU5OeF8yUTZNaVJWUdIBX0FVX3lxTFBMdF9UZnpjcEpMU0N0SXFKUHBnVjFiZDdmQUlGWFNCVW54RFJvUlRIZG93Vldta1NMWDVMa2hNMGdKemZseGZUUEFWQkVCSXZQLWdYT2F3OHVETDlQUG1j?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZVpCenVNRnl0Y09ydEdoc21Jd1UwZ3FrWmtmcWRaU1ZfNXJiTEpZTURNRXgxaEVqeTBUcWxuSnViYm5IaHN0ZEU1SjRCVU5OeF8yUTZNaVJWUdIBX0FVX3lxTFBMdF9UZnpjcEpMU0N0SXFKUHBnVjFiZDdmQUlGWFNCVW54RFJvUlRIZG93Vldta",
+      "fetchedAt": "2026-04-24T06:29:51.332Z",
+      "source": "經濟日報",
+      "category": "上游供應商",
+      "title": "SK海力士：報價漲勢會更長 - 經濟日報",
+      "pubDate": "Thu, 23 Apr 2026 16:50:53 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuZkJlbV9tSl95dHJHQ1NLWHU4R0ZBNkF6Rk9lTkQ5aFdiZlhRUmlIMWtQeE5mNEFNS2NES2p3VTQ3Um0xdXJWdHdmbXNjcHZPQkdNMw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuZkJlbV9tSl95dHJHQ1NLWHU4R0ZBNkF6Rk9lTkQ5aFdiZlhRUmlIMWtQeE5mNEFNS2NES2p3VTQ3Um0xdXJWdHdmbXNjcHZPQkdNMw?oc=5\" target=\"_blank\"&gt;SanDisk為什麼漲?為什麼閃迪價格貴那麼多?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "fetchedAt": "2026-04-24T06:29:51.332Z",
+      "source": "EBC Financial Group",
+      "category": "上游供應商",
+      "title": "SanDisk為什麼漲?為什麼閃迪價格貴那麼多? - EBC Financial Group",
+      "pubDate": "Thu, 23 Apr 2026 10:53:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84cWM1TEIwNmI0cjlMdzJ5QXNmSHlCdjB0TktmMmhrcU9xUExHNjhCOEZmajdYbGRkTHBTY2lxME5sVXhPVlZydEhXcjdQU2p0dUx2bVB2MWp2UkVQVEh4ZmI2X2JhRzFsT0p4UA?oc=5",
@@ -202,16 +232,6 @@
       "category": "上游供應商",
       "title": "NAND供應持續緊張 SanDisk目標價再獲上調 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
       "pubDate": "Fri, 17 Apr 2026 15:04:07 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U29RLWhXbWZhNjlYMEMxS0pydVNsbFNvR05Rem1xQ0d6LS1lRWItb3lyc19IQU15XzcxSTdLeXpObzhTcHFHb1hQalAwVE9UQThzQkhBRTY0M016a2drSVBndEpVbEJiOXlHdVBLb3ZYQWZjakdRSjJ6dW9ObVhZNENubGpwR2VuQ0pLSUF0ZWJKeUE2QmxqZHNROW5kNzJYYU5GSmdxVmNpWmdyUHdITFpCV05SRGV4VWY2aEQ1anI3QllKT1l2QXV6VndnUTh2RWlGUlY2U21qNzhoTU5vLTZBSExTTm9TVFlENG9wcWpzWERoV2cwaEJaX0o5UGFremk2cWlyVjdRNlMtWHJWREtVZ29PazZmeTU2OElGR2pMYi1NY0Zka1lqR0V6cTUwLVo4M3g4?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwANBVV95cUxOTHFDLXpTTmRNNWJiSjc0TzZnRlVRY21LRDVoS1FyS05XQmVweUtXdGhrcHNPWjZyNVZKVkRTa0tXVGpsR3RySUt1RkZMRTlfRG9vTUtfYkg5akhpdkxzUzBuS3RlSm91UDZlcFRIS0pxNU9SZUVLaVJua3FockpZS2kyS19ZQzhLamJYS2FGdld0U",
-      "source": "sinotrade.com.tw",
-      "category": "上游供應商",
-      "title": "SanDisk（SNDK）正式叩關那斯達克100，記憶體超級週期再添機構背書｜美股觀察｜豐雲學堂2026 年 04 月 - sinotrade.com.tw",
-      "fetchedAt": "2026-04-17T06:24:05.160Z",
-      "pubDate": "Fri, 17 Apr 2026 05:35:39 GMT"
     }
   ]
 }

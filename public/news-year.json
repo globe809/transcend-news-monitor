@@ -1,43 +1,73 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-24T06:29:51.332Z",
-  "generatedAtTW": "2026-04-24 14:29 台灣時間",
+  "generatedAt": "2026-04-25T06:06:28.838Z",
+  "generatedAtTW": "2026-04-25 14:06 台灣時間",
   "stats": {
-    "total": 68,
-    "positive": 29,
+    "total": 71,
+    "positive": 30,
     "negative": 0,
-    "neutral": 39,
+    "neutral": 41,
     "byCategory": {
       "創見資訊": {
-        "total": 40,
+        "total": 41,
         "positive": 20,
         "negative": 0,
-        "neutral": 20
+        "neutral": 21
       },
       "上游供應商": {
-        "total": 26,
-        "positive": 8,
+        "total": 27,
+        "positive": 9,
         "negative": 0,
         "neutral": 18
       },
       "競品": {
-        "total": 2,
+        "total": 3,
         "positive": 1,
         "negative": 0,
-        "neutral": 1
+        "neutral": 2
       }
     },
     "trend": [
       {
         "date": "2026-04",
-        "positive": 29,
+        "positive": 30,
         "negative": 0,
-        "neutral": 39,
-        "total": 68
+        "neutral": 41,
+        "total": 71
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPZ0EtUEc0a0FDSHdSaXNyQWhNell2Z29tX1YwanNoT094NEF3NFVxNlNDZy1NUkdBREk3OVVrYlJ0eXFkUHV6b0lrUkFlcVAwa3JHbkkwX1pnVTVCWlpkT0RUam4wczY1RExwVVRfZ1h4X2hLdjJQclJyRHRxazZIb1pYWXJ4RFAwUFhoSTNubUlXWkJjbHJSZEFHQmVXMUFnX1ppcVFScXh3YjdwaXJQNkRaVkdXU0piLUVjNDZMdktsczdLT2V2V1pmZDlZQUVTenBuRkt2ZnljN2NJWEJ4cG5kdUpfakF0RTFRS3ZJS25lMGFVeDdvelhhLVpxMDhGak9GeVFvNkhkdzJ5N1FxMDBVb1JHRDlnTUlDV1pXcnViM0JtZC1vLV85SXlCWkwxbi1VZjBpS3JKQWl6VzQ5akVXS3o2Q2dXZjJGdDJxRkRaOHM4cDRZY2ZwRC1HMDB6SGVTcjdJaEUxODlfeXNRZnE2M3l5dndVNlFXelE2c2RObW9uM0ZHUEZWVUR1UHFQYmNYZkwwSjQ3WmR6bzkxS3d6X0cyaVJIaS1sN3FZVVFhRmJRS25HaW1pSzlxbE95SzdpdXJBcHZ4eUhhQi1MeGsyTnZyY05sdm5EUG44bjluQ0lYNzVqdTNpQ19KSkZoNGxsQzRzbVBFUVFXWXRvalZmNjNvTENhSVZ5d3BoM3ExcHRvYzNYUWpZS2t6X2pCLVRFcUlaMkUxVGhtaXVHRTk5bjNZY1EtaEJGMi03ZFFNaVliTmZDMllGRVk5U2NYaERpbnlTNkN0UVE4bWxmM3BPZ3FCNXppWnZwNmpHSmxWOG5iRV9RWERnQWZiVTExek5pbkJ0SS15SkZncXdF?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwVBVV95cUxPZ0EtUEc0a0FDSHdSaXNyQWhNell2Z29tX1YwanNoT094NEF3NFVxNlNDZy1NUkdBREk3OVVrYlJ0eXFkUHV6b0lrUkFlcVAwa3JHbkkwX1pnVTVCWlpkT0RUam4wczY1RExwVVRfZ1h4X2hLdjJQclJyRHRxazZIb1pYWXJ4RFAwUFhoSTNubUlXW",
+      "fetchedAt": "2026-04-25T06:06:28.838Z",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "台積電飆1880新天價 張忠謀身價躍上2451億! 第2名是他 資產暴增183億 - MSN",
+      "pubDate": "Fri, 24 Apr 2026 17:35:35 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXI4VFFLeDgtNW1vWXRSU2NfUExwdnFfT1NqS19PLWNoTzMtUUxKTHg5T3VqTTZieWVUSV82VTFuOWQ1eGFlUDM0RFNXdFlYU05zdF9CemFZQ1VMQnItTEs3QmR5dzRzYk1lUVA1WUxSWWtXRks2QnVqel9rcGk5cW5ZVDk5UTMtSkt0QWdR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXI4VFFLeDgtNW1vWXRSU2NfUExwdnFfT1NqS19PLWNoTzMtUUxKTHg5T3VqTTZieWVUSV82VTFuOWQ1eGFlUDM0RFNXdFlYU05zdF9CemFZQ1VMQnItTEs3QmR5dzRzYk1lUVA1WUxSWWtXRks2QnVqel9rcGk5cW5ZVDk5UTMtSkt0QWdR?oc=5",
+      "fetchedAt": "2026-04-25T06:06:28.838Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "【22:06 即時新聞】Sandisk/SNDK 勁揚 5% 再創高位，受惠 NAND 價格飆漲與 AI 記憶體缺貨題材 - CMoney投資網誌",
+      "pubDate": "Fri, 24 Apr 2026 14:06:51 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWDdiTlJyTEczNllrODZuUlBlQ3FERlRFOFBWclFjM09Mc1NReUxuN0x3SDc2Zmc3U2tDeUFheUd6Tm5Sd0dfeTA4OUgtdDRUaG9rQ1ZBYmQ4ek5MMnpvMzFncEtGbkJLVTQtUXYzQzVHenNr?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWDdiTlJyTEczNllrODZuUlBlQ3FERlRFOFBWclFjM09Mc1NReUxuN0x3SDc2Zmc3U2tDeUFheUd6Tm5Sd0dfeTA4OUgtdDRUaG9rQ1ZBYmQ4ek5MMnpvMzFncEtGbkJLVTQtUXYzQzVHenNr?oc=5\" target=\"_blank\"&gt;全面搶占市場領導地位！金士頓持",
+      "fetchedAt": "2026-04-25T06:06:28.838Z",
+      "source": "UNIKO's Hardware",
+      "category": "競品",
+      "title": "全面搶占市場領導地位！金士頓持續強化 Design-In 與工業級解決方案布局 - UNIKO's Hardware",
+      "pubDate": "Fri, 24 Apr 2026 10:00:08 GMT"
+    },
     {
       "sentiment": "positive",
       "fetchedAt": "2026-04-24T06:29:51.332Z",

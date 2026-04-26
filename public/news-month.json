@@ -1,30 +1,30 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-25T06:06:28.838Z",
-  "generatedAtTW": "2026-04-25 14:06 台灣時間",
+  "generatedAt": "2026-04-26T06:30:01.960Z",
+  "generatedAtTW": "2026-04-26 14:30 台灣時間",
   "stats": {
-    "total": 71,
+    "total": 74,
     "positive": 30,
     "negative": 0,
-    "neutral": 41,
+    "neutral": 44,
     "byCategory": {
       "創見資訊": {
-        "total": 41,
+        "total": 42,
         "positive": 20,
         "negative": 0,
-        "neutral": 21
+        "neutral": 22
       },
       "上游供應商": {
-        "total": 27,
+        "total": 28,
         "positive": 9,
         "negative": 0,
-        "neutral": 18
+        "neutral": 19
       },
       "競品": {
-        "total": 3,
+        "total": 4,
         "positive": 1,
         "negative": 0,
-        "neutral": 2
+        "neutral": 3
       }
     },
     "trend": [
@@ -130,21 +130,58 @@
         "date": "2026-04-24",
         "positive": 1,
         "negative": 0,
-        "neutral": 2,
-        "total": 3
+        "neutral": 1,
+        "total": 2
+      },
+      {
+        "date": "2026-04-25",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 4,
+        "total": 4
       }
     ]
   },
   "news": [
     {
       "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPZ0EtUEc0a0FDSHdSaXNyQWhNell2Z29tX1YwanNoT094NEF3NFVxNlNDZy1NUkdBREk3OVVrYlJ0eXFkUHV6b0lrUkFlcVAwa3JHbkkwX1pnVTVCWlpkT0RUam4wczY1RExwVVRfZ1h4X2hLdjJQclJyRHRxazZIb1pYWXJ4RFAwUFhoSTNubUlXWkJjbHJSZEFHQmVXMUFnX1ppcVFScXh3YjdwaXJQNkRaVkdXU0piLUVjNDZMdktsczdLT2V2V1pmZDlZQUVTenBuRkt2ZnljN2NJWEJ4cG5kdUpfakF0RTFRS3ZJS25lMGFVeDdvelhhLVpxMDhGak9GeVFvNkhkdzJ5N1FxMDBVb1JHRDlnTUlDV1pXcnViM0JtZC1vLV85SXlCWkwxbi1VZjBpS3JKQWl6VzQ5akVXS3o2Q2dXZjJGdDJxRkRaOHM4cDRZY2ZwRC1HMDB6SGVTcjdJaEUxODlfeXNRZnE2M3l5dndVNlFXelE2c2RObW9uM0ZHUEZWVUR1UHFQYmNYZkwwSjQ3WmR6bzkxS3d6X0cyaVJIaS1sN3FZVVFhRmJRS25HaW1pSzlxbE95SzdpdXJBcHZ4eUhhQi1MeGsyTnZyY05sdm5EUG44bjluQ0lYNzVqdTNpQ19KSkZoNGxsQzRzbVBFUVFXWXRvalZmNjNvTENhSVZ5d3BoM3ExcHRvYzNYUWpZS2t6X2pCLVRFcUlaMkUxVGhtaXVHRTk5bjNZY1EtaEJGMi03ZFFNaVliTmZDMllGRVk5U2NYaERpbnlTNkN0UVE4bWxmM3BPZ3FCNXppWnZwNmpHSmxWOG5iRV9RWERnQWZiVTExek5pbkJ0SS15SkZncXdF?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwVBVV95cUxPZ0EtUEc0a0FDSHdSaXNyQWhNell2Z29tX1YwanNoT094NEF3NFVxNlNDZy1NUkdBREk3OVVrYlJ0eXFkUHV6b0lrUkFlcVAwa3JHbkkwX1pnVTVCWlpkT0RUam4wczY1RExwVVRfZ1h4X2hLdjJQclJyRHRxazZIb1pYWXJ4RFAwUFhoSTNubUlXW",
-      "fetchedAt": "2026-04-25T06:06:28.838Z",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQVGVzbmZOUnBhWldDMlg0Vm1lenlvWHgtZ0lnTzNmWWRkNWFnQWZnRnlENUFORlZyTDdLRDJIR0hWaDk5MXpvWFlhZ2tLZERzcng3Y0lpN0JWRHRTOEM5c2p5QzVjSk1RLWZWa2YxUXdvZzJvQlQwMzFhOE9TWU5udnZjcWNhZUVmc2NXZUt0SmNTVUJ0TzFuYTJ4Q3JVWlpiaTRGeEcyLVdRWC1EOFZ5eWFLWmtFWjhWM29fNjV0bGI4b1czdjhkM3JvVENJMlV1a3FBQUNPNjhSNnB0NXltRG1zZjdsRW00UkQ2M0szcVBoZmZQZW1FbGxDTC1OWXFsVVJScVd3R2dnbTNnY2U0MzhtN0M2eEFDQUJjZ0syRGM5Z1F6NXFRMTBmcUFCV0lXN2FWN190WTF6MW81Y3VCbkVRZFBmYTZIR2lkNEhLMkpvM1RlTlB0dVdxX3hvamk5aml1UmthZnVlQ3pEQ3VWZ3FEbnJwdlAzSFgxZjh5VzhnZkd0M0JVSlZPMFU5LWs0a0dFYzhiV2IwMkJsQ0NucC1TUExRN2NTekZ3TW1QTnBST2RzbmFTUzJjb25HdTNvdFZCd3FHR1hfdG81eVV1ZkhZNzl1SU5JQnBiQm41QWtyRXJFOXZNVGh1bEwxOVBORmU3NHI2U3RBOVZMYmpGQjBuVS1LT2FPY2JMcU94VGp4WHc4LTgw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxQVGVzbmZOUnBhWldDMlg0Vm1lenlvWHgtZ0lnTzNmWWRkNWFnQWZnRnlENUFORlZyTDdLRDJIR0hWaDk5MXpvWFlhZ2tLZERzcng3Y0lpN0JWRHRTOEM5c2p5QzVjSk1RLWZWa2YxUXdvZzJvQlQwMzFhOE9TWU5udnZjcWNhZUVmc2NXZUt0SmNTV",
+      "fetchedAt": "2026-04-26T06:30:01.960Z",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "記憶體供給緊缺嚴峻 創見： 仍致力減緩衝擊 - MSN",
+      "pubDate": "Sat, 25 Apr 2026 23:53:14 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMVzI4dS1rM1FmYUNtTnN4Z0VTSFZDSDVDay1MWGtFUFNPYnVtR2R2OHc1c0NHanp0eXNNd1A5QjZKUkxZNWxhZk1VVnhxaktZbjRkSW02alZ4RlZMd01kc3J3VHduS1VodVRUT2gzOUc0VFJ4OXhRLXBvam1mSkI1MHJCUDV1a1pKSlljUmZwcmc0NzJ1QXM3c3B1NVd4dmk4eGJXMDJSM0hFc1ExMmNOR1VRcUNWbVhLZlNxNzZ2Ukx5dzNiYjRkTmlseEpyRnRYVjl3N0xtZlZxYzBwcXFOQVdtQ2pJV05IT1lBVllOanI3TzVYci1ub1pRMjlOQS1rLU5OMy01S0lnaUsweEYtWjJkVmtHVTB4Z0x0bDFHbWl5T2VPSnJfdXo3cWhIZTBZVjNSRUxyQWpKWFY2TWVaNEgxYW0xUG85b3czb0FqVzdQQ0FzRXMwWE5nSlNMTVdOLVZYYlJwazVuZXVxdE9JeUNiQ3pwLWdmbzNYb2NDcmktTVpB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMV",
+      "fetchedAt": "2026-04-26T06:30:01.960Z",
+      "source": "MSN",
+      "category": "上游供應商",
+      "title": "記憶體最嚴重缺貨 創見：Flash報價飆5成 - MSN",
+      "pubDate": "Sat, 25 Apr 2026 20:46:39 GMT"
+    },
+    {
+      "sentiment": "neutral",
       "source": "MSN",
       "category": "創見資訊",
       "title": "台積電飆1880新天價 張忠謀身價躍上2451億! 第2名是他 資產暴增183億 - MSN",
-      "pubDate": "Fri, 24 Apr 2026 17:35:35 GMT"
+      "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQd0N4Ul9wQlVsSDZGcHZReWdfeW14T1NRNjZCbVRJaEh1MFhXeVBTSFU2cTVXUUdldUF2TGs2YzJRWVYwbG45V3VLSi11Nk1Bb0x0V1lkYnZnZVlyaFZaeHJIc0ZwSzZtT0JVVGRPY2pIWldXMDRZdDFBRzdhcnR6cVlHNENjVlhIall4Z2VpdVQ3OHV0ejhxclA2RXdQWldiU2Npc1lhUXN4WGZidlpuakY3RFhYNXg0MGNORDR2V1B2XzBxSlIzZnZrZ3pFbThQYkFEc21GaUZpUUZhWE4wVnhnNlQyYk51SGozLWFVY0E1X1FDams4aGF3TjJVZndnRGQ2b21VZ0RXcVNadGdrcko4R2N0c0VlZjZuVnBmcnAxaU5MRWhXV2JsdDFrazZzdlJVLTcyc1VoTFlSZVJINDhmRHktZ2haRFlGZWRmNWpBWkVhRExuQ0x4ZzFFeDkwUHVpVk9oTGdrYWYxaFVBeU1qcHBaSU5FWEI0UVh5QVJ6T1BYdmZsbHM0NHBQcWV5Q0gxLVBHa01ZdVNqc0ptaDB3OURNMllRRzdnRGJtdGZ0Y2QzaEJCWVZ1RWtEaEFQWVpxQlRpUkZSTkdaeGdUNnBpVmhyV1VuaXZfVUlOQUhOUnJVajE4MHZZY24yTExVUlR5ZUZucklxTVBjUGpMcTFicWxIaWdmZlNSUjQxc1hlWEc5VjBZSkFMX1dLV21VaUlGakJIdzl3X3ptUnU4V1pFMHRDdTVIWVZzZE5xb2gyc3JzYVlsUElLRHoxdF9FWERUUWtUMGFhSzJMd2FLazhvRVJ3dTZmblZrWnZjYXVfRmxhdGV6NEZ0MFpNVU1QV1FZVmUxRnFSZWozLUcwSXYwRQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwVBVV95cUxQd0N4Ul9wQlVsSDZGcHZReWdfeW14T1NRNjZCbVRJaEh1MFhXeVBTSFU2cTVXUUdldUF2TGs2YzJRWVYwbG45V3VLSi11Nk1Bb0x0V1lkYnZnZVlyaFZaeHJIc0ZwSzZtT0JVVGRPY2pIWldXMDRZdDFBRzdhcnR6cVlHNENjVlhIall4Z2VpdVQ3O",
+      "fetchedAt": "2026-04-26T06:30:01.960Z",
+      "pubDate": "Sat, 25 Apr 2026 15:39:48 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYTDZBV0czV21Nbk5XV1Z4OVBQNUE3YzE4RjdpUEhUaGtHMk40YXFOOXJSaW1IamM4am1tal9mYTNmYmhNTFlFa25kYkc4UHVab19JRHZsOFFlQ1RWc2NaNEJmWGlLbnpoOGxEUVZIRXNmS2xNeGhWcDBvdzBadE1LZThPSk1rby16X2RkbDRO?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYT",
+      "fetchedAt": "2026-04-26T06:30:01.960Z",
+      "source": "電腦領域HKEPC Hardware",
+      "category": "競品",
+      "title": "SAMSUNG、KINGSTON 宣布加價 加幅逾 10% SSD 累積漲幅已達 3 倍 - 電腦領域HKEPC Hardware",
+      "pubDate": "Sat, 25 Apr 2026 12:03:17 GMT"
     },
     {
       "sentiment": "positive",

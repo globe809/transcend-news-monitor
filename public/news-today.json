@@ -1,82 +1,119 @@
 {
   "period": "today",
-  "generatedAt": "2026-04-26T06:30:01.960Z",
-  "generatedAtTW": "2026-04-26 14:30 台灣時間",
+  "generatedAt": "2026-04-27T07:57:53.213Z",
+  "generatedAtTW": "2026-04-27 15:57 台灣時間",
   "stats": {
-    "total": 4,
-    "positive": 0,
-    "negative": 0,
+    "total": 7,
+    "positive": 2,
+    "negative": 1,
     "neutral": 4,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
-        "positive": 0,
+        "total": 4,
+        "positive": 1,
         "negative": 0,
-        "neutral": 2
+        "neutral": 3
       },
       "上游供應商": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
+        "total": 3,
+        "positive": 1,
+        "negative": 1,
         "neutral": 1
       },
       "競品": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-04-25",
-        "positive": 0,
+        "date": "2026-04-26",
+        "positive": 1,
         "negative": 0,
-        "neutral": 4,
+        "neutral": 2,
+        "total": 3
+      },
+      {
+        "date": "2026-04-27",
+        "positive": 1,
+        "negative": 1,
+        "neutral": 2,
         "total": 4
       }
     ]
   },
   "news": [
     {
-      "title": "記憶體供給緊缺嚴峻 創見： 仍致力減緩衝擊 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQVGVzbmZOUnBhWldDMlg0Vm1lenlvWHgtZ0lnTzNmWWRkNWFnQWZnRnlENUFORlZyTDdLRDJIR0hWaDk5MXpvWFlhZ2tLZERzcng3Y0lpN0JWRHRTOEM5c2p5QzVjSk1RLWZWa2YxUXdvZzJvQlQwMzFhOE9TWU5udnZjcWNhZUVmc2NXZUt0SmNTVUJ0TzFuYTJ4Q3JVWlpiaTRGeEcyLVdRWC1EOFZ5eWFLWmtFWjhWM29fNjV0bGI4b1czdjhkM3JvVENJMlV1a3FBQUNPNjhSNnB0NXltRG1zZjdsRW00UkQ2M0szcVBoZmZQZW1FbGxDTC1OWXFsVVJScVd3R2dnbTNnY2U0MzhtN0M2eEFDQUJjZ0syRGM5Z1F6NXFRMTBmcUFCV0lXN2FWN190WTF6MW81Y3VCbkVRZFBmYTZIR2lkNEhLMkpvM1RlTlB0dVdxX3hvamk5aml1UmthZnVlQ3pEQ3VWZ3FEbnJwdlAzSFgxZjh5VzhnZkd0M0JVSlZPMFU5LWs0a0dFYzhiV2IwMkJsQ0NucC1TUExRN2NTekZ3TW1QTnBST2RzbmFTUzJjb25HdTNvdFZCd3FHR1hfdG81eVV1ZkhZNzl1SU5JQnBiQm41QWtyRXJFOXZNVGh1bEwxOVBORmU3NHI2U3RBOVZMYmpGQjBuVS1LT2FPY2JMcU94VGp4WHc4LTgw?oc=5",
-      "pubDate": "Sat, 25 Apr 2026 23:53:14 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxQVGVzbmZOUnBhWldDMlg0Vm1lenlvWHgtZ0lnTzNmWWRkNWFnQWZnRnlENUFORlZyTDdLRDJIR0hWaDk5MXpvWFlhZ2tLZERzcng3Y0lpN0JWRHRTOEM5c2p5QzVjSk1RLWZWa2YxUXdvZzJvQlQwMzFhOE9TWU5udnZjcWNhZUVmc2NXZUt0SmNTV",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-26T06:30:01.960Z"
+      "title": "閃迪財報前瞻：AI儲存驅動業績爆發，估值與風險齊升 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1JZMEFad1FMRDVVR3hJTWpUUG5MeWh5ZzhOZC1QUTRUcmRaZmF5RUJnRG96UTNGZlRLekNubUNvRUVweUZNWmFuUjJ5NVlMdlpvTzZjSW4yc19MVlhUSlZtVEotNE5Fa1VUaWdwaXVYSkRrLWN5dDA1WGdNSGFQX2ZCOTdMbm9jWkFzeUt3SUw3bklNVnV2X2lTem5QWFRmWk9tVUNwTmEyLUd3WUthRl9JNWc4YUNDdmtab2RB?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 05:53:21 GMT",
+      "source": "TradingKey",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1JZMEFad1FMRDVVR3hJTWpUUG5MeWh5ZzhOZC1QUTRUcmRaZmF5RUJnRG96UTNGZlRLekNubUNvRUVweUZNWmFuUjJ5NVlMdlpvTzZjSW4yc19MVlhUSlZtVEotNE5Fa1VUaWdwaXVYSkRrLWN5dDA1WGdNSGFQX2ZCOTdMbm9jWkFzeUt3SUw3b",
+      "category": "上游供應商",
+      "sentiment": "negative",
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
     },
     {
-      "title": "記憶體最嚴重缺貨 創見：Flash報價飆5成 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMVzI4dS1rM1FmYUNtTnN4Z0VTSFZDSDVDay1MWGtFUFNPYnVtR2R2OHc1c0NHanp0eXNNd1A5QjZKUkxZNWxhZk1VVnhxaktZbjRkSW02alZ4RlZMd01kc3J3VHduS1VodVRUT2gzOUc0VFJ4OXhRLXBvam1mSkI1MHJCUDV1a1pKSlljUmZwcmc0NzJ1QXM3c3B1NVd4dmk4eGJXMDJSM0hFc1ExMmNOR1VRcUNWbVhLZlNxNzZ2Ukx5dzNiYjRkTmlseEpyRnRYVjl3N0xtZlZxYzBwcXFOQVdtQ2pJV05IT1lBVllOanI3TzVYci1ub1pRMjlOQS1rLU5OMy01S0lnaUsweEYtWjJkVmtHVTB4Z0x0bDFHbWl5T2VPSnJfdXo3cWhIZTBZVjNSRUxyQWpKWFY2TWVaNEgxYW0xUG85b3czb0FqVzdQQ0FzRXMwWE5nSlNMTVdOLVZYYlJwazVuZXVxdE9JeUNiQ3pwLWdmbzNYb2NDcmktTVpB?oc=5",
-      "pubDate": "Sat, 25 Apr 2026 20:46:39 GMT",
+      "title": "AI伺服器需求爆發、工控專案大出貨，創見1月營收年增逾440% 創高 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS3ZPQ0k4QVVwdlVPTjZXdFN6c2d5dEdZcjZSRmR4TnVvTjBBQWF6YXZCeVQtbERTLU5oQ2N3YWExblNBOTA1bEVwWG1LRlN2aWQtZU9TMEc0SndIenNGUlNMWDNZMnRDNGN1N1ZzSEFSNllTTlRBR0p5emsxRWFnNWlDdTdxY0djYnhXZmJ3bncyaXhzWTVkLTlTeEJodXA5SkM2OHlnbXlGYndfTy1MeUcxOUFKY1Mwc0lYeXRfRG51Q3RMYU9nendqc1dLQ1dnVzNpZVFSZHNtVl9wR2pocEo3OEN6ZG1ldFVJcEdZTFZRbC1MeUpEVlQtcWlrdWl4NWdwaFlXd3htdHU2V19iWXpFVFpYa2cwSTEzVFQtZFdBY2E4T3NMZ045NUpRTzJPZDZmX2FHNGphdUs1ZGxGVDBjUl9oWngzeDdGei1XaWQ2QlY3ZVAzSmdiVWdyeVYyZE4yRW1BcGRLUTRGcTNZNHRyakpiUWVTYzdkTk9FTTVxUWNJbXFibTg0NkJYSlhlMlUyYWc5Sjh5UjZPYlBGektVbjRwTFB2YzVYQmRtRjFJazU2QVVpU1ZZRTVzT1dCOVhoMGFucE9KRXdOMFNtM25Gd0drdi1MSUZ1aXdq?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 03:31:16 GMT",
       "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMV",
-      "category": "上游供應商",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
+    },
+    {
+      "title": "台股焦點：創見(2451.TW) - 台視全球資訊網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQQ?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 03:20:27 GMT",
+      "source": "台視全球資訊網",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQ",
+      "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-26T06:30:01.960Z"
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
     },
     {
       "title": "台積電飆1880新天價 張忠謀身價躍上2451億! 第2名是他 資產暴增183億 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxQd0N4Ul9wQlVsSDZGcHZReWdfeW14T1NRNjZCbVRJaEh1MFhXeVBTSFU2cTVXUUdldUF2TGs2YzJRWVYwbG45V3VLSi11Nk1Bb0x0V1lkYnZnZVlyaFZaeHJIc0ZwSzZtT0JVVGRPY2pIWldXMDRZdDFBRzdhcnR6cVlHNENjVlhIall4Z2VpdVQ3OHV0ejhxclA2RXdQWldiU2Npc1lhUXN4WGZidlpuakY3RFhYNXg0MGNORDR2V1B2XzBxSlIzZnZrZ3pFbThQYkFEc21GaUZpUUZhWE4wVnhnNlQyYk51SGozLWFVY0E1X1FDams4aGF3TjJVZndnRGQ2b21VZ0RXcVNadGdrcko4R2N0c0VlZjZuVnBmcnAxaU5MRWhXV2JsdDFrazZzdlJVLTcyc1VoTFlSZVJINDhmRHktZ2haRFlGZWRmNWpBWkVhRExuQ0x4ZzFFeDkwUHVpVk9oTGdrYWYxaFVBeU1qcHBaSU5FWEI0UVh5QVJ6T1BYdmZsbHM0NHBQcWV5Q0gxLVBHa01ZdVNqc0ptaDB3OURNMllRRzdnRGJtdGZ0Y2QzaEJCWVZ1RWtEaEFQWVpxQlRpUkZSTkdaeGdUNnBpVmhyV1VuaXZfVUlOQUhOUnJVajE4MHZZY24yTExVUlR5ZUZucklxTVBjUGpMcTFicWxIaWdmZlNSUjQxc1hlWEc5VjBZSkFMX1dLV21VaUlGakJIdzl3X3ptUnU4V1pFMHRDdTVIWVZzZE5xb2gyc3JzYVlsUElLRHoxdF9FWERUUWtUMGFhSzJMd2FLazhvRVJ3dTZmblZrWnZjYXVfRmxhdGV6NEZ0MFpNVU1QV1FZVmUxRnFSZWozLUcwSXYwRQ?oc=5",
-      "pubDate": "Sat, 25 Apr 2026 15:39:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxORHlsN19Ra0N1Rmt6cFBwNXI1LTA0WEI2TGdzaEFOZEFrNjZra1k1WUlnQ0o4SUhTdXJTSC1HTVJ4dHQ2TkVLNUdSRDlBSUUyZTlhSkJ6aG1fLW9tRWxDaUxfcGtQQWFkNnd4ckhyUFBiVkFVbEp1b0ZkUkpWdDhYQV9saXp4WHJCVDhqWXE1NG1KQTAtRWtBYUIwLU9nZmgwRDNMallDUTBZNTZNZC1ZZDZnZUZJT0RpYlRETUZPVV9EV3VDTlNYUm54SThMUERzamhLM3JSV0JFcFJHZUZuUTF0VUFsVzBsTVlZMmt1UUM2RXlDSTRkbm9qbTY5XzBoT2FfME8wMnBON05tR1hVRUlLNzFMUW91TE1tUHZUVkYzV0lQTUZoY0JHajVuQWoxZkwtRU1MYWx2TExzX3V5OHlKVmNoWGhlajJLRmppX19ibFFUamNqZ2lYRTdEMlk0dlhXRU9ySjRRSFNDejIwN3R2T2NHZnlSbnVyeVNMbUVKWWJyLUxyWXMtM3p5dU5sUGpwcWRDMjVSX3YwMHFnSGVXZGlmNjdjRWFONEUwcjh3SFlYcktERzhEczBlbFl5TFJvdVRlbkVOV0l2U1hsSDhfRmFUYkYtQURKX3Vrd0pkSW9sckFJMk1vUDQ2VjVYRTJKVjk4SWs2T0tqcDNydkluVTVIRkhfbDJhYWZGOTVvNXVsRW00R3RoRTdMT0lfZVFTcjdaRy1xYk5Gb1lXSm0ydWJSNnh1MDRXYXZWTTc0Rk9mRDJZOVVMdzVLN2xjNkZDNUNYVFdLbHV4UG9nMGJkek5acGhDQ1dPeEpFRHo?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 02:06:26 GMT",
       "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwVBVV95cUxQd0N4Ul9wQlVsSDZGcHZReWdfeW14T1NRNjZCbVRJaEh1MFhXeVBTSFU2cTVXUUdldUF2TGs2YzJRWVYwbG45V3VLSi11Nk1Bb0x0V1lkYnZnZVlyaFZaeHJIc0ZwSzZtT0JVVGRPY2pIWldXMDRZdDFBRzdhcnR6cVlHNENjVlhIall4Z2VpdVQ3O",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ARBVV95cUxORHlsN19Ra0N1Rmt6cFBwNXI1LTA0WEI2TGdzaEFOZEFrNjZra1k1WUlnQ0o4SUhTdXJTSC1HTVJ4dHQ2TkVLNUdSRDlBSUUyZTlhSkJ6aG1fLW9tRWxDaUxfcGtQQWFkNnd4ckhyUFBiVkFVbEp1b0ZkUkpWdDhYQV9saXp4WHJCVDhqWXE1NG1KQ",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-26T06:30:01.960Z"
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
     },
     {
-      "title": "SAMSUNG、KINGSTON 宣布加價 加幅逾 10% SSD 累積漲幅已達 3 倍 - 電腦領域HKEPC Hardware",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYTDZBV0czV21Nbk5XV1Z4OVBQNUE3YzE4RjdpUEhUaGtHMk40YXFOOXJSaW1IamM4am1tal9mYTNmYmhNTFlFa25kYkc4UHVab19JRHZsOFFlQ1RWc2NaNEJmWGlLbnpoOGxEUVZIRXNmS2xNeGhWcDBvdzBadE1LZThPSk1rby16X2RkbDRO?oc=5",
-      "pubDate": "Sat, 25 Apr 2026 12:03:17 GMT",
-      "source": "電腦領域HKEPC Hardware",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYT",
-      "category": "競品",
+      "title": "Kioxia推出針對PC OEM廠商的高性價比QLC架構Kioxia EG7 系列固態硬碟 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNbjB5TS13U3NZaXppNV9ZM3VFQURCQlJXbG5KYU1hbVR3a3JIMkNlcjNUVzdaclhDak5Nb2VLcC1CaTlqMlBXdmNlN2U3c0QwY0lSS3VoUEtJYXBLd181UnZETS1WOUZKZ2FxZjJvc1F5UUt6ZW0xbVd0MG5sNkRfbWswU1EwdnNpLXV2N25sdi1pbldWS00zNmtRSXNCZ19wZVZ0UktQTVl3Y0ZTQjZ4NFBoNlRTbnFFQnJLeFlKRFVTQ1EyOXpLWUxqOXkxX1llZm0zeW9sN2VLMndRV0xTRlhYQU5kMWRFNzlldXZlSmYwNXQ4bS1iLVU1XzZIeV83dC1xc3JEaXRvaURSRTVuQ2ZwbXY3NmtzeVF6b1Y0TURQdVdiV3JUUlJkeW5OYWg1SnVtaE1aaGNzaDNoeElZR1h6M3dudmtnSk9aS0NzTEt2UFRoYnJUd2pHR1ctR2txdkxOSXpLWktBeW9JR3pvVzVsZUNsWjZDOXNuV0RSSlI2VThJZUdNckhTNzFrRkpXM0Z5U2Fna1VjYlBsU0RrQzBpODZ0YzZ5Rjc2WFZEQjlBYTBBRjZZR0I5TVByM0dOUEktT042NWMxcVItRVkxSTNCd2JJSUxoLThMQnNWMUFNQzhpUVlOOWFxQ1FfYVRzblU4b254eDdyUQ?oc=5",
+      "pubDate": "Sun, 26 Apr 2026 23:30:43 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gNBVV95cUxNbjB5TS13U3NZaXppNV9ZM3VFQURCQlJXbG5KYU1hbVR3a3JIMkNlcjNUVzdaclhDak5Nb2VLcC1CaTlqMlBXdmNlN2U3c0QwY0lSS3VoUEtJYXBLd181UnZETS1WOUZKZ2FxZjJvc1F5UUt6ZW0xbVd0MG5sNkRfbWswU1EwdnNpLXV2N25sdi1pb",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
+    },
+    {
+      "title": "記憶體供給緊缺嚴峻 創見： 仍致力減緩衝擊 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNNUE1T0syU3RDSEVmTnJpbzd2Z3R0eHNvQjBGSDRYTWcwWlZSVTJFckNrclIxQm55NFFNUFROVGxjN1BiMUd6N1pDaEZMZEluSkxDMFBTVEZzN04xY0VLTU1NRDNySXk5b0dwRzNjRWUzaTdPQl9kSDJpbFp4QVJseEdxQ2VhVC1NN3hlalcxVS02NWtLRjl6MkJ0LVFaS0gwR2p1b21UWkF6UVo1bEhuUktOcFJrYkhWS2M0SkM1Y1RSeWszQmxhNmU0QWJRSGpFQzNpR1NiT3gyNUh5NHkzSG1zZXRDZGpiMjhXTGVJSkdOMlc4MW81LVlnZnU5OGYxRGpuRElTSWU5VkdkeE5laFY4RFNPZmRuZ2dOaXJtdENDeU1fSzltVlVSeldYUDJvcDkwMjA4dVY0djBJYTczeHVPbGdDVjFKZ2ljeHJCdjNuek1rNW4xaktjYU1mRU45aGhranhNZ0JvYlpPQUVwUm55dEZRSG9RNjJJNk5ncXdCNjdQb1Z6NkJmcGlNSG9Gdms0bExJM2ZCSWF3UjcxUFlqWUtBZk9Zeml0S3lOSjdNVUptN05GMnhjUGZzOW01QkZpM0NObGw5SFFGRGFWVEl3TlVqTkxjaENKRGxjZlJIY0dVTXBJQmNlWWNmOFBOWVpSM2xLVlVvWlN0elg3bjJ3OGZxbmN0RFFEX0VMYS0tbHRXTk1V?oc=5",
+      "pubDate": "Sun, 26 Apr 2026 19:20:06 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNNUE1T0syU3RDSEVmTnJpbzd2Z3R0eHNvQjBGSDRYTWcwWlZSVTJFckNrclIxQm55NFFNUFROVGxjN1BiMUd6N1pDaEZMZEluSkxDMFBTVEZzN04xY0VLTU1NRDNySXk5b0dwRzNjRWUzaTdPQl9kSDJpbFp4QVJseEdxQ2VhVC1NN3hlalcxVS02N",
+      "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-26T06:30:01.960Z"
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
+    },
+    {
+      "title": "AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5",
+      "pubDate": "Sun, 26 Apr 2026 19:00:00 GMT",
+      "source": "工商時報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5\" target=\"_blank\"&gt;AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報&lt;",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-04-27T07:57:53.213Z"
     }
   ]
 }

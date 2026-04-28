@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-27T07:57:53.213Z",
-  "generatedAtTW": "2026-04-27 15:57 台灣時間",
+  "generatedAt": "2026-04-28T07:57:02.017Z",
+  "generatedAtTW": "2026-04-28 15:57 台灣時間",
   "stats": {
-    "total": 78,
-    "positive": 31,
+    "total": 83,
+    "positive": 35,
     "negative": 1,
-    "neutral": 46,
+    "neutral": 47,
     "byCategory": {
       "創見資訊": {
         "total": 44,
@@ -15,29 +15,119 @@
         "neutral": 23
       },
       "上游供應商": {
-        "total": 30,
-        "positive": 9,
+        "total": 34,
+        "positive": 13,
         "negative": 1,
         "neutral": 20
       },
       "競品": {
-        "total": 4,
+        "total": 5,
         "positive": 1,
         "negative": 0,
-        "neutral": 3
+        "neutral": 4
       }
     },
     "trend": [
       {
         "date": "2026-04",
-        "positive": 31,
+        "positive": 35,
         "negative": 1,
-        "neutral": 46,
-        "total": 78
+        "neutral": 47,
+        "total": 83
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UlhrRHpWUTE3OHhoTHk0Q0NjMElNN0RkT09NaF9HVjltdTkzazZkd2VONWZOaXFJa2hfVEl3WFFXWHgzQUxGbTI4cjZfUQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UlhrRHpWUTE3OHhoTHk0Q0NjMElNN0RkT09NaF9HVjltdTkzazZkd2VONWZOaXFJa2hfVEl3WFFXWHgzQUxGbTI4cjZfUQ?oc=5\" target=\"_blank\"&gt;Adata威剛65W氮化鎵快充特價499元快充支援1A2C輸出偏好台灣品牌可考慮#65W快充(248103)&lt;/a&gt;&",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "source": "Cool3c",
+      "category": "競品",
+      "title": "Adata威剛65W氮化鎵快充特價499元快充支援1A2C輸出偏好台灣品牌可考慮#65W快充(248103) - Cool3c",
+      "pubDate": "Tue, 28 Apr 2026 07:16:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS3ZPQ0k4QVVwdlVPTjZXdFN6c2d5dEdZcjZSRmR4TnVvTjBBQWF6YXZCeVQtbERTLU5oQ2N3YWExblNBOTA1bEVwWG1LRlN2aWQtZU9TMEc0SndIenNGUlNMWDNZMnRDNGN1N1ZzSEFSNllTTlRBR0p5emsxRWFnNWlDdTdxY0djYnhXZmJ3bncyaXhzWTVkLTlTeEJodXA5SkM2OHlnbXlGYndfTy1MeUcxOUFKY1Mwc0lYeXRfRG51Q3RMYU9nendqc1dLQ1dnVzNpZVFSZHNtVl9wR2pocEo3OEN6ZG1ldFVJcEdZTFZRbC1MeUpEVlQtcWlrdWl4NWdwaFlXd3htdHU2V19iWXpFVFpYa2cwSTEzVFQtZFdBY2E4T3NMZ045NUpRTzJPZDZmX2FHNGphdUs1ZGxGVDBjUl9oWngzeDdGei1XaWQ2QlY3ZVAzSmdiVWdyeVYyZE4yRW1BcGRLUTRGcTNZNHRyakpiUWVTYzdkTk9FTTVxUWNJbXFibTg0NkJYSlhlMlUyYWc5Sjh5UjZPYlBGektVbjRwTFB2YzVYQmRtRjFJazU2QVVpU1ZZRTVzT1dCOVhoMGFucE9KRXdOMFNtM25Gd0drdi1MSUZ1aXdq?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "AI伺服器需求爆發、工控專案大出貨，創見1月營收年增逾440% 創高 - MSN",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "pubDate": "Tue, 28 Apr 2026 02:44:54 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZEdSY1pwc3FBbWNwaFhJMXoxeGtCYW81N0c3QUVqX3hIc0swblNvUEZUOC0zSFRFQTRJYmZsbS1ZVXFqVWtXQ1YzZTBGbmdEaEHSAW5BVV95cUxPN3p2UnJ2eVBsSzA5Mll0OXA2eEJGWndRektMTGF1MUtSNWZqLWdiOWQzYmRHREh6VzByWEg4b3kzaGpBSlBBLWJIU0N1b2wwT21fTUdZUzFYTDM5NTQ1YkN1UXp4b0xhaVVpV2V2Zw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZEdSY1pwc3FBbWNwaFhJMXoxeGtCYW81N0c3QUVqX3hIc0swblNvUEZUOC0zSFRFQTRJYmZsbS1ZVXFqVWtXQ1YzZTBGbmdEaEHSAW5BVV95cUxPN3p2UnJ2eVBsSzA5Mll0OXA2eEJGWndRektMTGF1MUtSNWZqLWdiOWQzYmRHREh6VzByWEg4b",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "source": "ETtoday財經雲",
+      "category": "上游供應商",
+      "title": "美光、Sandisk創高！3檔記憶體霸占成交榜　旺宏漲近8% - ETtoday財經雲",
+      "pubDate": "Tue, 28 Apr 2026 02:03:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "台積電飆1880新天價 張忠謀身價躍上2451億! 第2名是他 資產暴增183億 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOR0liQ3dkSXpLYmt4VDdhVjdNREV1NENDWDRCNEhVU3JtNkNFQ081RHAtelNWWGdZS0pocWd5VHFtR2UzQWRRSVV1Z3RUbW44MUVCVW9fTWtMRl9LR0JUZ3JWb2g2dy1FaDF4TldtZ0RXdlRvTGJoOXZSZUJLWWlDMURtT01JU2tOdE5iUFVGR01qYWxrZ3BPR1ZFU1k5bWNlUEpYMVZYQlRScG5xc00xMFROcUJIclRCdmlCRm82Ykh2aUZReFA3cHlYZkRsUzd0WFM5NUtvVy1EM0RuUHl5RUdFZXMxWDQ3SERjdUxkbFJhVkxpb0I1NHlvc2RWbVg4c0NSQk5weFQ5S2ZVS1I3TWVObkc4ZlVYc0FfUUFMYkhZTlEza0JoRm5BY09PZUZ2QkxFZ0hobGMzMTRWZklkcV9LbzRscl9IbGRlRFJzbVpwWjN3R1pyVkxMQTdRS1JDd2NwRXR0UzR1X1I0LWR4UWYtNzRXcThfMjBkWFJhUTlSZUJQNlVYajJ4SVdvNFE0blpTYUNaVVRibTg1RWpZNkJyNEdOZDdJNl9EWW1XS3FqTjMweGNTUTNRVnctLWdUR2ltVTJleVQ2VlR2b2NmN19veGptUVBVdlIzTG8zSWRwbEh6MlJaaXFZUlBLMUdBNGc3RFY1SG9jN0lERDctUndtWnh4bHE2RC0wV1N6cTRGdGpiNmcybTdVZWxtVmhlWEJ2bEJ2eXBwUl9taVNXdHlOWTRUdjJndl8wbHlDZEVTb014YlMtOGp2aHgxQmVQVTRZQ294SDd0aXd5X3lmOFV1VERzMlZzT25ocVoxakI?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ARBVV95cUxOR0liQ3dkSXpLYmt4VDdhVjdNREV1NENDWDRCNEhVU3JtNkNFQ081RHAtelNWWGdZS0pocWd5VHFtR2UzQWRRSVV1Z3RUbW44MUVCVW9fTWtMRl9LR0JUZ3JWb2g2dy1FaDF4TldtZ0RXdlRvTGJoOXZSZUJLWWlDMURtT01JU2tOdE5iUFVGR01qY",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "pubDate": "Mon, 27 Apr 2026 23:50:11 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmh0MHhfM1JVRkVOYTR1X0tsazdxOWdRNjJmMjBScjFqYWlKTWotbzdHdmtwaEhrU2dVTkhGa1M0Vmk0UDYxUDJLaHZWSDR2N3lfVHIwZjRBZFpWby1OaFJvT005NVJPVTVOdGc0R21oWFB6SklYQWtJM1V6aF92QUVPeExUbHJOaEExMmxFT04?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmh0MHhfM1JVRkVOYTR1X0tsazdxOWdRNjJmMjBScjFqYWlKTWotbzdHdmtwaEhrU2dVTkhGa1M0Vmk0UDYxUDJLaHZWSDR2N3lfVHIwZjRBZFpWby1OaFJvT005NVJPVTVOdGc0R21oWFB6SklYQWtJM1V6aF92QUVPeExUbHJOaEExMmxFT04?o",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "【即時新聞】旺宏法說會宣布產能大致填滿，看好2026年下半年NOR NAND報價續漲 - CMoney投資網誌",
+      "pubDate": "Mon, 27 Apr 2026 22:06:53 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "source": "MSN",
+      "category": "上游供應商",
+      "title": "記憶體最嚴重缺貨 創見：Flash報價飆5成 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQejd4NDlkM01McW9ZdUZuX0prQzlHMEFMT2VqUDg1YzlOSzdGcEdibmtlcXVuSFBHZ0ZzT1hSaHd1RndFWGhzTTFaUE1UemlDZHY5UTVNVHNBZ1R4aExUZHEtYlF6cUoycjF2SWotY2c4aVhROFlLbHpfM0ZnQkxsanVoc0RBUXdQUHN1TVYxVkRFa2cwVUFZLTZTcW5kenlOdWxOUXhmNWlpVkc3ZnJ6Tmp0WFpucG9tRFpBMjBIWlNhU0sxbkRLcThtUFc4d1ZGR2IzRGRIWXB4MTZnLVIzRUEtdTJfaVlGMENjbGRoSEJRd3Bnb2l1eDhjVmhPVFQyZ0pvVmVfazdGLS1oaFVNR2w4VEpsSDI2OVVKbnVKWlhSZmFlTnJtS0Z6blplRjB1UTd6ZGIzN01vYnpKQnQ0aXVScjJaWWNtVVZ0T1ZRR2loelZsZ3ltdXA0LU9YR1BsRTM5SVlxMHJPMnh6QV9RV3AwUndQM01TOXdxb3AzaWdNQlpsSHZKRWFjVUwyRGRmUkFqQVRwVGlDUi12d3NPNUh4cm1Wbk9BN2plZEFyNzRidHBVNDkxckZSdzR4Sm53T2ptVk9zZ3ZBZWl4cWlsa1FkaFpYOURmQndvclNObUM4anNkYUdOcUlTYU5QTU1aS2xFVHQ2ZUZQNlVmaHhGbmNZdVEzNHB6OW5zcXFR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgRBVV95cUxQejd4NDlkM01McW9ZdUZuX0prQzlHMEFMT2VqUDg1YzlOSzdGcEdibmtlcXVuSFBHZ0ZzT1hSaHd1RndFWGhzTTFaUE1UemlDZHY5UTVNVHNBZ1R4aExUZHEtYlF6cUoycjF2SWotY2c4aVhROFlLbHpfM0ZnQkxsanVoc0RBUXdQUHN1TVYxVkRFa",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "pubDate": "Mon, 27 Apr 2026 20:03:37 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMXlJNnU1TjdOVzZoMVE4Y2dLY2ZUc2ZFOV9FeWZEREdid0NWekRObzY2SGppazcxM2RVZTdhQjMtS3otVkpQQnRFcDg3ZlhnWVVra2U2YUdpUdIBX0FVX3lxTE8xS3BxTy1pbkNKdjVjLW9JTDN1ZklxYjJiT253dnljczkwdnpsU3hIaXN2OXdyc19zNWNZb0xpN3dsbGJjNnFQLUM1cUMxTTJ5TXd0WllIWk00TEkyV0Fr?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMXlJNnU1TjdOVzZoMVE4Y2dLY2ZUc2ZFOV9FeWZEREdid0NWekRObzY2SGppazcxM2RVZTdhQjMtS3otVkpQQnRFcDg3ZlhnWVVra2U2YUdpUdIBX0FVX3lxTE8xS3BxTy1pbkNKdjVjLW9JTDN1ZklxYjJiT253dnljczkwdnpsU3hIaXN2OXdyc",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "source": "經濟日報",
+      "category": "上游供應商",
+      "title": "旺宏：產能大致被填滿 看好2026年下半年 NOR、NAND 報價續揚 - 經濟日報",
+      "pubDate": "Mon, 27 Apr 2026 16:35:32 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "記憶體供給緊缺嚴峻 創見： 仍致力減緩衝擊 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQQmpjWkQ3UHlrSjloVUN6M1o1amNfa0QybWs4a3dLcjFCX2NVNU1ocXpfTTNUWWVJTDRKRjZmUXNsR3FFMG1BUU1mZk03T2FJa2pnOUkzVWJ2RWJmNGRNRWpmeFBIT2JGSW8xaE96ODhzYUc0NmEzb3VoUlVuQnIwOFczWEg1OEh0ZUZ2Qm9yb2VBMlNuYWRiQTdxbDdEUjdzaFhpOWNhSU9YQ1lZR0phb2drNXRWazAyV0wyZzU0SWdwUFRwbXFUdmYwSjZlb0NJaThlVjg4RnVzbWxxSU1DblJhMnBXcVZBdHZvTWt1anZBcXNYbnZnMnl2T3FrWGp1Uy1lc3czOUxGeldyQy1aUEdnbUJ5QTJIUks0Z1A2WXN0V09pNjZFX25rNVFwSFFodWVTUUNjai1UM3Y4QllwYXdHclNhdUZKV2xUbEwwbnNvOE52bFM5ZEtLbzRrdjFSNi1xcUowa01yTnBUamR5TW9Lbl9pU3RBc3ptQ0dhc0daWmExbC1nWFN1NHVTaDFJeUtvNTlwWWRIQm45ZTZpdFJURUFSSDJFVTJyVEd4UFpSVHN6cTJNYlpITGFQOGVaNk1UUE9kaldtaUpiZmJ4R2dEVkV0UGNOZ2ZiUVdxMjc3ZDN6X3FpMF9FeXF0MHF6bFhRNA?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxQQmpjWkQ3UHlrSjloVUN6M1o1amNfa0QybWs4a3dLcjFCX2NVNU1ocXpfTTNUWWVJTDRKRjZmUXNsR3FFMG1BUU1mZk03T2FJa2pnOUkzVWJ2RWJmNGRNRWpmeFBIT2JGSW8xaE96ODhzYUc0NmEzb3VoUlVuQnIwOFczWEg1OEh0ZUZ2Qm9yb2VBM",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "pubDate": "Mon, 27 Apr 2026 15:35:16 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zd0UzQ2RyMk9jX3RXUnhvbzhhdFBmcnpEeVNPUU1Wd0M1QzdHV0s3NmdWWmNiTkl0VkFmVXM2Q2hmcTFhRGNqVDE0SDdSWHFHcW1oN0xoUVZnMEMzZWVDZkc2dFRzTVhraFB5clBn?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE4zd0UzQ2RyMk9jX3RXUnhvbzhhdFBmcnpEeVNPUU1Wd0M1QzdHV0s3NmdWWmNiTkl0VkFmVXM2Q2hmcTFhRGNqVDE0SDdSWHFHcW1oN0xoUVZnMEMzZWVDZkc2dFRzTVhraFB5clBn?oc=5\" target=\"_blank\"&gt;NAND價格飆升推動SanDisk股價上漲,分",
+      "fetchedAt": "2026-04-28T07:57:02.017Z",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "category": "上游供應商",
+      "title": "NAND價格飆升推動SanDisk股價上漲,分析師轉趨看好 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "pubDate": "Mon, 27 Apr 2026 13:09:28 GMT"
+    },
     {
       "sentiment": "negative",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1JZMEFad1FMRDVVR3hJTWpUUG5MeWh5ZzhOZC1QUTRUcmRaZmF5RUJnRG96UTNGZlRLekNubUNvRUVweUZNWmFuUjJ5NVlMdlpvTzZjSW4yc19MVlhUSlZtVEotNE5Fa1VUaWdwaXVYSkRrLWN5dDA1WGdNSGFQX2ZCOTdMbm9jWkFzeUt3SUw3bklNVnV2X2lTem5QWFRmWk9tVUNwTmEyLUd3WUthRl9JNWc4YUNDdmtab2RB?oc=5",
@@ -49,16 +139,6 @@
       "pubDate": "Mon, 27 Apr 2026 05:53:21 GMT"
     },
     {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS3ZPQ0k4QVVwdlVPTjZXdFN6c2d5dEdZcjZSRmR4TnVvTjBBQWF6YXZCeVQtbERTLU5oQ2N3YWExblNBOTA1bEVwWG1LRlN2aWQtZU9TMEc0SndIenNGUlNMWDNZMnRDNGN1N1ZzSEFSNllTTlRBR0p5emsxRWFnNWlDdTdxY0djYnhXZmJ3bncyaXhzWTVkLTlTeEJodXA5SkM2OHlnbXlGYndfTy1MeUcxOUFKY1Mwc0lYeXRfRG51Q3RMYU9nendqc1dLQ1dnVzNpZVFSZHNtVl9wR2pocEo3OEN6ZG1ldFVJcEdZTFZRbC1MeUpEVlQtcWlrdWl4NWdwaFlXd3htdHU2V19iWXpFVFpYa2cwSTEzVFQtZFdBY2E4T3NMZ045NUpRTzJPZDZmX2FHNGphdUs1ZGxGVDBjUl9oWngzeDdGei1XaWQ2QlY3ZVAzSmdiVWdyeVYyZE4yRW1BcGRLUTRGcTNZNHRyakpiUWVTYzdkTk9FTTVxUWNJbXFibTg0NkJYSlhlMlUyYWc5Sjh5UjZPYlBGektVbjRwTFB2YzVYQmRtRjFJazU2QVVpU1ZZRTVzT1dCOVhoMGFucE9KRXdOMFNtM25Gd0drdi1MSUZ1aXdq?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "AI伺服器需求爆發、工控專案大出貨，創見1月營收年增逾440% 創高 - MSN",
-      "pubDate": "Mon, 27 Apr 2026 03:31:16 GMT"
-    },
-    {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQQ?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQ",
@@ -67,16 +147,6 @@
       "category": "創見資訊",
       "title": "台股焦點：創見(2451.TW) - 台視全球資訊網",
       "pubDate": "Mon, 27 Apr 2026 03:20:27 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "台積電飆1880新天價 張忠謀身價躍上2451億! 第2名是他 資產暴增183億 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxORHlsN19Ra0N1Rmt6cFBwNXI1LTA0WEI2TGdzaEFOZEFrNjZra1k1WUlnQ0o4SUhTdXJTSC1HTVJ4dHQ2TkVLNUdSRDlBSUUyZTlhSkJ6aG1fLW9tRWxDaUxfcGtQQWFkNnd4ckhyUFBiVkFVbEp1b0ZkUkpWdDhYQV9saXp4WHJCVDhqWXE1NG1KQTAtRWtBYUIwLU9nZmgwRDNMallDUTBZNTZNZC1ZZDZnZUZJT0RpYlRETUZPVV9EV3VDTlNYUm54SThMUERzamhLM3JSV0JFcFJHZUZuUTF0VUFsVzBsTVlZMmt1UUM2RXlDSTRkbm9qbTY5XzBoT2FfME8wMnBON05tR1hVRUlLNzFMUW91TE1tUHZUVkYzV0lQTUZoY0JHajVuQWoxZkwtRU1MYWx2TExzX3V5OHlKVmNoWGhlajJLRmppX19ibFFUamNqZ2lYRTdEMlk0dlhXRU9ySjRRSFNDejIwN3R2T2NHZnlSbnVyeVNMbUVKWWJyLUxyWXMtM3p5dU5sUGpwcWRDMjVSX3YwMHFnSGVXZGlmNjdjRWFONEUwcjh3SFlYcktERzhEczBlbFl5TFJvdVRlbkVOV0l2U1hsSDhfRmFUYkYtQURKX3Vrd0pkSW9sckFJMk1vUDQ2VjVYRTJKVjk4SWs2T0tqcDNydkluVTVIRkhfbDJhYWZGOTVvNXVsRW00R3RoRTdMT0lfZVFTcjdaRy1xYk5Gb1lXSm0ydWJSNnh1MDRXYXZWTTc0Rk9mRDJZOVVMdzVLN2xjNkZDNUNYVFdLbHV4UG9nMGJkek5acGhDQ1dPeEpFRHo?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ARBVV95cUxORHlsN19Ra0N1Rmt6cFBwNXI1LTA0WEI2TGdzaEFOZEFrNjZra1k1WUlnQ0o4SUhTdXJTSC1HTVJ4dHQ2TkVLNUdSRDlBSUUyZTlhSkJ6aG1fLW9tRWxDaUxfcGtQQWFkNnd4ckhyUFBiVkFVbEp1b0ZkUkpWdDhYQV9saXp4WHJCVDhqWXE1NG1KQ",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "pubDate": "Mon, 27 Apr 2026 02:06:26 GMT"
     },
     {
       "sentiment": "positive",
@@ -90,16 +160,6 @@
     },
     {
       "sentiment": "neutral",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "記憶體供給緊缺嚴峻 創見： 仍致力減緩衝擊 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNNUE1T0syU3RDSEVmTnJpbzd2Z3R0eHNvQjBGSDRYTWcwWlZSVTJFckNrclIxQm55NFFNUFROVGxjN1BiMUd6N1pDaEZMZEluSkxDMFBTVEZzN04xY0VLTU1NRDNySXk5b0dwRzNjRWUzaTdPQl9kSDJpbFp4QVJseEdxQ2VhVC1NN3hlalcxVS02NWtLRjl6MkJ0LVFaS0gwR2p1b21UWkF6UVo1bEhuUktOcFJrYkhWS2M0SkM1Y1RSeWszQmxhNmU0QWJRSGpFQzNpR1NiT3gyNUh5NHkzSG1zZXRDZGpiMjhXTGVJSkdOMlc4MW81LVlnZnU5OGYxRGpuRElTSWU5VkdkeE5laFY4RFNPZmRuZ2dOaXJtdENDeU1fSzltVlVSeldYUDJvcDkwMjA4dVY0djBJYTczeHVPbGdDVjFKZ2ljeHJCdjNuek1rNW4xaktjYU1mRU45aGhranhNZ0JvYlpPQUVwUm55dEZRSG9RNjJJNk5ncXdCNjdQb1Z6NkJmcGlNSG9Gdms0bExJM2ZCSWF3UjcxUFlqWUtBZk9Zeml0S3lOSjdNVUptN05GMnhjUGZzOW01QkZpM0NObGw5SFFGRGFWVEl3TlVqTkxjaENKRGxjZlJIY0dVTXBJQmNlWWNmOFBOWVpSM2xLVlVvWlN0elg3bjJ3OGZxbmN0RFFEX0VMYS0tbHRXTk1V?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNNUE1T0syU3RDSEVmTnJpbzd2Z3R0eHNvQjBGSDRYTWcwWlZSVTJFckNrclIxQm55NFFNUFROVGxjN1BiMUd6N1pDaEZMZEluSkxDMFBTVEZzN04xY0VLTU1NRDNySXk5b0dwRzNjRWUzaTdPQl9kSDJpbFp4QVJseEdxQ2VhVC1NN3hlalcxVS02N",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "pubDate": "Sun, 26 Apr 2026 19:20:06 GMT"
-    },
-    {
-      "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5\" target=\"_blank\"&gt;AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報&lt;",
       "fetchedAt": "2026-04-27T07:57:53.213Z",
@@ -107,16 +167,6 @@
       "category": "上游供應商",
       "title": "AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報 - 工商時報",
       "pubDate": "Sun, 26 Apr 2026 19:00:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMVzI4dS1rM1FmYUNtTnN4Z0VTSFZDSDVDay1MWGtFUFNPYnVtR2R2OHc1c0NHanp0eXNNd1A5QjZKUkxZNWxhZk1VVnhxaktZbjRkSW02alZ4RlZMd01kc3J3VHduS1VodVRUT2gzOUc0VFJ4OXhRLXBvam1mSkI1MHJCUDV1a1pKSlljUmZwcmc0NzJ1QXM3c3B1NVd4dmk4eGJXMDJSM0hFc1ExMmNOR1VRcUNWbVhLZlNxNzZ2Ukx5dzNiYjRkTmlseEpyRnRYVjl3N0xtZlZxYzBwcXFOQVdtQ2pJV05IT1lBVllOanI3TzVYci1ub1pRMjlOQS1rLU5OMy01S0lnaUsweEYtWjJkVmtHVTB4Z0x0bDFHbWl5T2VPSnJfdXo3cWhIZTBZVjNSRUxyQWpKWFY2TWVaNEgxYW0xUG85b3czb0FqVzdQQ0FzRXMwWE5nSlNMTVdOLVZYYlJwazVuZXVxdE9JeUNiQ3pwLWdmbzNYb2NDcmktTVpB?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgRBVV95cUxOVU9qUjc2eXR5YU1aZV92OVloeXM4blk4MmRzTGdOU1JHcDlLeksxbkl5VUtKZmFMR0VhSGNJa3BkTEZCR0lsSGxqRHJjUE5Pb3pPOTNEUXlJWVNCT0M2V2dhLW9GcHJFdzhnOS15TjY4aE5mTWRpZnJrdUhxenhZTzdGWnNLOGozbjZGY1JPa1pMV",
-      "fetchedAt": "2026-04-26T06:30:01.960Z",
-      "source": "MSN",
-      "category": "上游供應商",
-      "title": "記憶體最嚴重缺貨 創見：Flash報價飆5成 - MSN",
-      "pubDate": "Sat, 25 Apr 2026 20:46:39 GMT"
     },
     {
       "sentiment": "neutral",

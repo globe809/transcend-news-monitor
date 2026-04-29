@@ -1,24 +1,24 @@
 {
   "period": "year",
-  "generatedAt": "2026-04-28T07:57:02.017Z",
-  "generatedAtTW": "2026-04-28 15:57 台灣時間",
+  "generatedAt": "2026-04-29T07:52:02.045Z",
+  "generatedAtTW": "2026-04-29 15:52 台灣時間",
   "stats": {
-    "total": 83,
-    "positive": 35,
+    "total": 90,
+    "positive": 40,
     "negative": 1,
-    "neutral": 47,
+    "neutral": 49,
     "byCategory": {
       "創見資訊": {
-        "total": 44,
-        "positive": 21,
+        "total": 46,
+        "positive": 22,
         "negative": 0,
-        "neutral": 23
+        "neutral": 24
       },
       "上游供應商": {
-        "total": 34,
-        "positive": 13,
+        "total": 39,
+        "positive": 17,
         "negative": 1,
-        "neutral": 20
+        "neutral": 21
       },
       "競品": {
         "total": 5,
@@ -30,14 +30,94 @@
     "trend": [
       {
         "date": "2026-04",
-        "positive": 35,
+        "positive": 40,
         "negative": 1,
-        "neutral": 47,
-        "total": 83
+        "neutral": 49,
+        "total": 90
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNGJXYnJHMEdDczFRaXRpQ0laaXRJTEFBdVd2N210US1uOGJsdGRfdHI0N1lDOW1ZVktKdXJSSnllX3ctaFlCOVhMR0tTbUFPN3M3bEJabnIydmRu?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNGJXYnJHMEdDczFRaXRpQ0laaXRJTEFBdVd2N210US1uOGJsdGRfdHI0N1lDOW1ZVktKdXJSSnllX3ctaFlCOVhMR0tTbUFPN3M3bEJabnIydmRu?oc=5\" target=\"_blank\"&gt;三星退出MLC市場 台廠旺宏成最大贏家！NAND營收暴增382%&lt;/a&gt;&amp;",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "太報 TaiSounds",
+      "category": "上游供應商",
+      "title": "三星退出MLC市場 台廠旺宏成最大贏家！NAND營收暴增382% - 太報 TaiSounds",
+      "pubDate": "Wed, 29 Apr 2026 06:09:05 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcDJwNDZYOWlEa3ctRlhKZERKVWJjZEVHby13b1Q2c2JBaHBqN21WR1NhVFA2dmwwWkJ0dFJXM0Z4N0Ytb1dpaTdKdFZCbTFEYldQTmIxZWd1ZlhtU1JwZUhDbHlXXzA?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcDJwNDZYOWlEa3ctRlhKZERKVWJjZEVHby13b1Q2c2JBaHBqN21WR1NhVFA2dmwwWkJ0dFJXM0Z4N0Ytb1dpaTdKdFZCbTFEYldQTmIxZWd1ZlhtU1JwZUhDbHlXXzA?oc=5\" target=\"_blank\"&gt;【即時新聞】【即時新聞】創見(2451)攻AI飆漲7％，這「4檔",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "【即時新聞】【即時新聞】創見(2451)攻AI飆漲7％，這「4檔概念股」多空大洗牌？ - CMoney",
+      "pubDate": "Wed, 29 Apr 2026 03:44:50 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iRGwwQjRMRUFJNlp3WHJ0SzU2WE9vby05NVFYWHFzQ0xZVlFKOVlsQnRRcXJoWWhOQzJjUlpYVFIwd2tlY00tZ3JTdXZQS01CQ2I0T2l5bld4ekhYSEV6YVRn0gFiQVVfeXFMT2JEbDBCNExFQUk2WndYcnRLNTZYT29vLTk1UVhYcXNDTFlWUUo5WWxCdFFxcmhZaE5DMmNSWlhUUjB3a2VjTS1nclN1dlBLTUJDYjRPaXluV3h6SFhIRXphVGc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iRGwwQjRMRUFJNlp3WHJ0SzU2WE9vby05NVFYWHFzQ0xZVlFKOVlsQnRRcXJoWWhOQzJjUlpYVFIwd2tlY00tZ3JTdXZQS01CQ2I0T2l5bld4ekhYSEV6YVRn0gFiQVVfeXFMT2JEbDBCNExFQUk2WndYcnRLNTZYT29vLTk1UVhYcXNDTFlWUUo5W",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "鏡週刊Mirror Media",
+      "category": "上游供應商",
+      "title": "三星撤這產品市場　台1廠接手營收增382% - 鏡週刊Mirror Media",
+      "pubDate": "Wed, 29 Apr 2026 03:33:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbGZwcTZMU3pBVzUxYmkwOUZrckFFVlFwYnkwbWlBYUJHZ3ZnTHA5MUFCUG1YWU1lcWhhLXV5NmVtMXAtc0RTUGgwWG1BNE0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbGZwcTZMU3pBVzUxYmkwOUZrckFFVlFwYnkwbWlBYUJHZ3ZnTHA5MUFCUG1YWU1lcWhhLXV5NmVtMXAtc0RTUGgwWG1BNE0?oc=5\" target=\"_blank\"&gt;三星退出「這產品」市場 外媒：1台廠填補空缺 營收暴增382%&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "TVBS新聞網",
+      "category": "上游供應商",
+      "title": "三星退出「這產品」市場 外媒：1台廠填補空缺 營收暴增382% - TVBS新聞網",
+      "pubDate": "Wed, 29 Apr 2026 02:40:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0lsV1F1dWt2d1BrRFRwVFdaT3VGbTVTZDROVGw1Q3ZtV1ktMzZ6dlhVTUxiem51TTJoYkRCVHdNMGtaR1hTckIxUnowVU9NcEJuXzV5eGpQX2x4QWJrOEJTZnFHb290VFpJR3JQLW5QeFVLZjBNOEIzVkIxVExRdEQwaFZ4a2M?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0lsV1F1dWt2d1BrRFRwVFdaT3VGbTVTZDROVGw1Q3ZtV1ktMzZ6dlhVTUxiem51TTJoYkRCVHdNMGtaR1hTckIxUnowVU9NcEJuXzV5eGpQX2x4QWJrOEJTZnFHb290VFpJR3JQLW5QeFVLZjBNOEIzVkIxVExRdEQwaFZ4a2M?oc=5\" target=",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "CMoney投資網誌",
+      "category": "創見資訊",
+      "title": "創見(2451)營收創歷史新高：從基本面與法人EPS預估拆解成長動能與風險-盤勢觀 - CMoney投資網誌",
+      "pubDate": "Wed, 29 Apr 2026 02:25:21 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "AI伺服器需求爆發、工控專案大出貨，創見1月營收年增逾440% 創高 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPcWM4MzBKNVdMdi1sem5QN0RuMkhjRURYSkEtZnpMNHAweDBlSmJQMTlERnVhWjNkRFdfM05YTzdfUGJvOUZrckhPMVhscFNsNjNqNlg3Q0JrZi0yNFVMWDVrSG1zWi1fa1NPWVk3clBxT3drVWJEMW5acXFKUExYTkw5cm0yTTlmZEtwMGdmX0FyTDQ3UG1nQzdfTUFtUjBVeWRsOUgwVkJlaWZqTXRMcHA3MC1pQVZtWHdpR0ZHMzJ5bndmcWk5QlgtYUNXd3JuZ1JxRFdiWDU4Z3hwZ2lXTm0tVi02dWwtYVRYNTlCRERMSXJvZGFQZm4xV1V3UWVSODhjUVhrdEJ6cGpBbnJaZ291ejFzdmw1Skl6dzktYkZBR0pwTGZsb2ZwZlVCbzEzdUdpQ25xWDNmMWNxZUhZcnYwZFkwczFYc2ROeW5OTGdOa0xuVm5tRVpJMkx3cExTLWV5Mk1SemdreE1TdGZ0WTFZTnZya2RhSG90d0ctNlFGUm9VMUFMWlNHU0p2T1BTLXBGNWlRSGJNY2RvWnBZSkkteUZuYU9ycURnUS1wbHR2LVVnbHMtOWFJaUVKQmdQcmpJSF91bDJJbS1uWFczN2NYTWoyMkNMSkU3QWZQMnJ5RFd6WFVDemE5Y3lkSXpnS21YanR1M0VXU3pGMUtCRjJYOHVZZGlHUVAyRDl3OW5sOVhtMXhybFRfV05kSGJiNUNCX0sybThKWE12ZVc0OFZ1X3J3UHJCcmR6bnJrMGRzcWNOcTJYaDltMXdFSy13T2NPck0tOENuWTV5dUpZVnNmcVZyMU1r?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxPcWM4MzBKNVdMdi1sem5QN0RuMkhjRURYSkEtZnpMNHAweDBlSmJQMTlERnVhWjNkRFdfM05YTzdfUGJvOUZrckhPMVhscFNsNjNqNlg3Q0JrZi0yNFVMWDVrSG1zWi1fa1NPWVk3clBxT3drVWJEMW5acXFKUExYTkw5cm0yTTlmZEtwMGdmX0FyT",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "pubDate": "Tue, 28 Apr 2026 22:54:07 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZaWFNwaWZsdlVVeTk5QkFwcUc4N2szUmpLb0ZsdmRNMHNjZ1hSMGhxMlRIek14M2NYZ2NTa3U5Ql92Q1JDc0J3N2l6QmhuVkE4UHM0aHdKUnU2SFFmLUt5cFpTTUVmQ2pNM21DaXh3SE9FUk5zeDExN1dEenlWRTFMR1JSVE81dnNndjRzZ1Y4TkRW?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZaWFNwaWZsdlVVeTk5QkFwcUc4N2szUmpLb0ZsdmRNMHNjZ1hSMGhxMlRIek14M2NYZ2NTa3U5Ql92Q1JDc0J3N2l6QmhuVkE4UHM0aHdKUnU2SFFmLUt5cFpTTUVmQ2pNM21DaXh3SE9FUk5zeDExN1dEenlWRTFMR1JSVE81dnNndjRzZ1Y4T",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "forecastock.tw",
+      "category": "上游供應商",
+      "title": "摩根史坦利猛烈上修SanDisk目標價至1100美元：NAND 超週期還沒結束？ - forecastock.tw",
+      "pubDate": "Tue, 28 Apr 2026 16:11:33 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaE9rQ3ktaGJXVW9RQ1B2TU1KaEFJY3MwTkxrVnhiLUktaVQ4NlVnQXhDckdPUTlMbUVVNVd0RG9ZcGlmSFN5RzRnSC1ycV9jQzNCbEQzaUtGbkFDRzJj0gFkQVVfeXFMT1Bva1AyS29KZHNEa3pNcTJYWjRFMm9sbFFtYUZlQ0NRY1dCc0VORXRvTjZwRGU4YkIzZFppRENuVXFodFdKQ2hIbU53VnlMOWZSQ2t6NEQyMzVaSElQdWNfMzNHMg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaE9rQ3ktaGJXVW9RQ1B2TU1KaEFJY3MwTkxrVnhiLUktaVQ4NlVnQXhDckdPUTlMbUVVNVd0RG9ZcGlmSFN5RzRnSC1ycV9jQzNCbEQzaUtGbkFDRzJj0gFkQVVfeXFMT1Bva1AyS29KZHNEa3pNcTJYWjRFMm9sbFFtYUZlQ0NRY1dCc0VORXRvT",
+      "fetchedAt": "2026-04-29T07:52:02.045Z",
+      "source": "自由財經",
+      "category": "上游供應商",
+      "title": "三星退出「這個產品」市場 1台廠吃到肥肉！營收激爆 - 自由財經",
+      "pubDate": "Tue, 28 Apr 2026 13:17:14 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UlhrRHpWUTE3OHhoTHk0Q0NjMElNN0RkT09NaF9HVjltdTkzazZkd2VONWZOaXFJa2hfVEl3WFFXWHgzQUxGbTI4cjZfUQ?oc=5",
@@ -47,16 +127,6 @@
       "category": "競品",
       "title": "Adata威剛65W氮化鎵快充特價499元快充支援1A2C輸出偏好台灣品牌可考慮#65W快充(248103) - Cool3c",
       "pubDate": "Tue, 28 Apr 2026 07:16:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS3ZPQ0k4QVVwdlVPTjZXdFN6c2d5dEdZcjZSRmR4TnVvTjBBQWF6YXZCeVQtbERTLU5oQ2N3YWExblNBOTA1bEVwWG1LRlN2aWQtZU9TMEc0SndIenNGUlNMWDNZMnRDNGN1N1ZzSEFSNllTTlRBR0p5emsxRWFnNWlDdTdxY0djYnhXZmJ3bncyaXhzWTVkLTlTeEJodXA5SkM2OHlnbXlGYndfTy1MeUcxOUFKY1Mwc0lYeXRfRG51Q3RMYU9nendqc1dLQ1dnVzNpZVFSZHNtVl9wR2pocEo3OEN6ZG1ldFVJcEdZTFZRbC1MeUpEVlQtcWlrdWl4NWdwaFlXd3htdHU2V19iWXpFVFpYa2cwSTEzVFQtZFdBY2E4T3NMZ045NUpRTzJPZDZmX2FHNGphdUs1ZGxGVDBjUl9oWngzeDdGei1XaWQ2QlY3ZVAzSmdiVWdyeVYyZE4yRW1BcGRLUTRGcTNZNHRyakpiUWVTYzdkTk9FTTVxUWNJbXFibTg0NkJYSlhlMlUyYWc5Sjh5UjZPYlBGektVbjRwTFB2YzVYQmRtRjFJazU2QVVpU1ZZRTVzT1dCOVhoMGFucE9KRXdOMFNtM25Gd0drdi1MSUZ1aXdq?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxONDZKdHBza2J1bHlCbHRKYlZWVmRtUUYxeFduNDJ2RmpXWXN3M3B5R1RUeTlRd3pQOUYzNzJGMmVlNXRjQzZNdVF3WE5nWTBXTDg1d0xETTFYMXgtaE5sLWJ1MlB3ck43azRRclBPZndfQWtlXzAxTjdHdGR0UjBEYnB4dy1QMEJXYWtEVl96eVdPS",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "AI伺服器需求爆發、工控專案大出貨，創見1月營收年增逾440% 創高 - MSN",
-      "fetchedAt": "2026-04-28T07:57:02.017Z",
-      "pubDate": "Tue, 28 Apr 2026 02:44:54 GMT"
     },
     {
       "sentiment": "positive",

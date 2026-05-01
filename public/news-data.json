@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-04-30T07:54:08.453Z",
-  "fetchedAtTW": "2026-04-30 15:54 台灣時間",
+  "fetchedAt": "2026-05-01T07:53:28.309Z",
+  "fetchedAtTW": "2026-05-01 15:53 台灣時間",
   "stats": {
-    "total": 10,
+    "total": 3,
     "positive": 1,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
-        "total": 7,
+        "total": 2,
         "positive": 1,
         "negative": 0,
-        "neutral": 6
+        "neutral": 1
       },
       "上游供應商": {
         "total": 1,
@@ -20,129 +20,52 @@
         "neutral": 1
       },
       "競品": {
-        "total": 2,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 2
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-04-29",
+        "date": "2026-04-30",
         "positive": 1,
         "negative": 0,
-        "neutral": 6,
-        "total": 7
-      },
-      {
-        "date": "2026-04-30",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 3,
+        "neutral": 2,
         "total": 3
       }
     ]
   },
   "news": [
     {
-      "title": "SP廣穎電通XPOWER Cyclone DDR5 RGB 再奪紅點設計大獎:其他記憶元件,記憶體模組 - CTIMES",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ec1hXU3VBUjVMLWVRd016MTk3NXRpdTUxVEtLeTU5WFRRUjN6MHJOUHU2ek5PU2FBWTJhS0s2WU1IMk9BVGd1WmJ2dHN2b1cwSlowRzJFcWFlS3cwdXlVMWpCakVMd3lVbno3c0pB?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 06:10:16 GMT",
-      "source": "CTIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ec1hXU3VBUjVMLWVRd016MTk3NXRpdTUxVEtLeTU5WFRRUjN6MHJOUHU2ek5PU2FBWTJhS0s2WU1IMk9BVGd1WmJ2dHN2b1cwSlowRzJFcWFlS3cwdXlVMWpCakVMd3lVbno3c0pB?oc=5\" target=\"_blank\"&gt;SP廣穎電通XPOWER Cyclone DD",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "SP 廣穎電通 XPOWER Cyclone DDR5 RGB 記憶體再奪紅點設計大獎 - TechSpace 鐵客空間",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VT2lSRDlyek5NazFseG16UDloS1ZrSmRtc0JQZ05kaEQ0am5EUUY3WHV4X2RjY0FaSVRKQmtSY1k2QURXLU1zLUhUNlVkR1k0OUJCX19kX0wyd2dIM0lJbW9COHJxVFIxaWFvUGxLa0lUWFk?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 05:50:32 GMT",
-      "source": "TechSpace 鐵客空間",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VT2lSRDlyek5NazFseG16UDloS1ZrSmRtc0JQZ05kaEQ0am5EUUY3WHV4X2RjY0FaSVRKQmtSY1k2QURXLU1zLUhUNlVkR1k0OUJCX19kX0wyd2dIM0lJbW9COHJxVFIxaWFvUGxLa0lUWFk?oc=5\" target=\"_blank\"&gt;SP 廣穎電通 XPOWER C",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "【數報】注意股:創見(2451)因近日借券賣出比率過大，今(04/30)日列為注意股 - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUJWSmFrSUxoZ1RoRHpJSFdmS3pyMC1wRzVWSzZIZ2h0dDRPVTk0dWNIeGR5UlhIck9jR0N1RWVUZjFySjhJbTV3dDVEc0NObnVjUGxlRkVCNmJocUFab1dEYXhqU2NCZmswai04czkzbzQ1d0N3Z05fSWZZUXE3UHJxWHRnVFhwZUpXVk5R?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 00:35:00 GMT",
-      "source": "富聯網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUJWSmFrSUxoZ1RoRHpJSFdmS3pyMC1wRzVWSzZIZ2h0dDRPVTk0dWNIeGR5UlhIck9jR0N1RWVUZjFySjhJbTV3dDVEc0NObnVjUGxlRkVCNmJocUFab1dEYXhqU2NCZmswai04czkzbzQ1d0N3Z05fSWZZUXE3UHJxWHRnVFhwZUpXVk5R?oc=5",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "《半導體》注意股：創見 近5日跌0.37% - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 23:55:00 GMT",
-      "source": "富聯網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5\" target",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "【即時新聞】創見(2451) AI效益外溢記憶體需求緊俏，出貨動能延續至2027年 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1BoaXFwS3Q3S2lyVGFxMkdNanNaV2YwUTRDS2JmNnUxNzNyd1VHazVmdW1DQlVLbFNuODQ2N2Zpd2xnNVQta2tTX3daZGNuR3RDdjNRUzk0QVd0S1A4QnNaWHoxeEdKcEc4RVhEV3Rma216VVhvcmVKQVdhbnVyRUhfWGF1cElCQ2hjQnl6d24?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 22:22:08 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1BoaXFwS3Q3S2lyVGFxMkdNanNaV2YwUTRDS2JmNnUxNzNyd1VHazVmdW1DQlVLbFNuODQ2N2Zpd2xnNVQta2tTX3daZGNuR3RDdjNRUzk0QVd0S1A4QnNaWHoxeEdKcEc4RVhEV3Rma216VVhvcmVKQVdhbnVyRUhfWGF1cElCQ2hjQnl6d24?o",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "2451 創見 - 股本雖大 小摩也不要看創見沒有🫵 市場遲早還他公道😎-股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISkpYdG5MMC1femtNY21GcUtFMGdqdXl5Wnc3QmN4TmE2dEVyYUh6V1lOMmQzd2lJN041MUhKYTJfWU4tbFNiQmEwQnhRdnMxeFA4NUZWWi0?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 17:52:56 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISkpYdG5MMC1femtNY21GcUtFMGdqdXl5Wnc3QmN4TmE2dEVyYUh6V1lOMmQzd2lJN041MUhKYTJfWU4tbFNiQmEwQnhRdnMxeFA4NUZWWi0?oc=5\" target=\"_blank\"&gt;2451 創見 - 股本雖大 小摩也不要看創見沒有🫵 市場遲早還他公道😎-股市爆料同學會&lt;/a",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 17:16:52 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "創見、佳必琪 權證四檔帶勁 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQemxORWR3RXYyb180dGJnNTRBRVFGWHc?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 17:06:41 GMT",
-      "source": "聯合新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQe",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
-    },
-    {
-      "title": "Wedbush表示，Sandisk將受益於更好的NAND定價機制。 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzNDZUU08xSk55bXhaNmNubkZVbGlQeS1BVjgteU1La2p6b04?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 16:21:14 GMT",
-      "source": "Moomoo",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzN",
+      "title": "SanDisk面臨財報考驗,NAND漲勢推動股價逼近高峰 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUtQNjBsRHJ5NWtVa0dxUlNYSEVRelA3ZzJPeWFxZlE0cVpMcE84VXlxSlVVNVV2SWN6ZG5iU1hkT1BEX1RPNVFySzNmZmRTOVhWaUlXQnFYLUh0WHJva1hValpRZU9NQnFz?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 17:19:50 GMT",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUtQNjBsRHJ5NWtVa0dxUlNYSEVRelA3ZzJPeWFxZlE0cVpMcE84VXlxSlVVNVV2SWN6ZG5iU1hkT1BEX1RPNVFySzNmZmRTOVhWaUlXQnFYLUh0WHJva1hValpRZU9NQnFz?oc=5\" target=\"_blank\"&gt;SanDisk面臨財報考驗,NAND漲勢推動股價逼近高",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
+      "fetchedAt": "2026-05-01T07:53:28.309Z"
     },
     {
-      "title": "2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5",
-      "pubDate": "Wed, 29 Apr 2026 08:49:04 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
+      "title": "討論牆 | 盤中速報 - 創見(2451)急拉3.56%報277.0元，成交2,497張 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnLXloU3VaTmtHSlVvV2M1Yk5JcDRsaW5LQWJzTkt4d2dSOUpCNU1FZUVtanpqSnFxVWZvV0JUcmVraXl6UERJMDhvOXBTNnE3cHVTaDFqQUlzaWtJaHlxLXU1ODc?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 12:18:52 GMT",
+      "source": "LINE TODAY",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnLXloU3VaTmtHSlVvV2M1Yk5JcDRsaW5LQWJzTkt4d2dSOUpCNU1FZUVtanpqSnFxVWZvV0JUcmVraXl6UERJMDhvOXBTNnE3cHVTaDFqQUlzaWtJaHlxLXU1ODc?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)急拉3.56%報277.0元，",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-04-30T07:54:08.453Z"
+      "fetchedAt": "2026-05-01T07:53:28.309Z"
+    },
+    {
+      "title": "2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5",
+      "pubDate": "Thu, 30 Apr 2026 08:49:04 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-01T07:53:28.309Z"
     }
   ]
 }

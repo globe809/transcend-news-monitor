@@ -1,24 +1,24 @@
 {
   "period": "month",
-  "generatedAt": "2026-04-30T07:54:08.453Z",
-  "generatedAtTW": "2026-04-30 15:54 台灣時間",
+  "generatedAt": "2026-05-01T07:53:28.309Z",
+  "generatedAtTW": "2026-05-01 15:53 台灣時間",
   "stats": {
-    "total": 100,
-    "positive": 41,
+    "total": 102,
+    "positive": 42,
     "negative": 1,
-    "neutral": 58,
+    "neutral": 59,
     "byCategory": {
       "創見資訊": {
-        "total": 53,
-        "positive": 23,
+        "total": 54,
+        "positive": 24,
         "negative": 0,
         "neutral": 30
       },
       "上游供應商": {
-        "total": 40,
+        "total": 41,
         "positive": 17,
         "negative": 1,
-        "neutral": 22
+        "neutral": 23
       },
       "競品": {
         "total": 7,
@@ -116,8 +116,8 @@
         "date": "2026-04-22",
         "positive": 0,
         "negative": 0,
-        "neutral": 5,
-        "total": 5
+        "neutral": 4,
+        "total": 4
       },
       {
         "date": "2026-04-23",
@@ -170,14 +170,44 @@
       },
       {
         "date": "2026-04-30",
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 3,
-        "total": 3
+        "neutral": 5,
+        "total": 6
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUtQNjBsRHJ5NWtVa0dxUlNYSEVRelA3ZzJPeWFxZlE0cVpMcE84VXlxSlVVNVV2SWN6ZG5iU1hkT1BEX1RPNVFySzNmZmRTOVhWaUlXQnFYLUh0WHJva1hValpRZU9NQnFz?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUtQNjBsRHJ5NWtVa0dxUlNYSEVRelA3ZzJPeWFxZlE0cVpMcE84VXlxSlVVNVV2SWN6ZG5iU1hkT1BEX1RPNVFySzNmZmRTOVhWaUlXQnFYLUh0WHJva1hValpRZU9NQnFz?oc=5\" target=\"_blank\"&gt;SanDisk面臨財報考驗,NAND漲勢推動股價逼近高",
+      "fetchedAt": "2026-05-01T07:53:28.309Z",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "category": "上游供應商",
+      "title": "SanDisk面臨財報考驗,NAND漲勢推動股價逼近高峰 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "pubDate": "Thu, 30 Apr 2026 17:19:50 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "source": "LINE TODAY",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnLXloU3VaTmtHSlVvV2M1Yk5JcDRsaW5LQWJzTkt4d2dSOUpCNU1FZUVtanpqSnFxVWZvV0JUcmVraXl6UERJMDhvOXBTNnE3cHVTaDFqQUlzaWtJaHlxLXU1ODc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnLXloU3VaTmtHSlVvV2M1Yk5JcDRsaW5LQWJzTkt4d2dSOUpCNU1FZUVtanpqSnFxVWZvV0JUcmVraXl6UERJMDhvOXBTNnE3cHVTaDFqQUlzaWtJaHlxLXU1ODc?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)急拉3.56%報277.0元，",
+      "fetchedAt": "2026-05-01T07:53:28.309Z",
+      "title": "討論牆 | 盤中速報 - 創見(2451)急拉3.56%報277.0元，成交2,497張 - LINE TODAY",
+      "pubDate": "Thu, 30 Apr 2026 12:18:52 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
+      "fetchedAt": "2026-05-01T07:53:28.309Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會 - CMoney",
+      "pubDate": "Thu, 30 Apr 2026 08:49:04 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ec1hXU3VBUjVMLWVRd016MTk3NXRpdTUxVEtLeTU5WFRRUjN6MHJOUHU2ek5PU2FBWTJhS0s2WU1IMk9BVGd1WmJ2dHN2b1cwSlowRzJFcWFlS3cwdXlVMWpCakVMd3lVbno3c0pB?oc=5",
@@ -557,16 +587,6 @@
       "category": "上游供應商",
       "title": "閃迪，將會是下一個SK海力士？ - 鉅亨號",
       "pubDate": "Wed, 22 Apr 2026 21:28:17 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "source": "LINE TODAY",
-      "category": "創見資訊",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWTlseW4yQmhzTmh0NWxLUkZoa3NqbmRBZlhIVV8wOTV1Q2psZXJNOWFtRGlyaEU1cGxsNjUySDFOSkZVcUZpblJPd3hWa2o3VXZIVjV2N0RaV2Mxd2ctdVNwYjg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWTlseW4yQmhzTmh0NWxLUkZoa3NqbmRBZlhIVV8wOTV1Q2psZXJNOWFtRGlyaEU1cGxsNjUySDFOSkZVcUZpblJPd3hWa2o3VXZIVjV2N0RaV2Mxd2ctdVNwYjg?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大漲7.39%，報269元&l",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "title": "討論牆 | 盤中速報 - 創見(2451)大漲7.39%，報269元 - LINE TODAY",
-      "pubDate": "Wed, 22 Apr 2026 21:25:44 GMT"
     },
     {
       "sentiment": "neutral",

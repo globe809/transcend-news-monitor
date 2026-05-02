@@ -1,10 +1,10 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-01T07:53:28.309Z",
-  "generatedAtTW": "2026-05-01 15:53 台灣時間",
+  "generatedAt": "2026-05-02T06:31:09.815Z",
+  "generatedAtTW": "2026-05-02 14:31 台灣時間",
   "stats": {
-    "total": 102,
-    "positive": 42,
+    "total": 103,
+    "positive": 43,
     "negative": 1,
     "neutral": 59,
     "byCategory": {
@@ -15,8 +15,8 @@
         "neutral": 30
       },
       "上游供應商": {
-        "total": 41,
-        "positive": 17,
+        "total": 42,
+        "positive": 18,
         "negative": 1,
         "neutral": 23
       },
@@ -30,14 +30,51 @@
     "trend": [
       {
         "date": "2026-04",
-        "positive": 42,
+        "positive": 41,
         "negative": 1,
-        "neutral": 59,
-        "total": 102
+        "neutral": 58,
+        "total": 100
+      },
+      {
+        "date": "2026-05",
+        "positive": 2,
+        "negative": 0,
+        "neutral": 1,
+        "total": 3
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "category": "競品",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aVUZvTTNuMTR4QzBYQ3lvd0pLc3VMTVlTdTVYMGV1X2cwSmw0NEppbV91V3M3TlcwS191aXdpWVRqaVBjYU1UelBzeU1ULXhPMXI5aERMNDVRRGx1YU9sM3VHNjFDWm1tdlMxSFNNTnByUQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5aVUZvTTNuMTR4QzBYQ3lvd0pLc3VMTVlTdTVYMGV1X2cwSmw0NEppbV91V3M3TlcwS191aXdpWVRqaVBjYU1UelBzeU1ULXhPMXI5aERMNDVRRGx1YU9sM3VHNjFDWm1tdlMxSFNNTnByUQ?oc=5\" target=\"_blank\"&gt;SP廣穎電通XPOWER Cycl",
+      "fetchedAt": "2026-05-02T06:31:09.815Z",
+      "source": "XFastest News",
+      "title": "SP廣穎電通XPOWER Cyclone DDR5 RGB 再奪紅點設計大獎連續斬獲iF 與紅點兩大國際設計殊榮 - XFastest News",
+      "pubDate": "Sat, 02 May 2026 04:00:37 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會 - CMoney",
+      "fetchedAt": "2026-05-02T06:31:09.815Z",
+      "pubDate": "Fri, 01 May 2026 12:39:48 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTHktV3BhTVN2a1FGeGJIVjFtUmlZWXVqQllmX3I4NEtTVU9OSGt6eE52RkFlVkRoUDhjei1vUmV0d3d3UmRZTTZveTAwY0FmeG5BeGRmOHRmeDFoT09XNk9NYmEycGF4VlFBUUlCUzhoNU0z?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTHktV3BhTVN2a1FGeGJIVjFtUmlZWXVqQllmX3I4NEtTVU9OSGt6eE52RkFlVkRoUDhjei1vUmV0d3d3UmRZTTZveTAwY0FmeG5BeGRmOHRmeDFoT09XNk9NYmEycGF4VlFBUUlCUzhoNU0z?oc=5\" target=\"_blank\"&gt;RBC Capital將San",
+      "fetchedAt": "2026-05-02T06:31:09.815Z",
+      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "category": "上游供應商",
+      "title": "RBC Capital將SanDisk目標價上調至1,000美元,看好NAND市場強勁表現 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
+      "pubDate": "Fri, 01 May 2026 09:10:37 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUtQNjBsRHJ5NWtVa0dxUlNYSEVRelA3ZzJPeWFxZlE0cVpMcE84VXlxSlVVNVV2SWN6ZG5iU1hkT1BEX1RPNVFySzNmZmRTOVhWaUlXQnFYLUh0WHJva1hValpRZU9NQnFz?oc=5",
@@ -57,26 +94,6 @@
       "fetchedAt": "2026-05-01T07:53:28.309Z",
       "title": "討論牆 | 盤中速報 - 創見(2451)急拉3.56%報277.0元，成交2,497張 - LINE TODAY",
       "pubDate": "Thu, 30 Apr 2026 12:18:52 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
-      "fetchedAt": "2026-05-01T07:53:28.309Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會 - CMoney",
-      "pubDate": "Thu, 30 Apr 2026 08:49:04 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ec1hXU3VBUjVMLWVRd016MTk3NXRpdTUxVEtLeTU5WFRRUjN6MHJOUHU2ek5PU2FBWTJhS0s2WU1IMk9BVGd1WmJ2dHN2b1cwSlowRzJFcWFlS3cwdXlVMWpCakVMd3lVbno3c0pB?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ec1hXU3VBUjVMLWVRd016MTk3NXRpdTUxVEtLeTU5WFRRUjN6MHJOUHU2ek5PU2FBWTJhS0s2WU1IMk9BVGd1WmJ2dHN2b1cwSlowRzJFcWFlS3cwdXlVMWpCakVMd3lVbno3c0pB?oc=5\" target=\"_blank\"&gt;SP廣穎電通XPOWER Cyclone DD",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CTIMES",
-      "category": "競品",
-      "title": "SP廣穎電通XPOWER Cyclone DDR5 RGB 再奪紅點設計大獎:其他記憶元件,記憶體模組 - CTIMES",
-      "pubDate": "Thu, 30 Apr 2026 06:10:16 GMT"
     },
     {
       "sentiment": "neutral",
@@ -1027,16 +1044,6 @@
       "title": "宜鼎3月營收月增35.8% - TechNews 科技新報",
       "pubDate": "Mon, 06 Apr 2026 10:38:06 GMT",
       "fetchedAt": "2026-04-07T05:59:57.756Z"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBILVgzV2dHdHRodURxdE9tcG9EOUFFMkNKV21ENExwdkZPeDBDaXN6eHZjdF9pZExvdW56akFzclBrLUN0QWkwbGR0V3NtU3hrd3JLcFpuNFg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBILVgzV2dHdHRodURxdE9tcG9EOUFFMkNKV21ENExwdkZPeDBDaXN6eHZjdF9pZExvdW56akFzclBrLUN0QWkwbGR0V3NtU3hrd3JLcFpuNFg?oc=5\" target=\"_blank\"&gt;2451 創見 - 5MA要站穩- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&amp;nb",
-      "fetchedAt": "2026-04-07T05:59:57.756Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 5MA要站穩- 股市爆料同學會 - CMoney",
-      "pubDate": "Mon, 06 Apr 2026 09:36:29 GMT"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-02T06:31:09.815Z",
-  "generatedAtTW": "2026-05-02 14:31 台灣時間",
+  "generatedAt": "2026-05-03T07:29:44.451Z",
+  "generatedAtTW": "2026-05-03 15:29 台灣時間",
   "stats": {
-    "total": 35,
+    "total": 34,
     "positive": 14,
     "negative": 1,
-    "neutral": 20,
+    "neutral": 19,
     "byCategory": {
       "創見資訊": {
         "total": 15,
@@ -21,20 +21,13 @@
         "neutral": 5
       },
       "競品": {
-        "total": 4,
+        "total": 3,
         "positive": 0,
         "negative": 0,
-        "neutral": 4
+        "neutral": 3
       }
     },
     "trend": [
-      {
-        "date": "2026-04-25",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      },
       {
         "date": "2026-04-26",
         "positive": 1,
@@ -426,16 +419,6 @@
       "category": "上游供應商",
       "title": "AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報 - 工商時報",
       "pubDate": "Sun, 26 Apr 2026 19:00:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYTDZBV0czV21Nbk5XV1Z4OVBQNUE3YzE4RjdpUEhUaGtHMk40YXFOOXJSaW1IamM4am1tal9mYTNmYmhNTFlFa25kYkc4UHVab19JRHZsOFFlQ1RWc2NaNEJmWGlLbnpoOGxEUVZIRXNmS2xNeGhWcDBvdzBadE1LZThPSk1rby16X2RkbDRO?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdTI0ZGZIS3E0ZXVxVXVVMTRVbHlWUVNRY0JYNFIta1ZhSUtJZGFmNHRTSU9ZdU9FZ0ZrS2lBOTFjTG9PMjZldVB2N0Z5dDY1amk1X1hhbDVwcVRwNEdaQTBxcXVZX0ZxV1JzVGtRc21VT1hZbWIzckR5Z0w5SWlsUTJuekhpMEZRNVVGUzN2a2NYT",
-      "fetchedAt": "2026-04-26T06:30:01.960Z",
-      "source": "電腦領域HKEPC Hardware",
-      "category": "競品",
-      "title": "SAMSUNG、KINGSTON 宣布加價 加幅逾 10% SSD 累積漲幅已達 3 倍 - 電腦領域HKEPC Hardware",
-      "pubDate": "Sat, 25 Apr 2026 12:03:17 GMT"
     }
   ]
 }

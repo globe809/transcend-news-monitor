@@ -1,79 +1,33 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-02T06:31:09.815Z",
-  "generatedAtTW": "2026-05-02 14:31 台灣時間",
+  "generatedAt": "2026-05-03T07:29:44.451Z",
+  "generatedAtTW": "2026-05-03 15:29 台灣時間",
   "stats": {
-    "total": 3,
-    "positive": 2,
+    "total": 0,
+    "positive": 0,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       },
       "上游供應商": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       },
       "競品": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       }
     },
-    "trend": [
-      {
-        "date": "2026-05-01",
-        "positive": 2,
-        "negative": 0,
-        "neutral": 0,
-        "total": 2
-      },
-      {
-        "date": "2026-05-02",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      }
-    ]
+    "trend": []
   },
-  "news": [
-    {
-      "title": "SP廣穎電通XPOWER Cyclone DDR5 RGB 再奪紅點設計大獎連續斬獲iF 與紅點兩大國際設計殊榮 - XFastest News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aVUZvTTNuMTR4QzBYQ3lvd0pLc3VMTVlTdTVYMGV1X2cwSmw0NEppbV91V3M3TlcwS191aXdpWVRqaVBjYU1UelBzeU1ULXhPMXI5aERMNDVRRGx1YU9sM3VHNjFDWm1tdlMxSFNNTnByUQ?oc=5",
-      "pubDate": "Sat, 02 May 2026 04:00:37 GMT",
-      "source": "XFastest News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5aVUZvTTNuMTR4QzBYQ3lvd0pLc3VMTVlTdTVYMGV1X2cwSmw0NEppbV91V3M3TlcwS191aXdpWVRqaVBjYU1UelBzeU1ULXhPMXI5aERMNDVRRGx1YU9sM3VHNjFDWm1tdlMxSFNNTnByUQ?oc=5\" target=\"_blank\"&gt;SP廣穎電通XPOWER Cycl",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-02T06:31:09.815Z"
-    },
-    {
-      "title": "2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5",
-      "pubDate": "Fri, 01 May 2026 12:39:48 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRU9HREpkbTVveDcxTmFDcjNrdGxYcFdINmNQa3hKaUdUd0ZHZUF6TjE5MHZXQmhUS0g4SDBTUUVEOWpDSm1zUHVRcUdhenpMczBOYmRCWEE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見挾AI需求強勢增長-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-02T06:31:09.815Z"
-    },
-    {
-      "title": "RBC Capital將SanDisk目標價上調至1,000美元,看好NAND市場強勁表現 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTHktV3BhTVN2a1FGeGJIVjFtUmlZWXVqQllmX3I4NEtTVU9OSGt6eE52RkFlVkRoUDhjei1vUmV0d3d3UmRZTTZveTAwY0FmeG5BeGRmOHRmeDFoT09XNk9NYmEycGF4VlFBUUlCUzhoNU0z?oc=5",
-      "pubDate": "Fri, 01 May 2026 09:10:37 GMT",
-      "source": "Investing.com 香港 - 股市報價&amp; 財經新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTHktV3BhTVN2a1FGeGJIVjFtUmlZWXVqQllmX3I4NEtTVU9OSGt6eE52RkFlVkRoUDhjei1vUmV0d3d3UmRZTTZveTAwY0FmeG5BeGRmOHRmeDFoT09XNk9NYmEycGF4VlFBUUlCUzhoNU0z?oc=5\" target=\"_blank\"&gt;RBC Capital將San",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-02T06:31:09.815Z"
-    }
-  ]
+  "news": []
 }

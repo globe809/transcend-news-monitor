@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-03T07:29:44.451Z",
-  "generatedAtTW": "2026-05-03 15:29 台灣時間",
+  "generatedAt": "2026-05-04T09:06:07.368Z",
+  "generatedAtTW": "2026-05-04 17:06 台灣時間",
   "stats": {
-    "total": 103,
-    "positive": 43,
+    "total": 106,
+    "positive": 44,
     "negative": 1,
-    "neutral": 59,
+    "neutral": 61,
     "byCategory": {
       "創見資訊": {
         "total": 54,
@@ -15,16 +15,16 @@
         "neutral": 30
       },
       "上游供應商": {
-        "total": 42,
-        "positive": 18,
+        "total": 44,
+        "positive": 19,
         "negative": 1,
-        "neutral": 23
+        "neutral": 24
       },
       "競品": {
-        "total": 7,
+        "total": 8,
         "positive": 1,
         "negative": 0,
-        "neutral": 6
+        "neutral": 7
       }
     },
     "trend": [
@@ -37,14 +37,44 @@
       },
       {
         "date": "2026-05",
-        "positive": 2,
+        "positive": 3,
         "negative": 0,
-        "neutral": 1,
-        "total": 3
+        "neutral": 3,
+        "total": 6
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZC1JUkdkZWRCYmpWOGFDQ015enFzelk4N2dSb2FRaF9kM0ZOZTRIR1p1eWxLQktVNG1vR244UnVfNWpEYl9yNzJlZTI1cVlzbUZ4anpvdDJGcnBKVU5ERFdPa1pEbmk3Y25Bd2tQeHZhWEJiaHA4UWkyR0kyQkRubmdmQVdLWUlSNzFZcG9aWnhTdWt3dkp6RFZjMFdtWUxPTnZuWXluN0hFWnF1eUUxSHBuU1RPckNyTHg2YnNjVVBDaE5wY0pSME0yamxGcGtZc19LUG9Rdk9iN0ZGdVg3LUl2amt1WFJnR1JRMzFqN2RLSEU5Zk03NDFUYUI2aExGV2RyOUdMeU9ZbEJiZDNwMEFaN0xSQnVSdDNnVjdPbEVSTnZJRk9EVE1aV0lnelQxZk9rZ1dtc2t3QnNSclIxZVk1U3dxZDdaOVJoZ3ZwX1dMR0pUS0N5WjNzVWlaRFRyNHA0VGdlRUxSZ2diZXloMmw2NG5yTFFidnlWekFYVk4xQQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxQZC1JUkdkZWRCYmpWOGFDQ015enFzelk4N2dSb2FRaF9kM0ZOZTRIR1p1eWxLQktVNG1vR244UnVfNWpEYl9yNzJlZTI1cVlzbUZ4anpvdDJGcnBKVU5ERFdPa1pEbmk3Y25Bd2tQeHZhWEJiaHA4UWkyR0kyQkRubmdmQVdLWUlSNzFZcG9aWnhTd",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "Yahoo新聞",
+      "category": "上游供應商",
+      "title": "三星轉單也沒用？「這記憶體大廠」EPS季增705% 法人揭1隱憂：成長有限 - Yahoo新聞",
+      "pubDate": "Mon, 04 May 2026 05:08:29 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tamYtSjlXUF9ROWM3TElSTFF3YS1sWEl4VTJHd2JDdnAtZUZEODZadlByRE9HbzNXQnJVcGNvWk9zRkthaHJTOExtdTFzcDRCREtJcEgzQXktUDhaWEtUa2dfWFYyVUZJTll4dFhudkNXQUxSenlQX1JrcWtWZw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5tamYtSjlXUF9ROWM3TElSTFF3YS1sWEl4VTJHd2JDdnAtZUZEODZadlByRE9HbzNXQnJVcGNvWk9zRkthaHJTOExtdTFzcDRCREtJcEgzQXktUDhaWEtUa2dfWFYyVUZJTll4dFhudkNXQUxSenlQX1JrcWtWZw?oc=5\" target=\"_blank\"&gt;M",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "TechSpace 鐵客空間",
+      "category": "上游供應商",
+      "title": "Micron CEO 示警：AI 發展才剛開始！AI 記憶體缺貨加劇，DRAM 與 NAND 需求將狂飆 - TechSpace 鐵客空間",
+      "pubDate": "Mon, 04 May 2026 01:28:27 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVFBMFRIY3hidkJtcGxyR2ZNTE5pNGNZM0hnRlk2Y29DTGlKSW45TmlBVVlCSzB3M2xwWHhJcEVRNHU5M2RPcWlCRXIxM2ZyVHRULU5qSEZpQlV4UlBFRjNVbjBDbElOMlVtNDNvQjI3X2hiTl92cURGZWIxY3lNaGt3VFV4QnRwVy1CaHFn?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVFBMFRIY3hidkJtcGxyR2ZNTE5pNGNZM0hnRlk2Y29DTGlKSW45TmlBVVlCSzB3M2xwWHhJcEVRNHU5M2RPcWlCRXIxM2ZyVHRULU5qSEZpQlV4UlBFRjNVbjBDbElOMlVtNDNvQjI3X2hiTl92cURGZWIxY3lNaGt3VFV4QnRwVy1CaHFn?oc=5",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "DIGITIMES",
+      "category": "競品",
+      "title": "金士頓強化Design-In與工業級解決方案布局 搶佔市場領導地位 - DIGITIMES",
+      "pubDate": "Sun, 03 May 2026 17:16:55 GMT"
+    },
     {
       "sentiment": "neutral",
       "category": "競品",
@@ -1014,36 +1044,6 @@
       "fetchedAt": "2026-04-07T13:29:11.699Z",
       "source": "ETtoday財經雲",
       "title": "三星第2季DRAM報價漲3成！記憶體利多續噴　4檔高掛漲停 - ETtoday財經雲"
-    },
-    {
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkhCOGYxQ2xTUWpJcGZPLUptMEpHdXhYQk5GeUJObThTc1pOcEhRak9hQVJNcUdaTjNvWmQxRE9XVGstUGdFR2dzUTJFVEt4aWp0b0lYWlppN3UxbHpDMk42Wk5ocWYwdE5PRGMycWZqN0RVRDFMWDBBZVROVENLRzdJYmc5WGlT?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkhCOGYxQ2xTUWpJcGZPLUptMEpHdXhYQk5GeUJObThTc1pOcEhRak9hQVJNcUdaTjNvWmQxRE9XVGstUGdFR2dzUTJFVEt4aWp0b0lYWlppN3UxbHpDMk42Wk5ocWYwdE5PRGMycWZqN0RVRDFMWDBBZVROVENLRzdJYmc5WGlT?oc=5\" target",
-      "source": "ww2.money-link.com.tw",
-      "title": "《台北股市》處置股：07日計29檔 映泰、創見、營邦、統新準備出關 - ww2.money-link.com.tw",
-      "pubDate": "Mon, 06 Apr 2026 23:52:00 GMT",
-      "fetchedAt": "2026-04-07T13:29:11.699Z"
-    },
-    {
-      "sentiment": "neutral",
-      "source": "經濟日報",
-      "category": "創見資訊",
-      "title": "不走記憶體模組廠威剛、創見老路 宜鼎如何靠工控與 AI 躋身千金股？ | 科技產業 | 產業 - 經濟日報",
-      "pubDate": "Mon, 06 Apr 2026 14:48:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUGlzTkJXSFdaUFpJUkRmQTBTalRrWVIxeVhLUWlEcVZmRFZYa2hrMENZYXJwdWpkdEVKMnR1djRIWl9nWFJpZHp6UkdVX2F5aEEtMl8yc2otM0JRYkRXWWZMdm9Zd1FPa3d4dzc0YkNxX2tyeGFMYXlWNEozQQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUGlzTkJXSFdaUFpJUkRmQTBTalRrWVIxeVhLUWlEcVZmRFZYa2hrMENZYXJwdWpkdEVKMnR1djRIWl9nWFJpZHp6UkdVX2F5aEEtMl8yc2otM0JRYkRXWWZMdm9Zd1FPa3d4dzc0YkNxX2tyeGFMYXlWNEozQQ?oc=5\" target=\"_blank\"&gt;不",
-      "fetchedAt": "2026-04-07T13:29:11.699Z"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemlva2J4TzEwTUFsWTY1MFZTNXQ0bmNDSlRWd2NWQ2ppSFZPYUhiZ2RFVGVXRF93c2h3ci1PUDdqdmJUcEpqeWRISHV1aDZiU3dSR1hKT2ljbHpxTmlQaUxlTGRGMzBhN3FwRXFaMXBXTWVQeHE4YjRJY3RMd3RPX3pjMA?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOemlva2J4TzEwTUFsWTY1MFZTNXQ0bmNDSlRWd2NWQ2ppSFZPYUhiZ2RFVGVXRF93c2h3ci1PUDdqdmJUcEpqeWRISHV1aDZiU3dSR1hKT2ljbHpxTmlQaUxlTGRGMzBhN3FwRXFaMXBXTWVQeHE4YjRJY3RMd3RPX3pjMA?oc=5\" target=\"_bla",
-      "source": "TechNews 科技新報",
-      "category": "競品",
-      "title": "宜鼎3月營收月增35.8% - TechNews 科技新報",
-      "pubDate": "Mon, 06 Apr 2026 10:38:06 GMT",
-      "fetchedAt": "2026-04-07T05:59:57.756Z"
     }
   ]
 }

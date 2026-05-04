@@ -1,46 +1,39 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-03T07:29:44.451Z",
-  "generatedAtTW": "2026-05-03 15:29 台灣時間",
+  "generatedAt": "2026-05-04T09:06:07.368Z",
+  "generatedAtTW": "2026-05-04 17:06 台灣時間",
   "stats": {
-    "total": 34,
+    "total": 33,
     "positive": 14,
-    "negative": 1,
+    "negative": 0,
     "neutral": 19,
     "byCategory": {
       "創見資訊": {
-        "total": 15,
+        "total": 14,
         "positive": 4,
         "negative": 0,
-        "neutral": 11
+        "neutral": 10
       },
       "上游供應商": {
-        "total": 16,
+        "total": 15,
         "positive": 10,
-        "negative": 1,
+        "negative": 0,
         "neutral": 5
       },
       "競品": {
-        "total": 3,
+        "total": 4,
         "positive": 0,
         "negative": 0,
-        "neutral": 3
+        "neutral": 4
       }
     },
     "trend": [
       {
-        "date": "2026-04-26",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 1,
-        "total": 2
-      },
-      {
         "date": "2026-04-27",
         "positive": 3,
-        "negative": 1,
-        "neutral": 4,
-        "total": 8
+        "negative": 0,
+        "neutral": 3,
+        "total": 6
       },
       {
         "date": "2026-04-28",
@@ -76,10 +69,54 @@
         "negative": 0,
         "neutral": 1,
         "total": 1
+      },
+      {
+        "date": "2026-05-03",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
+      },
+      {
+        "date": "2026-05-04",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 1,
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZC1JUkdkZWRCYmpWOGFDQ015enFzelk4N2dSb2FRaF9kM0ZOZTRIR1p1eWxLQktVNG1vR244UnVfNWpEYl9yNzJlZTI1cVlzbUZ4anpvdDJGcnBKVU5ERFdPa1pEbmk3Y25Bd2tQeHZhWEJiaHA4UWkyR0kyQkRubmdmQVdLWUlSNzFZcG9aWnhTdWt3dkp6RFZjMFdtWUxPTnZuWXluN0hFWnF1eUUxSHBuU1RPckNyTHg2YnNjVVBDaE5wY0pSME0yamxGcGtZc19LUG9Rdk9iN0ZGdVg3LUl2amt1WFJnR1JRMzFqN2RLSEU5Zk03NDFUYUI2aExGV2RyOUdMeU9ZbEJiZDNwMEFaN0xSQnVSdDNnVjdPbEVSTnZJRk9EVE1aV0lnelQxZk9rZ1dtc2t3QnNSclIxZVk1U3dxZDdaOVJoZ3ZwX1dMR0pUS0N5WjNzVWlaRFRyNHA0VGdlRUxSZ2diZXloMmw2NG5yTFFidnlWekFYVk4xQQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxQZC1JUkdkZWRCYmpWOGFDQ015enFzelk4N2dSb2FRaF9kM0ZOZTRIR1p1eWxLQktVNG1vR244UnVfNWpEYl9yNzJlZTI1cVlzbUZ4anpvdDJGcnBKVU5ERFdPa1pEbmk3Y25Bd2tQeHZhWEJiaHA4UWkyR0kyQkRubmdmQVdLWUlSNzFZcG9aWnhTd",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "Yahoo新聞",
+      "category": "上游供應商",
+      "title": "三星轉單也沒用？「這記憶體大廠」EPS季增705% 法人揭1隱憂：成長有限 - Yahoo新聞",
+      "pubDate": "Mon, 04 May 2026 05:08:29 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tamYtSjlXUF9ROWM3TElSTFF3YS1sWEl4VTJHd2JDdnAtZUZEODZadlByRE9HbzNXQnJVcGNvWk9zRkthaHJTOExtdTFzcDRCREtJcEgzQXktUDhaWEtUa2dfWFYyVUZJTll4dFhudkNXQUxSenlQX1JrcWtWZw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5tamYtSjlXUF9ROWM3TElSTFF3YS1sWEl4VTJHd2JDdnAtZUZEODZadlByRE9HbzNXQnJVcGNvWk9zRkthaHJTOExtdTFzcDRCREtJcEgzQXktUDhaWEtUa2dfWFYyVUZJTll4dFhudkNXQUxSenlQX1JrcWtWZw?oc=5\" target=\"_blank\"&gt;M",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "TechSpace 鐵客空間",
+      "category": "上游供應商",
+      "title": "Micron CEO 示警：AI 發展才剛開始！AI 記憶體缺貨加劇，DRAM 與 NAND 需求將狂飆 - TechSpace 鐵客空間",
+      "pubDate": "Mon, 04 May 2026 01:28:27 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVFBMFRIY3hidkJtcGxyR2ZNTE5pNGNZM0hnRlk2Y29DTGlKSW45TmlBVVlCSzB3M2xwWHhJcEVRNHU5M2RPcWlCRXIxM2ZyVHRULU5qSEZpQlV4UlBFRjNVbjBDbElOMlVtNDNvQjI3X2hiTl92cURGZWIxY3lNaGt3VFV4QnRwVy1CaHFn?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVFBMFRIY3hidkJtcGxyR2ZNTE5pNGNZM0hnRlk2Y29DTGlKSW45TmlBVVlCSzB3M2xwWHhJcEVRNHU5M2RPcWlCRXIxM2ZyVHRULU5qSEZpQlV4UlBFRjNVbjBDbElOMlVtNDNvQjI3X2hiTl92cURGZWIxY3lNaGt3VFV4QnRwVy1CaHFn?oc=5",
+      "fetchedAt": "2026-05-04T09:06:07.368Z",
+      "source": "DIGITIMES",
+      "category": "競品",
+      "title": "金士頓強化Design-In與工業級解決方案布局 搶佔市場領導地位 - DIGITIMES",
+      "pubDate": "Sun, 03 May 2026 17:16:55 GMT"
+    },
     {
       "sentiment": "neutral",
       "category": "競品",
@@ -379,46 +416,6 @@
       "category": "上游供應商",
       "title": "NAND價格飆升推動SanDisk股價上漲,分析師轉趨看好 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
       "pubDate": "Mon, 27 Apr 2026 13:09:28 GMT"
-    },
-    {
-      "sentiment": "negative",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1JZMEFad1FMRDVVR3hJTWpUUG5MeWh5ZzhOZC1QUTRUcmRaZmF5RUJnRG96UTNGZlRLekNubUNvRUVweUZNWmFuUjJ5NVlMdlpvTzZjSW4yc19MVlhUSlZtVEotNE5Fa1VUaWdwaXVYSkRrLWN5dDA1WGdNSGFQX2ZCOTdMbm9jWkFzeUt3SUw3bklNVnV2X2lTem5QWFRmWk9tVUNwTmEyLUd3WUthRl9JNWc4YUNDdmtab2RB?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1JZMEFad1FMRDVVR3hJTWpUUG5MeWh5ZzhOZC1QUTRUcmRaZmF5RUJnRG96UTNGZlRLekNubUNvRUVweUZNWmFuUjJ5NVlMdlpvTzZjSW4yc19MVlhUSlZtVEotNE5Fa1VUaWdwaXVYSkRrLWN5dDA1WGdNSGFQX2ZCOTdMbm9jWkFzeUt3SUw3b",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "source": "TradingKey",
-      "category": "上游供應商",
-      "title": "閃迪財報前瞻：AI儲存驅動業績爆發，估值與風險齊升 - TradingKey",
-      "pubDate": "Mon, 27 Apr 2026 05:53:21 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlRYY05Jb0xyOENkMXBLSGsxX1MwWDJDRWhSU0F4U29WWlkydzVmRUpEMmNYXzZ5eW94dlNNeTYwOFhmU3hsdlZpX2U3ZkhFODhKdlJuaWJ0ZjNybmdUR3E3a0dvUFBPT21LVllHWnNiVGdLWWxVQzNiVmtVZm1wRWxOelBLcWgwYVo5S21VWkxUQ",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "source": "台視全球資訊網",
-      "category": "創見資訊",
-      "title": "台股焦點：創見(2451.TW) - 台視全球資訊網",
-      "pubDate": "Mon, 27 Apr 2026 03:20:27 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "category": "上游供應商",
-      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNbjB5TS13U3NZaXppNV9ZM3VFQURCQlJXbG5KYU1hbVR3a3JIMkNlcjNUVzdaclhDak5Nb2VLcC1CaTlqMlBXdmNlN2U3c0QwY0lSS3VoUEtJYXBLd181UnZETS1WOUZKZ2FxZjJvc1F5UUt6ZW0xbVd0MG5sNkRfbWswU1EwdnNpLXV2N25sdi1pbldWS00zNmtRSXNCZ19wZVZ0UktQTVl3Y0ZTQjZ4NFBoNlRTbnFFQnJLeFlKRFVTQ1EyOXpLWUxqOXkxX1llZm0zeW9sN2VLMndRV0xTRlhYQU5kMWRFNzlldXZlSmYwNXQ4bS1iLVU1XzZIeV83dC1xc3JEaXRvaURSRTVuQ2ZwbXY3NmtzeVF6b1Y0TURQdVdiV3JUUlJkeW5OYWg1SnVtaE1aaGNzaDNoeElZR1h6M3dudmtnSk9aS0NzTEt2UFRoYnJUd2pHR1ctR2txdkxOSXpLWktBeW9JR3pvVzVsZUNsWjZDOXNuV0RSSlI2VThJZUdNckhTNzFrRkpXM0Z5U2Fna1VjYlBsU0RrQzBpODZ0YzZ5Rjc2WFZEQjlBYTBBRjZZR0I5TVByM0dOUEktT042NWMxcVItRVkxSTNCd2JJSUxoLThMQnNWMUFNQzhpUVlOOWFxQ1FfYVRzblU4b254eDdyUQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gNBVV95cUxNbjB5TS13U3NZaXppNV9ZM3VFQURCQlJXbG5KYU1hbVR3a3JIMkNlcjNUVzdaclhDak5Nb2VLcC1CaTlqMlBXdmNlN2U3c0QwY0lSS3VoUEtJYXBLd181UnZETS1WOUZKZ2FxZjJvc1F5UUt6ZW0xbVd0MG5sNkRfbWswU1EwdnNpLXV2N25sdi1pb",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "source": "MSN",
-      "title": "Kioxia推出針對PC OEM廠商的高性價比QLC架構Kioxia EG7 系列固態硬碟 - MSN",
-      "pubDate": "Sun, 26 Apr 2026 23:30:43 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wQW4ycGxSSDBoR2lGclZHVExKaDUxRU1XeDhsb3lTYVVXX0F6OEQ4QVpTS2RYTUppUF9PQWpQWHNwWTAzUzdJa1ZhSGVleHI0SUJ4eE9YVkpVRWY5VTBn?oc=5\" target=\"_blank\"&gt;AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報&lt;",
-      "fetchedAt": "2026-04-27T07:57:53.213Z",
-      "source": "工商時報",
-      "category": "上游供應商",
-      "title": "AI資料中心瘋搶NAND 三星、金士頓傳SSD二度喊漲供應鏈曝後續影響- 日報 - 工商時報",
-      "pubDate": "Sun, 26 Apr 2026 19:00:00 GMT"
     }
   ]
 }

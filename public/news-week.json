@@ -1,7 +1,7 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-06T07:58:52.528Z",
-  "generatedAtTW": "2026-05-06 15:58 台灣時間",
+  "generatedAt": "2026-05-07T02:43:24.719Z",
+  "generatedAtTW": "2026-05-07 10:43 台灣時間",
   "stats": {
     "total": 35,
     "positive": 16,
@@ -79,10 +79,17 @@
       },
       {
         "date": "2026-05-06",
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
         "neutral": 2,
-        "total": 4
+        "total": 3
+      },
+      {
+        "date": "2026-05-07",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0,
+        "total": 1
       }
     ]
   },
@@ -91,31 +98,31 @@
       "sentiment": "positive",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVtaEJPSnl5VTlEWFpNUEdacFlSNENfZW5IeUNDM0czUVhlZFBITFEzd0ZVU3E2S3NhanpGUnFjRGxTZWY3NmlmdmJfVHVLT01TTnNIeG9EWHI2TVdjR25GRjRQSEpjOXVRdXVJeHFOd3ctVVdVdEpSa1VZcklTV2VLOEpIS3NtbzkxOXdXSXBEV2x3MUFNdXdScl9ENk1EcUs5alhR?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVtaEJPSnl5VTlEWFpNUEdacFlSNENfZW5IeUNDM0czUVhlZFBITFEzd0ZVU3E2S3NhanpGUnFjRGxTZWY3NmlmdmJfVHVLT01TTnNIeG9EWHI2TVdjR25GRjRQSEpjOXVRdXVJeHFOd3ctVVdVdEpSa1VZcklTV2VLOEpIS3NtbzkxOXdXSXBEV",
-      "fetchedAt": "2026-05-06T07:58:52.528Z",
       "source": "TechNews 科技新報",
       "category": "創見資訊",
       "title": "記憶體市場需求不減，威剛、創見 4 月份營收雙雙創新高紀錄 - TechNews 科技新報",
-      "pubDate": "Wed, 06 May 2026 07:41:50 GMT"
+      "fetchedAt": "2026-05-07T02:43:24.719Z",
+      "pubDate": "Thu, 07 May 2026 01:32:03 GMT"
     },
     {
       "sentiment": "neutral",
       "source": "LINE TODAY",
       "category": "創見資訊",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PazVPVEE0c2V4NUZTRGk0NkoyOS0tZkZCcUNEdG5SVG40TWdneDF4bC10Y1BkOHhLWl9VMXRUTk9YOS1EUjA1Rk5FQ1JiQmpwZnRqdVRjanZ6cVlxUUl6UUtreW4?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PazVPVEE0c2V4NUZTRGk0NkoyOS0tZkZCcUNEdG5SVG40TWdneDF4bC10Y1BkOHhLWl9VMXRUTk9YOS1EUjA1Rk5FQ1JiQmpwZnRqdVRjanZ6cVlxUUl6UUtreW4?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大漲8.13%，報306元&l",
-      "fetchedAt": "2026-05-06T07:58:52.528Z",
-      "title": "討論牆 | 盤中速報 - 創見(2451)大漲8.13%，報306元 - LINE TODAY",
-      "pubDate": "Wed, 06 May 2026 05:18:19 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQjVrSVRiZlFDc2FPNnlEMV9aZzdJS29Cc3o5SUNyZFF2MUFWcXVtZ3RER29fX1JvSy1CTmg3TUxUaEdicE16ZHA5RFdTTTV0ME1aNUZKd1J4WjRPdTBvYVJsWHE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQjVrSVRiZlFDc2FPNnlEMV9aZzdJS29Cc3o5SUNyZFF2MUFWcXVtZ3RER29fX1JvSy1CTmg3TUxUaEdicE16ZHA5RFdTTTV0ME1aNUZKd1J4WjRPdTBvYVJsWHE?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大漲7.34%，報285元&l",
+      "fetchedAt": "2026-05-07T02:43:24.719Z",
+      "title": "討論牆 | 盤中速報 - 創見(2451)大漲7.34%，報285元 - LINE TODAY",
+      "pubDate": "Wed, 06 May 2026 15:52:32 GMT"
     },
     {
       "sentiment": "positive",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTZKMHV6SkdZM0RXT0U1UkdVODg4dWQ2Z0tNb3E0bGZoU3JRaVpwVkF2Zk4wR3dFNzZGTjRIMGZNRHNEcFhQUG1VTFVGMmp2dnlaQzgyc2ZjWkVBM3hLTi1oU3dBTWxjX2NhdVl0NHdDeU5lbDlTaHJWNnVISlpDNWkwT1BTRllEY2dFUVJR?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTZKMHV6SkdZM0RXT0U1UkdVODg4dWQ2Z0tNb3E0bGZoU3JRaVpwVkF2Zk4wR3dFNzZGTjRIMGZNRHNEcFhQUG1VTFVGMmp2dnlaQzgyc2ZjWkVBM3hLTi1oU3dBTWxjX2NhdVl0NHdDeU5lbDlTaHJWNnVISlpDNWkwT1BTRllEY2dFUVJR?oc=5",
-      "fetchedAt": "2026-05-06T07:58:52.528Z",
       "source": "CMoney投資網誌",
       "category": "創見資訊",
       "title": "【12:31 即時新聞】創見(2451)股價勁揚至302元，歷史高成長營收加持＋均線多頭與主力回補點火 - CMoney投資網誌",
-      "pubDate": "Wed, 06 May 2026 04:32:36 GMT"
+      "pubDate": "Wed, 06 May 2026 04:32:36 GMT",
+      "fetchedAt": "2026-05-07T02:43:24.719Z"
     },
     {
       "sentiment": "neutral",

@@ -1,46 +1,39 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-07T02:43:24.719Z",
-  "generatedAtTW": "2026-05-07 10:43 台灣時間",
+  "generatedAt": "2026-05-08T02:47:53.167Z",
+  "generatedAtTW": "2026-05-08 10:47 台灣時間",
   "stats": {
-    "total": 35,
-    "positive": 16,
+    "total": 42,
+    "positive": 25,
     "negative": 0,
-    "neutral": 19,
+    "neutral": 17,
     "byCategory": {
       "創見資訊": {
-        "total": 19,
-        "positive": 12,
+        "total": 28,
+        "positive": 21,
         "negative": 0,
         "neutral": 7
       },
       "上游供應商": {
-        "total": 11,
+        "total": 10,
         "positive": 4,
         "negative": 0,
-        "neutral": 7
+        "neutral": 6
       },
       "競品": {
-        "total": 5,
+        "total": 4,
         "positive": 0,
         "negative": 0,
-        "neutral": 5
+        "neutral": 4
       }
     },
     "trend": [
       {
-        "date": "2026-04-29",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 6,
-        "total": 7
-      },
-      {
         "date": "2026-04-30",
         "positive": 0,
         "negative": 0,
-        "neutral": 3,
-        "total": 3
+        "neutral": 1,
+        "total": 1
       },
       {
         "date": "2026-05-01",
@@ -86,14 +79,181 @@
       },
       {
         "date": "2026-05-07",
-        "positive": 1,
+        "positive": 11,
         "negative": 0,
-        "neutral": 0,
-        "total": 1
+        "neutral": 4,
+        "total": 15
+      },
+      {
+        "date": "2026-05-08",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 2,
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWlLYWhtVXdZWmFsbnMxaEt1UWRjRWhxb3hmWUtoakFoN1BDRGVoWWRTVGlfZFc5YVQ3R093eHhBS2hCN2dMRkV2d3NaRmhyUk5VdWdYS2JQZjVGZXpfLVREdW9xeFNVcEg2cmtvUTVmX28wVHFiQUxIMHlqR1ZITGNfSkl5SE1Y?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWlLYWhtVXdZWmFsbnMxaEt1UWRjRWhxb3hmWUtoakFoN1BDRGVoWWRTVGlfZFc5YVQ3R093eHhBS2hCN2dMRkV2d3NaRmhyUk5VdWdYS2JQZjVGZXpfLVREdW9xeFNVcEg2cmtvUTVmX28wVHFiQUxIMHlqR1ZITGNfSkl5SE1Y?oc=5\" target",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "富聯網",
+      "category": "創見資訊",
+      "title": "個股：記憶體產業大多頭循環啟動，創見(2451)第一季每股海賺18.93元 - 富聯網",
+      "pubDate": "Fri, 08 May 2026 01:03:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGxVMFViRmNpWm1FVjd0QlhtTWpFUzFWMHpJOUpMNU1XQTk5WkRpUnFFci14a3UtZFE5U3BwZ0FOU1owZDlURThsOGVDaFQxOUJSM0tYWngzT2lRVW5jT1JpQVRneG40LVR3MUxFZnVMY0g2ZVFQdGNGRXhxcVQydEYySmtEOFZr?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGxVMFViRmNpWm1FVjd0QlhtTWpFUzFWMHpJOUpMNU1XQTk5WkRpUnFFci14a3UtZFE5U3BwZ0FOU1owZDlURThsOGVDaFQxOUJSM0tYWngzT2lRVW5jT1JpQVRneG40LVR3MUxFZnVMY0g2ZVFQdGNGRXhxcVQydEYySmtEOFZr?oc=5\" target",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "富聯網",
+      "category": "創見資訊",
+      "title": "董事會：創見(2451)決議發行國內第二次無擔保轉換公司債，總額上限30億元 - 富聯網",
+      "pubDate": "Fri, 08 May 2026 00:14:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnlUYU4tdE9uZlBkRDlNd0RJX0M2cXBwb3NDbEtZWUlOeEdjMGFTY0tqOXAtcDdsalYxV1JJNEtuYl9lNWs1X05nUS00NmRlTXJMRm9PdHdtbm5KZTNKZU1MTjNzeEl4clFialVDOUFWNzJiSDU2bllaVlF2a05Bd1FFMGhna3dKN25CR1JlM28?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnlUYU4tdE9uZlBkRDlNd0RJX0M2cXBwb3NDbEtZWUlOeEdjMGFTY0tqOXAtcDdsalYxV1JJNEtuYl9lNWs1X05nUS00NmRlTXJMRm9PdHdtbm5KZTNKZU1MTjNzeEl4clFialVDOUFWNzJiSDU2bllaVlF2a05Bd1FFMGhna3dKN25CR1JlM28?o",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "CMoney投資網誌",
+      "category": "創見資訊",
+      "title": "【即時新聞】創見公布首季EPS 18.93元，獲利年增逾20倍連續三季新高 - CMoney投資網誌",
+      "pubDate": "Thu, 07 May 2026 22:28:32 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50cF9ka2ZoNzZqQWQyZjMwU201YUJEek1uVnk2Q2lMaW9VQzAyR2laNTgtV2xzeXB4aXJZM1JYT0huVURFUFZqMjVjMUFmSUNO0gFWQVVfeXFMT1I2U0hsb1FxLU55d1JkTnpIalpId01Wd0dYem5fSXN0UF9BUzRvQjhHb0UwVGJIdk9WTi1ZT1FIYmJQU0RRZElLT0lOOUdoUnVSdlZvMnc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE50cF9ka2ZoNzZqQWQyZjMwU201YUJEek1uVnk2Q2lMaW9VQzAyR2laNTgtV2xzeXB4aXJZM1JYT0huVURFUFZqMjVjMUFmSUNO0gFWQVVfeXFMT1I2U0hsb1FxLU55d1JkTnpIalpId01Wd0dYem5fSXN0UF9BUzRvQjhHb0UwVGJIdk9WTi1ZT1FIY",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "聯合新聞網",
+      "category": "創見資訊",
+      "title": "創見第1季 EPS 18.93元 - 聯合新聞網",
+      "pubDate": "Thu, 07 May 2026 20:31:57 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDg3VFpybkNkV3BhOVFEckNHY25sMUJ3eWhwS1NfLWdZQ0JfNzNCM3BBU3RiSm40RGF6Z0x2QXgxQTJLRGtCZ25YRks0YVkwYVNacEswcXVTd3FFX2ZyeXJpSUVITzlwUlJ1TEdvM3VudE03TUs0QUlJN3lKN2hTMFZB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDg3VFpybkNkV3BhOVFEckNHY25sMUJ3eWhwS1NfLWdZQ0JfNzNCM3BBU3RiSm40RGF6Z0x2QXgxQTJLRGtCZ25YRks0YVkwYVNacEswcXVTd3FFX2ZyeXJpSUVITzlwUlJ1TEdvM3VudE03TUs0QUlJN3lKN2hTMFZB?oc=5\" target=\"_blank",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "壹蘋新聞網",
+      "category": "創見資訊",
+      "title": "創見財報｜Q1每股賺18.93元勝去年全年 毛利率衝高到76.39% - 壹蘋新聞網",
+      "pubDate": "Thu, 07 May 2026 16:15:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlZTQWJiZzJST1h4UC0yWUdLM1hqZlFJV0h0WDVjSXJMY3hJaHVTbzh0bTZ3aEhxemNiWHlqb2FwUzFOZXVvam1nWHRYNjRtSG1vOVE4VFVpUEc3NDhFc0dkX1BYYlBGLThBOHhoREEyVG1jc0ZsU2V2OVNaVE5sUFM1Vk01RFdtZ1g0eWEyUUxNZw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlZTQWJiZzJST1h4UC0yWUdLM1hqZlFJV0h0WDVjSXJMY3hJaHVTbzh0bTZ3aEhxemNiWHlqb2FwUzFOZXVvam1nWHRYNjRtSG1vOVE4VFVpUEc3NDhFc0dkX1BYYlBGLThBOHhoREEyVG1jc0ZsU2V2OVNaVE5sUFM1Vk01RFdtZ1g0eWEyUUxNZ",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "台視全球資訊網",
+      "category": "創見資訊",
+      "title": "創見董事會決議發行國內第二次無擔保轉換公司債，上限30億元 - 台視全球資訊網",
+      "pubDate": "Thu, 07 May 2026 16:06:46 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XekZsZ2swNmNCdW5JbmlOdmZPSFJTMUQ2Q2JZaFZXS2d6MmxncHFhZHBwbWNaWkVsbVBWRnp5TVEycjhFc1lDMWFEU3JzRVhBeVHSAW5BVV95cUxNeURiOGhIWklfUGpGNFYtbnowcXB2ZnhoUzl5eElMUm1KY09UcHpFY1JBVzdfb3RqNU4tdUR2bERDWmdtUzJMMGFvUzU5TmxINHRiYjVwVm1oWUQ1YThENmdLVTd3cHhlajVFbmx5dw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XekZsZ2swNmNCdW5JbmlOdmZPSFJTMUQ2Q2JZaFZXS2d6MmxncHFhZHBwbWNaWkVsbVBWRnp5TVEycjhFc1lDMWFEU3JzRVhBeVHSAW5BVV95cUxNeURiOGhIWklfUGpGNFYtbnowcXB2ZnhoUzl5eElMUm1KY09UcHpFY1JBVzdfb3RqNU4tdUR2b",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "ETtoday財經雲",
+      "category": "創見資訊",
+      "title": "創見首季稅後淨利81.2億元、年增149%　EPS達18.93元 - ETtoday財經雲",
+      "pubDate": "Thu, 07 May 2026 15:05:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQemtyckYxWEdobHJ4RTNhcEtRUVhfV1VyUUM2T25zUm1yNVJLRWxjcTYzNUg0YTktaURvWG41RXJyaUJxZHI0aXJoRHR0S3JXVkYweXpTSW03MUFvNkU4a0xRT1lUQ0VvTkpiM0lqb1hnSkphTWYwRHV4UlF2dm9xY21nVnNwbFdvRVY3QnZZMUZ5RkdVVWw0Rkc1R3lJZnROZjRBc2dGU1hkNUlEZW9VeVVuSnhQUVRMSldMczZYMm5Vbk5SNkVqemNOWnBtOXBKeXU5eTJSMkVFcW4tbzUyN2FsV0dPUDFfdHpIWDBuVmhnNDFqODFiTmhaOC1aV0szLUxxaktVOVV1ZTM5V211eFpuaEk3NGphSmdYdVdZa0pYQzg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQemtyckYxWEdobHJ4RTNhcEtRUVhfV1VyUUM2T25zUm1yNVJLRWxjcTYzNUg0YTktaURvWG41RXJyaUJxZHI0aXJoRHR0S3JXVkYweXpTSW03MUFvNkU4a0xRT1lUQ0VvTkpiM0lqb1hnSkphTWYwRHV4UlF2dm9xY21nVnNwbFdvRVY3QnZZMUZ5R",
+      "source": "MSN",
+      "title": "創見第1季賺贏去年全年 每股純益18.93元 - MSN",
+      "pubDate": "Thu, 07 May 2026 13:50:42 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWRCSGFuc0tKelZxQjRGOUJVZzVKTTFGT2ExZTM1bm9vbUpkczVpdWt2MUVEenRjeG1hZVVlOURzczdkeWU5RG8ySEgyQ2lKZ2lBcExRQWV1SXQwNkxxOHN2SGRtNXJaYmxsOHpjRHdCVnpJQ0I0Tm9rQWhEaTByV0xEN2c4dHBoT3JnZFlENm0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWRCSGFuc0tKelZxQjRGOUJVZzVKTTFGT2ExZTM1bm9vbUpkczVpdWt2MUVEenRjeG1hZVVlOURzczdkeWU5RG8ySEgyQ2lKZ2lBcExRQWV1SXQwNkxxOHN2SGRtNXJaYmxsOHpjRHdCVnpJQ0I0Tm9rQWhEaTByV0xEN2c4dHBoT3JnZFlENm0?o",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "CMoney投資網誌",
+      "category": "創見資訊",
+      "title": "【即時新聞】創見今日公布2026年Q1財報，稅後淨利81.2億元季增149%創新高 - CMoney投資網誌",
+      "pubDate": "Thu, 07 May 2026 12:11:03 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uTWhUQXFULV9VZ2hDOHB0NktFbXltMU9YanY3Sm1nam42U3BDaXJBazFDM0VNUkpoQTNtZm1OQkVUU3pGZ2c0WUVHck13Rkdy0gFWQVVfeXFMT3gtek1MemFTV2lQcE5JYjI4NmR2VnVtclpCSjMxc1NpTmRHd1JGQ3JkWm9GTnM4OHc5YjF3YU5PeDlJS3dJMzA5TGtsVWo2bi0wamYyN1E?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uTWhUQXFULV9VZ2hDOHB0NktFbXltMU9YanY3Sm1nam42U3BDaXJBazFDM0VNUkpoQTNtZm1OQkVUU3pGZ2c0WUVHck13Rkdy0gFWQVVfeXFMT3gtek1MemFTV2lQcE5JYjI4NmR2VnVtclpCSjMxc1NpTmRHd1JGQ3JkWm9GTnM4OHc5YjF3YU5Pe",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "聯合新聞網",
+      "category": "創見資訊",
+      "title": "創見首季每股純益賺進近二個股本 創單季新高 - 聯合新聞網",
+      "pubDate": "Thu, 07 May 2026 10:57:11 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SSmtRYkdZcVNPeVg0SXNpcjNmMFNMZkVfMDFJZU9TbEhRTkhUTG54dGZQbmtGN29JaURZVnBpWHZBb255MGNsanFMTU5LdHl50gFWQVVfeXFMTmJVZFZFTWlPbzNCc0JEZHVmSkhpczQ3bEl5azNrLTdKLUZxWHZBOEp2bzh4UjV6SEZBSVN0bUg3d0JJRURrbXB2RE5ZR0N6dXdVMGgyZUE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SSmtRYkdZcVNPeVg0SXNpcjNmMFNMZkVfMDFJZU9TbEhRTkhUTG54dGZQbmtGN29JaURZVnBpWHZBb255MGNsanFMTU5LdHl50gFWQVVfeXFMTmJVZFZFTWlPbzNCc0JEZHVmSkhpczQ3bEl5azNrLTdKLUZxWHZBOEp2bzh4UjV6SEZBSVN0bUg3d",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "聯合新聞網",
+      "category": "創見資訊",
+      "title": "創見財報／第1季淨利81.2億元 EPS 18.93元、賺贏去年全年 - 聯合新聞網",
+      "pubDate": "Thu, 07 May 2026 10:12:26 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWQV8yQmwwRFY0d1R0M2haNG84Y0h0ZGt2R1FqM1hUcDFvcHhsalgwTEtCQlZMbWE3LTNQWkdaR1ZUTnRVRmNXaFpyMkF6aGtmWTh2ckUzRlVldkRWMXBBMlNSX0VGV3hrNlZRRl8yd2lremdDVDI5U9IBX0FVX3lxTE10X3dtVmhTcDcwTGh3NzJYbm4tQW1pcjh5dW5XRGJ6Yy1jYk5fMkg0YXJLc1ZHN3VRSzBFWTVDUDg3ZklmOV9JT1R0bU1UWEhXbTlQWGI2NjlaZ09YSGJB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWQV8yQmwwRFY0d1R0M2haNG84Y0h0ZGt2R1FqM1hUcDFvcHhsalgwTEtCQlZMbWE3LTNQWkdaR1ZUTnRVRmNXaFpyMkF6aGtmWTh2ckUzRlVldkRWMXBBMlNSX0VGV3hrNlZRRl8yd2lremdDVDI5U9IBX0FVX3lxTE10X3dtVmhTcDcwTGh3NzJYb",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "經濟日報",
+      "category": "創見資訊",
+      "title": "創見第1季賺贏去年全年　每股純益18.93元 - 經濟日報",
+      "pubDate": "Thu, 07 May 2026 09:55:08 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WDVlNXlyQmdBNWxwRTgxMy1MZXBWNzBGOHhvS3k1b3hEWUZQMkplRDEzektWQmFIWlZ3STNFejI2VnVUVE0xSE1hTmxza2xnWGItZWFQQW1tcm9UcG5n0gFkQVVfeXFMTWwxaWFxMjVWaThlTnhVc0hreFk1TXNVZmNsZTRjRmZaRE1FLWw3ME52ZXY3MEkwbE1FcUJtUVF6Y1p3RXA2WU1sMVZpYjd4eE4zZi01TC1qVURmT1p3LVYwX2NfRg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WDVlNXlyQmdBNWxwRTgxMy1MZXBWNzBGOHhvS3k1b3hEWUZQMkplRDEzektWQmFIWlZ3STNFejI2VnVUVE0xSE1hTmxza2xnWGItZWFQQW1tcm9UcG5n0gFkQVVfeXFMTWwxaWFxMjVWaThlTnhVc0hreFk1TXNVZmNsZTRjRmZaRE1FLWw3ME52Z",
+      "source": "自由財經",
+      "title": "創見第一季每股獲利18.93元 單季賺贏去年 - 自由財經",
+      "pubDate": "Thu, 07 May 2026 09:25:13 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzblJjcFJoZ2xXUzRoU0d0SmEyOGVRYTlMWVVmZUFoeGVjQWlfWDNlbGFNS0tHNFphTXVIWWppVEU3ZWc4MnNleEs5ZWNiYlNKMVFqWGt0cFhBdw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzblJjcFJoZ2xXUzRoU0d0SmEyOGVRYTlMWVVmZUFoeGVjQWlfWDNlbGFNS0tHNFphTXVIWWppVEU3ZWc4MnNleEs5ZWNiYlNKMVFqWGt0cFhBdw?oc=5\" target=\"_blank\"&gt;AI需求爆發引發記憶體結構性缺貨 創見Q1每股盈餘18.93元、季增149%&lt;/a&gt;&",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "鏡新聞",
+      "category": "創見資訊",
+      "title": "AI需求爆發引發記憶體結構性缺貨 創見Q1每股盈餘18.93元、季增149% - 鏡新聞",
+      "pubDate": "Thu, 07 May 2026 09:24:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54b2lTZjd6Vl9LeDRvSzhBZC1MSGRkZjNSYzNRTEhWaHR1emlKeW51emZ4ZlR0T19WVjlCSG1hNTRjWW9SWTR3ZUlid0FOa08tbEFOWmdvemQtN1dBZUN5eEhKdWlfOGNRYzZUeUVucw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE54b2lTZjd6Vl9LeDRvSzhBZC1MSGRkZjNSYzNRTEhWaHR1emlKeW51emZ4ZlR0T19WVjlCSG1hNTRjWW9SWTR3ZUlid0FOa08tbEFOWmdvemQtN1dBZUN5eEhKdWlfOGNRYzZUeUVucw?oc=5\" target=\"_blank\"&gt;創見Q1獲利季增149% 每股賺18.93",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "知新聞",
+      "category": "創見資訊",
+      "title": "創見Q1獲利季增149% 每股賺18.93元創新高！前4月營收已超越去年全年 - 知新聞",
+      "pubDate": "Thu, 07 May 2026 08:40:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVBrUHJDbkhXckVBQWZoV2RmbmwxOENjTEp2VXVWbzF5a2t3Mll4WlpNTE5WNHJfQXV5bDdLbkFseU5wN0VnUnl4dWtJYk5fakN1SGh3UGFsdlU0RVQxaTBCMU5LbFloS2hLODA3b2Y5Tzczb01Kd2RQdXVCRURQN2ZsVzdSY3Zq?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVBrUHJDbkhXckVBQWZoV2RmbmwxOENjTEp2VXVWbzF5a2t3Mll4WlpNTE5WNHJfQXV5bDdLbkFseU5wN0VnUnl4dWtJYk5fakN1SGh3UGFsdlU0RVQxaTBCMU5LbFloS2hLODA3b2Y5Tzczb01Kd2RQdXVCRURQN2ZsVzdSY3Zq?oc=5\" target",
+      "fetchedAt": "2026-05-08T02:47:53.167Z",
+      "source": "富聯網",
+      "category": "創見資訊",
+      "title": "財報：創見(2451)115年第一季歸屬母公司淨利81億2248萬元，EPS 18.93元 - 富聯網",
+      "pubDate": "Thu, 07 May 2026 07:40:00 GMT"
+    },
     {
       "sentiment": "positive",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVtaEJPSnl5VTlEWFpNUEdacFlSNENfZW5IeUNDM0czUVhlZFBITFEzd0ZVU3E2S3NhanpGUnFjRGxTZWY3NmlmdmJfVHVLT01TTnNIeG9EWHI2TVdjR25GRjRQSEpjOXVRdXVJeHFOd3ctVVdVdEpSa1VZcklTV2VLOEpIS3NtbzkxOXdXSXBEV2x3MUFNdXdScl9ENk1EcUs5alhR?oc=5",
@@ -353,96 +513,6 @@
       "category": "上游供應商",
       "title": "SanDisk面臨財報考驗,NAND漲勢推動股價逼近高峰 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞",
       "pubDate": "Thu, 30 Apr 2026 17:19:50 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VT2lSRDlyek5NazFseG16UDloS1ZrSmRtc0JQZ05kaEQ0am5EUUY3WHV4X2RjY0FaSVRKQmtSY1k2QURXLU1zLUhUNlVkR1k0OUJCX19kX0wyd2dIM0lJbW9COHJxVFIxaWFvUGxLa0lUWFk?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VT2lSRDlyek5NazFseG16UDloS1ZrSmRtc0JQZ05kaEQ0am5EUUY3WHV4X2RjY0FaSVRKQmtSY1k2QURXLU1zLUhUNlVkR1k0OUJCX19kX0wyd2dIM0lJbW9COHJxVFIxaWFvUGxLa0lUWFk?oc=5\" target=\"_blank\"&gt;SP 廣穎電通 XPOWER C",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "TechSpace 鐵客空間",
-      "category": "競品",
-      "title": "SP 廣穎電通 XPOWER Cyclone DDR5 RGB 記憶體再奪紅點設計大獎 - TechSpace 鐵客空間",
-      "pubDate": "Thu, 30 Apr 2026 05:50:32 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUJWSmFrSUxoZ1RoRHpJSFdmS3pyMC1wRzVWSzZIZ2h0dDRPVTk0dWNIeGR5UlhIck9jR0N1RWVUZjFySjhJbTV3dDVEc0NObnVjUGxlRkVCNmJocUFab1dEYXhqU2NCZmswai04czkzbzQ1d0N3Z05fSWZZUXE3UHJxWHRnVFhwZUpXVk5R?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUJWSmFrSUxoZ1RoRHpJSFdmS3pyMC1wRzVWSzZIZ2h0dDRPVTk0dWNIeGR5UlhIck9jR0N1RWVUZjFySjhJbTV3dDVEc0NObnVjUGxlRkVCNmJocUFab1dEYXhqU2NCZmswai04czkzbzQ1d0N3Z05fSWZZUXE3UHJxWHRnVFhwZUpXVk5R?oc=5",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "【數報】注意股:創見(2451)因近日借券賣出比率過大，今(04/30)日列為注意股 - 富聯網",
-      "pubDate": "Thu, 30 Apr 2026 00:35:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5\" target",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "《半導體》注意股：創見 近5日跌0.37% - 富聯網",
-      "pubDate": "Wed, 29 Apr 2026 23:55:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1BoaXFwS3Q3S2lyVGFxMkdNanNaV2YwUTRDS2JmNnUxNzNyd1VHazVmdW1DQlVLbFNuODQ2N2Zpd2xnNVQta2tTX3daZGNuR3RDdjNRUzk0QVd0S1A4QnNaWHoxeEdKcEc4RVhEV3Rma216VVhvcmVKQVdhbnVyRUhfWGF1cElCQ2hjQnl6d24?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1BoaXFwS3Q3S2lyVGFxMkdNanNaV2YwUTRDS2JmNnUxNzNyd1VHazVmdW1DQlVLbFNuODQ2N2Zpd2xnNVQta2tTX3daZGNuR3RDdjNRUzk0QVd0S1A4QnNaWHoxeEdKcEc4RVhEV3Rma216VVhvcmVKQVdhbnVyRUhfWGF1cElCQ2hjQnl6d24?o",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CMoney投資網誌",
-      "category": "創見資訊",
-      "title": "【即時新聞】創見(2451) AI效益外溢記憶體需求緊俏，出貨動能延續至2027年 - CMoney投資網誌",
-      "pubDate": "Wed, 29 Apr 2026 22:22:08 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISkpYdG5MMC1femtNY21GcUtFMGdqdXl5Wnc3QmN4TmE2dEVyYUh6V1lOMmQzd2lJN041MUhKYTJfWU4tbFNiQmEwQnhRdnMxeFA4NUZWWi0?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISkpYdG5MMC1femtNY21GcUtFMGdqdXl5Wnc3QmN4TmE2dEVyYUh6V1lOMmQzd2lJN041MUhKYTJfWU4tbFNiQmEwQnhRdnMxeFA4NUZWWi0?oc=5\" target=\"_blank\"&gt;2451 創見 - 股本雖大 小摩也不要看創見沒有🫵 市場遲早還他公道😎-股市爆料同學會&lt;/a",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 股本雖大 小摩也不要看創見沒有🫵 市場遲早還他公道😎-股市爆料同學會 - CMoney",
-      "pubDate": "Wed, 29 Apr 2026 17:52:56 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "pubDate": "Wed, 29 Apr 2026 17:16:52 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQemxORWR3RXYyb180dGJnNTRBRVFGWHc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQe",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "聯合新聞網",
-      "category": "創見資訊",
-      "title": "創見、佳必琪 權證四檔帶勁 - 聯合新聞網",
-      "pubDate": "Wed, 29 Apr 2026 17:06:41 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzNDZUU08xSk55bXhaNmNubkZVbGlQeS1BVjgteU1La2p6b04?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzN",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "Moomoo",
-      "category": "上游供應商",
-      "title": "Wedbush表示，Sandisk將受益於更好的NAND定價機制。 - Moomoo",
-      "pubDate": "Wed, 29 Apr 2026 16:21:14 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會 - CMoney",
-      "pubDate": "Wed, 29 Apr 2026 08:49:04 GMT"
     }
   ]
 }

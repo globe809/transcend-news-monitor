@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-09T02:42:14.794Z",
-  "generatedAtTW": "2026-05-09 10:42 台灣時間",
+  "generatedAt": "2026-05-10T02:48:10.838Z",
+  "generatedAtTW": "2026-05-10 10:48 台灣時間",
   "stats": {
-    "total": 152,
+    "total": 153,
     "positive": 70,
     "negative": 1,
-    "neutral": 81,
+    "neutral": 82,
     "byCategory": {
       "創見資訊": {
         "total": 92,
@@ -15,10 +15,10 @@
         "neutral": 44
       },
       "上游供應商": {
-        "total": 50,
+        "total": 51,
         "positive": 21,
         "negative": 1,
-        "neutral": 28
+        "neutral": 29
       },
       "競品": {
         "total": 10,
@@ -39,12 +39,32 @@
         "date": "2026-05",
         "positive": 30,
         "negative": 0,
-        "neutral": 24,
-        "total": 54
+        "neutral": 25,
+        "total": 55
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0eVVtTGpLRzZQeEpvbTQ3N2sybkc2dGVGdUdXWFZkTlFqcUlVN3ZxbnhySGEzaFVYekdVa0trSlh0S3BmUzRFVkVja3lMbkxmeElzWE93N0Nqbm5JQ19yZTdiSnp2V2tPVUtnWUlXNFl2N3VKb2duRFM5MlFucEk0eWFQTWNN?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0e",
+      "fetchedAt": "2026-05-10T02:48:10.838Z",
+      "source": "Yahoo股市",
+      "category": "上游供應商",
+      "title": "慧榮估三星HBM4返龍頭；陸廠NAND進展不錯 - Yahoo股市",
+      "pubDate": "Sat, 09 May 2026 11:27:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "source": "TechNews 科技新報",
+      "category": "創見資訊",
+      "title": "AI 打破記憶體循環週期，創見募資 30 億元資金因應需求 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5\" target=\"_bl",
+      "fetchedAt": "2026-05-10T02:48:10.838Z",
+      "pubDate": "Sat, 09 May 2026 05:54:10 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGVUZW4wYTJnbFVISnNzQkJxc19aOU92ZkxSaVJXb0VxSnVmTVRzMVViRlY2cVJzTjVXamxyR1RLNGJjQ0Q3dVZ2YmxuRWQ0enlfSlJZa2JVUm81dEpnWU5Jam9rNkY4a3MySmJwRTdRajY1Z29NTzUwWTRncTZEVW5ENU1HYTdp?oc=5",
@@ -124,16 +144,6 @@
       "category": "創見資訊",
       "title": "創見打破十年不舉債紀錄　發行30億元CB加現金200億元搶貨 - 鏡週刊Mirror Media",
       "pubDate": "Fri, 08 May 2026 08:25:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVBCSFpRSzVmcnZ6YTRxQk4xR19SOG0tU1dibXVEeVB5dk5qODJlbVdnYnhuSGNCTnQxdS04dG90NjBDRGJiLXB0XzlQZ2ZDdEdCdE5zU3lnQnAxOHRranJqaURLV0tfaG41QTdrazlmVTZtMlltRmFTU3BybEt3X1BLcDdJR0dzUjgySWp3NA?oc=5",
-      "description": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVBCSFpRSzVmcnZ6YTRxQk4xR19SOG0tU1dibXVEeVB5dk5qODJlbVdnYnhuSGNCTnQxdS04dG90NjBDRGJiLXB0XzlQZ2ZDdEdCdE5zU3lnQnAxOHRranJqaURLV0tfaG41QTdrazlmVTZtMlltRmFTU3BybEt3X1BLc",
-      "fetchedAt": "2026-05-09T02:42:14.794Z",
-      "source": "TechNews 科技新報",
-      "category": "創見資訊",
-      "title": "AI 打破記憶體循環週期，創見募資 30 億元資金因應需求 - TechNews 科技新報",
-      "pubDate": "Fri, 08 May 2026 08:18:53 GMT"
     },
     {
       "sentiment": "neutral",
@@ -1034,16 +1044,6 @@
       "title": "三星停止接單 LPDDR4 及 LPDDR4X，2027 年停產推動世代更新 - TechNews 科技新報",
       "fetchedAt": "2026-04-21T06:24:02.999Z",
       "pubDate": "Mon, 20 Apr 2026 07:00:35 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QSW1oRU96UkpCejZMNlhDY1VXMGZ4R0JYQ1pIV0dWbl9FX2xBOVlaVUdHUGZObjgwb3JFM2o1eHRTSU9OakpVRkVUNmhsQWhoaFZqVi04WmFIbU1ERnI0?oc=5\" target=\"_blank\"&gt;創見、宜鼎需求升溫- 日報&lt;/a&gt;&amp;nbsp;&amp;nbsp;",
-      "fetchedAt": "2026-04-20T07:28:15.258Z",
-      "source": "工商時報",
-      "category": "競品",
-      "title": "創見、宜鼎需求升溫- 日報 - 工商時報",
-      "pubDate": "Sun, 19 Apr 2026 19:00:00 GMT"
     }
   ]
 }

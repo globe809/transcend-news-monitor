@@ -1,62 +1,129 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-10T02:48:10.838Z",
-  "generatedAtTW": "2026-05-10 10:48 台灣時間",
+  "generatedAt": "2026-05-11T02:57:21.356Z",
+  "generatedAtTW": "2026-05-11 10:57 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 0,
+    "total": 8,
+    "positive": 4,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 4,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
+        "total": 6,
+        "positive": 3,
         "negative": 0,
-        "neutral": 1
+        "neutral": 3
       },
       "上游供應商": {
         "total": 1,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 1,
         "positive": 0,
         "negative": 0,
         "neutral": 1
-      },
-      "競品": {
-        "total": 0,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-05-09",
-        "positive": 0,
+        "date": "2026-05-10",
+        "positive": 3,
         "negative": 0,
-        "neutral": 2,
+        "neutral": 3,
+        "total": 6
+      },
+      {
+        "date": "2026-05-11",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 1,
         "total": 2
       }
     ]
   },
   "news": [
     {
-      "title": "慧榮估三星HBM4返龍頭；陸廠NAND進展不錯 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0eVVtTGpLRzZQeEpvbTQ3N2sybkc2dGVGdUdXWFZkTlFqcUlVN3ZxbnhySGEzaFVYekdVa0trSlh0S3BmUzRFVkVja3lMbkxmeElzWE93N0Nqbm5JQ19yZTdiSnp2V2tPVUtnWUlXNFl2N3VKb2duRFM5MlFucEk0eWFQTWNN?oc=5",
-      "pubDate": "Sat, 09 May 2026 11:27:00 GMT",
-      "source": "Yahoo股市",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0e",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-10T02:48:10.838Z"
+      "title": "【10:51 即時新聞】創見(2451)亮燈漲停343.5元，AI記憶體獲利爆發帶動買盤追價＋多頭均線排列搭配法人連日加碼 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0pDcjMySjRXYmFPeFFNZHFCLXhqQjlYQkJnTWMwNDQ0eWNkRFNCYWt5UFRaOWF4Q0t6OFVwNWpuWEctUTVsWkZZT2FxV3NtM3p1My1mNE0xSjYyazNWd09qOS1aYjFkTjhneFFaUlVHUjFUQVRxOXhaZWI2VnZSZ2IyVjZUeDBMeXRBMGlR?oc=5",
+      "pubDate": "Mon, 11 May 2026 02:52:06 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxON0pDcjMySjRXYmFPeFFNZHFCLXhqQjlYQkJnTWMwNDQ0eWNkRFNCYWt5UFRaOWF4Q0t6OFVwNWpuWEctUTVsWkZZT2FxV3NtM3p1My1mNE0xSjYyazNWd09qOS1aYjFkTjhneFFaUlVHUjFUQVRxOXhaZWI2VnZSZ2IyVjZUeDBMeXRBMGlR?oc=5",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
     },
     {
-      "title": "AI 打破記憶體循環週期，創見募資 30 億元資金因應需求 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5",
-      "pubDate": "Sat, 09 May 2026 05:54:10 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5\" target=\"_bl",
+      "title": "聯電、啟碁、創見...法人搶搭15檔績優列車！追高怕被套、空手怕錯過，台股高檔操作心法曝光 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk5BeXhxSE0tT1ZoajdnN05jRWFRTmRpVktDc19RNjR0cVNvU29uZW5jd1Y4WE5FcVFlU1drZy1icXRUX0tuTWlqd3luRDh1R1pIcG1BM2ZfM241ZlFUTDEzbkdNaWxDRDRESG1sbld0WUZWLV9ULXNFUjVyZGxUSg?oc=5",
+      "pubDate": "Mon, 11 May 2026 01:57:00 GMT",
+      "source": "今周刊",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk5BeXhxSE0tT1ZoajdnN05jRWFRTmRpVktDc19RNjR0cVNvU29uZW5jd1Y4WE5FcVFlU1drZy1icXRUX0tuTWlqd3luRDh1R1pIcG1BM2ZfM241ZlFUTDEzbkdNaWxDRDRESG1sbld0WUZWLV9ULXNFUjVyZGxUSg?oc=5\" target=\"_blank\"&",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-10T02:48:10.838Z"
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "《投信賣超6-4》創見(384)、文曄(382)、FB科技(380) - 富聯網",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUlZQXJzVFJIMUV3c1k2T3FMZ3RMNk5TZ0phNi1leDE4d1p0TVdMcFJEN0N3Z1liQWRkU3lLWnU1eGVzWWdPN1p2VHJWTXBnNXdLME9QX2xPNzd4cXptWE9hVTAwVzRBYXVnbjlQeHdCS29Ha2lYMEtxdHJlZElkLVlFTVpXNjlF?oc=5",
+      "pubDate": "Sun, 10 May 2026 23:34:00 GMT",
+      "source": "富聯網",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUlZQXJzVFJIMUV3c1k2T3FMZ3RMNk5TZ0phNi1leDE4d1p0TVdMcFJEN0N3Z1liQWRkU3lLWnU1eGVzWWdPN1p2VHJWTXBnNXdLME9QX2xPNzd4cXptWE9hVTAwVzRBYXVnbjlQeHdCS29Ha2lYMEtxdHJlZElkLVlFTVpXNjlF?oc=5\" target",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "【即時新聞】威剛(3260) 受惠NAND Flash價格持續上揚預期，缺貨至2028年帶動概念股紅利 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUtpVnY5dVpTcGpVcWVFMksydWtJUnBaTmFkQnRsUHhzbGtfVG1wTzFKU1I5cDR2VjRuSEg1QTkwR1AwdnNZSFN0bkpiMEU2UnZNSUZMVlJ3OFl2a20tZ05LdjFRN3kzdlh0LVo0c1dXR2twNlI2T2Z1ZTE1c1NZVEY4WWVUcWlkelRoWmZJdmY?oc=5",
+      "pubDate": "Sun, 10 May 2026 22:08:38 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUtpVnY5dVpTcGpVcWVFMksydWtJUnBaTmFkQnRsUHhzbGtfVG1wTzFKU1I5cDR2VjRuSEg1QTkwR1AwdnNZSFN0bkpiMEU2UnZNSUZMVlJ3OFl2a20tZ05LdjFRN3kzdlh0LVo0c1dXR2twNlI2T2Z1ZTE1c1NZVEY4WWVUcWlkelRoWmZJdmY?o",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "創見營收／今年首季創歷史新高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNW9RUkNmNWFlNE5EZHl4ZFc0ZGdiWHgtRTVGQzZBd3pfU3hScWFyMGFIYUZpWlZtTFV1R29TYlNlR05Xc3VrWkhJa2RaMlJZc1Jpd2lyZDM4UlczLWJPWGVKZkU1M3UyXy14cmx2RHNzY0pNcmhFbEVn0gFfQVVfeXFMTnVaZUNaMW5UcGNuNFpMS0pfYXRPZUNGM25YMTBwUXQxVl9TMnBYSW1nLUI0SS1JOF9WZzFhb3pfRWZ3X3lwRUlqNWdKLXdndWdBX3J0cl91NzVEcGI1N3M?oc=5",
+      "pubDate": "Sun, 10 May 2026 22:03:04 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNW9RUkNmNWFlNE5EZHl4ZFc0ZGdiWHgtRTVGQzZBd3pfU3hScWFyMGFIYUZpWlZtTFV1R29TYlNlR05Xc3VrWkhJa2RaMlJZc1Jpd2lyZDM4UlczLWJPWGVKZkU1M3UyXy14cmx2RHNzY0pNcmhFbEVn0gFfQVVfeXFMTnVaZUNaMW5UcGNuNFpMS",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVEdRQXRWU0EyT01hM1pPd1VWNXZPdVFwUVc4TW9XUW9rTDhQcklnckIwS2VUazhOZUxpekxZTWd3di1LVkZwemJSVjE4eW4xSzJRYWJHSFBZVXpnSVlubW03NHlCbTZYcWVTblJ4b2gxckk3ZE52SDRXcDR3WmF1N0IwQkdVZmhGZWFnUS0xbGlzMVMxWXBORWpUTHBzZHIyZE9LZ0pINVdRcTFSNHp0TVRaQnRCZE94V1hwV01Fb0hZYkhGSElOT1FTT0I5RW92QnRHLXlRVkpXRk50cVE0dE1JQjg3ZnhSazVuc0xybVN0Qk5NOU1Jc1U4Ujh0VDRMeEpwVWlLUDZ3Yl9KdTNybmVkb2tKdW5kX1E0d0hqMmtlT1c1cWUxbXRDY1loZkc0dTB5MmJkX2JPaWNLNVlyTXdURDZHV2FN?oc=5",
+      "pubDate": "Sun, 10 May 2026 19:24:37 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVEdRQXRWU0EyT01hM1pPd1VWNXZPdVFwUVc4TW9XUW9rTDhQcklnckIwS2VUazhOZUxpekxZTWd3di1LVkZwemJSVjE4eW4xSzJRYWJHSFBZVXpnSVlubW03NHlCbTZYcWVTblJ4b2gxckk3ZE52SDRXcDR3WmF1N0IwQkdVZmhGZWFnUS0xbGlzM",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "金士頓kingston DDR4-3200 16G*2(32G) 筆電NB用(KVR32S22S8/16) - Mobile01",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtcTJyOU45XzY1bGdKU0poM1EzT3lLWG1YSy0tbjVDRlhxNHltNW1XeElYRDItVjVYb3VhVDdiQXlOaFZndHRKTkRpVko2S0JkckZycklGUmNRNzBhSmNSZEtZWEZRZw?oc=5",
+      "pubDate": "Sun, 10 May 2026 17:33:18 GMT",
+      "source": "Mobile01",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtcTJyOU45XzY1bGdKU0poM1EzT3lLWG1YSy0tbjVDRlhxNHltNW1XeElYRDItVjVYb3VhVDdiQXlOaFZndHRKTkRpVko2S0JkckZycklGUmNRNzBhSmNSZEtZWEZRZw?oc=5\" target=\"_blank\"&gt;金士頓kingston DDR4-3200 16G*2(32G) ",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
+    },
+    {
+      "title": "2451 創見 - 國際放空機構唱衰記憶體！ 老手反笑「拿明朝的劍斬清朝的官」-股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MnByNWdCeUY1WWhCeHI5SndzNXVjMUZmbXdtRGEtMDVrUVdwS3pMaGFwak1STER6QmtNc2xUMUdUdU5uTVBLYlRPWnJYMXFIdEFqc050bnk?oc=5",
+      "pubDate": "Sun, 10 May 2026 10:50:49 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MnByNWdCeUY1WWhCeHI5SndzNXVjMUZmbXdtRGEtMDVrUVdwS3pMaGFwak1STER6QmtNc2xUMUdUdU5uTVBLYlRPWnJYMXFIdEFqc050bnk?oc=5\" target=\"_blank\"&gt;2451 創見 - 國際放空機構唱衰記憶體！ 老手反笑「拿明朝的劍斬清朝的官」-股市爆料同學會&lt;/",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-11T02:57:21.356Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-12T02:49:27.069Z",
-  "generatedAtTW": "2026-05-12 10:49 台灣時間",
+  "generatedAt": "2026-05-13T02:54:17.337Z",
+  "generatedAtTW": "2026-05-13 10:54 台灣時間",
   "stats": {
     "total": 164,
     "positive": 75,
@@ -32,28 +32,38 @@
         "date": "2026-04",
         "positive": 39,
         "negative": 1,
-        "neutral": 57,
-        "total": 97
+        "neutral": 56,
+        "total": 96
       },
       {
         "date": "2026-05",
         "positive": 36,
         "negative": 0,
-        "neutral": 31,
-        "total": 67
+        "neutral": 32,
+        "total": 68
       }
     ]
   },
   "news": [
     {
       "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDVETU02REE1YmNoeGsxU1hibUktT0RnamtmMzVRNHl3Nkx1SXZacEIxcVAwUVl6X1o5ZHI4Zng5RnlRSU1od1lKbjlNNHMzdlhvbFJZVVhHSUJTX1lsWnhDRm5QaC1vWllQSGxtTkh1VzlqNlVNNms1dzJPRG0yaFRBTHc1NE5fa1JtWUsxVnBzdU9HR0JXNzhnN08wbzJzRVRyR2lUOHgyR3IzWmNN?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDVETU02REE1YmNoeGsxU1hibUktT0RnamtmMzVRNHl3Nkx1SXZacEIxcVAwUVl6X1o5ZHI4Zng5RnlRSU1od1lKbjlNNHMzdlhvbFJZVVhHSUJTX1lsWnhDRm5QaC1vWllQSGxtTkh1VzlqNlVNNms1dzJPRG0yaFRBTHc1NE5fa1JtWUsxVnBzd",
-      "fetchedAt": "2026-05-12T02:49:27.069Z",
+      "source": "富聯網",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5\" target",
+      "fetchedAt": "2026-05-13T02:54:17.337Z",
+      "title": "《半導體》注意股：創見 近5日漲24.03% - 富聯網",
+      "pubDate": "Tue, 12 May 2026 23:47:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
       "source": "TechNews 科技新報",
       "category": "上游供應商",
       "title": "三星、鎧俠陸續退出 2D NAND 市場，供不應求情況使價格飆漲 300% - TechNews 科技新報",
-      "pubDate": "Tue, 12 May 2026 02:16:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX25vTVlhemVqcEVya1hmanBNbw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX",
+      "fetchedAt": "2026-05-13T02:54:17.337Z",
+      "pubDate": "Tue, 12 May 2026 05:10:30 GMT"
     },
     {
       "sentiment": "positive",
@@ -744,16 +754,6 @@
       "category": "創見資訊",
       "title": "【數報】注意股:創見(2451)因近日借券賣出比率過大，今(04/30)日列為注意股 - 富聯網",
       "pubDate": "Thu, 30 Apr 2026 00:35:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXhCaGJEUjhGZWppRVFYSUZWSzdocDNEVnBnUEVXZWFoeVVZdlRWSVhPQVRVSlJKQWRiQ2p0V2pISktDWmM2VktYMldGOUpNbXc5SWJGMHBrajZhVGZ4RVVtV1ZmSmh3MEZsOU13bkxXa2M0dnNLczlMMjM1bFkwYmgwSzBweV9s?oc=5\" target",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "《半導體》注意股：創見 近5日跌0.37% - 富聯網",
-      "pubDate": "Wed, 29 Apr 2026 23:55:00 GMT"
     },
     {
       "sentiment": "positive",

@@ -1,46 +1,39 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-12T02:49:27.069Z",
-  "generatedAtTW": "2026-05-12 10:49 台灣時間",
+  "generatedAt": "2026-05-13T02:54:17.337Z",
+  "generatedAtTW": "2026-05-13 10:54 台灣時間",
   "stats": {
-    "total": 61,
-    "positive": 33,
+    "total": 54,
+    "positive": 29,
     "negative": 0,
-    "neutral": 28,
+    "neutral": 25,
     "byCategory": {
       "創見資訊": {
-        "total": 45,
-        "positive": 28,
+        "total": 43,
+        "positive": 25,
         "negative": 0,
-        "neutral": 17
+        "neutral": 18
       },
       "上游供應商": {
-        "total": 13,
-        "positive": 5,
+        "total": 9,
+        "positive": 4,
         "negative": 0,
-        "neutral": 8
+        "neutral": 5
       },
       "競品": {
-        "total": 3,
+        "total": 2,
         "positive": 0,
         "negative": 0,
-        "neutral": 3
+        "neutral": 2
       }
     },
     "trend": [
       {
-        "date": "2026-05-04",
-        "positive": 2,
-        "negative": 0,
-        "neutral": 3,
-        "total": 5
-      },
-      {
         "date": "2026-05-05",
-        "positive": 8,
+        "positive": 6,
         "negative": 0,
-        "neutral": 2,
-        "total": 10
+        "neutral": 1,
+        "total": 7
       },
       {
         "date": "2026-05-06",
@@ -88,21 +81,31 @@
         "date": "2026-05-12",
         "positive": 0,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 2,
+        "total": 2
       }
     ]
   },
   "news": [
     {
       "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDVETU02REE1YmNoeGsxU1hibUktT0RnamtmMzVRNHl3Nkx1SXZacEIxcVAwUVl6X1o5ZHI4Zng5RnlRSU1od1lKbjlNNHMzdlhvbFJZVVhHSUJTX1lsWnhDRm5QaC1vWllQSGxtTkh1VzlqNlVNNms1dzJPRG0yaFRBTHc1NE5fa1JtWUsxVnBzdU9HR0JXNzhnN08wbzJzRVRyR2lUOHgyR3IzWmNN?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDVETU02REE1YmNoeGsxU1hibUktT0RnamtmMzVRNHl3Nkx1SXZacEIxcVAwUVl6X1o5ZHI4Zng5RnlRSU1od1lKbjlNNHMzdlhvbFJZVVhHSUJTX1lsWnhDRm5QaC1vWllQSGxtTkh1VzlqNlVNNms1dzJPRG0yaFRBTHc1NE5fa1JtWUsxVnBzd",
-      "fetchedAt": "2026-05-12T02:49:27.069Z",
+      "source": "富聯網",
+      "category": "創見資訊",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5\" target",
+      "fetchedAt": "2026-05-13T02:54:17.337Z",
+      "title": "《半導體》注意股：創見 近5日漲24.03% - 富聯網",
+      "pubDate": "Tue, 12 May 2026 23:47:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
       "source": "TechNews 科技新報",
       "category": "上游供應商",
       "title": "三星、鎧俠陸續退出 2D NAND 市場，供不應求情況使價格飆漲 300% - TechNews 科技新報",
-      "pubDate": "Tue, 12 May 2026 02:16:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX25vTVlhemVqcEVya1hmanBNbw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX",
+      "fetchedAt": "2026-05-13T02:54:17.337Z",
+      "pubDate": "Tue, 12 May 2026 05:10:30 GMT"
     },
     {
       "sentiment": "positive",
@@ -623,86 +626,6 @@
       "category": "競品",
       "title": "廣穎工控首推工業級記憶卡 TempSync 技術 導入硬體頻率校正 強化溫度變化下的穩定性 - XFastest News",
       "pubDate": "Tue, 05 May 2026 08:47:10 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UNGpELXV5Xy1qTWJDbThFWW1aRlN4blBOQmZxRzRVRTAtbUMwQm9tOGlEVkZHNEN6VXNHNXlacVlNY1I1YUkybnpfc0lyNUpM0gFWQVVfeXFMTkV5azh0SUViajRUNnFlNlRnc0U0LTJ2VTFyaUFOMjcteXRuS3hvOVNmaHZndTROZjlrbG1WNkNpUks4dENZYmh6WmEyd1FhTVZSWW95Rnc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UNGpELXV5Xy1qTWJDbThFWW1aRlN4blBOQmZxRzRVRTAtbUMwQm9tOGlEVkZHNEN6VXNHNXlacVlNY1I1YUkybnpfc0lyNUpM0gFWQVVfeXFMTkV5azh0SUViajRUNnFlNlRnc0U0LTJ2VTFyaUFOMjcteXRuS3hvOVNmaHZndTROZjlrbG1WNkNpU",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "聯合新聞網",
-      "category": "創見資訊",
-      "title": "創見營收／4月74.49億元 月增31%、年增594% 歷史單月最高 - 聯合新聞網",
-      "pubDate": "Tue, 05 May 2026 07:04:01 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3F0cldKOTdVcVdsaTQ5UkwwcWk1eE5QTWtRWGswbHRoZnJLc0J3alctLTVBbUQtQzNaSWFVVUpwSFljTmxFUkZwTXAyTmxocHFORm9GM0I2UkZRQTgtZE42RWszX2N4QUhfU0IyQXpLYjgzZ3VYSnJhOFk1MGpuYXRhT1R5cXc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3F0cldKOTdVcVdsaTQ5UkwwcWk1eE5QTWtRWGswbHRoZnJLc0J3alctLTVBbUQtQzNaSWFVVUpwSFljTmxFUkZwTXAyTmxocHFORm9GM0I2UkZRQTgtZE42RWszX2N4QUhfU0IyQXpLYjgzZ3VYSnJhOFk1MGpuYXRhT1R5cXc?oc=5\" target=",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "title": "【數報】營收特報：創見(2451)4月營收創歷史新高，近12個月共3次歷史新高 - 富聯網",
-      "pubDate": "Tue, 05 May 2026 05:44:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTVVWalVJSXNmUThybUkyWFhpUUhBTHg1UENxcW56UE9OcS1fazVaRWM4cllvYjdoanpLQk1SRmFwU2ZQSlZfYTlGZC1sSnc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTVVWalVJSXNmUThybUkyWFhpUUhBTHg1UENxcW56UE9OcS1fazVaRWM4cllvYjdoanpLQk1SRmFwU2ZQSlZfYTlGZC1sSnc?oc=5\" target=\"_blank\"&gt;AI才剛開始！美光執行長：記憶體已變為戰略資產 今年DRAM與NAND需求恐吞噬逾半市場&lt;/a&gt;&amp;nbsp;",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "news.cnyes.com",
-      "category": "上游供應商",
-      "title": "AI才剛開始！美光執行長：記憶體已變為戰略資產 今年DRAM與NAND需求恐吞噬逾半市場 - news.cnyes.com",
-      "pubDate": "Tue, 05 May 2026 00:41:15 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbjRDYXpwUWMtbWNjbmdNZERnVEQtbnZtdkNNMGtpTVJyT0FwRnpaNFc2c1puQm1Jbi1JMXRqckJZQ1J4UG5pY1kya0V3MndpaDloTGtjM1QtbWt3M0Zn?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DbjRDYXpwUWMtbWNjbmdNZERnVEQtbnZtdkNNMGtpTVJyT0FwRnpaNFc2c1puQm1Jbi1JMXRqckJZQ1J4UG5pY1kya0V3MndpaDloTGtjM1QtbWt3M0Zn?oc=5\" target=\"_blank\"&gt;AI發展才剛起步！DRAM、NAND需求暴增 美光CEO：記憶體已成「戰略資產 」&l",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "工商時報",
-      "category": "上游供應商",
-      "title": "AI發展才剛起步！DRAM、NAND需求暴增 美光CEO：記憶體已成「戰略資產 」 - 工商時報",
-      "pubDate": "Mon, 04 May 2026 19:00:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fcFVMUkt6WnZnTG5kQnQ1ZVZhSUFGS1NNVjZuOElvbnVnaXp2THh5Uk9Obng2WXV5aFdDa1NoR0RaTHBzT05aSWZ6ZVRZdE50dmo3YTRsUllWbEloYUdTUkVoWHFoOFBTMGpBSVRIQm54dmpxaGc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1fcFVMUkt6WnZnTG5kQnQ1ZVZhSUFGS1NNVjZuOElvbnVnaXp2THh5Uk9Obng2WXV5aFdDa1NoR0RaTHBzT05aSWZ6ZVRZdE50dmo3YTRsUllWbEloYUdTUkVoWHFoOFBTMGpBSVRIQm54dmpxaGc?oc=5\" target=\"_blank\"&gt;營收速報 - 創見(24",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "sinotrade.com.tw",
-      "category": "創見資訊",
-      "title": "營收速報 - 創見(2451)4月營收74.49億元年增率高達594.43％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
-      "pubDate": "Mon, 04 May 2026 15:15:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1pYWC1IOTFGOE1nZTFvdXdEczI0SmloblBEa0ZVb0RteVFTOUNyeXVKeEQ1RUlWLW1QeWZFVWtPczkzb21sNUQ3YllJNmRFOFRSbWk2VENmdkdqY2hsY3VueERNaHhhem5nT2tWTXF4SmNSRmhxYS1ycUliOE5BYU1vaUdIMUZibHNTcHkxWDJmMFUxZU4yWmxoSUU3S0Y4VUFmeUNkNG5lQQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1pYWC1IOTFGOE1nZTFvdXdEczI0SmloblBEa0ZVb0RteVFTOUNyeXVKeEQ1RUlWLW1QeWZFVWtPczkzb21sNUQ3YllJNmRFOFRSbWk2VENmdkdqY2hsY3VueERNaHhhem5nT2tWTXF4SmNSRmhxYS1ycUliOE5BYU1vaUdIMUZibHNTcHkxWDJmM",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "富途牛牛",
-      "category": "上游供應商",
-      "title": "美光、閃迪等存儲股集體創新高！美光CEO：AI才剛開始，但內存已經不夠了，今年DRAM與NAND需求或吞噬過半市場 - 富途牛牛",
-      "pubDate": "Mon, 04 May 2026 13:36:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PQURRWVhrcDJGRGJ4dmtKemVwX3RLSDd5bFI0T0RIWEs0VHY4N1FDZzR2Y05sU2MwUkdfdW5paTllNms4a0R1ZGJRNjI5WlNLaHZlMFVYcTdHYTdSaFJXOGE3c2JYVEpLajRtWDU3NA?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1PQURRWVhrcDJGRGJ4dmtKemVwX3RLSDd5bFI0T0RIWEs0VHY4N1FDZzR2Y05sU2MwUkdfdW5paTllNms4a0R1ZGJRNjI5WlNLaHZlMFVYcTdHYTdSaFJXOGE3c2JYVEpLajRtWDU3NA?oc=5\" target=\"_blank\"&gt;歡慶威剛 25 周年，齊心領航 AI 新紀",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "UNIKO's Hardware",
-      "category": "競品",
-      "title": "歡慶威剛 25 周年，齊心領航 AI 新紀元 - UNIKO's Hardware",
-      "pubDate": "Mon, 04 May 2026 12:59:57 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXQtaXJjTDB4eHNma1NnYUlkQjBLdnlQRk1vSjJ2bkhBdHpZczZiNkhpN3dZNGtvbmxGQjdEa1M4ekJMQ0hqb1A4X1p2SEQwMTdjNzQ1ZE9EYVRJR0pmbVpnM2FvMk9OeEZ4MURlcHVxZ25nSjNaaVBoRUMxRkZnV2VaeTNCSXFiSnJORmE3X1g?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXQtaXJjTDB4eHNma1NnYUlkQjBLdnlQRk1vSjJ2bkhBdHpZczZiNkhpN3dZNGtvbmxGQjdEa1M4ekJMQ0hqb1A4X1p2SEQwMTdjNzQ1ZE9EYVRJR0pmbVpnM2FvMk9OeEZ4MURlcHVxZ25nSjNaaVBoRUMxRkZnV2VaeTNCSXFiSnJORmE3X1g?o",
-      "fetchedAt": "2026-05-05T07:31:59.513Z",
-      "source": "富途牛牛",
-      "category": "上游供應商",
-      "title": "美光CEO：AI才剛開始，但內存已經不夠了，今年DRAM與NAND需求或吞噬過半市場 - 富途牛牛",
-      "pubDate": "Mon, 04 May 2026 10:16:45 GMT"
     }
   ]
 }

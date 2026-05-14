@@ -1,24 +1,24 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-13T02:54:17.337Z",
-  "generatedAtTW": "2026-05-13 10:54 台灣時間",
+  "generatedAt": "2026-05-14T02:56:49.894Z",
+  "generatedAtTW": "2026-05-14 10:56 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 0,
+    "total": 6,
+    "positive": 1,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 5,
     "byCategory": {
       "創見資訊": {
         "total": 1,
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "上游供應商": {
-        "total": 1,
+        "total": 5,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 5
       },
       "競品": {
         "total": 0,
@@ -29,34 +29,74 @@
     },
     "trend": [
       {
-        "date": "2026-05-12",
-        "positive": 0,
+        "date": "2026-05-13",
+        "positive": 1,
         "negative": 0,
-        "neutral": 2,
-        "total": 2
+        "neutral": 5,
+        "total": 6
       }
     ]
   },
   "news": [
     {
-      "title": "《半導體》注意股：創見 近5日漲24.03% - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5",
-      "pubDate": "Tue, 12 May 2026 23:47:00 GMT",
-      "source": "富聯網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFuNV9pRmp2SFRsR0pONktkSHdobXVhd3owNHRWa3hWRng4dWlEMXNrZEhMN2Y1YnJ5cFNMM3hEVzZmRVdVUjd4T2I2OXIyRkF5NGR6WklXYTd2WjA3Z0c5bDdRM3d0Y0ZPNmNETDMwRFllSXViMWdOSGptaXFGc05YVXRtTk9C?oc=5\" target",
-      "category": "創見資訊",
+      "title": "HBM補課告一段落 三星傳加速3D NAND、封裝與基板布局 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTE1Vc1NmaVdEejNqbUN5dXR1ZHE4Q3Y0UzZCOENvTHZFSDUyUlh1YTZTS2VGc0JqSWJNOFc5Nk9kbHlfVVk0VE5MdjhVbUpzTUZwNlZ1X25LdGRyLTFjbkdsdk9ubmdLYUF5RnhpTTg2OXlkV2FXeGpkU05NSnA3UUNmTElOSzBzd2djUnJn?oc=5",
+      "pubDate": "Wed, 13 May 2026 18:48:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTE1Vc1NmaVdEejNqbUN5dXR1ZHE4Q3Y0UzZCOENvTHZFSDUyUlh1YTZTS2VGc0JqSWJNOFc5Nk9kbHlfVVk0VE5MdjhVbUpzTUZwNlZ1X25LdGRyLTFjbkdsdk9ubmdLYUF5RnhpTTg2OXlkV2FXeGpkU05NSnA3UUNmTElOSzBzd2djUnJn?oc=5",
+      "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-13T02:54:17.337Z"
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
     },
     {
-      "title": "三星、鎧俠陸續退出 2D NAND 市場，供不應求情況使價格飆漲 300% - TechNews 科技新報",
+      "title": "三星、鎧俠與美光撤退轉型 南韓家電與汽車憂舊款NAND緊缺 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclJWVkVfeDY4b2FHSmp2WjVJeHlMdDVEbFl6RmJ5SFItS3doeldmUXg2d2dONEt4UGpDU3RaX0lRSEpiU0tsbGtWa0R2TXd0SEYwVHBaUy1yVW1xSGlTbG5OUi0zRWhsWG9uUDNxZlFFbWdhUXRaSU5iek9RQks1RDVidzVHM3NFOFhVcW53?oc=5",
+      "pubDate": "Wed, 13 May 2026 18:33:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPclJWVkVfeDY4b2FHSmp2WjVJeHlMdDVEbFl6RmJ5SFItS3doeldmUXg2d2dONEt4UGpDU3RaX0lRSEpiU0tsbGtWa0R2TXd0SEYwVHBaUy1yVW1xSGlTbG5OUi0zRWhsWG9uUDNxZlFFbWdhUXRaSU5iek9RQks1RDVidzVHM3NFOFhVcW53?oc=5",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
+    },
+    {
+      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
+      "pubDate": "Wed, 13 May 2026 13:58:28 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
+    },
+    {
+      "title": "美光 vs. Sandisk！哪一支記憶體股更值得買進？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYVBlbG1waEJGZVZzbnZIYzFLODRwbmZZTGxNT1ZSeF9palYySTB5OXVpeU1JWEo5N1lYYm9nTDZ5SVBmakllQV91cEhyQUk?oc=5",
+      "pubDate": "Wed, 13 May 2026 11:30:25 GMT",
+      "source": "news.cnyes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYVBlbG1waEJGZVZzbnZIYzFLODRwbmZZTGxNT1ZSeF9palYySTB5OXVpeU1JWEo5N1lYYm9nTDZ5SVBmakllQV91cEhyQUk?oc=5\" target=\"_blank\"&gt;美光 vs. Sandisk！哪一支記憶體股更值得買進？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
+    },
+    {
+      "title": "SSD/HDD短缺升級：大客戶排隊簽5年長約，儲存市場變天了| 科技 - 鉅亨號",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yY095V0UxNVhDQzFUUEJCdDhFY3ZOdmxaMjg4ZzU3YmFHakY4Zkt1U2xGYnhpVG9oVVpwUklzRkY4LWxRMDJtMw?oc=5",
+      "pubDate": "Wed, 13 May 2026 10:32:51 GMT",
+      "source": "鉅亨號",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yY095V0UxNVhDQzFUUEJCdDhFY3ZOdmxaMjg4ZzU3YmFHakY4Zkt1U2xGYnhpVG9oVVpwUklzRkY4LWxRMDJtMw?oc=5\" target=\"_blank\"&gt;SSD/HDD短缺升級：大客戶排隊簽5年長約，儲存市場變天了| 科技&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font ",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
+    },
+    {
+      "title": "三星、鎧俠陸續退出 2D NAND 市場，供不應求使價格飆漲 300% - TechNews 科技新報",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX25vTVlhemVqcEVya1hmanBNbw?oc=5",
-      "pubDate": "Tue, 12 May 2026 05:10:30 GMT",
+      "pubDate": "Wed, 13 May 2026 05:58:47 GMT",
       "source": "TechNews 科技新報",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQekZOdFh4WlpGdWNlc0JCYjE0bU5YZ2c5eDgxWk90V3lLMEMta1I5VHFYbHJpWTQtSEpmWmpGcUFYeFZseGd0QWNfU2hkMzAtUzJfQng4OEN6NWJsZkJXNzRXV3VNRzBxdnRja0p6cTZpeENjTnczWUdZQW85YThVZjVoejlhTHpGdnhUXzBOWjFWX",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-13T02:54:17.337Z"
+      "fetchedAt": "2026-05-14T02:56:49.894Z"
     }
   ]
 }

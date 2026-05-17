@@ -1,40 +1,33 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-16T02:45:37.746Z",
-  "generatedAtTW": "2026-05-16 10:45 台灣時間",
+  "generatedAt": "2026-05-17T02:54:57.604Z",
+  "generatedAtTW": "2026-05-17 10:54 台灣時間",
   "stats": {
-    "total": 34,
-    "positive": 11,
+    "total": 35,
+    "positive": 12,
     "negative": 1,
     "neutral": 22,
     "byCategory": {
       "創見資訊": {
-        "total": 12,
+        "total": 11,
         "positive": 4,
         "negative": 1,
-        "neutral": 7
+        "neutral": 6
       },
       "上游供應商": {
-        "total": 16,
-        "positive": 6,
+        "total": 17,
+        "positive": 7,
         "negative": 0,
         "neutral": 10
       },
       "競品": {
-        "total": 6,
+        "total": 7,
         "positive": 1,
         "negative": 0,
-        "neutral": 5
+        "neutral": 6
       }
     },
     "trend": [
-      {
-        "date": "2026-05-09",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 2,
-        "total": 2
-      },
       {
         "date": "2026-05-10",
         "positive": 2,
@@ -76,10 +69,47 @@
         "negative": 0,
         "neutral": 4,
         "total": 8
+      },
+      {
+        "date": "2026-05-16",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 2,
+        "total": 3
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5\" target=\"_blank\"&gt;金士頓擴展高效能產品線 滿足新世代運算需求&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "Techritual Hong Kong",
+      "category": "競品",
+      "title": "金士頓擴展高效能產品線 滿足新世代運算需求 - Techritual Hong Kong",
+      "pubDate": "Sat, 16 May 2026 20:05:47 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5\" target=\"_blank\"&gt;記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "TechNews 科技新報",
+      "category": "上游供應商",
+      "title": "記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還不算貴」 - TechNews 科技新報",
+      "pubDate": "Sat, 16 May 2026 12:32:02 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5\" target=\"_blank\"&gt;下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "news.cnyes.com",
+      "category": "上游供應商",
+      "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
+      "pubDate": "Sat, 16 May 2026 05:40:06 GMT"
+    },
     {
       "sentiment": "positive",
       "fetchedAt": "2026-05-16T02:45:37.746Z",
@@ -399,26 +429,6 @@
       "category": "創見資訊",
       "title": "2451 創見 - 國際放空機構唱衰記憶體！ 老手反笑「拿明朝的劍斬清朝的官」-股市爆料同學會 - CMoney",
       "pubDate": "Sun, 10 May 2026 10:50:49 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0eVVtTGpLRzZQeEpvbTQ3N2sybkc2dGVGdUdXWFZkTlFqcUlVN3ZxbnhySGEzaFVYekdVa0trSlh0S3BmUzRFVkVja3lMbkxmeElzWE93N0Nqbm5JQ19yZTdiSnp2V2tPVUtnWUlXNFl2N3VKb2duRFM5MlFucEk0eWFQTWNN?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnducEJqZDlMQXhHMHRkc0pqQlhtUWN3ZS0tZFhwSE50eHk0bk1MVXc3LUZSMWFEMlZud0xDeXhZUjhKdkxPc3E5bjYweWNyY1FZaWtTWGdWdTJISXNmekJiNl9xTDlSbXZzRmlOenI3aHB4Qm5YdjhLSW9oRTFhOWUyaDhCUG91WDYzRlByTEN0e",
-      "fetchedAt": "2026-05-10T02:48:10.838Z",
-      "source": "Yahoo股市",
-      "category": "上游供應商",
-      "title": "慧榮估三星HBM4返龍頭；陸廠NAND進展不錯 - Yahoo股市",
-      "pubDate": "Sat, 09 May 2026 11:27:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "source": "TechNews 科技新報",
-      "category": "創見資訊",
-      "title": "AI 打破記憶體循環週期，創見募資 30 億元資金因應需求 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHFOd2NNMEpiVFhwZmNTT05udElETERibFMxZlhqaXlHZHN5RHVGRmRDUVE1dndXU3BMR2p0STk0Zk5za1lidFZkcWthMmlacm9tTUswVjFPcEFKNTBpb3k3VWZVTTJlYVdnM1B6QmpXZnNQdlF2YmVpMmZpN3JlVEpWV0k?oc=5\" target=\"_bl",
-      "fetchedAt": "2026-05-10T02:48:10.838Z",
-      "pubDate": "Sat, 09 May 2026 05:54:10 GMT"
     }
   ]
 }

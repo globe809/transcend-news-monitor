@@ -1,40 +1,33 @@
 {
   "period": "month",
-  "generatedAt": "2026-05-16T02:45:37.746Z",
-  "generatedAtTW": "2026-05-16 10:45 台灣時間",
+  "generatedAt": "2026-05-17T02:54:57.604Z",
+  "generatedAtTW": "2026-05-17 10:54 台灣時間",
   "stats": {
-    "total": 133,
-    "positive": 56,
+    "total": 132,
+    "positive": 55,
     "negative": 2,
     "neutral": 75,
     "byCategory": {
       "創見資訊": {
-        "total": 65,
-        "positive": 34,
+        "total": 61,
+        "positive": 32,
         "negative": 1,
-        "neutral": 30
+        "neutral": 28
       },
       "上游供應商": {
-        "total": 53,
-        "positive": 21,
+        "total": 55,
+        "positive": 22,
         "negative": 1,
-        "neutral": 31
+        "neutral": 32
       },
       "競品": {
-        "total": 15,
+        "total": 16,
         "positive": 1,
         "negative": 0,
-        "neutral": 14
+        "neutral": 15
       }
     },
     "trend": [
-      {
-        "date": "2026-04-15",
-        "positive": 2,
-        "negative": 0,
-        "neutral": 2,
-        "total": 4
-      },
       {
         "date": "2026-04-17",
         "positive": 0,
@@ -230,10 +223,47 @@
         "negative": 0,
         "neutral": 4,
         "total": 8
+      },
+      {
+        "date": "2026-05-16",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 2,
+        "total": 3
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5\" target=\"_blank\"&gt;金士頓擴展高效能產品線 滿足新世代運算需求&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "Techritual Hong Kong",
+      "category": "競品",
+      "title": "金士頓擴展高效能產品線 滿足新世代運算需求 - Techritual Hong Kong",
+      "pubDate": "Sat, 16 May 2026 20:05:47 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5\" target=\"_blank\"&gt;記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "TechNews 科技新報",
+      "category": "上游供應商",
+      "title": "記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還不算貴」 - TechNews 科技新報",
+      "pubDate": "Sat, 16 May 2026 12:32:02 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5\" target=\"_blank\"&gt;下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "news.cnyes.com",
+      "category": "上游供應商",
+      "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
+      "pubDate": "Sat, 16 May 2026 05:40:06 GMT"
+    },
     {
       "sentiment": "positive",
       "fetchedAt": "2026-05-16T02:45:37.746Z",
@@ -1523,46 +1553,6 @@
       "title": "SanDisk（SNDK）正式叩關那斯達克100，記憶體超級週期再添機構背書｜美股觀察｜豐雲學堂2026 年 04 月 - sinotrade.com.tw",
       "fetchedAt": "2026-04-17T06:24:05.160Z",
       "pubDate": "Fri, 17 Apr 2026 05:35:39 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTllVNzNlT21sbi03bGpyVktXT3Y3amNEMXZiOUMzeHRjR0NnZUNqd0dYS2FXVDhBWnhHa3hlVEtESFlfQkYtUXI1em5aM002MDA5NzFOeVNqNjFlZGo0c3FCSGk4Z2s?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTllVNzNlT21sbi03bGpyVktXT3Y3amNEMXZiOUMzeHRjR0NnZUNqd0dYS2FXVDhBWnhHa3hlVEtESFlfQkYtUXI1em5aM002MDA5NzFOeVNqNjFlZGo0c3FCSGk4Z2s?oc=5\" target=\"_blank\"&gt;【04/15券商評等報告彙整】創見(2451) 今日僅1家券商發",
-      "fetchedAt": "2026-04-16T06:23:18.435Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "【04/15券商評等報告彙整】創見(2451) 今日僅1家券商發布績效評等報告，評價為看多，目標價為340元。 - CMoney",
-      "pubDate": "Wed, 15 Apr 2026 10:50:03 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTBKX1I4cTRWaHZhZlJFbTM0UGJMSUNGajQ4OXFnVFQ2OVduanlnQnNJZjdxemJJY1dIU2lTSlpVQXRlU05VNjFlSW5UdWZpRjdPamdpWVpHNF80aHIwVG9ITjV1YXJHd0R2S2hVQkhhRnVNc0huS3ExZFVqNW05bEVkTlVVZWx1SVE?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTBKX1I4cTRWaHZhZlJFbTM0UGJMSUNGajQ4OXFnVFQ2OVduanlnQnNJZjdxemJJY1dIU2lTSlpVQXRlU05VNjFlSW5UdWZpRjdPamdpWVpHNF80aHIwVG9ITjV1YXJHd0R2S2hVQkhhRnVNc0huS3ExZFVqNW05bEVkTlVVZWx1SVE?oc=5\" tar",
-      "fetchedAt": "2026-04-16T06:23:18.435Z",
-      "source": "CMoney投資網誌",
-      "category": "創見資訊",
-      "title": "【25Q4財報公告】創見(2451) Q4 營收68.0367億元，連4季成長，季增65.6%、年成長171.89%-CMoney 小編 - CMoney投資網誌",
-      "pubDate": "Wed, 15 Apr 2026 10:20:08 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "source": "理財周刊",
-      "category": "創見資訊",
-      "title": "創見3 月及首季營收創歷史新高 - 理財周刊",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2w0eld3UUljYnNCX1ZGczdfN28zTV9ac1kzTVNRekJZN3VZR3RFcUVCT3F5TjgxeHdlMVdjU3NqMjAydGxnTXJTUUFOUEpKcG9Jdl9fZU44bGdUREEw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2w0eld3UUljYnNCX1ZGczdfN28zTV9ac1kzTVNRekJZN3VZR3RFcUVCT3F5TjgxeHdlMVdjU3NqMjAydGxnTXJTUUFOUEpKcG9Jdl9fZU44bGdUREEw?oc=5\" target=\"_blank\"&gt;創見3 月及首季營收創歷史新高&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "fetchedAt": "2026-04-16T06:23:18.435Z",
-      "pubDate": "Wed, 15 Apr 2026 06:35:29 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "fetchedAt": "2026-04-16T06:23:18.435Z",
-      "category": "創見資訊",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1BzT1RvRk9xUTM0NFpIMTNlU2hzYThoT29LRTdvZXc4bk14NFJ4c3Rab1ppUkVPLUFwUkQzNUxkWTB4SFhsOHozZ1B2ajVwaUhDTVNpTmUxanVhdnMxcW5oTk5JX0J5ZFZkdzc5cVd2aTFoOXRkcFhKSWtHbTNQZDlrQ2ZzYUNSUk5SZFVnTEw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1BzT1RvRk9xUTM0NFpIMTNlU2hzYThoT29LRTdvZXc4bk14NFJ4c3Rab1ppUkVPLUFwUkQzNUxkWTB4SFhsOHozZ1B2ajVwaUhDTVNpTmUxanVhdnMxcW5oTk5JX0J5ZFZkdzc5cVd2aTFoOXRkcFhKSWtHbTNQZDlrQ2ZzYUNSUk5SZFVnTEw?o",
-      "source": "經濟日報",
-      "title": "創見擴展嵌入式鏡頭模組產品 強化AIoT視覺應用布局 | 產業熱點 | 產業 - 經濟日報",
-      "pubDate": "Wed, 15 Apr 2026 06:34:30 GMT"
     }
   ]
 }

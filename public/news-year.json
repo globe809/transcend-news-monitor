@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-16T02:45:37.746Z",
-  "generatedAtTW": "2026-05-16 10:45 台灣時間",
+  "generatedAt": "2026-05-17T02:54:57.604Z",
+  "generatedAtTW": "2026-05-17 10:54 台灣時間",
   "stats": {
-    "total": 178,
-    "positive": 79,
+    "total": 181,
+    "positive": 80,
     "negative": 2,
-    "neutral": 97,
+    "neutral": 99,
     "byCategory": {
       "創見資訊": {
         "total": 96,
@@ -15,16 +15,16 @@
         "neutral": 45
       },
       "上游供應商": {
-        "total": 66,
-        "positive": 27,
+        "total": 68,
+        "positive": 28,
         "negative": 1,
-        "neutral": 38
+        "neutral": 39
       },
       "競品": {
-        "total": 16,
+        "total": 17,
         "positive": 2,
         "negative": 0,
-        "neutral": 14
+        "neutral": 15
       }
     },
     "trend": [
@@ -37,14 +37,44 @@
       },
       {
         "date": "2026-05",
-        "positive": 40,
+        "positive": 41,
         "negative": 1,
-        "neutral": 42,
-        "total": 83
+        "neutral": 44,
+        "total": 86
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5\" target=\"_blank\"&gt;金士頓擴展高效能產品線 滿足新世代運算需求&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "Techritual Hong Kong",
+      "category": "競品",
+      "title": "金士頓擴展高效能產品線 滿足新世代運算需求 - Techritual Hong Kong",
+      "pubDate": "Sat, 16 May 2026 20:05:47 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5\" target=\"_blank\"&gt;記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "TechNews 科技新報",
+      "category": "上游供應商",
+      "title": "記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還不算貴」 - TechNews 科技新報",
+      "pubDate": "Sat, 16 May 2026 12:32:02 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5\" target=\"_blank\"&gt;下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;",
+      "fetchedAt": "2026-05-17T02:54:57.604Z",
+      "source": "news.cnyes.com",
+      "category": "上游供應商",
+      "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
+      "pubDate": "Sat, 16 May 2026 05:40:06 GMT"
+    },
     {
       "sentiment": "positive",
       "fetchedAt": "2026-05-16T02:45:37.746Z",
@@ -1014,36 +1044,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6ARBVV95cUxPcWM4MzBKNVdMdi1sem5QN0RuMkhjRURYSkEtZnpMNHAweDBlSmJQMTlERnVhWjNkRFdfM05YTzdfUGJvOUZrckhPMVhscFNsNjNqNlg3Q0JrZi0yNFVMWDVrSG1zWi1fa1NPWVk3clBxT3drVWJEMW5acXFKUExYTkw5cm0yTTlmZEtwMGdmX0FyT",
       "fetchedAt": "2026-04-29T07:52:02.045Z",
       "pubDate": "Tue, 28 Apr 2026 22:54:07 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZaWFNwaWZsdlVVeTk5QkFwcUc4N2szUmpLb0ZsdmRNMHNjZ1hSMGhxMlRIek14M2NYZ2NTa3U5Ql92Q1JDc0J3N2l6QmhuVkE4UHM0aHdKUnU2SFFmLUt5cFpTTUVmQ2pNM21DaXh3SE9FUk5zeDExN1dEenlWRTFMR1JSVE81dnNndjRzZ1Y4TkRW?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZaWFNwaWZsdlVVeTk5QkFwcUc4N2szUmpLb0ZsdmRNMHNjZ1hSMGhxMlRIek14M2NYZ2NTa3U5Ql92Q1JDc0J3N2l6QmhuVkE4UHM0aHdKUnU2SFFmLUt5cFpTTUVmQ2pNM21DaXh3SE9FUk5zeDExN1dEenlWRTFMR1JSVE81dnNndjRzZ1Y4T",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "forecastock.tw",
-      "category": "上游供應商",
-      "title": "摩根史坦利猛烈上修SanDisk目標價至1100美元：NAND 超週期還沒結束？ - forecastock.tw",
-      "pubDate": "Tue, 28 Apr 2026 16:11:33 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaE9rQ3ktaGJXVW9RQ1B2TU1KaEFJY3MwTkxrVnhiLUktaVQ4NlVnQXhDckdPUTlMbUVVNVd0RG9ZcGlmSFN5RzRnSC1ycV9jQzNCbEQzaUtGbkFDRzJj0gFkQVVfeXFMT1Bva1AyS29KZHNEa3pNcTJYWjRFMm9sbFFtYUZlQ0NRY1dCc0VORXRvTjZwRGU4YkIzZFppRENuVXFodFdKQ2hIbU53VnlMOWZSQ2t6NEQyMzVaSElQdWNfMzNHMg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaE9rQ3ktaGJXVW9RQ1B2TU1KaEFJY3MwTkxrVnhiLUktaVQ4NlVnQXhDckdPUTlMbUVVNVd0RG9ZcGlmSFN5RzRnSC1ycV9jQzNCbEQzaUtGbkFDRzJj0gFkQVVfeXFMT1Bva1AyS29KZHNEa3pNcTJYWjRFMm9sbFFtYUZlQ0NRY1dCc0VORXRvT",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "自由財經",
-      "category": "上游供應商",
-      "title": "三星退出「這個產品」市場 1台廠吃到肥肉！營收激爆 - 自由財經",
-      "pubDate": "Tue, 28 Apr 2026 13:17:14 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UlhrRHpWUTE3OHhoTHk0Q0NjMElNN0RkT09NaF9HVjltdTkzazZkd2VONWZOaXFJa2hfVEl3WFFXWHgzQUxGbTI4cjZfUQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UlhrRHpWUTE3OHhoTHk0Q0NjMElNN0RkT09NaF9HVjltdTkzazZkd2VONWZOaXFJa2hfVEl3WFFXWHgzQUxGbTI4cjZfUQ?oc=5\" target=\"_blank\"&gt;Adata威剛65W氮化鎵快充特價499元快充支援1A2C輸出偏好台灣品牌可考慮#65W快充(248103)&lt;/a&gt;&",
-      "fetchedAt": "2026-04-28T07:57:02.017Z",
-      "source": "Cool3c",
-      "category": "競品",
-      "title": "Adata威剛65W氮化鎵快充特價499元快充支援1A2C輸出偏好台灣品牌可考慮#65W快充(248103) - Cool3c",
-      "pubDate": "Tue, 28 Apr 2026 07:16:00 GMT"
     }
   ]
 }

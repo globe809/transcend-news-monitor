@@ -1,46 +1,39 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-17T02:54:57.604Z",
-  "generatedAtTW": "2026-05-17 10:54 台灣時間",
+  "generatedAt": "2026-05-18T03:32:47.638Z",
+  "generatedAtTW": "2026-05-18 11:32 台灣時間",
   "stats": {
-    "total": 35,
-    "positive": 12,
+    "total": 30,
+    "positive": 10,
     "negative": 1,
-    "neutral": 22,
+    "neutral": 19,
     "byCategory": {
       "創見資訊": {
-        "total": 11,
-        "positive": 4,
+        "total": 7,
+        "positive": 3,
         "negative": 1,
-        "neutral": 6
+        "neutral": 3
       },
       "上游供應商": {
         "total": 17,
-        "positive": 7,
+        "positive": 6,
         "negative": 0,
-        "neutral": 10
+        "neutral": 11
       },
       "競品": {
-        "total": 7,
+        "total": 6,
         "positive": 1,
         "negative": 0,
-        "neutral": 6
+        "neutral": 5
       }
     },
     "trend": [
       {
-        "date": "2026-05-10",
-        "positive": 2,
-        "negative": 0,
-        "neutral": 3,
-        "total": 5
-      },
-      {
         "date": "2026-05-11",
         "positive": 3,
         "negative": 0,
-        "neutral": 4,
-        "total": 7
+        "neutral": 3,
+        "total": 6
       },
       {
         "date": "2026-05-12",
@@ -65,13 +58,20 @@
       },
       {
         "date": "2026-05-15",
-        "positive": 4,
+        "positive": 3,
         "negative": 0,
-        "neutral": 4,
-        "total": 8
+        "neutral": 3,
+        "total": 6
       },
       {
         "date": "2026-05-16",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 2,
+        "total": 3
+      },
+      {
+        "date": "2026-05-17",
         "positive": 1,
         "negative": 0,
         "neutral": 2,
@@ -80,6 +80,36 @@
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
+      "fetchedAt": "2026-05-18T03:32:47.638Z",
+      "source": "DIGITIMES",
+      "category": "上游供應商",
+      "title": "SSD替代HDD尚缺誘因？ SanDisk：擴產回報率低、NAND廠仍觀望 - DIGITIMES",
+      "pubDate": "Sun, 17 May 2026 18:28:00 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "source": "MSN",
+      "category": "創見資訊",
+      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
+      "fetchedAt": "2026-05-18T03:32:47.638Z",
+      "pubDate": "Sun, 17 May 2026 15:35:43 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "fetchedAt": "2026-05-18T03:32:47.638Z",
+      "pubDate": "Sun, 17 May 2026 12:12:05 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
@@ -122,16 +152,6 @@
     },
     {
       "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "pubDate": "Fri, 15 May 2026 17:31:04 GMT"
-    },
-    {
-      "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZFliS05CVlhyRmdJUzhyc0ZWaEVQZkE3amJ5TmROX1ItTmdwZUtTUnhBUW9YNy03U0lsMjVvRGJhWnBPVVBGZ19OU1hVU29zX0lrNWU2MEpqaV9JUFF4OVZYZHJRZWQyT0UxNElkYWFPOGp3cUtWZFJLRQ?oc=5",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZFliS05CVlhyRmdJUzhyc0ZWaEVQZkE3amJ5TmROX1ItTmdwZUtTUnhBUW9YNy03U0lsMjVvRGJhWnBPVVBGZ19OU1hVU29zX0lrNWU2MEpqaV9JUFF4OVZYZHJRZWQyT0UxNElkYWFPOGp3cUtWZFJLRQ?oc=5\" target=\"_blank\"&gt;鎧俠單季淨",
       "fetchedAt": "2026-05-16T02:45:37.746Z",
@@ -149,16 +169,6 @@
       "category": "上游供應商",
       "title": "日本記憶體大廠鎧俠 (Kioxia) 單季獲利飆 5,968 億日圓，籌備赴美掛牌上市 - 鏈新聞 ABMedia",
       "pubDate": "Fri, 15 May 2026 09:34:35 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "source": "MSN",
-      "category": "創見資訊",
-      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "pubDate": "Fri, 15 May 2026 09:07:28 GMT"
     },
     {
       "sentiment": "neutral",
@@ -369,66 +379,6 @@
       "title": "【10:51 即時新聞】創見(2451)亮燈漲停343.5元，AI記憶體獲利爆發帶動買盤追價＋多頭均線排列搭配法人連日加碼 - CMoney投資網誌",
       "pubDate": "Mon, 11 May 2026 02:52:06 GMT",
       "fetchedAt": "2026-05-12T02:49:27.069Z"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk5BeXhxSE0tT1ZoajdnN05jRWFRTmRpVktDc19RNjR0cVNvU29uZW5jd1Y4WE5FcVFlU1drZy1icXRUX0tuTWlqd3luRDh1R1pIcG1BM2ZfM241ZlFUTDEzbkdNaWxDRDRESG1sbld0WUZWLV9ULXNFUjVyZGxUSg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk5BeXhxSE0tT1ZoajdnN05jRWFRTmRpVktDc19RNjR0cVNvU29uZW5jd1Y4WE5FcVFlU1drZy1icXRUX0tuTWlqd3luRDh1R1pIcG1BM2ZfM241ZlFUTDEzbkdNaWxDRDRESG1sbld0WUZWLV9ULXNFUjVyZGxUSg?oc=5\" target=\"_blank\"&",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "source": "今周刊",
-      "category": "創見資訊",
-      "title": "聯電、啟碁、創見...法人搶搭15檔績優列車！追高怕被套、空手怕錯過，台股高檔操作心法曝光 - 今周刊",
-      "pubDate": "Mon, 11 May 2026 01:57:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "《投信賣超6-4》創見(384)、文曄(382)、FB科技(380) - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUlZQXJzVFJIMUV3c1k2T3FMZ3RMNk5TZ0phNi1leDE4d1p0TVdMcFJEN0N3Z1liQWRkU3lLWnU1eGVzWWdPN1p2VHJWTXBnNXdLME9QX2xPNzd4cXptWE9hVTAwVzRBYXVnbjlQeHdCS29Ha2lYMEtxdHJlZElkLVlFTVpXNjlF?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUlZQXJzVFJIMUV3c1k2T3FMZ3RMNk5TZ0phNi1leDE4d1p0TVdMcFJEN0N3Z1liQWRkU3lLWnU1eGVzWWdPN1p2VHJWTXBnNXdLME9QX2xPNzd4cXptWE9hVTAwVzRBYXVnbjlQeHdCS29Ha2lYMEtxdHJlZElkLVlFTVpXNjlF?oc=5\" target",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "pubDate": "Sun, 10 May 2026 23:34:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUtpVnY5dVpTcGpVcWVFMksydWtJUnBaTmFkQnRsUHhzbGtfVG1wTzFKU1I5cDR2VjRuSEg1QTkwR1AwdnNZSFN0bkpiMEU2UnZNSUZMVlJ3OFl2a20tZ05LdjFRN3kzdlh0LVo0c1dXR2twNlI2T2Z1ZTE1c1NZVEY4WWVUcWlkelRoWmZJdmY?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUtpVnY5dVpTcGpVcWVFMksydWtJUnBaTmFkQnRsUHhzbGtfVG1wTzFKU1I5cDR2VjRuSEg1QTkwR1AwdnNZSFN0bkpiMEU2UnZNSUZMVlJ3OFl2a20tZ05LdjFRN3kzdlh0LVo0c1dXR2twNlI2T2Z1ZTE1c1NZVEY4WWVUcWlkelRoWmZJdmY?o",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "source": "CMoney投資網誌",
-      "category": "上游供應商",
-      "title": "【即時新聞】威剛(3260) 受惠NAND Flash價格持續上揚預期，缺貨至2028年帶動概念股紅利 - CMoney投資網誌",
-      "pubDate": "Sun, 10 May 2026 22:08:38 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "category": "創見資訊",
-      "source": "經濟日報",
-      "title": "創見營收／今年首季創歷史新高 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNW9RUkNmNWFlNE5EZHl4ZFc0ZGdiWHgtRTVGQzZBd3pfU3hScWFyMGFIYUZpWlZtTFV1R29TYlNlR05Xc3VrWkhJa2RaMlJZc1Jpd2lyZDM4UlczLWJPWGVKZkU1M3UyXy14cmx2RHNzY0pNcmhFbEVn0gFfQVVfeXFMTnVaZUNaMW5UcGNuNFpMS0pfYXRPZUNGM25YMTBwUXQxVl9TMnBYSW1nLUI0SS1JOF9WZzFhb3pfRWZ3X3lwRUlqNWdKLXdndWdBX3J0cl91NzVEcGI1N3M?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNW9RUkNmNWFlNE5EZHl4ZFc0ZGdiWHgtRTVGQzZBd3pfU3hScWFyMGFIYUZpWlZtTFV1R29TYlNlR05Xc3VrWkhJa2RaMlJZc1Jpd2lyZDM4UlczLWJPWGVKZkU1M3UyXy14cmx2RHNzY0pNcmhFbEVn0gFfQVVfeXFMTnVaZUNaMW5UcGNuNFpMS",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "pubDate": "Sun, 10 May 2026 22:03:04 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtcTJyOU45XzY1bGdKU0poM1EzT3lLWG1YSy0tbjVDRlhxNHltNW1XeElYRDItVjVYb3VhVDdiQXlOaFZndHRKTkRpVko2S0JkckZycklGUmNRNzBhSmNSZEtZWEZRZw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtcTJyOU45XzY1bGdKU0poM1EzT3lLWG1YSy0tbjVDRlhxNHltNW1XeElYRDItVjVYb3VhVDdiQXlOaFZndHRKTkRpVko2S0JkckZycklGUmNRNzBhSmNSZEtZWEZRZw?oc=5\" target=\"_blank\"&gt;金士頓kingston DDR4-3200 16G*2(32G) ",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "source": "Mobile01",
-      "category": "競品",
-      "title": "金士頓kingston DDR4-3200 16G*2(32G) 筆電NB用(KVR32S22S8/16) - Mobile01",
-      "pubDate": "Sun, 10 May 2026 17:33:18 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MnByNWdCeUY1WWhCeHI5SndzNXVjMUZmbXdtRGEtMDVrUVdwS3pMaGFwak1STER6QmtNc2xUMUdUdU5uTVBLYlRPWnJYMXFIdEFqc050bnk?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MnByNWdCeUY1WWhCeHI5SndzNXVjMUZmbXdtRGEtMDVrUVdwS3pMaGFwak1STER6QmtNc2xUMUdUdU5uTVBLYlRPWnJYMXFIdEFqc050bnk?oc=5\" target=\"_blank\"&gt;2451 創見 - 國際放空機構唱衰記憶體！ 老手反笑「拿明朝的劍斬清朝的官」-股市爆料同學會&lt;/",
-      "fetchedAt": "2026-05-11T02:57:21.356Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 國際放空機構唱衰記憶體！ 老手反笑「拿明朝的劍斬清朝的官」-股市爆料同學會 - CMoney",
-      "pubDate": "Sun, 10 May 2026 10:50:49 GMT"
     }
   ]
 }

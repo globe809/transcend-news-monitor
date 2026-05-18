@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-17T02:54:57.604Z",
-  "fetchedAtTW": "2026-05-17 10:54 台灣時間",
+  "fetchedAt": "2026-05-18T03:32:47.638Z",
+  "fetchedAtTW": "2026-05-18 11:32 台灣時間",
   "stats": {
     "total": 3,
     "positive": 1,
@@ -8,27 +8,27 @@
     "neutral": 2,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
-      },
-      "上游供應商": {
         "total": 2,
         "positive": 1,
         "negative": 0,
         "neutral": 1
       },
-      "競品": {
+      "上游供應商": {
         "total": 1,
         "positive": 0,
         "negative": 0,
         "neutral": 1
+      },
+      "競品": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-05-16",
+        "date": "2026-05-17",
         "positive": 1,
         "negative": 0,
         "neutral": 2,
@@ -38,34 +38,34 @@
   },
   "news": [
     {
-      "title": "金士頓擴展高效能產品線 滿足新世代運算需求 - Techritual Hong Kong",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
-      "pubDate": "Sat, 16 May 2026 20:05:47 GMT",
-      "source": "Techritual Hong Kong",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5\" target=\"_blank\"&gt;金士頓擴展高效能產品線 滿足新世代運算需求&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-17T02:54:57.604Z"
-    },
-    {
-      "title": "記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還不算貴」 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5",
-      "pubDate": "Sat, 16 May 2026 12:32:02 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5\" target=\"_blank\"&gt;記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還",
+      "title": "SSD替代HDD尚缺誘因？ SanDisk：擴產回報率低、NAND廠仍觀望 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
+      "pubDate": "Sun, 17 May 2026 18:28:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-17T02:54:57.604Z"
+      "fetchedAt": "2026-05-18T03:32:47.638Z"
     },
     {
-      "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5",
-      "pubDate": "Sat, 16 May 2026 05:40:06 GMT",
-      "source": "news.cnyes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5\" target=\"_blank\"&gt;下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;",
-      "category": "上游供應商",
+      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
+      "pubDate": "Sun, 17 May 2026 15:35:43 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
+      "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-17T02:54:57.604Z"
+      "fetchedAt": "2026-05-18T03:32:47.638Z"
+    },
+    {
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Sun, 17 May 2026 12:12:05 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-18T03:32:47.638Z"
     }
   ]
 }

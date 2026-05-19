@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-18T03:32:47.638Z",
-  "generatedAtTW": "2026-05-18 11:32 台灣時間",
+  "generatedAt": "2026-05-19T03:25:27.716Z",
+  "generatedAtTW": "2026-05-19 11:25 台灣時間",
   "stats": {
-    "total": 182,
-    "positive": 80,
+    "total": 190,
+    "positive": 81,
     "negative": 2,
-    "neutral": 100,
+    "neutral": 107,
     "byCategory": {
       "創見資訊": {
         "total": 96,
@@ -15,16 +15,16 @@
         "neutral": 45
       },
       "上游供應商": {
-        "total": 69,
+        "total": 74,
         "positive": 28,
         "negative": 1,
-        "neutral": 40
+        "neutral": 45
       },
       "競品": {
-        "total": 17,
-        "positive": 2,
+        "total": 20,
+        "positive": 3,
         "negative": 0,
-        "neutral": 15
+        "neutral": 17
       }
     },
     "trend": [
@@ -37,14 +37,94 @@
       },
       {
         "date": "2026-05",
-        "positive": 41,
+        "positive": 42,
         "negative": 1,
-        "neutral": 45,
-        "total": 87
+        "neutral": 52,
+        "total": 95
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNjRNZkM1WjJ2dHFKczlYckhuOTdFQl92ZklWbFhCaElUTm51cllqN2EzVFEyQ3M1TkZoN2RoMFNCSkJWRW1kT19PbU42dkdsTnZRNi11aHg0MGo5MkNzcHRBUWZvQ1VzbTc2c2l6N09EUVRoVnpDOWI3eUM3N19FczNmNm44SnRTMEVlT3FlMG9fSkFTVEg2c0F3QzZNbEcwZWZCSmFxRGV2Wks5NjdCc2hVa28wWVdrUWpXVWw5MEJqZm5HSXpaUjAzSC01T09zeHJQNFJQWkttYU9keDBZdzJpSERieml0Q0VhT0IxV1VqVG5DVUk0Wms2Sk9ONkxWbGRlTU5MWEkza01TTzdkZWZVN0VQTmZITlhXWTdrelZ4aUxBR09ZdWdweXVvcTJ0VHprMUVrU0Zzd3VjSzhqcTZ6YXE?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxPNjRNZkM1WjJ2dHFKczlYckhuOTdFQl92ZklWbFhCaElUTm51cllqN2EzVFEyQ3M1TkZoN2RoMFNCSkJWRW1kT19PbU42dkdsTnZRNi11aHg0MGo5MkNzcHRBUWZvQ1VzbTc2c2l6N09EUVRoVnpDOWI3eUM3N19FczNmNm44SnRTMEVlT3FlMG9fS",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "三嘻行動哇 Yipee!",
+      "category": "競品",
+      "title": "SP 廣穎電通 CreatePro 系列亮相！整合記憶卡、SSD 與 NAS 儲存應用 - 三嘻行動哇 Yipee!",
+      "pubDate": "Mon, 18 May 2026 22:24:18 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQdIBkgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQ",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "StorageReview.com",
+      "category": "上游供應商",
+      "title": "英特爾和美光宣布 20 納米多層 NAND - StorageReview.com",
+      "pubDate": "Mon, 18 May 2026 19:08:10 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEpNcXRXSjBQdXhnbEVHVmFxaG5MZXAtSzF6cW1PZzVNUWVtLTAxNTU2QkstTlJWcmdGY3lZR1ZZYmJ4LXJsdV90dEZJalJIUmszcTRnMGdQVHlCSGlCX3JaMHJGaEx5ZzVfYVRsdkpaX3ZCNV80dnRzOHRNWTQzRXJMcHFFUklJSlJiU0Zn?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEpNcXRXSjBQdXhnbEVHVmFxaG5MZXAtSzF6cW1PZzVNUWVtLTAxNTU2QkstTlJWcmdGY3lZR1ZZYmJ4LXJsdV90dEZJalJIUmszcTRnMGdQVHlCSGlCX3JaMHJGaEx5ZzVfYVRsdkpaX3ZCNV80dnRzOHRNWTQzRXJMcHFFUklJSlJiU0Zn?oc=5",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "DIGITIMES",
+      "category": "上游供應商",
+      "title": "三星DX部門原料採購結構丕變 行動記憶體比重首度超越相機模組 - DIGITIMES",
+      "pubDate": "Mon, 18 May 2026 18:05:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fZ2lIS2lpRlZBcHVQOXBvaUtzdFNhMjBpTXZmVlZ0M1RnbUstdnUzNWF0U2JpdE9QQV9LSlZROHVtTXN3OVZ2WE82WVlGeFI0a2U5TFprWVphNE9DYXlHdkF3M1BFakhUbmZOSHRSWlZVVlpYcC1yZ0hEVQ?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1fZ2lIS2lpRlZBcHVQOXBvaUtzdFNhMjBpTXZmVlZ0M1RnbUstdnUzNWF0U2JpdE9QQV9LSlZROHVtTXN3OVZ2WE82WVlGeFI0a2U5TFprWVphNE9DYXlHdkF3M1BFakhUbmZOSHRSWlZVVlpYcC1yZ0hEVQ?oc=5\" target=\"_blank\"&gt;ADATA",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "UNIKO's Hardware",
+      "category": "競品",
+      "title": "ADATA COMPUTEX 2026 展現全方位產品整合硬實力 - UNIKO's Hardware",
+      "pubDate": "Mon, 18 May 2026 10:48:33 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXh0UnlqbGhxa08wMHZzQVg5eVNtaG50Q1BVNHhrRWhiYjhMTVc0YnU5SHdJUDJPSzdYLWF6NDFBejdiSTJmSlRyYy14c0xXUklVZHpNbk1jc1p4eklPalBVeUJNYkJXb2lMaEhfLXI4VlZwTTUxNHRfaWljM2pTWg?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXh0UnlqbGhxa08wMHZzQVg5eVNtaG50Q1BVNHhrRWhiYjhMTVc0YnU5SHdJUDJPSzdYLWF6NDFBejdiSTJmSlRyYy14c0xXUklVZHpNbk1jc1p4eklPalBVeUJNYkJXb2lMaEhfLXI4VlZwTTUxNHRfaWljM2pTWg?oc=5\" target=\"_blank\"&",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "T客邦",
+      "category": "競品",
+      "title": "SP 廣穎電通發表 CreatePro 創作者儲存生態系，涵蓋拍攝到 NAS 備份完整工作流 - T客邦",
+      "pubDate": "Mon, 18 May 2026 04:34:00 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEWXJ3VXRBWUJzOU5PY1oxOU9XbkpwU0ZxNTg3NFd6SEM1M2VKQWpvU2FUYW5WQnQ4dWRfSHNRV3l1d9IBywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEWXJ3VXRBWUJzOU5PY1oxOU9XbkpwU0ZxNTg3NFd6SEM1M2VKQWpvU2FUYW5WQnQ4dWRfSHNRV3l1dw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEW",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "StorageReview.com",
+      "category": "上游供應商",
+      "title": "KIOXIA GP系列固態硬碟採用XL-FLASH技術擴展GPU內存，支援NVIDIA Storage-Next AI工作負載 - StorageReview.com",
+      "pubDate": "Mon, 18 May 2026 04:27:12 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wY9IBb0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wYw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wY9IBb0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfT",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "StorageReview.com",
+      "category": "上游供應商",
+      "title": "播客第143期：KIOXIA 245TB SSD來了！ - StorageReview.com",
+      "pubDate": "Mon, 18 May 2026 04:22:15 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQUgtN3NMdXhPWjhmVzczdy1mYVlsMlBYNjgyUE5RLW91ZXFJa21wUHA2M0tJam83TVdUZlpMdHdqYktwMDBlcDg5SHZtUGh2RnREQVZKeHRLWHFHX29zVjRMdTMtam1BY21Nd1YzMXdNWWZpMjZqVw?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQUgtN3NMdXhPWjhmVzczdy1mYVlsMlBYNjgyUE5RLW91ZXFJa21wUHA2M0tJam83TVdUZlpMdHdqYktwMDBlcDg5SHZtUGh2RnREQVZKeHRLWHFHX29zVjRMdTMtam1BY21Nd1YzMXdNWWZpMjZqVw?oc=5\" target=\"_blank\"&gt;美光 5100 E",
+      "fetchedAt": "2026-05-19T03:25:27.716Z",
+      "source": "StorageReview.com",
+      "category": "上游供應商",
+      "title": "美光 5100 ECO SSD 評測 - StorageReview.com",
+      "pubDate": "Mon, 18 May 2026 03:27:06 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
@@ -964,86 +1044,6 @@
       "category": "創見資訊",
       "title": "2451 創見 - 股本雖大 小摩也不要看創見沒有🫵 市場遲早還他公道😎-股市爆料同學會 - CMoney",
       "pubDate": "Wed, 29 Apr 2026 17:52:56 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQemxORWR3RXYyb180dGJnNTRBRVFGWHc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xUjZlRDNKQWZEY055S045SlNBT05sNkJtLXBIemhRY2VYTmlOcUxIM0QwNFltWkREalgydTFEUEcyMlpOVVN2Z3hpUWh5NW1l0gFWQVVfeXFMTV9EM2Vzdzc4cjdTTzBva2R5dHNHZDFGVXhTWkEyMWVCYnVJdlpjQ3ZKbE5WNVhja1NDZE11RElQe",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "聯合新聞網",
-      "category": "創見資訊",
-      "title": "創見、佳必琪 權證四檔帶勁 - 聯合新聞網",
-      "pubDate": "Wed, 29 Apr 2026 17:06:41 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzNDZUU08xSk55bXhaNmNubkZVbGlQeS1BVjgteU1La2p6b04?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURtOHFzTEpSVEs1XzkyMjNVUlV3aGEwUXBTSlZjc0NfemRLNUZNZjM1YV9NUVZYbE9kVllWUVpHXzVHcmIxeVA0a3Mtd2ZPT2ZQZTJnakNSU1RwT1U5dUVmOG85cjJzN3hKeW1QQUZWeUR1a3lzel9nUG8yQkJZMmF1VDJ0RmpSRzlRMEFET1FzN",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "Moomoo",
-      "category": "上游供應商",
-      "title": "Wedbush表示，Sandisk將受益於更好的NAND定價機制。 - Moomoo",
-      "pubDate": "Wed, 29 Apr 2026 16:21:14 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nUjFGcHRuODJOdTRvSHBUdFIxQjlFYl9tS0t4bUFDTXRSWkRtWXdURkxiektZeDBBM3JOeERyY2dxWkVNV2lfTjlmaC1jdi1SR1htamFvbXg?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
-      "fetchedAt": "2026-04-30T07:54:08.453Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "2451 創見 - 創見能否脫穎而出待觀察-股市爆料同學會 - CMoney",
-      "pubDate": "Wed, 29 Apr 2026 08:49:04 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNGJXYnJHMEdDczFRaXRpQ0laaXRJTEFBdVd2N210US1uOGJsdGRfdHI0N1lDOW1ZVktKdXJSSnllX3ctaFlCOVhMR0tTbUFPN3M3bEJabnIydmRu?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNGJXYnJHMEdDczFRaXRpQ0laaXRJTEFBdVd2N210US1uOGJsdGRfdHI0N1lDOW1ZVktKdXJSSnllX3ctaFlCOVhMR0tTbUFPN3M3bEJabnIydmRu?oc=5\" target=\"_blank\"&gt;三星退出MLC市場 台廠旺宏成最大贏家！NAND營收暴增382%&lt;/a&gt;&amp;",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "太報 TaiSounds",
-      "category": "上游供應商",
-      "title": "三星退出MLC市場 台廠旺宏成最大贏家！NAND營收暴增382% - 太報 TaiSounds",
-      "pubDate": "Wed, 29 Apr 2026 06:09:05 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcDJwNDZYOWlEa3ctRlhKZERKVWJjZEVHby13b1Q2c2JBaHBqN21WR1NhVFA2dmwwWkJ0dFJXM0Z4N0Ytb1dpaTdKdFZCbTFEYldQTmIxZWd1ZlhtU1JwZUhDbHlXXzA?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcDJwNDZYOWlEa3ctRlhKZERKVWJjZEVHby13b1Q2c2JBaHBqN21WR1NhVFA2dmwwWkJ0dFJXM0Z4N0Ytb1dpaTdKdFZCbTFEYldQTmIxZWd1ZlhtU1JwZUhDbHlXXzA?oc=5\" target=\"_blank\"&gt;【即時新聞】【即時新聞】創見(2451)攻AI飆漲7％，這「4檔",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "CMoney",
-      "category": "創見資訊",
-      "title": "【即時新聞】【即時新聞】創見(2451)攻AI飆漲7％，這「4檔概念股」多空大洗牌？ - CMoney",
-      "pubDate": "Wed, 29 Apr 2026 03:44:50 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iRGwwQjRMRUFJNlp3WHJ0SzU2WE9vby05NVFYWHFzQ0xZVlFKOVlsQnRRcXJoWWhOQzJjUlpYVFIwd2tlY00tZ3JTdXZQS01CQ2I0T2l5bld4ekhYSEV6YVRn0gFiQVVfeXFMT2JEbDBCNExFQUk2WndYcnRLNTZYT29vLTk1UVhYcXNDTFlWUUo5WWxCdFFxcmhZaE5DMmNSWlhUUjB3a2VjTS1nclN1dlBLTUJDYjRPaXluV3h6SFhIRXphVGc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iRGwwQjRMRUFJNlp3WHJ0SzU2WE9vby05NVFYWHFzQ0xZVlFKOVlsQnRRcXJoWWhOQzJjUlpYVFIwd2tlY00tZ3JTdXZQS01CQ2I0T2l5bld4ekhYSEV6YVRn0gFiQVVfeXFMT2JEbDBCNExFQUk2WndYcnRLNTZYT29vLTk1UVhYcXNDTFlWUUo5W",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "鏡週刊Mirror Media",
-      "category": "上游供應商",
-      "title": "三星撤這產品市場　台1廠接手營收增382% - 鏡週刊Mirror Media",
-      "pubDate": "Wed, 29 Apr 2026 03:33:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbGZwcTZMU3pBVzUxYmkwOUZrckFFVlFwYnkwbWlBYUJHZ3ZnTHA5MUFCUG1YWU1lcWhhLXV5NmVtMXAtc0RTUGgwWG1BNE0?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbGZwcTZMU3pBVzUxYmkwOUZrckFFVlFwYnkwbWlBYUJHZ3ZnTHA5MUFCUG1YWU1lcWhhLXV5NmVtMXAtc0RTUGgwWG1BNE0?oc=5\" target=\"_blank\"&gt;三星退出「這產品」市場 外媒：1台廠填補空缺 營收暴增382%&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "TVBS新聞網",
-      "category": "上游供應商",
-      "title": "三星退出「這產品」市場 外媒：1台廠填補空缺 營收暴增382% - TVBS新聞網",
-      "pubDate": "Wed, 29 Apr 2026 02:40:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0lsV1F1dWt2d1BrRFRwVFdaT3VGbTVTZDROVGw1Q3ZtV1ktMzZ6dlhVTUxiem51TTJoYkRCVHdNMGtaR1hTckIxUnowVU9NcEJuXzV5eGpQX2x4QWJrOEJTZnFHb290VFpJR3JQLW5QeFVLZjBNOEIzVkIxVExRdEQwaFZ4a2M?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0lsV1F1dWt2d1BrRFRwVFdaT3VGbTVTZDROVGw1Q3ZtV1ktMzZ6dlhVTUxiem51TTJoYkRCVHdNMGtaR1hTckIxUnowVU9NcEJuXzV5eGpQX2x4QWJrOEJTZnFHb290VFpJR3JQLW5QeFVLZjBNOEIzVkIxVExRdEQwaFZ4a2M?oc=5\" target=",
-      "fetchedAt": "2026-04-29T07:52:02.045Z",
-      "source": "CMoney投資網誌",
-      "category": "創見資訊",
-      "title": "創見(2451)營收創歷史新高：從基本面與法人EPS預估拆解成長動能與風險-盤勢觀 - CMoney投資網誌",
-      "pubDate": "Wed, 29 Apr 2026 02:25:21 GMT"
     }
   ]
 }

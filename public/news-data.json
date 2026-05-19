@@ -1,71 +1,121 @@
 {
-  "fetchedAt": "2026-05-18T03:32:47.638Z",
-  "fetchedAtTW": "2026-05-18 11:32 台灣時間",
+  "fetchedAt": "2026-05-19T03:25:27.716Z",
+  "fetchedAtTW": "2026-05-19 11:25 台灣時間",
   "stats": {
-    "total": 3,
+    "total": 8,
     "positive": 1,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 7,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 1
-      },
-      "上游供應商": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1
-      },
-      "競品": {
         "total": 0,
         "positive": 0,
         "negative": 0,
         "neutral": 0
+      },
+      "上游供應商": {
+        "total": 5,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 5
+      },
+      "競品": {
+        "total": 3,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 2
       }
     },
     "trend": [
       {
-        "date": "2026-05-17",
+        "date": "2026-05-18",
         "positive": 1,
         "negative": 0,
-        "neutral": 2,
-        "total": 3
+        "neutral": 7,
+        "total": 8
       }
     ]
   },
   "news": [
     {
-      "title": "SSD替代HDD尚缺誘因？ SanDisk：擴產回報率低、NAND廠仍觀望 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
-      "pubDate": "Sun, 17 May 2026 18:28:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHBrNlp3RVlYWDJza3BXd0FDNVl6ZWxTX1BzWDlTbGN6RlhXZkhNaTM5NGlvWl8xZWJIQVFUOWlrSHZVbURMcFRBUVBxTktad1BNOXM2aE5pRldjWW9oY2kydVU1cGQ3b1dJc3EwenhBQWxfWHViUE5KNDhkRHZzd0Q5RC15UkJuSXVIVHJB?oc=5",
+      "title": "SP 廣穎電通 CreatePro 系列亮相！整合記憶卡、SSD 與 NAS 儲存應用 - 三嘻行動哇 Yipee!",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNjRNZkM1WjJ2dHFKczlYckhuOTdFQl92ZklWbFhCaElUTm51cllqN2EzVFEyQ3M1TkZoN2RoMFNCSkJWRW1kT19PbU42dkdsTnZRNi11aHg0MGo5MkNzcHRBUWZvQ1VzbTc2c2l6N09EUVRoVnpDOWI3eUM3N19FczNmNm44SnRTMEVlT3FlMG9fSkFTVEg2c0F3QzZNbEcwZWZCSmFxRGV2Wks5NjdCc2hVa28wWVdrUWpXVWw5MEJqZm5HSXpaUjAzSC01T09zeHJQNFJQWkttYU9keDBZdzJpSERieml0Q0VhT0IxV1VqVG5DVUk0Wms2Sk9ONkxWbGRlTU5MWEkza01TTzdkZWZVN0VQTmZITlhXWTdrelZ4aUxBR09ZdWdweXVvcTJ0VHprMUVrU0Zzd3VjSzhqcTZ6YXE?oc=5",
+      "pubDate": "Mon, 18 May 2026 22:24:18 GMT",
+      "source": "三嘻行動哇 Yipee!",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxPNjRNZkM1WjJ2dHFKczlYckhuOTdFQl92ZklWbFhCaElUTm51cllqN2EzVFEyQ3M1TkZoN2RoMFNCSkJWRW1kT19PbU42dkdsTnZRNi11aHg0MGo5MkNzcHRBUWZvQ1VzbTc2c2l6N09EUVRoVnpDOWI3eUM3N19FczNmNm44SnRTMEVlT3FlMG9fS",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "英特爾和美光宣布 20 納米多層 NAND - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQdIBkgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 19:08:10 GMT",
+      "source": "StorageReview.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLThfci1tdzdXa0lSX0wyM2tXYm1qMkRXTl9ja09yc2ZwUjlBcUNNZUl5NEZac0ZKLXh0ZHZWTU5jQnRQZGlhOWZHd1dUcWZ5dF8tSmhidnpxMWRrbjZQRXU0RUoxQUxYNVpSVzJWSzdwanBsVWpoaExqSVRvd0E0NzNwa3Y0SnNjNWtRZUF6OFlqQ",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-18T03:32:47.638Z"
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
     },
     {
-      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
-      "pubDate": "Sun, 17 May 2026 15:35:43 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-18T03:32:47.638Z"
-    },
-    {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sun, 17 May 2026 12:12:05 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
+      "title": "三星DX部門原料採購結構丕變 行動記憶體比重首度超越相機模組 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEpNcXRXSjBQdXhnbEVHVmFxaG5MZXAtSzF6cW1PZzVNUWVtLTAxNTU2QkstTlJWcmdGY3lZR1ZZYmJ4LXJsdV90dEZJalJIUmszcTRnMGdQVHlCSGlCX3JaMHJGaEx5ZzVfYVRsdkpaX3ZCNV80dnRzOHRNWTQzRXJMcHFFUklJSlJiU0Zn?oc=5",
+      "pubDate": "Mon, 18 May 2026 18:05:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUEpNcXRXSjBQdXhnbEVHVmFxaG5MZXAtSzF6cW1PZzVNUWVtLTAxNTU2QkstTlJWcmdGY3lZR1ZZYmJ4LXJsdV90dEZJalJIUmszcTRnMGdQVHlCSGlCX3JaMHJGaEx5ZzVfYVRsdkpaX3ZCNV80dnRzOHRNWTQzRXJMcHFFUklJSlJiU0Zn?oc=5",
+      "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-18T03:32:47.638Z"
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "ADATA COMPUTEX 2026 展現全方位產品整合硬實力 - UNIKO's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fZ2lIS2lpRlZBcHVQOXBvaUtzdFNhMjBpTXZmVlZ0M1RnbUstdnUzNWF0U2JpdE9QQV9LSlZROHVtTXN3OVZ2WE82WVlGeFI0a2U5TFprWVphNE9DYXlHdkF3M1BFakhUbmZOSHRSWlZVVlpYcC1yZ0hEVQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 10:48:33 GMT",
+      "source": "UNIKO's Hardware",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1fZ2lIS2lpRlZBcHVQOXBvaUtzdFNhMjBpTXZmVlZ0M1RnbUstdnUzNWF0U2JpdE9QQV9LSlZROHVtTXN3OVZ2WE82WVlGeFI0a2U5TFprWVphNE9DYXlHdkF3M1BFakhUbmZOSHRSWlZVVlpYcC1yZ0hEVQ?oc=5\" target=\"_blank\"&gt;ADATA",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "SP 廣穎電通發表 CreatePro 創作者儲存生態系，涵蓋拍攝到 NAS 備份完整工作流 - T客邦",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXh0UnlqbGhxa08wMHZzQVg5eVNtaG50Q1BVNHhrRWhiYjhMTVc0YnU5SHdJUDJPSzdYLWF6NDFBejdiSTJmSlRyYy14c0xXUklVZHpNbk1jc1p4eklPalBVeUJNYkJXb2lMaEhfLXI4VlZwTTUxNHRfaWljM2pTWg?oc=5",
+      "pubDate": "Mon, 18 May 2026 04:34:00 GMT",
+      "source": "T客邦",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXh0UnlqbGhxa08wMHZzQVg5eVNtaG50Q1BVNHhrRWhiYjhMTVc0YnU5SHdJUDJPSzdYLWF6NDFBejdiSTJmSlRyYy14c0xXUklVZHpNbk1jc1p4eklPalBVeUJNYkJXb2lMaEhfLXI4VlZwTTUxNHRfaWljM2pTWg?oc=5\" target=\"_blank\"&",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "KIOXIA GP系列固態硬碟採用XL-FLASH技術擴展GPU內存，支援NVIDIA Storage-Next AI工作負載 - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEWXJ3VXRBWUJzOU5PY1oxOU9XbkpwU0ZxNTg3NFd6SEM1M2VKQWpvU2FUYW5WQnQ4dWRfSHNRV3l1d9IBywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEWXJ3VXRBWUJzOU5PY1oxOU9XbkpwU0ZxNTg3NFd6SEM1M2VKQWpvU2FUYW5WQnQ4dWRfSHNRV3l1dw?oc=5",
+      "pubDate": "Mon, 18 May 2026 04:27:12 GMT",
+      "source": "StorageReview.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnNGY2NEajVYU0RqQ05FREM2Rnp4LVdRNTRfVEE1NHhRNkFUNUVLNUpuNUN6VFl6clNTNWhoN2JQZFdQaWNMX1FjQ2dHMnNLc2wtbWM0aFpSbGJod2lFLVROQXhkWkxlSUVxWlphU2VabnEwUnBFQlNmX0FYOFhqeFROM3FWcUFqd3IwVUd3ZTFEW",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "播客第143期：KIOXIA 245TB SSD來了！ - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wY9IBb0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wYw?oc=5",
+      "pubDate": "Mon, 18 May 2026 04:22:15 GMT",
+      "source": "StorageReview.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfTTFJbjNLbnplZ2VGZXU2Sk54c2k1bzNEZW9hNlNPSzJNQmJDWGczNU4yZnAyYnJSOHI1aG5ITm01U1I2emJaYXZ5ZE9wdkhhS0lXbk0wY9IBb0FVX3lxTE5PX2ZuNGwxZVJQQi1oNjBiT1BzYTMyWHhfT",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
+    },
+    {
+      "title": "美光 5100 ECO SSD 評測 - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQUgtN3NMdXhPWjhmVzczdy1mYVlsMlBYNjgyUE5RLW91ZXFJa21wUHA2M0tJam83TVdUZlpMdHdqYktwMDBlcDg5SHZtUGh2RnREQVZKeHRLWHFHX29zVjRMdTMtam1BY21Nd1YzMXdNWWZpMjZqVw?oc=5",
+      "pubDate": "Mon, 18 May 2026 03:27:06 GMT",
+      "source": "StorageReview.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQUgtN3NMdXhPWjhmVzczdy1mYVlsMlBYNjgyUE5RLW91ZXFJa21wUHA2M0tJam83TVdUZlpMdHdqYktwMDBlcDg5SHZtUGh2RnREQVZKeHRLWHFHX29zVjRMdTMtam1BY21Nd1YzMXdNWWZpMjZqVw?oc=5\" target=\"_blank\"&gt;美光 5100 E",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-19T03:25:27.716Z"
     }
   ]
 }

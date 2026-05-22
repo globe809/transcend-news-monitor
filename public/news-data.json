@@ -1,148 +1,121 @@
 {
-  "fetchedAt": "2026-05-21T03:32:26.431Z",
-  "fetchedAtTW": "2026-05-21 11:32 台灣時間",
+  "fetchedAt": "2026-05-22T03:31:18.111Z",
+  "fetchedAtTW": "2026-05-22 11:31 台灣時間",
   "stats": {
-    "total": 10,
-    "positive": 3,
-    "negative": 1,
-    "neutral": 6,
+    "total": 8,
+    "positive": 1,
+    "negative": 0,
+    "neutral": 7,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
-        "positive": 1,
-        "negative": 1,
-        "neutral": 0
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
       },
       "上游供應商": {
-        "total": 7,
-        "positive": 1,
+        "total": 3,
+        "positive": 0,
         "negative": 0,
-        "neutral": 6
+        "neutral": 3
       },
       "競品": {
-        "total": 1,
+        "total": 4,
         "positive": 1,
         "negative": 0,
-        "neutral": 0
+        "neutral": 3
       }
     },
     "trend": [
       {
-        "date": "2026-05-20",
-        "positive": 3,
-        "negative": 1,
-        "neutral": 5,
-        "total": 9
-      },
-      {
         "date": "2026-05-21",
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 7,
+        "total": 8
       }
     ]
   },
   "news": [
     {
-      "title": "三星工會醞釀「總罷工」反覆拉扯 DRAM、NAND Flash漲勢恐續飆 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmdSY191dGFnOWtwQ3J6eWJBelR2VWo3djdXODgybG82ZDRLZ0swc1hNOUR6c2VuNWJqSDhxS0ZCdUN3RTRzYUhnNF9zX0tHeEtiNi1fc3FBYmEyOWltVmVBWXJpNUx0dkpGd016Q0ZYZ2ZRRHNuM1huSUtleVo0a1RMQXdrcTZDSFh4a1dB?oc=5",
-      "pubDate": "Thu, 21 May 2026 00:53:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmdSY191dGFnOWtwQ3J6eWJBelR2VWo3djdXODgybG82ZDRLZ0swc1hNOUR6c2VuNWJqSDhxS0ZCdUN3RTRzYUhnNF9zX0tHeEtiNi1fc3FBYmEyOWltVmVBWXJpNUx0dkpGd016Q0ZYZ2ZRRHNuM1huSUtleVo0a1RMQXdrcTZDSFh4a1dB?oc=5",
-      "category": "上游供應商",
+      "title": "創見前進COMPUTEX 展示工用和消費產品 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdFE2dHhRNzFqc1VhYjBXTENRejJ6ZURXVjd6azRJSDJZZ3ZILVl3Q29NYVNack9aUUVOS2c0Rm4zQVVmUlRIaHRBd3dDSjQtWVJON2tRNkRGcUxIT0RuMVphUmJDNWh5N3JBSDNDX3dkT05UdGdCQUROenM1NGpjTjNRcE9FcDdSUGdsN3BwR044RGNJSUxKVnFuVXEzc1doSE9BTjRhNkktay01QVlrV3o5REVCV3VKeV92ZHlUWHJSdkJLUEdMa3d3WmNLb1FmUzg5SXRBZFZ1U3VpV203dlBxSGVfMXZuQWlWOXN3NjZrZEIxUC1kNmdtOER5eV9wWDJISmJtbFQwZ1FUUFE?oc=5",
+      "pubDate": "Thu, 21 May 2026 23:03:50 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQdFE2dHhRNzFqc1VhYjBXTENRejJ6ZURXVjd6azRJSDJZZ3ZILVl3Q29NYVNack9aUUVOS2c0Rm4zQVVmUlRIaHRBd3dDSjQtWVJON2tRNkRGcUxIT0RuMVphUmJDNWh5N3JBSDNDX3dkT05UdGdCQUROenM1NGpjTjNRcE9FcDdSUGdsN3BwR044R",
+      "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
+    },
+    {
+      "title": "威剛科技旗下TRUSTA與XPG雙獲Computex Best Choice Award - XFastest News",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KS1VDaVAyWEtnRHFIblhnYzZjVmdGeG9GY2JQdkEwWDJJTmhVbVlIU1BBQmJwM0FSUFJYMjJ5ZFc5ZFgzQ3ZQX3pZdTJQYTdDZTZzczdGVTJfajRJ?oc=5",
+      "pubDate": "Thu, 21 May 2026 08:52:54 GMT",
+      "source": "XFastest News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KS1VDaVAyWEtnRHFIblhnYzZjVmdGeG9GY2JQdkEwWDJJTmhVbVlIU1BBQmJwM0FSUFJYMjJ5ZFc5ZFgzQ3ZQX3pZdTJQYTdDZTZzczdGVTJfajRJ?oc=5\" target=\"_blank\"&gt;威剛科技旗下TRUSTA與XPG雙獲Computex Best Choice Award&lt",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     },
     {
       "title": "三星罷工 威剛陳立白看DRAM、NAND 續漲 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNY3JGOEdoa3ZubWU4djJfbUVCeDVjeFdFY3kwYzFxMmEzb1Bqa0VDSjNxbmFFNXJNN3BXeGhBbzZwWkZyS3A4ZVdZMkVjb0NXclhDNy11WGRnMHdJN2RkRUQ0MHRXemhsZHgyaEJaTVhaQkdpLWl3cV82Y2NLNm0xT1RGNTFvNHhNMTI4dmxzQ3RnVkVrSlhDTlJ4VmViZzBnRDNUNTlpVzFOT3JySXZJcDNFM09jbGpOUG45NjNPcEpjUjJaWkxVMlhramhWRWxKLXUtQVJxLU4wOXNocjZodHppWkZicHlSR1VpaWt6VDRNNTFIZzBXOGhUbEJ4VURTeTdCb29KN3Q4eGMxeUhpVXl4OVpVaWZTUUpKSVN3NkJvNXVRZXc?oc=5",
-      "pubDate": "Wed, 20 May 2026 21:31:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPUC1tMVBrWXZma2NYWDg1dnByMzg3MlQzVDc2SjVVQ2ZaLTBhZm1hWHltNWxBN1AzWUhCVWJvNFFRLS0ybk9IZGZweW1zNV9PQkg2bUlCYTc5UlMtY2JQbjNlZVBzN0FMQllDVWJtTzhzLTdHMXZSWHNaUjNpcEpfYjhXWndYREFpRTdJaHI3QlRzcUc3V0NTUm52eW43VGpObHM1azVDamtsYWJaMjdOTlJ0WHBpdWdiVnoycjAzMHhDbXhMYnRGY2t0VXQ4cGFQblVZcmVHeXBkYm9pUy1WMWdnS3VZRE1UMEE5Zm5tOTR6c0dPYWxEdjk5M2c1X3R1QzJqWmhvQWw5M0s2eWRwUDlWandyTHZWN2pfUldBS1JhbDlXQ0Z0SF9TVkFlMHd3M0k3V1JIaGtKU0NQUGM0LWNLX0NtZWtnR2d1SVBHSEtsaE1Ib01LZlBHS3dTWDdGUlFQZW1qS2pJMTVlY0R4LW55RFpSVngxdGhOMTcwX0NaWi01RDc4YVVKR0VoTDNrZUdfRHRpNFZsRGVSMW1Fd2VtRWUzLV9CTzExX0ZoZUxvM3NGSjVfbzNkRQ?oc=5",
+      "pubDate": "Thu, 21 May 2026 08:07:20 GMT",
       "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxNY3JGOEdoa3ZubWU4djJfbUVCeDVjeFdFY3kwYzFxMmEzb1Bqa0VDSjNxbmFFNXJNN3BXeGhBbzZwWkZyS3A4ZVdZMkVjb0NXclhDNy11WGRnMHdJN2RkRUQ0MHRXemhsZHgyaEJaTVhaQkdpLWl3cV82Y2NLNm0xT1RGNTFvNHhNMTI4dmxzQ3RnV",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxPUC1tMVBrWXZma2NYWDg1dnByMzg3MlQzVDc2SjVVQ2ZaLTBhZm1hWHltNWxBN1AzWUhCVWJvNFFRLS0ybk9IZGZweW1zNV9PQkg2bUlCYTc5UlMtY2JQbjNlZVBzN0FMQllDVWJtTzhzLTdHMXZSWHNaUjNpcEpfYjhXWndYREFpRTdJaHI3QlRzc",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     },
     {
-      "title": "討論牆 | 盤中速報 - 創見(2451)大跌7%，報305.5元 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vc1M2dGZtYWUxRlFKUWJQNFVvSWtuckZpLWpyVnBZLW9fZHZ1ZVNKWUd2MGNCYzR6c3hJcFZXYmNLNHNWNVBGUXo4bU1Eb1pHRTNfdzk4cWVPMUtwczlXQUFXaVg?oc=5",
-      "pubDate": "Wed, 20 May 2026 15:58:32 GMT",
-      "source": "LINE TODAY",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vc1M2dGZtYWUxRlFKUWJQNFVvSWtuckZpLWpyVnBZLW9fZHZ1ZVNKWUd2MGNCYzR6c3hJcFZXYmNLNHNWNVBGUXo4bU1Eb1pHRTNfdzk4cWVPMUtwczlXQUFXaVg?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)大跌7%，報305.5元&lt",
-      "category": "創見資訊",
-      "sentiment": "negative",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "title": "金士頓宣布A400固態硬碟全球出貨破1億台 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xYXBqVV9CLWxteWE3UV9rSFdJNEtYNFRVRmV4bkhuOTVmMGdPcFZfRHFjdUw5bUxHSlZxYUFfamhBYUFlSTJ3azJlVlc4Sk9fek9kNWpSNkY?oc=5",
+      "pubDate": "Thu, 21 May 2026 06:50:35 GMT",
+      "source": "自由時報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xYXBqVV9CLWxteWE3UV9rSFdJNEtYNFRVRmV4bkhuOTVmMGdPcFZfRHFjdUw5bUxHSlZxYUFfamhBYUFlSTJ3azJlVlc4Sk9fek9kNWpSNkY?oc=5\" target=\"_blank\"&gt;金士頓宣布A400固態硬碟全球出貨破1億台&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     },
     {
-      "title": "三星罷工引發記憶體漲價潮 威剛董事長看好DRAM、NAND續強！ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMVpaMjQ2VC1HQjRvckw5OEZHWEJ6eEVjei01anI5OXcxUVVhREVGbmZSMTYtU0s4OGNvcnZvR2h2MEFwd21DdUN1T1JYNWZYbnlHTlVYRzRBYjl5R1dySjk4UVc5N1J3OG5ObGRpQjVJYTZvUFNoNHBsc1Ezd2M0SHE2Z2FjTmlqTEg2WmNhWGRSVnRXMjJoYWFpTjVSWUVKMEtXeVFfQ0FVSjBJRXBlRnZla3MycjVON080MHRvSEc3cXRKZXVsS2pJYmR1WDUyNEVJVHI4ejQtd1lsTUVEeThvWjljRms1TTR3bC1QZkx4LVRMRnlISWpETGE3N1NJRXJzMmJfeDA3YkNDdnlmeUVGR0NCLVZObVZLRkpVZnF0TWg5ZzBBaFlrSGkweVRNd3ppWmNfVl9zQWFpODFfbFFRMlAxdkw2ZnJmYnZuZUROTkxOYW42TEp0OWg?oc=5",
-      "pubDate": "Wed, 20 May 2026 09:28:00 GMT",
-      "source": "Yahoo新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMVpaMjQ2VC1HQjRvckw5OEZHWEJ6eEVjei01anI5OXcxUVVhREVGbmZSMTYtU0s4OGNvcnZvR2h2MEFwd21DdUN1T1JYNWZYbnlHTlVYRzRBYjl5R1dySjk4UVc5N1J3OG5ObGRpQjVJYTZvUFNoNHBsc1Ezd2M0SHE2Z2FjTmlqTEg2WmNhWGRSV",
+      "title": "金士頓宣布A400固態硬碟全球出貨破1億台 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSaHozYUdpLWNDTkQzNHRKNzYwY0gwRlp3NHBnZEZSLXNiazdXZFRPbFBCT1hpSFdZek5ZbEdlNXZ0YVhOdjFTX1l4RHlFZTROQU1TaVRhLWYwQl9nT3o40gFkQVVfeXFMUDBBX19FTGpmcnF6UnJwRmJBYnNzVTFMTk53aVdhaGdXZVNkN0g4ZjQ0M05vaHZuNWlxUkVjUWNCLXpqUk15ZW44LVdZNUhhekxzU1AtdkJtWDFLRnVCOGNDX1h2Qg?oc=5",
+      "pubDate": "Thu, 21 May 2026 06:47:22 GMT",
+      "source": "自由財經",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSaHozYUdpLWNDTkQzNHRKNzYwY0gwRlp3NHBnZEZSLXNiazdXZFRPbFBCT1hpSFdZek5ZbEdlNXZ0YVhOdjFTX1l4RHlFZTROQU1TaVRhLWYwQl9nT3o40gFkQVVfeXFMUDBBX19FTGpmcnF6UnJwRmJBYnNzVTFMTk53aVdhaGdXZVNkN0g4ZjQ0M",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
+    },
+    {
+      "title": "三星罷工矛盾台廠大利多？群聯這樣看記憶體大老看法曝- 財經 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wYU0waXBvblV2WlpVdTBna3dWRmpJZG1LSTBtakdxeUtrV25HTWpYNnhoRngxNDJVWVp4SVJtNjFDVkE4VlJLVEVpVUVhdzhJcXdpc0xDbVJvSXVrNDZhWGlQYTdBck84MnVaUGxB?oc=5",
+      "pubDate": "Thu, 21 May 2026 06:43:54 GMT",
+      "source": "中時新聞網",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5wYU0waXBvblV2WlpVdTBna3dWRmpJZG1LSTBtakdxeUtrV25HTWpYNnhoRngxNDJVWVp4SVJtNjFDVkE4VlJLVEVpVUVhdzhJcXdpc0xDbVJvSXVrNDZhWGlQYTdBck84MnVaUGxB?oc=5\" target=\"_blank\"&gt;三星罷工矛盾台廠大利多？群聯這樣看記憶體大老看",
       "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     },
     {
-      "title": "宜鼎發表全系列 10GbE 高速 LAN 擴充模組，引領邊緣 AI 網通佈局 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWdtNXh6Vk5QMWlYajh3YnBkeG5QWWRQYmUyeWprOUtyT2JjX3NCZjZYenhfUVRObzYtX1VYNjlmUEg1ZnExdU9aNjRRei1Ec1lUM0gtV05TbjlleW5aU0pYazk0cC1rbmRvSlV4bGEzQm5lVkZBbWhWdWdwd0hmMnFZdk15UHBYcms2LTJsYmt4OUVuTHZYWFIzMlB2cWpBU253S3p6aU1SM3FC?oc=5",
-      "pubDate": "Wed, 20 May 2026 08:26:47 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWdtNXh6Vk5QMWlYajh3YnBkeG5QWWRQYmUyeWprOUtyT2JjX3NCZjZYenhfUVRObzYtX1VYNjlmUEg1ZnExdU9aNjRRei1Ec1lUM0gtV05TbjlleW5aU0pYazk0cC1rbmRvSlV4bGEzQm5lVkZBbWhWdWdwd0hmMnFZdk15UHBYcms2LTJsYmt4O",
+      "title": "高可達500MB/s 讀取速度！金士頓A400固態硬碟全球出貨突破1億台 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hNEY1WnVuQ3JjbzhkR1VfQ1h5Yl9lckl2bzM3TTIxT090MzZxa3IwV0czcVJreXRBQUdMMnM2RTRTU3I0aEYwdE9nZjkxT2500gFWQVVfeXFMTWEyTnl6SFNRQ2Zmd2VXb09nVFFlNk40RXJEYmU4OWo2OUpTS3o2MklWekJEVjhXeHByMWtHbi04VV9JYW8zS1JpM0YxTVd2X01udkw1R2c?oc=5",
+      "pubDate": "Thu, 21 May 2026 05:47:09 GMT",
+      "source": "UDN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hNEY1WnVuQ3JjbzhkR1VfQ1h5Yl9lckl2bzM3TTIxT090MzZxa3IwV0czcVJreXRBQUdMMnM2RTRTU3I0aEYwdE9nZjkxT2500gFWQVVfeXFMTWEyTnl6SFNRQ2Zmd2VXb09nVFFlNk40RXJEYmU4OWo2OUpTS3o2MklWekJEVjhXeHByMWtHbi04V",
       "category": "競品",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     },
     {
-      "title": "威剛董座:三星罷工恐推升記憶體 NAND短期漲勢更猛 - 台視全球資訊網",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMnp2NXdIUWsxVlFVcHpQNG8tZjdzcGEtNGU4Yy0zQkJsVHpYMk5DOFVxdzd5ajdXVnUteWpxYmI5QUZlZ3c2RlNGMzBudThkWlRvLUVVcTI3OGE5elgtYWF0VjVuTm85dFh2UExrN05ISllrXzlxd0Y4NUJXaWZFMHI3MXRYSmlDQUE2dDZ1Y0Q0Tk1BeWZQdHB2MkMtQXJWV0pvSVFsaEY1b00?oc=5",
-      "pubDate": "Wed, 20 May 2026 06:50:48 GMT",
-      "source": "台視全球資訊網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMnp2NXdIUWsxVlFVcHpQNG8tZjdzcGEtNGU4Yy0zQkJsVHpYMk5DOFVxdzd5ajdXVnUteWpxYmI5QUZlZ3c2RlNGMzBudThkWlRvLUVVcTI3OGE5elgtYWF0VjVuTm85dFh2UExrN05ISllrXzlxd0Y4NUJXaWZFMHI3MXRYSmlDQUE2dDZ1Y0Q0T",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
-    },
-    {
-      "title": "三星罷工推升記憶體漲價 威剛陳立白：今年一季比一季好 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CZXczeUVEdkJPMVdCZ2V5TEVtMkxObUY3bm9RNWpjZy1obmd5XzRTX0FNZXJFdGdLMWpvY0RDeE9qdTUwcEYzU0JpQ3FhMVlRUzloR2xSN0Q1Q2xGektBN1drbjhmZDE1VHlaZnBR?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:59:27 GMT",
-      "source": "中時新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1CZXczeUVEdkJPMVdCZ2V5TEVtMkxObUY3bm9RNWpjZy1obmd5XzRTX0FNZXJFdGdLMWpvY0RDeE9qdTUwcEYzU0JpQ3FhMVlRUzloR2xSN0Q1Q2xGektBN1drbjhmZDE1VHlaZnBR?oc=5\" target=\"_blank\"&gt;三星罷工推升記憶體漲價 威剛陳立白：今年一季比",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
-    },
-    {
-      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:50:00 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
-    },
-    {
-      "title": "陳立白：三星罷工將推升記憶體價格，但威剛營運一季比一季好 - TechNews 科技新報",
+      "title": "陳立白：三星罷工推升記憶體價格，但威剛營運一季比一季好 - TechNews 科技新報",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHhiU2FCdk9neGJGTFNRWnV3ZFMyMU9MSGNVRmw5bXFUUDctU1pSVmF6QmJrSF9pNjliYzd0NEkzWnNxNmFZbU9aYkdNb1lqZzg0Nnd3LVJ2MjRObUk2LVdqVHdjR3paUGl5ZWdXS3lfdW9ZVmh2NmU3SGtveTB3ZHM1a3NvY2EtQXkyRmd2YWhoM2pwVU5PX3owWjE5NklyTmw0SFkteDZFM3FwTmFBVnJ6aFFwTW55WWRlSGpkSmFkcHZjNFVhM2tSM3BKdw?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:26:44 GMT",
+      "pubDate": "Thu, 21 May 2026 05:35:52 GMT",
       "source": "TechNews 科技新報",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHhiU2FCdk9neGJGTFNRWnV3ZFMyMU9MSGNVRmw5bXFUUDctU1pSVmF6QmJrSF9pNjliYzd0NEkzWnNxNmFZbU9aYkdNb1lqZzg0Nnd3LVJ2MjRObUk2LVdqVHdjR3paUGl5ZWdXS3lfdW9ZVmh2NmU3SGtveTB3ZHM1a3NvY2EtQXkyRmd2YWhoM",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
-    },
-    {
-      "title": "威剛：三星罷工記憶體產出影響有限心理效應帶動漲價| 產經 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBROHZhSmM1ZmdlTV9FQzBocHpXQXBKUm1tSy1sanBQNGVKMXVTUDZpN3U0ZWFOdkFTcFFiT1BrajdKdTMteUJ2ZG9oVWlxQ1NPeUtXb2lkcDVKc0J4Ymc?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:19:00 GMT",
-      "source": "中央社 CNA",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBROHZhSmM1ZmdlTV9FQzBocHpXQXBKUm1tSy1sanBQNGVKMXVTUDZpN3U0ZWFOdkFTcFFiT1BrajdKdTMteUJ2ZG9oVWlxQ1NPeUtXb2lkcDVKc0J4Ymc?oc=5\" target=\"_blank\"&gt;威剛：三星罷工記憶體產出影響有限心理效應帶動漲價| 產經&lt;/a&gt;&amp;n",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-21T03:32:26.431Z"
+      "fetchedAt": "2026-05-22T03:31:18.111Z"
     }
   ]
 }

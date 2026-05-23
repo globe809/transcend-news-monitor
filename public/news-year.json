@@ -1,18 +1,18 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-22T03:31:18.111Z",
-  "generatedAtTW": "2026-05-22 11:31 台灣時間",
+  "generatedAt": "2026-05-23T02:49:50.042Z",
+  "generatedAtTW": "2026-05-23 10:49 台灣時間",
   "stats": {
-    "total": 219,
-    "positive": 88,
+    "total": 221,
+    "positive": 89,
     "negative": 3,
-    "neutral": 128,
+    "neutral": 129,
     "byCategory": {
       "創見資訊": {
-        "total": 104,
+        "total": 105,
         "positive": 50,
         "negative": 1,
-        "neutral": 53
+        "neutral": 54
       },
       "上游供應商": {
         "total": 90,
@@ -21,8 +21,8 @@
         "neutral": 56
       },
       "競品": {
-        "total": 25,
-        "positive": 6,
+        "total": 26,
+        "positive": 7,
         "negative": 0,
         "neutral": 19
       }
@@ -37,14 +37,34 @@
       },
       {
         "date": "2026-05",
-        "positive": 49,
+        "positive": 50,
         "negative": 2,
-        "neutral": 73,
-        "total": 124
+        "neutral": 74,
+        "total": 126
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5\" target=\"_blank\"&gt;2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會&lt;/a&gt;&amp;n",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會 - CMoney",
+      "pubDate": "Fri, 22 May 2026 06:59:08 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5\" target=\"_blank\"&gt;金士頓A400固態硬碟全球出貨突破1億台&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;f",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "IT PRO Magazine",
+      "category": "競品",
+      "title": "金士頓A400固態硬碟全球出貨突破1億台 - IT PRO Magazine",
+      "pubDate": "Fri, 22 May 2026 04:34:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdFE2dHhRNzFqc1VhYjBXTENRejJ6ZURXVjd6azRJSDJZZ3ZILVl3Q29NYVNack9aUUVOS2c0Rm4zQVVmUlRIaHRBd3dDSjQtWVJON2tRNkRGcUxIT0RuMVphUmJDNWh5N3JBSDNDX3dkT05UdGdCQUROenM1NGpjTjNRcE9FcDdSUGdsN3BwR044RGNJSUxKVnFuVXEzc1doSE9BTjRhNkktay01QVlrV3o5REVCV3VKeV92ZHlUWHJSdkJLUEdMa3d3WmNLb1FmUzg5SXRBZFZ1U3VpV203dlBxSGVfMXZuQWlWOXN3NjZrZEIxUC1kNmdtOER5eV9wWDJISmJtbFQwZ1FUUFE?oc=5",
@@ -1024,26 +1044,6 @@
       "category": "創見資訊",
       "title": "AI需求爆發引發記憶體結構性缺貨 創見Q1每股盈餘18.93元、季增149% - 鏡新聞",
       "pubDate": "Thu, 07 May 2026 09:24:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54b2lTZjd6Vl9LeDRvSzhBZC1MSGRkZjNSYzNRTEhWaHR1emlKeW51emZ4ZlR0T19WVjlCSG1hNTRjWW9SWTR3ZUlid0FOa08tbEFOWmdvemQtN1dBZUN5eEhKdWlfOGNRYzZUeUVucw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE54b2lTZjd6Vl9LeDRvSzhBZC1MSGRkZjNSYzNRTEhWaHR1emlKeW51emZ4ZlR0T19WVjlCSG1hNTRjWW9SWTR3ZUlid0FOa08tbEFOWmdvemQtN1dBZUN5eEhKdWlfOGNRYzZUeUVucw?oc=5\" target=\"_blank\"&gt;創見Q1獲利季增149% 每股賺18.93",
-      "fetchedAt": "2026-05-08T02:47:53.167Z",
-      "source": "知新聞",
-      "category": "創見資訊",
-      "title": "創見Q1獲利季增149% 每股賺18.93元創新高！前4月營收已超越去年全年 - 知新聞",
-      "pubDate": "Thu, 07 May 2026 08:40:00 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVBrUHJDbkhXckVBQWZoV2RmbmwxOENjTEp2VXVWbzF5a2t3Mll4WlpNTE5WNHJfQXV5bDdLbkFseU5wN0VnUnl4dWtJYk5fakN1SGh3UGFsdlU0RVQxaTBCMU5LbFloS2hLODA3b2Y5Tzczb01Kd2RQdXVCRURQN2ZsVzdSY3Zq?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVBrUHJDbkhXckVBQWZoV2RmbmwxOENjTEp2VXVWbzF5a2t3Mll4WlpNTE5WNHJfQXV5bDdLbkFseU5wN0VnUnl4dWtJYk5fakN1SGh3UGFsdlU0RVQxaTBCMU5LbFloS2hLODA3b2Y5Tzczb01Kd2RQdXVCRURQN2ZsVzdSY3Zq?oc=5\" target",
-      "fetchedAt": "2026-05-08T02:47:53.167Z",
-      "source": "富聯網",
-      "category": "創見資訊",
-      "title": "財報：創見(2451)115年第一季歸屬母公司淨利81億2248萬元，EPS 18.93元 - 富聯網",
-      "pubDate": "Thu, 07 May 2026 07:40:00 GMT"
     }
   ]
 }

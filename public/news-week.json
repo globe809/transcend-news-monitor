@@ -1,40 +1,33 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-22T03:31:18.111Z",
-  "generatedAtTW": "2026-05-22 11:31 台灣時間",
+  "generatedAt": "2026-05-23T02:49:50.042Z",
+  "generatedAtTW": "2026-05-23 10:49 台灣時間",
   "stats": {
-    "total": 49,
-    "positive": 12,
+    "total": 46,
+    "positive": 11,
     "negative": 2,
-    "neutral": 35,
+    "neutral": 33,
     "byCategory": {
       "創見資訊": {
-        "total": 11,
+        "total": 12,
         "positive": 1,
         "negative": 1,
-        "neutral": 9
+        "neutral": 10
       },
       "上游供應商": {
-        "total": 27,
-        "positive": 7,
+        "total": 24,
+        "positive": 5,
         "negative": 1,
-        "neutral": 19
+        "neutral": 18
       },
       "競品": {
-        "total": 11,
-        "positive": 4,
+        "total": 10,
+        "positive": 5,
         "negative": 0,
-        "neutral": 7
+        "neutral": 5
       }
     },
     "trend": [
-      {
-        "date": "2026-05-15",
-        "positive": 2,
-        "negative": 0,
-        "neutral": 3,
-        "total": 5
-      },
       {
         "date": "2026-05-16",
         "positive": 1,
@@ -76,10 +69,37 @@
         "negative": 0,
         "neutral": 7,
         "total": 8
+      },
+      {
+        "date": "2026-05-22",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 1,
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5\" target=\"_blank\"&gt;2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會&lt;/a&gt;&amp;n",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會 - CMoney",
+      "pubDate": "Fri, 22 May 2026 06:59:08 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5\" target=\"_blank\"&gt;金士頓A400固態硬碟全球出貨突破1億台&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;f",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "IT PRO Magazine",
+      "category": "競品",
+      "title": "金士頓A400固態硬碟全球出貨突破1億台 - IT PRO Magazine",
+      "pubDate": "Fri, 22 May 2026 04:34:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdFE2dHhRNzFqc1VhYjBXTENRejJ6ZURXVjd6azRJSDJZZ3ZILVl3Q29NYVNack9aUUVOS2c0Rm4zQVVmUlRIaHRBd3dDSjQtWVJON2tRNkRGcUxIT0RuMVphUmJDNWh5N3JBSDNDX3dkT05UdGdCQUROenM1NGpjTjNRcE9FcDdSUGdsN3BwR044RGNJSUxKVnFuVXEzc1doSE9BTjRhNkktay01QVlrV3o5REVCV3VKeV92ZHlUWHJSdkJLUEdMa3d3WmNLb1FmUzg5SXRBZFZ1U3VpV203dlBxSGVfMXZuQWlWOXN3NjZrZEIxUC1kNmdtOER5eV9wWDJISmJtbFQwZ1FUUFE?oc=5",
@@ -519,56 +539,6 @@
       "category": "上游供應商",
       "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
       "pubDate": "Sat, 16 May 2026 05:40:06 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "category": "上游供應商",
-      "pubDate": "Fri, 15 May 2026 18:34:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVVlFVTU1VTdEbzJtZ1dKOFFrakdtSVdtVzF3amZVU25HVmh5LS1aMENnOXh0SnJOS1pmSHpDOHE2MGNDanFQM1VZUTNhdmF3R2gzU09jMjZzRHB4R3dUT3RjcERUUHBXOFEw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVVlFVTU1VTdEbzJtZ1dKOFFrakdtSVdtVzF3amZVU25HVmh5LS1aMENnOXh0SnJOS1pmSHpDOHE2MGNDanFQM1VZUTNhdmF3R2gzU09jMjZzRHB4R3dUT3RjcERUUHBXOFEw?oc=5\" target=\"_blank\"&gt;Kioxia與Dell Technologies率先推",
-      "source": "Business Wire",
-      "title": "Kioxia與Dell Technologies率先推出搭載9.8 PB 快閃記憶體儲存的高密度伺服器 - Business Wire"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZFliS05CVlhyRmdJUzhyc0ZWaEVQZkE3amJ5TmROX1ItTmdwZUtTUnhBUW9YNy03U0lsMjVvRGJhWnBPVVBGZ19OU1hVU29zX0lrNWU2MEpqaV9JUFF4OVZYZHJRZWQyT0UxNElkYWFPOGp3cUtWZFJLRQ?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZFliS05CVlhyRmdJUzhyc0ZWaEVQZkE3amJ5TmROX1ItTmdwZUtTUnhBUW9YNy03U0lsMjVvRGJhWnBPVVBGZ19OU1hVU29zX0lrNWU2MEpqaV9JUFF4OVZYZHJRZWQyT0UxNElkYWFPOGp3cUtWZFJLRQ?oc=5\" target=\"_blank\"&gt;鎧俠單季淨",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "source": "財訊",
-      "category": "上游供應商",
-      "title": "鎧俠單季淨利暴增48倍！日企僅次於豐田成AI最大贏家 - 財訊",
-      "pubDate": "Fri, 15 May 2026 11:30:23 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52VlpOMm5DNEdoUVV6eDJSZ2FyN3o0OG5SQVlfNjFvaVUzUWdzY3QwMDg1S0UyV1lQZkVIRFlJb0V2SkpFV091MFktSUk3R2tBcmZFU0l2UnFvdw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE52VlpOMm5DNEdoUVV6eDJSZ2FyN3o0OG5SQVlfNjFvaVUzUWdzY3QwMDg1S0UyV1lQZkVIRFlJb0V2SkpFV091MFktSUk3R2tBcmZFU0l2UnFvdw?oc=5\" target=\"_blank\"&gt;日本記憶體大廠鎧俠 (Kioxia) 單季獲利飆 5,968 億日圓，籌備赴美掛牌上市&lt;/a",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "source": "鏈新聞 ABMedia",
-      "category": "上游供應商",
-      "title": "日本記憶體大廠鎧俠 (Kioxia) 單季獲利飆 5,968 億日圓，籌備赴美掛牌上市 - 鏈新聞 ABMedia",
-      "pubDate": "Fri, 15 May 2026 09:34:35 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNbl9XMlFLOFJuUlpxTl9vUHdOeUcwQl9ncTJhU2lhNGdwVU1kS3Q0MXlUN0E0X2NUUGhKbHhQYzkyUGNoY1dic1ZaTjI?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNbl9XMlFLOFJuUlpxTl9vUHdOeUcwQl9ncTJhU2lhNGdwVU1kS3Q0MXlUN0E0X2NUUGhKbHhQYzkyUGNoY1dic1ZaTjI?oc=5\" target=\"_blank\"&gt;金士頓升級高效能產品線：FURY Renegade Pro DDR5 散熱片記憶體登場&lt;/a&gt;&amp;nbsp;&amp;",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "source": "Techapple.com",
-      "category": "競品",
-      "title": "金士頓升級高效能產品線：FURY Renegade Pro DDR5 散熱片記憶體登場 - Techapple.com",
-      "pubDate": "Fri, 15 May 2026 06:16:19 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-16T02:45:37.746Z",
-      "category": "競品",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOFM2Q1lXd0JQV3VqajFmZkt1LVFtWG90Nno3S3d2WDZPNTRaZHlMZHdOdzlTSEwzczJBSlNmQzNKUkpQRVlLcTI2UV8weV9zVk1iajVqN2UwY0w4MWFkU21WNS12VkRqcVRyQmx6eFc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOFM2Q1lXd0JQV3VqajFmZkt1LVFtWG90Nno3S3d2WDZPNTRaZHlMZHdOdzlTSEwzczJBSlNmQzNKUkpQRVlLcTI2UV8weV9zVk1iajVqN2UwY0w4MWFkU21WNS12VkRqcVRyQmx6eFc?oc=5\" target=\"_blank\"&gt;金士頓強化高效能產品線 滿足新世代運算與",
-      "source": "IT PRO Magazine",
-      "title": "金士頓強化高效能產品線 滿足新世代運算與企業級應用需求 - IT PRO Magazine",
-      "pubDate": "Fri, 15 May 2026 06:16:08 GMT"
     }
   ]
 }

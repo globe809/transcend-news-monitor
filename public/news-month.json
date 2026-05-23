@@ -1,18 +1,18 @@
 {
   "period": "month",
-  "generatedAt": "2026-05-22T03:31:18.111Z",
-  "generatedAtTW": "2026-05-22 11:31 台灣時間",
+  "generatedAt": "2026-05-23T02:49:50.042Z",
+  "generatedAtTW": "2026-05-23 10:49 台灣時間",
   "stats": {
-    "total": 163,
-    "positive": 63,
+    "total": 165,
+    "positive": 64,
     "negative": 3,
-    "neutral": 97,
+    "neutral": 98,
     "byCategory": {
       "創見資訊": {
-        "total": 68,
+        "total": 69,
         "positive": 32,
         "negative": 1,
-        "neutral": 35
+        "neutral": 36
       },
       "上游供應商": {
         "total": 72,
@@ -21,8 +21,8 @@
         "neutral": 44
       },
       "競品": {
-        "total": 23,
-        "positive": 5,
+        "total": 24,
+        "positive": 6,
         "negative": 0,
         "neutral": 18
       }
@@ -237,10 +237,37 @@
         "negative": 0,
         "neutral": 7,
         "total": 8
+      },
+      {
+        "date": "2026-05-22",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 1,
+        "total": 2
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5\" target=\"_blank\"&gt;2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會&lt;/a&gt;&amp;n",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會 - CMoney",
+      "pubDate": "Fri, 22 May 2026 06:59:08 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5\" target=\"_blank\"&gt;金士頓A400固態硬碟全球出貨突破1億台&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;f",
+      "fetchedAt": "2026-05-23T02:49:50.042Z",
+      "source": "IT PRO Magazine",
+      "category": "競品",
+      "title": "金士頓A400固態硬碟全球出貨突破1億台 - IT PRO Magazine",
+      "pubDate": "Fri, 22 May 2026 04:34:00 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdFE2dHhRNzFqc1VhYjBXTENRejJ6ZURXVjd6azRJSDJZZ3ZILVl3Q29NYVNack9aUUVOS2c0Rm4zQVVmUlRIaHRBd3dDSjQtWVJON2tRNkRGcUxIT0RuMVphUmJDNWh5N3JBSDNDX3dkT05UdGdCQUROenM1NGpjTjNRcE9FcDdSUGdsN3BwR044RGNJSUxKVnFuVXEzc1doSE9BTjRhNkktay01QVlrV3o5REVCV3VKeV92ZHlUWHJSdkJLUEdMa3d3WmNLb1FmUzg5SXRBZFZ1U3VpV203dlBxSGVfMXZuQWlWOXN3NjZrZEIxUC1kNmdtOER5eV9wWDJISmJtbFQwZ1FUUFE?oc=5",

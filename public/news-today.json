@@ -1,10 +1,10 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-23T02:49:50.042Z",
-  "generatedAtTW": "2026-05-23 10:49 台灣時間",
+  "generatedAt": "2026-05-24T03:27:54.719Z",
+  "generatedAtTW": "2026-05-24 11:27 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 1,
+    "total": 3,
+    "positive": 2,
     "negative": 0,
     "neutral": 1,
     "byCategory": {
@@ -15,48 +15,58 @@
         "neutral": 1
       },
       "上游供應商": {
-        "total": 0,
-        "positive": 0,
+        "total": 2,
+        "positive": 2,
         "negative": 0,
         "neutral": 0
       },
       "競品": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-05-22",
-        "positive": 1,
+        "date": "2026-05-23",
+        "positive": 2,
         "negative": 0,
         "neutral": 1,
-        "total": 2
+        "total": 3
       }
     ]
   },
   "news": [
     {
-      "title": "2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
-      "pubDate": "Fri, 22 May 2026 06:59:08 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5\" target=\"_blank\"&gt;2451 創見 - 由今天的191.50起漲上300元。-股市爆料同學會&lt;/a&gt;&amp;n",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-23T02:49:50.042Z"
+      "title": "【即時新聞】華爾街大咖加碼美光(MU)與SanDisk(SNDK)！AI記憶體迎爆發，這2檔還能追嗎 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?oc=5",
+      "pubDate": "Sat, 23 May 2026 14:24:39 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?o",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-24T03:27:54.719Z"
     },
     {
-      "title": "金士頓A400固態硬碟全球出貨突破1億台 - IT PRO Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5",
-      "pubDate": "Fri, 22 May 2026 04:34:00 GMT",
-      "source": "IT PRO Magazine",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNzVuTk1GV3VOMWxET1o3ek9BZkx5SkpUeWFaRlhiTmk2Ykc0bENWMVlXc0djeGIxODBaNjk3NXk3SlR4aTBvMWxBQTRJcl9abGxFd1ZB?oc=5\" target=\"_blank\"&gt;金士頓A400固態硬碟全球出貨突破1億台&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;f",
-      "category": "競品",
+      "title": "AI記憶體大爆發：Micron與Sandisk點燃「兆級」晶片超級循環 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "pubDate": "Sat, 23 May 2026 09:00:28 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-23T02:49:50.042Z"
+      "fetchedAt": "2026-05-24T03:27:54.719Z"
+    },
+    {
+      "title": "2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5",
+      "pubDate": "Sat, 23 May 2026 08:57:09 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5\" target=\"_blank\"&gt;2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-24T03:27:54.719Z"
     }
   ]
 }

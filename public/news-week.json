@@ -1,40 +1,33 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-23T02:49:50.042Z",
-  "generatedAtTW": "2026-05-23 10:49 台灣時間",
+  "generatedAt": "2026-05-24T03:27:54.719Z",
+  "generatedAtTW": "2026-05-24 11:27 台灣時間",
   "stats": {
     "total": 46,
-    "positive": 11,
+    "positive": 12,
     "negative": 2,
-    "neutral": 33,
+    "neutral": 32,
     "byCategory": {
       "創見資訊": {
-        "total": 12,
+        "total": 13,
         "positive": 1,
         "negative": 1,
-        "neutral": 10
+        "neutral": 11
       },
       "上游供應商": {
         "total": 24,
-        "positive": 5,
+        "positive": 6,
         "negative": 1,
-        "neutral": 18
+        "neutral": 17
       },
       "競品": {
-        "total": 10,
+        "total": 9,
         "positive": 5,
         "negative": 0,
-        "neutral": 5
+        "neutral": 4
       }
     },
     "trend": [
-      {
-        "date": "2026-05-16",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 2,
-        "total": 3
-      },
       {
         "date": "2026-05-17",
         "positive": 0,
@@ -76,10 +69,47 @@
         "negative": 0,
         "neutral": 1,
         "total": 2
+      },
+      {
+        "date": "2026-05-23",
+        "positive": 2,
+        "negative": 0,
+        "neutral": 1,
+        "total": 3
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?o",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "【即時新聞】華爾街大咖加碼美光(MU)與SanDisk(SNDK)！AI記憶體迎爆發，這2檔還能追嗎 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 14:24:39 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "AI記憶體大爆發：Micron與Sandisk點燃「兆級」晶片超級循環 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 09:00:28 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5\" target=\"_blank\"&gt;2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會 - CMoney",
+      "pubDate": "Sat, 23 May 2026 08:57:09 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
@@ -509,36 +539,6 @@
       "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
       "fetchedAt": "2026-05-18T03:32:47.638Z",
       "pubDate": "Sun, 17 May 2026 12:12:05 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSjV3ZDdua2g3OVZ3dF9lTjhZYzNDV0l5RGwxR0hoclNWUWVOYTJLZ2lmMzV5Ym1zYS1kajRkMll3a2lHUERhZXdoRWhFb2xDbzhIckNqbjc?oc=5\" target=\"_blank\"&gt;金士頓擴展高效能產品線 滿足新世代運算需求&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
-      "fetchedAt": "2026-05-17T02:54:57.604Z",
-      "source": "Techritual Hong Kong",
-      "category": "競品",
-      "title": "金士頓擴展高效能產品線 滿足新世代運算需求 - Techritual Hong Kong",
-      "pubDate": "Sat, 16 May 2026 20:05:47 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wRkJYSmxJakN1RWlDa2poeldLV1pTLVBiTzhadVhyTjV0bl9NMWZjWmlnSHh6NkRBeXFiZ0FzQmFlaWRuSy12VHMyRXpSVy1HQVVid0tzTzM4eS02TDJ0SFVRRW0?oc=5\" target=\"_blank\"&gt;記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還",
-      "fetchedAt": "2026-05-17T02:54:57.604Z",
-      "source": "TechNews 科技新報",
-      "category": "上游供應商",
-      "title": "記憶體狂潮讓 SanDisk 股價一年漲 3,600%！但分析師認為「還不算貴」 - TechNews 科技新報",
-      "pubDate": "Sat, 16 May 2026 12:32:02 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RW9ZazZfQmZyWWIyX1RkRE03S29aeklyZ0lPNjlFNWxKNFhyV0tKVll1NFBjWXEySXpVcWtpRGJzMFFubEQydHNTTkx4Szg?oc=5\" target=\"_blank\"&gt;下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;",
-      "fetchedAt": "2026-05-17T02:54:57.604Z",
-      "source": "news.cnyes.com",
-      "category": "上游供應商",
-      "title": "下一檔AI妖股是它？分析師看好慧榮科技複製Sandisk神話 - news.cnyes.com",
-      "pubDate": "Sat, 16 May 2026 05:40:06 GMT"
     }
   ]
 }

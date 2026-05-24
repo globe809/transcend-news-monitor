@@ -1,22 +1,22 @@
 {
   "period": "year",
-  "generatedAt": "2026-05-23T02:49:50.042Z",
-  "generatedAtTW": "2026-05-23 10:49 台灣時間",
+  "generatedAt": "2026-05-24T03:27:54.719Z",
+  "generatedAtTW": "2026-05-24 11:27 台灣時間",
   "stats": {
-    "total": 221,
-    "positive": 89,
+    "total": 224,
+    "positive": 91,
     "negative": 3,
-    "neutral": 129,
+    "neutral": 130,
     "byCategory": {
       "創見資訊": {
-        "total": 105,
+        "total": 106,
         "positive": 50,
         "negative": 1,
-        "neutral": 54
+        "neutral": 55
       },
       "上游供應商": {
-        "total": 90,
-        "positive": 32,
+        "total": 92,
+        "positive": 34,
         "negative": 2,
         "neutral": 56
       },
@@ -37,14 +37,44 @@
       },
       {
         "date": "2026-05",
-        "positive": 50,
+        "positive": 52,
         "negative": 2,
-        "neutral": 74,
-        "total": 126
+        "neutral": 75,
+        "total": 129
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?o",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "【即時新聞】華爾街大咖加碼美光(MU)與SanDisk(SNDK)！AI記憶體迎爆發，這2檔還能追嗎 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 14:24:39 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "AI記憶體大爆發：Micron與Sandisk點燃「兆級」晶片超級循環 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 09:00:28 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5\" target=\"_blank\"&gt;2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會 - CMoney",
+      "pubDate": "Sat, 23 May 2026 08:57:09 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
@@ -1014,36 +1044,6 @@
       "category": "創見資訊",
       "title": "創見財報／第1季淨利81.2億元 EPS 18.93元、賺贏去年全年 - 聯合新聞網",
       "pubDate": "Thu, 07 May 2026 10:12:26 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWQV8yQmwwRFY0d1R0M2haNG84Y0h0ZGt2R1FqM1hUcDFvcHhsalgwTEtCQlZMbWE3LTNQWkdaR1ZUTnRVRmNXaFpyMkF6aGtmWTh2ckUzRlVldkRWMXBBMlNSX0VGV3hrNlZRRl8yd2lremdDVDI5U9IBX0FVX3lxTE10X3dtVmhTcDcwTGh3NzJYbm4tQW1pcjh5dW5XRGJ6Yy1jYk5fMkg0YXJLc1ZHN3VRSzBFWTVDUDg3ZklmOV9JT1R0bU1UWEhXbTlQWGI2NjlaZ09YSGJB?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWQV8yQmwwRFY0d1R0M2haNG84Y0h0ZGt2R1FqM1hUcDFvcHhsalgwTEtCQlZMbWE3LTNQWkdaR1ZUTnRVRmNXaFpyMkF6aGtmWTh2ckUzRlVldkRWMXBBMlNSX0VGV3hrNlZRRl8yd2lremdDVDI5U9IBX0FVX3lxTE10X3dtVmhTcDcwTGh3NzJYb",
-      "fetchedAt": "2026-05-08T02:47:53.167Z",
-      "source": "經濟日報",
-      "category": "創見資訊",
-      "title": "創見第1季賺贏去年全年　每股純益18.93元 - 經濟日報",
-      "pubDate": "Thu, 07 May 2026 09:55:08 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-08T02:47:53.167Z",
-      "category": "創見資訊",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WDVlNXlyQmdBNWxwRTgxMy1MZXBWNzBGOHhvS3k1b3hEWUZQMkplRDEzektWQmFIWlZ3STNFejI2VnVUVE0xSE1hTmxza2xnWGItZWFQQW1tcm9UcG5n0gFkQVVfeXFMTWwxaWFxMjVWaThlTnhVc0hreFk1TXNVZmNsZTRjRmZaRE1FLWw3ME52ZXY3MEkwbE1FcUJtUVF6Y1p3RXA2WU1sMVZpYjd4eE4zZi01TC1qVURmT1p3LVYwX2NfRg?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01WDVlNXlyQmdBNWxwRTgxMy1MZXBWNzBGOHhvS3k1b3hEWUZQMkplRDEzektWQmFIWlZ3STNFejI2VnVUVE0xSE1hTmxza2xnWGItZWFQQW1tcm9UcG5n0gFkQVVfeXFMTWwxaWFxMjVWaThlTnhVc0hreFk1TXNVZmNsZTRjRmZaRE1FLWw3ME52Z",
-      "source": "自由財經",
-      "title": "創見第一季每股獲利18.93元 單季賺贏去年 - 自由財經",
-      "pubDate": "Thu, 07 May 2026 09:25:13 GMT"
-    },
-    {
-      "sentiment": "positive",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzblJjcFJoZ2xXUzRoU0d0SmEyOGVRYTlMWVVmZUFoeGVjQWlfWDNlbGFNS0tHNFphTXVIWWppVEU3ZWc4MnNleEs5ZWNiYlNKMVFqWGt0cFhBdw?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzblJjcFJoZ2xXUzRoU0d0SmEyOGVRYTlMWVVmZUFoeGVjQWlfWDNlbGFNS0tHNFphTXVIWWppVEU3ZWc4MnNleEs5ZWNiYlNKMVFqWGt0cFhBdw?oc=5\" target=\"_blank\"&gt;AI需求爆發引發記憶體結構性缺貨 創見Q1每股盈餘18.93元、季增149%&lt;/a&gt;&",
-      "fetchedAt": "2026-05-08T02:47:53.167Z",
-      "source": "鏡新聞",
-      "category": "創見資訊",
-      "title": "AI需求爆發引發記憶體結構性缺貨 創見Q1每股盈餘18.93元、季增149% - 鏡新聞",
-      "pubDate": "Thu, 07 May 2026 09:24:00 GMT"
     }
   ]
 }

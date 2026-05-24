@@ -1,12 +1,12 @@
 {
   "period": "month",
-  "generatedAt": "2026-05-23T02:49:50.042Z",
-  "generatedAtTW": "2026-05-23 10:49 台灣時間",
+  "generatedAt": "2026-05-24T03:27:54.719Z",
+  "generatedAtTW": "2026-05-24 11:27 台灣時間",
   "stats": {
-    "total": 165,
-    "positive": 64,
+    "total": 163,
+    "positive": 66,
     "negative": 3,
-    "neutral": 98,
+    "neutral": 94,
     "byCategory": {
       "創見資訊": {
         "total": 69,
@@ -15,10 +15,10 @@
         "neutral": 36
       },
       "上游供應商": {
-        "total": 72,
-        "positive": 26,
+        "total": 70,
+        "positive": 28,
         "negative": 2,
-        "neutral": 44
+        "neutral": 40
       },
       "競品": {
         "total": 24,
@@ -29,18 +29,11 @@
     },
     "trend": [
       {
-        "date": "2026-04-22",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 4,
-        "total": 4
-      },
-      {
         "date": "2026-04-23",
         "positive": 1,
         "negative": 0,
-        "neutral": 3,
-        "total": 4
+        "neutral": 2,
+        "total": 3
       },
       {
         "date": "2026-04-24",
@@ -244,10 +237,47 @@
         "negative": 0,
         "neutral": 1,
         "total": 2
+      },
+      {
+        "date": "2026-05-23",
+        "positive": 2,
+        "negative": 0,
+        "neutral": 1,
+        "total": 3
       }
     ]
   },
   "news": [
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?o",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "【即時新聞】華爾街大咖加碼美光(MU)與SanDisk(SNDK)！AI記憶體迎爆發，這2檔還能追嗎 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 14:24:39 GMT"
+    },
+    {
+      "sentiment": "positive",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney投資網誌",
+      "category": "上游供應商",
+      "title": "AI記憶體大爆發：Micron與Sandisk點燃「兆級」晶片超級循環 - CMoney投資網誌",
+      "pubDate": "Sat, 23 May 2026 09:00:28 GMT"
+    },
+    {
+      "sentiment": "neutral",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5\" target=\"_blank\"&gt;2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "fetchedAt": "2026-05-24T03:27:54.719Z",
+      "source": "CMoney",
+      "category": "創見資訊",
+      "title": "2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會 - CMoney",
+      "pubDate": "Sat, 23 May 2026 08:57:09 GMT"
+    },
     {
       "sentiment": "neutral",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sV1RodWt2YklqbjdGNTdKenNMa3BoN0dYeFZscDMzRFU0UmliMEJSTmRybXJDbDlIRHNUV3duRFYwdWx1NjJJVEpnekVvU3RLRnFwVHBta2Y?oc=5",
@@ -1847,56 +1877,6 @@
       "category": "上游供應商",
       "title": "SanDisk為什麼漲?為什麼閃迪價格貴那麼多? - EBC Financial Group",
       "pubDate": "Thu, 23 Apr 2026 10:53:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84cWM1TEIwNmI0cjlMdzJ5QXNmSHlCdjB0TktmMmhrcU9xUExHNjhCOEZmajdYbGRkTHBTY2lxME5sVXhPVlZydEhXcjdQU2p0dUx2bVB2MWp2UkVQVEh4ZmI2X2JhRzFsT0p4UA?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE84cWM1TEIwNmI0cjlMdzJ5QXNmSHlCdjB0TktmMmhrcU9xUExHNjhCOEZmajdYbGRkTHBTY2lxME5sVXhPVlZydEhXcjdQU2p0dUx2bVB2MWp2UkVQVEh4ZmI2X2JhRzFsT0p4UA?oc=5\" target=\"_blank\"&gt;SanDisk靠「混血記憶體」翻身 將是下一個SK",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "source": "AASTOCKS.com",
-      "category": "上游供應商",
-      "title": "SanDisk靠「混血記憶體」翻身 將是下一個SK海力士？ - AASTOCKS.com",
-      "pubDate": "Thu, 23 Apr 2026 01:22:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EM3h1b08wdTAtbjUyZktQZW1oUHZmSjc4UEhXNFhrQ1VTWFJ3dUJkYnkxTFc4Tm00TVJFSzNzbE5QSkZqX3F6SA?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EM3h1b08wdTAtbjUyZktQZW1oUHZmSjc4UEhXNFhrQ1VTWFJ3dUJkYnkxTFc4Tm00TVJFSzNzbE5QSkZqX3F6SA?oc=5\" target=\"_blank\"&gt;閃迪，將會是下一個SK海力士？&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "source": "鉅亨號",
-      "category": "上游供應商",
-      "title": "閃迪，將會是下一個SK海力士？ - 鉅亨號",
-      "pubDate": "Wed, 22 Apr 2026 21:28:17 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVc1SDg0UmdNTnVyNmZRR2xyRXBacm9jTjFtZ1dRa1c3RDNyR09PczBRcUF0Q0FtWGxHQktCV1I4a3UycEF4XzYxOE9Sb2M4a05IRGwxRmZBZkNzaDRuN2NtNmktMnRZY2lNNFFDWFpVWnVWeC0yYTFpSmZyMFF2eHJldlNlTElfSmwxeVRR?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObVc1SDg0UmdNTnVyNmZRR2xyRXBacm9jTjFtZ1dRa1c3RDNyR09PczBRcUF0Q0FtWGxHQktCV1I4a3UycEF4XzYxOE9Sb2M4a05IRGwxRmZBZkNzaDRuN2NtNmktMnRZY2lNNFFDWFpVWnVWeC0yYTFpSmZyMFF2eHJldlNlTElfSmwxeVRR?oc=5",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "source": "DIGITIMES",
-      "category": "上游供應商",
-      "title": "三星西安NAND廠產量縮減恐至2027 忍痛升級換取長期競爭力 - DIGITIMES",
-      "pubDate": "Wed, 22 Apr 2026 18:04:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtRcmY5aktVZnE0dHJJWlg1S3dwSTNpU1UyWnBMdmllTmktMkVFZXRuYmpBQmFObnluYlBYSXVmQXJYRmlMNmFRcHVoWTVGZ2hfdmk3bkxPaEMzc3dyWXhpZXluN3NaVHNRMkt4QkQtbnNReDFTMzYxUDFRX3lqbmVqMGxFSjhKOXhxS0dR?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtRcmY5aktVZnE0dHJJWlg1S3dwSTNpU1UyWnBMdmllTmktMkVFZXRuYmpBQmFObnluYlBYSXVmQXJYRmlMNmFRcHVoWTVGZ2hfdmk3bkxPaEMzc3dyWXhpZXluN3NaVHNRMkt4QkQtbnNReDFTMzYxUDFRX3lqbmVqMGxFSjhKOXhxS0dR?oc=5",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "source": "DIGITIMES",
-      "category": "上游供應商",
-      "title": "AI帶旺NAND需求 三星、SK海力士為搶市急升級中國廠 - DIGITIMES",
-      "pubDate": "Wed, 22 Apr 2026 18:02:00 GMT"
-    },
-    {
-      "sentiment": "neutral",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNb0t1UzI4VkRiUGFpN01waVlvcUtjajJya1Nuc1hld1Nmczh2SUNVLUJMaUxwRnE1RmdEMG0tcllYMkZkb1FRVVUyeDdFdEFjN3BnUUl0Q19FZ29DZF8zU0lyQU8xdm9HY2RpME41d0tGYllVSWtjWkxkaWVFTGVqTWpBbzRudEJRYUpuaUFwaExhYlMxenFtSFM4bVBWRy1MMGFobVZ5a0dyaVN1ZEY0MUVWbVBsS212aG9hQmNQS1pJOG9LZlc3SHpXblpEVGExZVFWRnd1SE9DVUNlSkktUVdOdW43TS1ad2xsOWtBVnlBRUhCNmEwZG5oc2VyTWxjX2RfNmVSWlF5SXRvc2RadU1hRVNvYUFrLURlRFM1UWNONVA3aGI1RkRNeWFQQzdSdHRFMGNmZFFBeXhQODBWMTBEQjVlV0RuaEltTUo2UGdjYU50NEExOEktV2ZEbFZGU2o3cWdTNUhsYlk?oc=5",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxNb0t1UzI4VkRiUGFpN01waVlvcUtjajJya1Nuc1hld1Nmczh2SUNVLUJMaUxwRnE1RmdEMG0tcllYMkZkb1FRVVUyeDdFdEFjN3BnUUl0Q19FZ29DZF8zU0lyQU8xdm9HY2RpME41d0tGYllVSWtjWkxkaWVFTGVqTWpBbzRudEJRYUpuaUFwaExhY",
-      "fetchedAt": "2026-04-23T06:28:20.712Z",
-      "source": "電腦領域HKEPC Hardware",
-      "category": "創見資訊",
-      "title": "創見 X 麻豆傳媒 USB 隨身碟 內含 2TB 高清無碼影片 創見︰絕無此事 - 電腦領域HKEPC Hardware",
-      "pubDate": "Wed, 22 Apr 2026 08:42:37 GMT"
     }
   ]
 }

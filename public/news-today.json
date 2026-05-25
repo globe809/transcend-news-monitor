@@ -1,72 +1,72 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-24T03:27:54.719Z",
-  "generatedAtTW": "2026-05-24 11:27 台灣時間",
+  "generatedAt": "2026-05-25T03:38:58.433Z",
+  "generatedAtTW": "2026-05-25 11:38 台灣時間",
   "stats": {
     "total": 3,
-    "positive": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
+        "total": 2,
+        "positive": 1,
         "negative": 0,
         "neutral": 1
       },
       "上游供應商": {
-        "total": 2,
-        "positive": 2,
-        "negative": 0,
-        "neutral": 0
-      },
-      "競品": {
         "total": 0,
         "positive": 0,
         "negative": 0,
         "neutral": 0
+      },
+      "競品": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
       }
     },
     "trend": [
       {
-        "date": "2026-05-23",
-        "positive": 2,
+        "date": "2026-05-24",
+        "positive": 1,
         "negative": 0,
-        "neutral": 1,
+        "neutral": 2,
         "total": 3
       }
     ]
   },
   "news": [
     {
-      "title": "【即時新聞】華爾街大咖加碼美光(MU)與SanDisk(SNDK)！AI記憶體迎爆發，這2檔還能追嗎 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?oc=5",
-      "pubDate": "Sat, 23 May 2026 14:24:39 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWlIRVBoMDhHQ05obEtGSmJHTEVOUjVwa2gzM3JqOElYaVdGckpFTjJGTHd4cXRRc2duWXRrV2sxckJkS1FlWW5hMG9BcXlkUlhJMFd0WkI5aVNlSUVHT00weXBJczJuY25SVkFDUl94VGVMSW1WMGFiNHZPRHhaSWpvbUEtQU1xOVlGU2xDTkM?o",
-      "category": "上游供應商",
+      "title": "創見束崇萬：AI開創新時代 記憶體可能缺到2028年 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN2ZwRHFReWxFMVBJcnlSR1VPaVdsLUU4b1pDM1V3YTUyYktGcnRlak54V1VEWl9mTjdaZFpkUmtDQ0NKS19sMHlUVVl1VUVka3c3RUh3eGhOYmZDREFHNDR3dE1lT2gzNEFBQm5IT3B2N0g5U0Y0NWNMVGZ4dzc5cXFGU3dLSHpUdmxnNmlnRVUwUENGUmRrOWZWblhYanBQTG5KcnNDSnRxQ2lDNW9wQllJV1VBNjdTeVRmYlU?oc=5",
+      "pubDate": "Sun, 24 May 2026 13:09:00 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQaUpPWV9PTHNwX1Z6ekxON29EUHhocDJ3NEZSNUU2NkxTT1RhRnBDRnVqa3RCRklycTFMMW1zQ004VHlmNFc1aGlpVEo4YXAtVmFCakdjQ0NyVHMzYzZoYmMtV0RwZ294MWdpLWsyXzQ0djNRZVdHYmNpcmlQRG1sVVVXaTNzMTVRNG5CNm9ObW1jN",
+      "category": "創見資訊",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-24T03:27:54.719Z"
+      "fetchedAt": "2026-05-25T03:38:58.433Z"
     },
     {
-      "title": "AI記憶體大爆發：Micron與Sandisk點燃「兆級」晶片超級循環 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
-      "pubDate": "Sat, 23 May 2026 09:00:28 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThpd0hjYTdRelNSeTh0bmR3empzUUpSallEeHpKSW1uTkF6VHBpVFRBTmxHUHRVbnhOZUQ3OVlhaHIxSkhrRDRtRTA4cVNiQnR1UTRTVnpudE9EVWFKbC1COVRrLXpvREhZYzJQb0NpcjFUZ1lrb09ubjdxMk40Y2hHMGJMRzdzYUNydlpR?oc=5",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-24T03:27:54.719Z"
-    },
-    {
-      "title": "2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5",
-      "pubDate": "Sat, 23 May 2026 08:57:09 GMT",
+      "title": "2451 創見 - 創見股東會後續走勢受關注-股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vdnRiTmExNGw1VERMWGVjMEpXc3hLbXRXSnpVYmxCdFB3Y1NGclQ5aW1McThZcHV5eWhuUktfNnlxQlRVckdDLWhPZk9jUGlzV2FBODlUNnE?oc=5",
+      "pubDate": "Sun, 24 May 2026 09:45:35 GMT",
       "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RjA0U3FyMVF0MEJUNFNNSmlmZ2ROeVk2aVQwNXZYek1FS0pBY0JFVjlXWW5nVHY4QWdVbU5QN0lyX3Z0aS16TWtzMktndk1ROGl0V0ljU0s?oc=5\" target=\"_blank\"&gt;2451 創見 - 主力會怎樣玩創見股東會話題-股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vdnRiTmExNGw1VERMWGVjMEpXc3hLbXRXSnpVYmxCdFB3Y1NGclQ5aW1McThZcHV5eWhuUktfNnlxQlRVckdDLWhPZk9jUGlzV2FBODlUNnE?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見股東會後續走勢受關注-股市爆料同學會&lt;/a&gt;&amp;nbsp;&a",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-24T03:27:54.719Z"
+      "fetchedAt": "2026-05-25T03:38:58.433Z"
+    },
+    {
+      "title": "[業界新聞] SP廣穎電通以「InSPire with AI」亮相 COMPUTEX 2026 - XFastest",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LN1AwN1ZmSmFJUURnV2xkWmxKTjI0aGh1dG5meXQyblBEZVRhVmJycGdhdnVNTGZyRWIwRWY4Wi1kVl9XVXNZeDFDTzVNT3Ytd3VUWHg1cmNQZk0?oc=5",
+      "pubDate": "Sun, 24 May 2026 04:23:41 GMT",
+      "source": "XFastest",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LN1AwN1ZmSmFJUURnV2xkWmxKTjI0aGh1dG5meXQyblBEZVRhVmJycGdhdnVNTGZyRWIwRWY4Wi1kVl9XVXNZeDFDTzVNT3Ytd3VUWHg1cmNQZk0?oc=5\" target=\"_blank\"&gt;[業界新聞] SP廣穎電通以「InSPire with AI」亮相 COMPUTEX 2026&",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-25T03:38:58.433Z"
     }
   ]
 }

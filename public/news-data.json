@@ -1,188 +1,91 @@
 {
-  "fetchedAt": "2026-05-26T02:58:03.247Z",
-  "fetchedAtTW": "2026-05-26 10:58 台灣時間",
+  "fetchedAt": "2026-05-27T03:38:05.008Z",
+  "fetchedAtTW": "2026-05-27 11:38 台灣時間",
   "stats": {
-    "total": 14,
-    "positive": 6,
+    "total": 5,
+    "positive": 2,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 3,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1
-      },
-      "上游供應商": {
-        "total": 11,
-        "positive": 6,
-        "negative": 0,
-        "neutral": 5
-      },
-      "競品": {
         "total": 2,
         "positive": 0,
         "negative": 0,
         "neutral": 2
+      },
+      "上游供應商": {
+        "total": 2,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 1
+      },
+      "競品": {
+        "total": 1,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-05-25",
-        "positive": 6,
-        "negative": 0,
-        "neutral": 6,
-        "total": 12
-      },
-      {
         "date": "2026-05-26",
-        "positive": 0,
+        "positive": 2,
         "negative": 0,
-        "neutral": 2,
-        "total": 2
+        "neutral": 3,
+        "total": 5
       }
     ]
   },
   "news": [
     {
-      "title": "美光再示警記憶體缺貨恐一路燒至2026年後 HBM、DRAM、NAND全線吃緊 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2hZa09WN2hyZTFwV0xqWlpsUmR3a3Z0bFVBR0tMOVBIXzZvWnQtS0poS0dSUFViMXFJQ3BkOHpqODh5N3labVV3YmRDaWpnendmMGlTT2lyLVRHeTQyZjhIcGgxcFdaYnpIUmx0dWpKalRkNG1MZU1jQzhHUDhoTWVLNHpQWHhFTE5mZQ?oc=5",
-      "pubDate": "Tue, 26 May 2026 02:22:31 GMT",
-      "source": "PChome Online 新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2hZa09WN2hyZTFwV0xqWlpsUmR3a3Z0bFVBR0tMOVBIXzZvWnQtS0poS0dSUFViMXFJQ3BkOHpqODh5N3labVV3YmRDaWpnendmMGlTT2lyLVRHeTQyZjhIcGgxcFdaYnpIUmx0dWpKalRkNG1MZU1jQzhHUDhoTWVLNHpQWHhFTE5mZQ?oc=5\" ",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "三星傳率先實現900層V-NAND技術 千層NAND時代指日可待 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVEwNWpHbE94c0s4TlQ0UWNKeWNETHhnZnNJZGY3RFNXSXNjVnp6REpQeDA5M0ttRUR1R1JxWTdibFUzVkFYalFsWmZtU0I1cENJdnFoZUdzNlFFWFh2M3BpT3d6NThWeXFZZ0FGanVXajdBb1I0V25yMkwzbVFFTEhTMmFTUkIzU0VJTHpfUkpGSjNyLUlF?oc=5",
-      "pubDate": "Tue, 26 May 2026 01:56:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVEwNWpHbE94c0s4TlQ0UWNKeWNETHhnZnNJZGY3RFNXSXNjVnp6REpQeDA5M0ttRUR1R1JxWTdibFUzVkFYalFsWmZtU0I1cENJdnFoZUdzNlFFWFh2M3BpT3d6NThWeXFZZ0FGanVXajdBb1I0V25yMkwzbVFFTEhTMmFTUkIzU0VJTHpfUkpGS",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "美光親證：HBM/NAND/DRAM狂缺今年過後也難解- 新聞 - MoneyDJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd08tUTFMbkhEa3FIVmVRLVdERTFZNnRPcW5LSDBFdjFCV3R0QUx2Nzk5cldiYkR5cHFvZkxWQjFRbGk0TXhRRFFfOVJkeEJqaWJYZ3FJTVpMUVBud0JKcU43UFAwRkRVeWtLR21XeDZXRVJ1dnkyTlIxTXBLaE5rWUxQSm1uVXl6R1c4dXpVd3kyQQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 23:53:00 GMT",
-      "source": "MoneyDJ",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQd08tUTFMbkhEa3FIVmVRLVdERTFZNnRPcW5LSDBFdjFCV3R0QUx2Nzk5cldiYkR5cHFvZkxWQjFRbGk0TXhRRFFfOVJkeEJqaWJYZ3FJTVpMUVBud0JKcU43UFAwRkRVeWtLR21XeDZXRVJ1dnkyTlIxTXBLaE5rWUxQSm1uVXl6R1c4dXpVd3kyQ",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "HBM、DRAM和NAND產能跟不上AI需求！美光：記憶體荒將持續到2026年後 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9heWowRWVUbTR6VXhEdlM1aFhoUU1EVjZRc01nUFRMeFNuTmt0c21uNjRCTU5SWklQQ2Zxa09aQjBja1ZIX0dZWFVwUHRWaGs?oc=5",
-      "pubDate": "Mon, 25 May 2026 22:50:08 GMT",
-      "source": "news.cnyes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9heWowRWVUbTR6VXhEdlM1aFhoUU1EVjZRc01nUFRMeFNuTmt0c21uNjRCTU5SWklQQ2Zxa09aQjBja1ZIX0dZWFVwUHRWaGs?oc=5\" target=\"_blank\"&gt;HBM、DRAM和NAND產能跟不上AI需求！美光：記憶體荒將持續到2026年後&lt;/a&gt;&amp;nbsp;&amp",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "NAND Flash五巨頭Q1營收飆- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zTE1JUldGZnNJVUNlUWxHV1k5bHM2Y0xqQTR2NU5DVHljMWQ0ckJWUHRVNUZDQzJqdzhaOXg0NFphbnZDVnlYLUhuUU5KUWp5RzVSNTVqbmVGMG9JTWRn?oc=5",
-      "pubDate": "Mon, 25 May 2026 19:00:00 GMT",
-      "source": "工商時報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zTE1JUldGZnNJVUNlUWxHV1k5bHM2Y0xqQTR2NU5DVHljMWQ0ckJWUHRVNUZDQzJqdzhaOXg0NFphbnZDVnlYLUhuUU5KUWp5RzVSNTVqbmVGMG9JTWRn?oc=5\" target=\"_blank\"&gt;NAND Flash五巨頭Q1營收飆- 日報&lt;/a&gt;&amp;nbsp;&",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "三星記憶體大補丸 半導體設備子公司SEMES獲利暴增106% - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3VScENpNHAyT3ZsX1FZdVBCTTZhYnU5VnppUmt3eFp3YTdnYi1rNjVIQXhmVzEwdFVEUk9XNnJXTlcxdUJBRUNtSGZmLTVsblljVldaUVNaYjFfWGhqLW1zOVZqN3d4S0o5bnJ5MmFtVTlCeEJNb19nZnRVTnRNazl5MHRCbzlnTzFiRWYzZEJ5U3RJUkx4ZQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 18:30:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3VScENpNHAyT3ZsX1FZdVBCTTZhYnU5VnppUmt3eFp3YTdnYi1rNjVIQXhmVzEwdFVEUk9XNnJXTlcxdUJBRUNtSGZmLTVsblljVldaUVNaYjFfWGhqLW1zOVZqN3d4S0o5bnJ5MmFtVTlCeEJNb19nZnRVTnRNazl5MHRCbzlnTzFiRWYzZEJ5U",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "看好記憶體市況、標普調升評等 鎧俠飆歷史高 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWNTQ0pQMmNlNzNCZzZQMXdYQjMzeU5QUzFGbElRc2toaWxwOWh1UUJYVkNnT0xFY3JyQjFPUTRxT3hKbGNSTy1BcjdKNU56WElvbUdXVWNtSmJSSGRLYXRMcDVfX0Y5bnVwX0tQWFpkYmxTRVQyVmN6TC1fVmF1MU52UHFsOWlvdTVPdnlyQVhkSEdLeU1YazZ3bWZZLWFsejE3dDdfdHVPY2xjall0enlOaw?oc=5",
-      "pubDate": "Mon, 25 May 2026 13:49:38 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWNTQ0pQMmNlNzNCZzZQMXdYQjMzeU5QUzFGbElRc2toaWxwOWh1UUJYVkNnT0xFY3JyQjFPUTRxT3hKbGNSTy1BcjdKNU56WElvbUdXVWNtSmJSSGRLYXRMcDVfX0Y5bnVwX0tQWFpkYmxTRVQyVmN6TC1fVmF1MU52UHFsOWlvdTVPdnlyQVhkS",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
       "title": "0,2451 | ADAUSDT U 本位永續表格 | 幣安合約 - Binance",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zY0EyODNPNzd6NzFHYmR1X0pfZFZWSnFYcFpBbl92UTNQSC1ZRTliSGw4aEJ2N0ZpeExVeGl3QkVFTjZfTFE4M2FOMW1MN2MyUlV4Ry1PN2JuTHNwUndwbVduTU5oaDhEbG9zTDNxYm9jSnJsdVZUOUp3QQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 10:17:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEWEJLR3Q1TU53Y0w2THd4Tm8xTG1qX3dqRzZlQzVMMXV6VkVPMW1GR25FSWNVQ3ItNGQ0b0QtenAxMkxQNkl2cmJhb3lxXzlhODZTaEQteTFTazQ5eVdXQTdQdWZIdExmYktrTUFuQzlQRHZqNXNBTjVR?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:22:00 GMT",
       "source": "Binance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0zY0EyODNPNzd6NzFHYmR1X0pfZFZWSnFYcFpBbl92UTNQSC1ZRTliSGw4aEJ2N0ZpeExVeGl3QkVFTjZfTFE4M2FOMW1MN2MyUlV4Ry1PN2JuTHNwUndwbVduTU5oaDhEbG9zTDNxYm9jSnJsdVZUOUp3QQ?oc=5\" target=\"_blank\"&gt;0,245",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBEWEJLR3Q1TU53Y0w2THd4Tm8xTG1qX3dqRzZlQzVMMXV6VkVPMW1GR25FSWNVQ3ItNGQ0b0QtenAxMkxQNkl2cmJhb3lxXzlhODZTaEQteTFTazQ5eVdXQTdQdWZIdExmYktrTUFuQzlQRHZqNXNBTjVR?oc=5\" target=\"_blank\"&gt;0,2451 ",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
+      "fetchedAt": "2026-05-27T03:38:05.008Z"
     },
     {
-      "title": "展現全方位智慧應用版圖！ADATA COMPUTEX 2026 開創 AI 新動能 - UNIKO's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80RVpDb1hWTlJWNFAtaWJsZ3FVVWVFdUtGN1Npa1dPeGJxanM0Sk5RdkVwYTFLN0pzYnBLZ0Vuc2ZZTlVST2NfUlRvRHNVaWtHZ0xpdUFya0ZudmpDZmRES05sWHhmYUVJOHpIa0VVZC1nbjg5RGtmMHZB?oc=5",
-      "pubDate": "Mon, 25 May 2026 10:04:06 GMT",
-      "source": "UNIKO's Hardware",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE80RVpDb1hWTlJWNFAtaWJsZ3FVVWVFdUtGN1Npa1dPeGJxanM0Sk5RdkVwYTFLN0pzYnBLZ0Vuc2ZZTlVST2NfUlRvRHNVaWtHZ0xpdUFya0ZudmpDZmRES05sWHhmYUVJOHpIa0VVZC1nbjg5RGtmMHZB?oc=5\" target=\"_blank\"&gt;展現全方位智慧",
+      "title": "創見前進COMPUTEX 2026 展示AI運算儲存解決方案 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlkZ0ltQlN0UXBuZFdQU2ZpaVl5NXNNbVNmNzdWQklFM05fNjl5aGxxeEo3LUtfSGljWF9najZoOERjaEkyNmhidkoxSFpUQk10WW9kTTBfS0RCWElqMjNUVDYzRGlUSVJMOXNzaU0wRTRPUExjWWowUmozRHlmVzRQTktGMHJBRTIxeDd1cV92SVdMbDltVA?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:52:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlkZ0ltQlN0UXBuZFdQU2ZpaVl5NXNNbVNmNzdWQklFM05fNjl5aGxxeEo3LUtfSGljWF9najZoOERjaEkyNmhidkoxSFpUQk10WW9kTTBfS0RCWElqMjNUVDYzRGlUSVJMOXNzaU0wRTRPUExjWWowUmozRHlmVzRQTktGMHJBRTIxeDd1cV92S",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-27T03:38:05.008Z"
+    },
+    {
+      "title": "供不應求激勵價格成長，1Q26 全球前五大 NAND Flash 品牌合計營收季增 83.7% - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUVra2I4eGNQM0xMWWtpX3lmclZmQktZdmtBSExQbm9EZ1VnV0hOUzdNSU9MTEFYa0lYN2xvYVdKUVZJdXBoaVhSMGt6YjNLYV9sV3dSVmVpOU5vZ25LVEExaVAyNFNmTkM3dlFxWmJnSGRJcHVFd1Q1R3NSRHoybnA5bE9pYkJkSHBveHdWcFYtUnlYTmR3VmlDdnlQYTJ1dWJPempOb2JSbC1PTlRYeg?oc=5",
+      "pubDate": "Tue, 26 May 2026 06:00:30 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUVra2I4eGNQM0xMWWtpX3lmclZmQktZdmtBSExQbm9EZ1VnV0hOUzdNSU9MTEFYa0lYN2xvYVdKUVZJdXBoaVhSMGt6YjNLYV9sV3dSVmVpOU5vZ25LVEExaVAyNFNmTkM3dlFxWmJnSGRJcHVFd1Q1R3NSRHoybnA5bE9pYkJkSHBveHdWcFYtU",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-05-27T03:38:05.008Z"
+    },
+    {
+      "title": "記憶體漲價逼品牌轉向！Samsung穩坐龍頭、TCL急追| 財經 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZjBDWGZJRVNUc1o2MG1YZmV3VHlkUF9fcDlUUUkwd0pYLWplMnl0UmxYMGRUYkx3bGlES0E4QU1nNTJnY0lJb0txU09ONW11Sksyd3NXZkZUX2c?oc=5",
+      "pubDate": "Tue, 26 May 2026 05:10:55 GMT",
+      "source": "Newtalk新聞",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZjBDWGZJRVNUc1o2MG1YZmV3VHlkUF9fcDlUUUkwd0pYLWplMnl0UmxYMGRUYkx3bGlES0E4QU1nNTJnY0lJb0txU09ONW11Sksyd3NXZkZUX2c?oc=5\" target=\"_blank\"&gt;記憶體漲價逼品牌轉向！Samsung穩坐龍頭、TCL急追| 財經&lt;/a&gt;&amp;n",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-27T03:38:05.008Z"
+    },
+    {
+      "title": "SP 廣穎電通推出XPOWER Cyclone R DDR5 電競記憶體打造高效能玩家體驗及完整電競生態圈 - 蕃新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Val91eExQMmRFamJ4SVlEZkRzQWNVaEk1U0NuVUxXc0dCSld2N3RvSGkyT2N1WnF4ODF3d0dSUE00LXVZdVRFUjBBODA0cmNGVnc?oc=5",
+      "pubDate": "Tue, 26 May 2026 03:53:00 GMT",
+      "source": "蕃新聞",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Val91eExQMmRFamJ4SVlEZkRzQWNVaEk1U0NuVUxXc0dCSld2N3RvSGkyT2N1WnF4ODF3d0dSUE00LXVZdVRFUjBBODA0cmNGVnc?oc=5\" target=\"_blank\"&gt;SP 廣穎電通推出XPOWER Cyclone R DDR5 電競記憶體打造高效能玩家體驗及完整電競生態圈&lt;/a&",
       "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "第一季度全球前五大NAND Flash品牌合計營收季增83.7% 三星穩居龍頭 - hstong.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MZkVpMlhfMlRYNjduc0JjVy0ydzdKaWF6cUV6MG8xODJ0N3FtYnFpdnV0YWxoMmV1WXR3dS1CdTFxVHM3dDQ2ZjI3SUJhcnp2aHFjbDRMdVJtSndrZldXbzdlODcyQQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 08:52:59 GMT",
-      "source": "hstong.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MZkVpMlhfMlRYNjduc0JjVy0ydzdKaWF6cUV6MG8xODJ0N3FtYnFpdnV0YWxoMmV1WXR3dS1CdTFxVHM3dDQ2ZjI3SUJhcnp2aHFjbDRMdVJtSndrZldXbzdlODcyQQ?oc=5\" target=\"_blank\"&gt;第一季度全球前五大NAND Flash品牌合計營收季增83.7% ",
-      "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "供不應求賺翻了！ 全球五大 NAND Flash 大廠合計營收季增 83.7％ - 緯來新聞網",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2hUUnhFcnlLZmFYNG42UXRFLWNzb21udlQ2dzF0dmNGUVFpcVdtVDdfSlVmR04wMUZEQW9wNkxXRFoyUUZXV1p5eDJyd1o2Y1d3dE9hRDRrdWw5UjhFM19BRWJxMHVMaDJJWE0tdERUcExNU0k1dWZ5R1JidFNTUW90M0tUZw?oc=5",
-      "pubDate": "Mon, 25 May 2026 08:45:00 GMT",
-      "source": "緯來新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2hUUnhFcnlLZmFYNG42UXRFLWNzb21udlQ2dzF0dmNGUVFpcVdtVDdfSlVmR04wMUZEQW9wNkxXRFoyUUZXV1p5eDJyd1o2Y1d3dE9hRDRrdWw5UjhFM19BRWJxMHVMaDJJWE0tdERUcExNU0k1dWZ5R1JidFNTUW90M0tUZw?oc=5\" target=\"",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "全球首季NAND Flash營收暴增逾8成 TrendForce：三星穩坐龍頭- 上市櫃 - 旺得富理財網",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XX2tVTEN6bndWeUVwdlhtNUJYamxURkxtUzgxSzRwQkZhLVpQZ1daRGFOT0sxOElkWGp5MHFnc0ZUWkdPUzFpVFg4Tzd2T3piTGs1cjk4aEhlNDFqTWYwTUdmNjhZQnhrVGc?oc=5",
-      "pubDate": "Mon, 25 May 2026 07:30:29 GMT",
-      "source": "旺得富理財網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1XX2tVTEN6bndWeUVwdlhtNUJYamxURkxtUzgxSzRwQkZhLVpQZ1daRGFOT0sxOElkWGp5MHFnc0ZUWkdPUzFpVFg4Tzd2T3piTGs1cjk4aEhlNDFqTWYwTUdmNjhZQnhrVGc?oc=5\" target=\"_blank\"&gt;全球首季NAND Flash營收暴增逾8成 TrendF",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "搶先三星、SK！鎧俠拋出332層快閃記憶體BiCS10量產時程 技術+財測優勢獲大摩列首選 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU1pjZ2FWN2VwVzdWMmZfNFR1ZF9UZ01uSjlweWlOT1U4LW81SUdIMVh1T0UtdWd4akVzUW9tSXUybG5DSmZaRkx2ZVp4Mnc?oc=5",
-      "pubDate": "Mon, 25 May 2026 05:00:04 GMT",
-      "source": "news.cnyes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU1pjZ2FWN2VwVzdWMmZfNFR1ZF9UZ01uSjlweWlOT1U4LW81SUdIMVh1T0UtdWd4akVzUW9tSXUybG5DSmZaRkx2ZVp4Mnc?oc=5\" target=\"_blank\"&gt;搶先三星、SK！鎧俠拋出332層快閃記憶體BiCS10量產時程 技術+財測優勢獲大摩列首選&lt;/a&gt;&amp;nbsp",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
-    },
-    {
-      "title": "宜鼎國際教育基金會 結合企業學校與社區的新教育體系 | 永續影響力焦點 | 商情 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMVpVOUVXTTRjSEtPLWxhT0FxRjZjVDV1VjhaYXljZTRRSFpSOUhHQ0V4MTNaYXB4N1M4eE9WUXJaelBTTVZMTkFkeV9xRWdERXBOM1E4bG04Y3RV?oc=5",
-      "pubDate": "Mon, 25 May 2026 03:46:16 GMT",
-      "source": "經濟日報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMVpVOUVXTTRjSEtPLWxhT0FxRjZjVDV1VjhaYXljZTRRSFpSOUhHQ0V4MTNaYXB4N1M4eE9WUXJaelBTTVZMTkFkeV9xRWdERXBOM1E4bG04Y3RV?oc=5\" target=\"_blank\"&gt;宜鼎國際教育基金會 結合企業學校與社區的新教育體系 | 永續影響力焦點 | 商情&lt;/a&",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-26T02:58:03.247Z"
+      "fetchedAt": "2026-05-27T03:38:05.008Z"
     }
   ]
 }

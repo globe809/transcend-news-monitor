@@ -1,92 +1,62 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-27T03:38:05.008Z",
-  "generatedAtTW": "2026-05-27 11:38 台灣時間",
+  "generatedAt": "2026-05-28T02:57:27.630Z",
+  "generatedAtTW": "2026-05-28 10:57 台灣時間",
   "stats": {
-    "total": 5,
-    "positive": 2,
+    "total": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 3,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
+        "total": 1,
         "positive": 0,
-        "negative": 0,
-        "neutral": 2
-      },
-      "上游供應商": {
-        "total": 2,
-        "positive": 1,
         "negative": 0,
         "neutral": 1
       },
-      "競品": {
+      "上游供應商": {
         "total": 1,
         "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-05-26",
-        "positive": 2,
+        "date": "2026-05-27",
+        "positive": 1,
         "negative": 0,
-        "neutral": 3,
-        "total": 5
+        "neutral": 1,
+        "total": 2
       }
     ]
   },
   "news": [
     {
-      "title": "0,2451 | ADAUSDT U 本位永續表格 | 幣安合約 - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEWEJLR3Q1TU53Y0w2THd4Tm8xTG1qX3dqRzZlQzVMMXV6VkVPMW1GR25FSWNVQ3ItNGQ0b0QtenAxMkxQNkl2cmJhb3lxXzlhODZTaEQteTFTazQ5eVdXQTdQdWZIdExmYktrTUFuQzlQRHZqNXNBTjVR?oc=5",
-      "pubDate": "Tue, 26 May 2026 14:22:00 GMT",
-      "source": "Binance",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBEWEJLR3Q1TU53Y0w2THd4Tm8xTG1qX3dqRzZlQzVMMXV6VkVPMW1GR25FSWNVQ3ItNGQ0b0QtenAxMkxQNkl2cmJhb3lxXzlhODZTaEQteTFTazQ5eVdXQTdQdWZIdExmYktrTUFuQzlQRHZqNXNBTjVR?oc=5\" target=\"_blank\"&gt;0,2451 ",
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Wed, 27 May 2026 22:30:29 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-27T03:38:05.008Z"
+      "fetchedAt": "2026-05-28T02:57:27.630Z"
     },
     {
-      "title": "創見前進COMPUTEX 2026 展示AI運算儲存解決方案 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlkZ0ltQlN0UXBuZFdQU2ZpaVl5NXNNbVNmNzdWQklFM05fNjl5aGxxeEo3LUtfSGljWF9najZoOERjaEkyNmhidkoxSFpUQk10WW9kTTBfS0RCWElqMjNUVDYzRGlUSVJMOXNzaU0wRTRPUExjWWowUmozRHlmVzRQTktGMHJBRTIxeDd1cV92SVdMbDltVA?oc=5",
-      "pubDate": "Tue, 26 May 2026 08:52:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFlkZ0ltQlN0UXBuZFdQU2ZpaVl5NXNNbVNmNzdWQklFM05fNjl5aGxxeEo3LUtfSGljWF9najZoOERjaEkyNmhidkoxSFpUQk10WW9kTTBfS0RCWElqMjNUVDYzRGlUSVJMOXNzaU0wRTRPUExjWWowUmozRHlmVzRQTktGMHJBRTIxeDd1cV92S",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-27T03:38:05.008Z"
-    },
-    {
-      "title": "供不應求激勵價格成長，1Q26 全球前五大 NAND Flash 品牌合計營收季增 83.7% - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUVra2I4eGNQM0xMWWtpX3lmclZmQktZdmtBSExQbm9EZ1VnV0hOUzdNSU9MTEFYa0lYN2xvYVdKUVZJdXBoaVhSMGt6YjNLYV9sV3dSVmVpOU5vZ25LVEExaVAyNFNmTkM3dlFxWmJnSGRJcHVFd1Q1R3NSRHoybnA5bE9pYkJkSHBveHdWcFYtUnlYTmR3VmlDdnlQYTJ1dWJPempOb2JSbC1PTlRYeg?oc=5",
-      "pubDate": "Tue, 26 May 2026 06:00:30 GMT",
+      "title": "路透：三星擬在越南投資逾 400 億元，興建晶片測試廠 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRlTjVTSDFkM29Ocjg5djVtMi1ua09yMkRuZG9OTWltR3Q1bVFVd3o1bzVjVF9ZUzlNZGRsUkF2S19WWmdjdnVleG1vSE1peGo4NnBQRTZab0hNWURqeHhnNE01MGFadGM1SlBhaGR5SEpSQ0lOd0xPeEtoYjdhQnNtOXdvamV3RnBDanNSWlk?oc=5",
+      "pubDate": "Wed, 27 May 2026 06:00:22 GMT",
       "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUVra2I4eGNQM0xMWWtpX3lmclZmQktZdmtBSExQbm9EZ1VnV0hOUzdNSU9MTEFYa0lYN2xvYVdKUVZJdXBoaVhSMGt6YjNLYV9sV3dSVmVpOU5vZ25LVEExaVAyNFNmTkM3dlFxWmJnSGRJcHVFd1Q1R3NSRHoybnA5bE9pYkJkSHBveHdWcFYtU",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRlTjVTSDFkM29Ocjg5djVtMi1ua09yMkRuZG9OTWltR3Q1bVFVd3o1bzVjVF9ZUzlNZGRsUkF2S19WWmdjdnVleG1vSE1peGo4NnBQRTZab0hNWURqeHhnNE01MGFadGM1SlBhaGR5SEpSQ0lOd0xPeEtoYjdhQnNtOXdvamV3RnBDanNSWlk?o",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-05-27T03:38:05.008Z"
-    },
-    {
-      "title": "記憶體漲價逼品牌轉向！Samsung穩坐龍頭、TCL急追| 財經 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZjBDWGZJRVNUc1o2MG1YZmV3VHlkUF9fcDlUUUkwd0pYLWplMnl0UmxYMGRUYkx3bGlES0E4QU1nNTJnY0lJb0txU09ONW11Sksyd3NXZkZUX2c?oc=5",
-      "pubDate": "Tue, 26 May 2026 05:10:55 GMT",
-      "source": "Newtalk新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZjBDWGZJRVNUc1o2MG1YZmV3VHlkUF9fcDlUUUkwd0pYLWplMnl0UmxYMGRUYkx3bGlES0E4QU1nNTJnY0lJb0txU09ONW11Sksyd3NXZkZUX2c?oc=5\" target=\"_blank\"&gt;記憶體漲價逼品牌轉向！Samsung穩坐龍頭、TCL急追| 財經&lt;/a&gt;&amp;n",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-27T03:38:05.008Z"
-    },
-    {
-      "title": "SP 廣穎電通推出XPOWER Cyclone R DDR5 電競記憶體打造高效能玩家體驗及完整電競生態圈 - 蕃新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Val91eExQMmRFamJ4SVlEZkRzQWNVaEk1U0NuVUxXc0dCSld2N3RvSGkyT2N1WnF4ODF3d0dSUE00LXVZdVRFUjBBODA0cmNGVnc?oc=5",
-      "pubDate": "Tue, 26 May 2026 03:53:00 GMT",
-      "source": "蕃新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Val91eExQMmRFamJ4SVlEZkRzQWNVaEk1U0NuVUxXc0dCSld2N3RvSGkyT2N1WnF4ODF3d0dSUE00LXVZdVRFUjBBODA0cmNGVnc?oc=5\" target=\"_blank\"&gt;SP 廣穎電通推出XPOWER Cyclone R DDR5 電競記憶體打造高效能玩家體驗及完整電競生態圈&lt;/a&",
-      "category": "競品",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-27T03:38:05.008Z"
+      "fetchedAt": "2026-05-28T02:57:27.630Z"
     }
   ]
 }

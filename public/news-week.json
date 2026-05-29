@@ -1,62 +1,62 @@
 {
   "period": "week",
-  "generatedAt": "2026-05-28T02:57:27.630Z",
-  "generatedAtTW": "2026-05-28 10:57 台灣時間",
+  "generatedAt": "2026-05-29T03:26:49.637Z",
+  "generatedAtTW": "2026-05-29 11:26 台灣時間",
   "stats": {
     "total": 2,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "上游供應商": {
         "total": 1,
         "positive": 0,
         "negative": 0,
         "neutral": 1
       },
-      "上游供應商": {
-        "total": 1,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 0
-      },
       "競品": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       }
     },
     "trend": [
       {
-        "date": "2026-05-27",
-        "positive": 1,
+        "date": "2026-05-28",
+        "positive": 0,
         "negative": 0,
-        "neutral": 1,
+        "neutral": 2,
         "total": 2
       }
     ]
   },
   "news": [
     {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Wed, 27 May 2026 22:30:29 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
+      "title": "宜鼎參展COMPUTEX 2026 展示邊緣AI五層關鍵架構解決方案 - mem.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVi1UVWU2ZnpQbnJnVzBTOWRSRHNfb1lNblZXQWpCeWtWa2o5QTkwRHVha1hQcmlHcFc0WVRHV2NEemMwTlM2eDRSX1EwSkUzcDlEdHNNRHotSXFNV2YyeUZzbEdZNUpaRDFNWWNCVnRicXh3bG1xMjA1c2RJRmE2SHJXd0pnN21rZU92VVdjc2VKUzRIOEtkQVVIdXgxU2dVdzlkQXFscXRKOUFlbkR6cGZVWTB4WVlpU0xOdUpzdVV6bmRZb2dfazNMVmtNZ0k3b1h1dTQwWjU5QmVENlkwWHg5U1NUemFTTWNrTkNBNzRZV0tqZ0g3UDdXNW9RSTF3bFRvWHNsUjZDekxqVzFnRGhOVzlpZnpUNi01d0FfMHdwUzAzNy1Nd1NtcGRRVDl2TTY1VQ?oc=5",
+      "pubDate": "Thu, 28 May 2026 05:46:32 GMT",
+      "source": "mem.com.tw",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPVi1UVWU2ZnpQbnJnVzBTOWRSRHNfb1lNblZXQWpCeWtWa2o5QTkwRHVha1hQcmlHcFc0WVRHV2NEemMwTlM2eDRSX1EwSkUzcDlEdHNNRHotSXFNV2YyeUZzbEdZNUpaRDFNWWNCVnRicXh3bG1xMjA1c2RJRmE2SHJXd0pnN21rZU92VVdjc2VKU",
+      "category": "競品",
       "sentiment": "neutral",
-      "fetchedAt": "2026-05-28T02:57:27.630Z"
+      "fetchedAt": "2026-05-29T03:26:49.637Z"
     },
     {
-      "title": "路透：三星擬在越南投資逾 400 億元，興建晶片測試廠 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRlTjVTSDFkM29Ocjg5djVtMi1ua09yMkRuZG9OTWltR3Q1bVFVd3o1bzVjVF9ZUzlNZGRsUkF2S19WWmdjdnVleG1vSE1peGo4NnBQRTZab0hNWURqeHhnNE01MGFadGM1SlBhaGR5SEpSQ0lOd0xPeEtoYjdhQnNtOXdvamV3RnBDanNSWlk?oc=5",
-      "pubDate": "Wed, 27 May 2026 06:00:22 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFRlTjVTSDFkM29Ocjg5djVtMi1ua09yMkRuZG9OTWltR3Q1bVFVd3o1bzVjVF9ZUzlNZGRsUkF2S19WWmdjdnVleG1vSE1peGo4NnBQRTZab0hNWURqeHhnNE01MGFadGM1SlBhaGR5SEpSQ0lOd0xPeEtoYjdhQnNtOXdvamV3RnBDanNSWlk?o",
+      "title": "「變身」HBF NAND與HBM組成黃金搭檔 - 電子工程專輯",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWZ3X2xoNm5MdTVKaVVkdmNzLXE1UWZjQ1Q1ci1sdjNzcTBFQ2JOWFZvblBSYXE5MnFqVEdJNXFOQnRuTFVxOW4wd2NIMzh1bXVScGkzeFE5T1hTTUJhOUY4QjA5NWc3MTRkRXZ4NWplMlJiUTVpOGc0dGZTcnV4YklOUWoyY1hWTGNYM3FEVmRlWldPdHRNZ1k3R3lDZw?oc=5",
+      "pubDate": "Thu, 28 May 2026 04:01:18 GMT",
+      "source": "電子工程專輯",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMWZ3X2xoNm5MdTVKaVVkdmNzLXE1UWZjQ1Q1ci1sdjNzcTBFQ2JOWFZvblBSYXE5MnFqVEdJNXFOQnRuTFVxOW4wd2NIMzh1bXVScGkzeFE5T1hTTUJhOUY4QjA5NWc3MTRkRXZ4NWplMlJiUTVpOGc0dGZTcnV4YklOUWoyY1hWTGNYM3FEVmRlW",
       "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-05-28T02:57:27.630Z"
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-29T03:26:49.637Z"
     }
   ]
 }

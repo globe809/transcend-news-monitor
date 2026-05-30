@@ -1,12 +1,12 @@
 {
   "period": "month",
-  "generatedAt": "2026-05-29T03:26:49.637Z",
-  "generatedAtTW": "2026-05-29 11:26 台灣時間",
+  "generatedAt": "2026-05-30T02:53:55.336Z",
+  "generatedAtTW": "2026-05-30 10:53 台灣時間",
   "stats": {
-    "total": 2,
+    "total": 0,
     "positive": 0,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -15,48 +15,19 @@
         "neutral": 0
       },
       "上游供應商": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "競品": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       }
     },
-    "trend": [
-      {
-        "date": "2026-05-28",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 2,
-        "total": 2
-      }
-    ]
+    "trend": []
   },
-  "news": [
-    {
-      "title": "宜鼎參展COMPUTEX 2026 展示邊緣AI五層關鍵架構解決方案 - mem.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVi1UVWU2ZnpQbnJnVzBTOWRSRHNfb1lNblZXQWpCeWtWa2o5QTkwRHVha1hQcmlHcFc0WVRHV2NEemMwTlM2eDRSX1EwSkUzcDlEdHNNRHotSXFNV2YyeUZzbEdZNUpaRDFNWWNCVnRicXh3bG1xMjA1c2RJRmE2SHJXd0pnN21rZU92VVdjc2VKUzRIOEtkQVVIdXgxU2dVdzlkQXFscXRKOUFlbkR6cGZVWTB4WVlpU0xOdUpzdVV6bmRZb2dfazNMVmtNZ0k3b1h1dTQwWjU5QmVENlkwWHg5U1NUemFTTWNrTkNBNzRZV0tqZ0g3UDdXNW9RSTF3bFRvWHNsUjZDekxqVzFnRGhOVzlpZnpUNi01d0FfMHdwUzAzNy1Nd1NtcGRRVDl2TTY1VQ?oc=5",
-      "pubDate": "Thu, 28 May 2026 05:46:32 GMT",
-      "source": "mem.com.tw",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPVi1UVWU2ZnpQbnJnVzBTOWRSRHNfb1lNblZXQWpCeWtWa2o5QTkwRHVha1hQcmlHcFc0WVRHV2NEemMwTlM2eDRSX1EwSkUzcDlEdHNNRHotSXFNV2YyeUZzbEdZNUpaRDFNWWNCVnRicXh3bG1xMjA1c2RJRmE2SHJXd0pnN21rZU92VVdjc2VKU",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-29T03:26:49.637Z"
-    },
-    {
-      "title": "「變身」HBF NAND與HBM組成黃金搭檔 - 電子工程專輯",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWZ3X2xoNm5MdTVKaVVkdmNzLXE1UWZjQ1Q1ci1sdjNzcTBFQ2JOWFZvblBSYXE5MnFqVEdJNXFOQnRuTFVxOW4wd2NIMzh1bXVScGkzeFE5T1hTTUJhOUY4QjA5NWc3MTRkRXZ4NWplMlJiUTVpOGc0dGZTcnV4YklOUWoyY1hWTGNYM3FEVmRlWldPdHRNZ1k3R3lDZw?oc=5",
-      "pubDate": "Thu, 28 May 2026 04:01:18 GMT",
-      "source": "電子工程專輯",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMWZ3X2xoNm5MdTVKaVVkdmNzLXE1UWZjQ1Q1ci1sdjNzcTBFQ2JOWFZvblBSYXE5MnFqVEdJNXFOQnRuTFVxOW4wd2NIMzh1bXVScGkzeFE5T1hTTUJhOUY4QjA5NWc3MTRkRXZ4NWplMlJiUTVpOGc0dGZTcnV4YklOUWoyY1hWTGNYM3FEVmRlW",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-29T03:26:49.637Z"
-    }
-  ]
+  "news": []
 }

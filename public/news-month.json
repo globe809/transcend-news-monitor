@@ -1,12 +1,12 @@
 {
   "period": "month",
-  "generatedAt": "2026-05-30T02:53:55.336Z",
-  "generatedAtTW": "2026-05-30 10:53 台灣時間",
+  "generatedAt": "2026-05-31T03:39:28.387Z",
+  "generatedAtTW": "2026-05-31 11:39 台灣時間",
   "stats": {
-    "total": 0,
+    "total": 1,
     "positive": 0,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -15,10 +15,10 @@
         "neutral": 0
       },
       "上游供應商": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
         "total": 0,
@@ -27,7 +27,26 @@
         "neutral": 0
       }
     },
-    "trend": []
+    "trend": [
+      {
+        "date": "2026-05-30",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
+      }
+    ]
   },
-  "news": []
+  "news": [
+    {
+      "title": "摩天目標！5星分析師喊SanDisk衝1,825美元，NAND緊缺與Agentic AI成行情起手式 - forecastock.tw",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZERBNVhrMXNzdmJwZm5WYnRDSG5tZTNqUmxBblRRWldkcEhnTXMzeV9uLThZMjFlb19zNHRoWktkeFRmdTFiOHlUWDlnRFR4bTJQWGN1VHNCNUc1REdwLW9TYzBJZmMwakFSQXJpWWc5ZlBNRDRNMGk2NGhtVW41Z0RrVVB6NGw0OGllNWZtZGItbW9a?oc=5",
+      "pubDate": "Sat, 30 May 2026 04:06:56 GMT",
+      "source": "forecastock.tw",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZERBNVhrMXNzdmJwZm5WYnRDSG5tZTNqUmxBblRRWldkcEhnTXMzeV9uLThZMjFlb19zNHRoWktkeFRmdTFiOHlUWDlnRFR4bTJQWGN1VHNCNUc1REdwLW9TYzBJZmMwakFSQXJpWWc5ZlBNRDRNMGk2NGhtVW41Z0RrVVB6NGw0OGllNWZtZGItb",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-05-31T03:39:28.387Z"
+    }
+  ]
 }

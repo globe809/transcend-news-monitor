@@ -1,12 +1,12 @@
 {
   "period": "today",
-  "generatedAt": "2026-05-31T03:39:28.387Z",
-  "generatedAtTW": "2026-05-31 11:39 台灣時間",
+  "generatedAt": "2026-06-01T03:54:11.963Z",
+  "generatedAtTW": "2026-06-01 11:54 台灣時間",
   "stats": {
     "total": 1,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -16,9 +16,9 @@
       },
       "上游供應商": {
         "total": 1,
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "競品": {
         "total": 0,
@@ -29,24 +29,24 @@
     },
     "trend": [
       {
-        "date": "2026-05-30",
-        "positive": 0,
+        "date": "2026-06-01",
+        "positive": 1,
         "negative": 0,
-        "neutral": 1,
+        "neutral": 0,
         "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "摩天目標！5星分析師喊SanDisk衝1,825美元，NAND緊缺與Agentic AI成行情起手式 - forecastock.tw",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZERBNVhrMXNzdmJwZm5WYnRDSG5tZTNqUmxBblRRWldkcEhnTXMzeV9uLThZMjFlb19zNHRoWktkeFRmdTFiOHlUWDlnRFR4bTJQWGN1VHNCNUc1REdwLW9TYzBJZmMwakFSQXJpWWc5ZlBNRDRNMGk2NGhtVW41Z0RrVVB6NGw0OGllNWZtZGItbW9a?oc=5",
-      "pubDate": "Sat, 30 May 2026 04:06:56 GMT",
-      "source": "forecastock.tw",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZERBNVhrMXNzdmJwZm5WYnRDSG5tZTNqUmxBblRRWldkcEhnTXMzeV9uLThZMjFlb19zNHRoWktkeFRmdTFiOHlUWDlnRFR4bTJQWGN1VHNCNUc1REdwLW9TYzBJZmMwakFSQXJpWWc5ZlBNRDRNMGk2NGhtVW41Z0RrVVB6NGw0OGllNWZtZGItb",
+      "title": "【06/01 產業即時新聞】記憶體類股盤中強勁上攻，多檔漲勢兇猛，受惠報價回溫題材與買盤搶進 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmk2azBpMEhJeEJOaXBibVE2WGZqdzk1eDlnVFNVUUFZSGo3VjExR2dKeVlKbFhSc2RpRE5BeTBIc3ZSNzFhYmNNUEdqVjhyblhRVm94WHhCZTBfMnczSldKUXZkd0V1engzWHNmVG9FWWZNdXJyLXR4cGp4M2JjeWltTmQycS1hV3FJaEtn?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 02:52:37 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmk2azBpMEhJeEJOaXBibVE2WGZqdzk1eDlnVFNVUUFZSGo3VjExR2dKeVlKbFhSc2RpRE5BeTBIc3ZSNzFhYmNNUEdqVjhyblhRVm94WHhCZTBfMnczSldKUXZkd0V1engzWHNmVG9FWWZNdXJyLXR4cGp4M2JjeWltTmQycS1hV3FJaEtn?oc=5",
       "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-05-31T03:39:28.387Z"
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-01T03:54:11.963Z"
     }
   ]
 }

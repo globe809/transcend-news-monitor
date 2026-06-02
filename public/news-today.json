@@ -1,30 +1,30 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-01T03:54:11.963Z",
-  "generatedAtTW": "2026-06-01 11:54 台灣時間",
+  "generatedAt": "2026-06-02T03:47:32.860Z",
+  "generatedAtTW": "2026-06-02 11:47 台灣時間",
   "stats": {
-    "total": 1,
+    "total": 8,
     "positive": 1,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 7,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "上游供應商": {
-        "total": 1,
+        "total": 6,
         "positive": 1,
         "negative": 0,
-        "neutral": 0
+        "neutral": 5
       },
       "競品": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       }
     },
     "trend": [
@@ -32,21 +32,98 @@
         "date": "2026-06-01",
         "positive": 1,
         "negative": 0,
-        "neutral": 0,
+        "neutral": 6,
+        "total": 7
+      },
+      {
+        "date": "2026-06-02",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
         "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "【06/01 產業即時新聞】記憶體類股盤中強勁上攻，多檔漲勢兇猛，受惠報價回溫題材與買盤搶進 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmk2azBpMEhJeEJOaXBibVE2WGZqdzk1eDlnVFNVUUFZSGo3VjExR2dKeVlKbFhSc2RpRE5BeTBIc3ZSNzFhYmNNUEdqVjhyblhRVm94WHhCZTBfMnczSldKUXZkd0V1engzWHNmVG9FWWZNdXJyLXR4cGp4M2JjeWltTmQycS1hV3FJaEtn?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 02:52:37 GMT",
+      "title": "NAND戰局生變 鎧俠以CBA鍵合技術迎戰三星、SK海力士 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDVubDVFUndqNGFPZ0NfcG1tWU5pOGJhTHk3VmxLZ0ZTRnI3THgtd01vUnFLclhhNzRuQTJyMnhTWW5GYWZya2ozc2QxMzRpbkZBeW1LOC1PZEV4M09hVmotNlJfaHpOTEZ1cFRZOFpZQkhFakNMZF83ZXhSeERvVWhjYzNoS2RmQlQxbFVqbFhwZTZRQjJB?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 03:09:00 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDVubDVFUndqNGFPZ0NfcG1tWU5pOGJhTHk3VmxLZ0ZTRnI3THgtd01vUnFLclhhNzRuQTJyMnhTWW5GYWZya2ozc2QxMzRpbkZBeW1LOC1PZEV4M09hVmotNlJfaHpOTEZ1cFRZOFpZQkhFakNMZF83ZXhSeERvVWhjYzNoS2RmQlQxbFVqbFhwZ",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "群聯 選逾五個月 | 權證特區 | 證券 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BXzRmRW9CMTRnZWVQME82amlXWnJCRmt2MWtRVVRLaDVaSlp6MTR5TlBvd0Vicmo0ZEpWYVBxQnlvWTR3UjNVTUhtMWhtZEQ3ZGNyM0dKMkw1dw?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 16:46:17 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BXzRmRW9CMTRnZWVQME82amlXWnJCRmt2MWtRVVRLaDVaSlp6MTR5TlBvd0Vicmo0ZEpWYVBxQnlvWTR3UjNVTUhtMWhtZEQ3ZGNyM0dKMkw1dw?oc=5\" target=\"_blank\"&gt;群聯 選逾五個月 | 權證特區 | 證券&lt;/a&gt;&amp;nbsp;&amp;nbsp",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "宜鼎參展COMPUTEX 2026 構築邊緣AI「五層關鍵架構」 - DIGITIMES",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1JNWWRNV0t3V05uQmMydndZQnk1clRxZm01cjk0X09KZHFKTlJXNnd6WU8zd19zZFlNYThWNmpReGY3UThRNEZKMzhoTktaYmdlX000d1BGdHkySmk4bXp6QUh2NnV5SGxwVm0tY2NIcXhBYjNlSHlTSHZHMS0tRzJTRWEyV19yWW9SYnNPMkV4VFY2Sk1oa3Z3WnFtM3lGYmxj?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 16:21:23 GMT",
+      "source": "DIGITIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1JNWWRNV0t3V05uQmMydndZQnk1clRxZm01cjk0X09KZHFKTlJXNnd6WU8zd19zZFlNYThWNmpReGY3UThRNEZKMzhoTktaYmdlX000d1BGdHkySmk4bXp6QUh2NnV5SGxwVm0tY2NIcXhBYjNlSHlTSHZHMS0tRzJTRWEyV19yWW9SYnNPMkV4V",
+      "category": "競品",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 14:49:10 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "【21:31 即時新聞】Sandisk (SNDK) 勁揚逾5% 再創新高：多家外資調高目標價＋AI NAND 緊缺推升評價 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVhFdVZLODRMWmQ2Ty0zZ2NhQjR4a0VDaE9xZS05OFZRVFVvU1ZtRGg0dUtDREZPS0lnZ3htNXQ0dUdYRWVoWDBKQUpPUkpLT24zdEVFc2tFNVJ0cVNRWkpyVnMtUVF1bzJ6WVQzSFhVeHkxNEt6MFhwaTNuRGNmTFd1d185RzBzQVg0eVR3?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 13:34:35 GMT",
       "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmk2azBpMEhJeEJOaXBibVE2WGZqdzk1eDlnVFNVUUFZSGo3VjExR2dKeVlKbFhSc2RpRE5BeTBIc3ZSNzFhYmNNUEdqVjhyblhRVm94WHhCZTBfMnczSldKUXZkd0V1engzWHNmVG9FWWZNdXJyLXR4cGp4M2JjeWltTmQycS1hV3FJaEtn?oc=5",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVhFdVZLODRMWmQ2Ty0zZ2NhQjR4a0VDaE9xZS05OFZRVFVvU1ZtRGg0dUtDREZPS0lnZ3htNXQ0dUdYRWVoWDBKQUpPUkpLT24zdEVFc2tFNVJ0cVNRWkpyVnMtUVF1bzJ6WVQzSFhVeHkxNEt6MFhwaTNuRGNmTFd1d185RzBzQVg0eVR3?oc=5",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-06-01T03:54:11.963Z"
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "券商看旺、喊「買進」 NAND Flash 廠鎧俠飆史高 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkIzRWpPUnFSTVF5N20wSmEwX1pRZ0RER3ZiVE5EdDRoYzFMMUM2ZUZnNHB1WmE2YWxWTXJwdF9qeDRDcm5KdHdpZUg3MVdNc2UxaHYzNHdnWHhlcW5USkdpZDdwa0R4T0VSZlZzTldRRmFfS21EbkxXVjFiOUpOVVBhQzdwUmNCYjhITnZ3SmNuQ2hDbEJicDhLYXRPeFp6OFZTcllR?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 06:13:12 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkIzRWpPUnFSTVF5N20wSmEwX1pRZ0RER3ZiVE5EdDRoYzFMMUM2ZUZnNHB1WmE2YWxWTXJwdF9qeDRDcm5KdHdpZUg3MVdNc2UxaHYzNHdnWHhlcW5USkdpZDdwa0R4T0VSZlZzTldRRmFfS21EbkxXVjFiOUpOVVBhQzdwUmNCYjhITnZ3SmNuQ",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "高盛單月兩度上調三星與 SK 海力士目標價！記憶體超級週期延長至 2028 年 - 鏈新聞 ABMedia",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVFUVlZKVVFadXFiWEdxamFBakM0NnlMZEJLWmNOZFBvZk5sR0ZRekVka2VUbHVZYllPaVRYRTEwVGNwX0pBcDBXRDVMUHFscjlWRHV0VnpPVzJSZEJLckdfNnBjQ1NyQ21xamt3RVp4QXUxOFJwMHd6OFU?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 05:06:16 GMT",
+      "source": "鏈新聞 ABMedia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVFUVlZKVVFadXFiWEdxamFBakM0NnlMZEJLWmNOZFBvZk5sR0ZRekVka2VUbHVZYllPaVRYRTEwVGNwX0pBcDBXRDVMUHFscjlWRHV0VnpPVzJSZEJLckdfNnBjQ1NyQ21xamt3RVp4QXUxOFJwMHd6OFU?oc=5\" target=\"_blank\"&gt;高盛單月",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
+    },
+    {
+      "title": "閃存漲價 5.5 倍後迎來轉折？長江存儲產能提前爆發的關鍵時刻 - unwire PRO",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTzRsOU5ad2pPcTctUlBWRnNEazlGYjA2WWY0LTlLX2FKR1FxakpzWmtZVm9pYVZuZWZobWhvVEhoa2JxSTNnTi1ROXk2YjEtdjdleklaSzNDTEJvcHpUMnhSV2dEM01ieG5ndTJDd1lHR3B1MWR4VWZB?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 04:01:01 GMT",
+      "source": "unwire PRO",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTzRsOU5ad2pPcTctUlBWRnNEazlGYjA2WWY0LTlLX2FKR1FxakpzWmtZVm9pYVZuZWZobWhvVEhoa2JxSTNnTi1ROXk2YjEtdjdleklaSzNDTEJvcHpUMnhSV2dEM01ieG5ndTJDd1lHR3B1MWR4VWZB?oc=5\" target=\"_blank\"&gt;閃存漲價 5.",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-02T03:47:32.860Z"
     }
   ]
 }

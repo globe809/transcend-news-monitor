@@ -1,129 +1,112 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-02T03:47:32.860Z",
-  "generatedAtTW": "2026-06-02 11:47 台灣時間",
+  "generatedAt": "2026-06-03T03:56:14.452Z",
+  "generatedAtTW": "2026-06-03 11:56 台灣時間",
   "stats": {
-    "total": 8,
-    "positive": 1,
+    "total": 7,
+    "positive": 7,
     "negative": 0,
-    "neutral": 7,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
+        "total": 3,
+        "positive": 3,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "上游供應商": {
-        "total": 6,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 5
-      },
-      "競品": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
+      },
+      "競品": {
+        "total": 4,
+        "positive": 4,
+        "negative": 0,
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-01",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 6,
-        "total": 7
-      },
-      {
         "date": "2026-06-02",
-        "positive": 0,
+        "positive": 7,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 0,
+        "total": 7
       }
     ]
   },
   "news": [
     {
-      "title": "NAND戰局生變 鎧俠以CBA鍵合技術迎戰三星、SK海力士 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDVubDVFUndqNGFPZ0NfcG1tWU5pOGJhTHk3VmxLZ0ZTRnI3THgtd01vUnFLclhhNzRuQTJyMnhTWW5GYWZya2ozc2QxMzRpbkZBeW1LOC1PZEV4M09hVmotNlJfaHpOTEZ1cFRZOFpZQkhFakNMZF83ZXhSeERvVWhjYzNoS2RmQlQxbFVqbFhwZTZRQjJB?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 03:09:00 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDVubDVFUndqNGFPZ0NfcG1tWU5pOGJhTHk3VmxLZ0ZTRnI3THgtd01vUnFLclhhNzRuQTJyMnhTWW5GYWZya2ozc2QxMzRpbkZBeW1LOC1PZEV4M09hVmotNlJfaHpOTEZ1cFRZOFpZQkhFakNMZF83ZXhSeERvVWhjYzNoS2RmQlQxbFVqbFhwZ",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
-    },
-    {
-      "title": "群聯 選逾五個月 | 權證特區 | 證券 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BXzRmRW9CMTRnZWVQME82amlXWnJCRmt2MWtRVVRLaDVaSlp6MTR5TlBvd0Vicmo0ZEpWYVBxQnlvWTR3UjNVTUhtMWhtZEQ3ZGNyM0dKMkw1dw?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 16:46:17 GMT",
-      "source": "經濟日報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BXzRmRW9CMTRnZWVQME82amlXWnJCRmt2MWtRVVRLaDVaSlp6MTR5TlBvd0Vicmo0ZEpWYVBxQnlvWTR3UjNVTUhtMWhtZEQ3ZGNyM0dKMkw1dw?oc=5\" target=\"_blank\"&gt;群聯 選逾五個月 | 權證特區 | 證券&lt;/a&gt;&amp;nbsp;&amp;nbsp",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
-    },
-    {
-      "title": "宜鼎參展COMPUTEX 2026 構築邊緣AI「五層關鍵架構」 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1JNWWRNV0t3V05uQmMydndZQnk1clRxZm01cjk0X09KZHFKTlJXNnd6WU8zd19zZFlNYThWNmpReGY3UThRNEZKMzhoTktaYmdlX000d1BGdHkySmk4bXp6QUh2NnV5SGxwVm0tY2NIcXhBYjNlSHlTSHZHMS0tRzJTRWEyV19yWW9SYnNPMkV4VFY2Sk1oa3Z3WnFtM3lGYmxj?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 16:21:23 GMT",
-      "source": "DIGITIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1JNWWRNV0t3V05uQmMydndZQnk1clRxZm01cjk0X09KZHFKTlJXNnd6WU8zd19zZFlNYThWNmpReGY3UThRNEZKMzhoTktaYmdlX000d1BGdHkySmk4bXp6QUh2NnV5SGxwVm0tY2NIcXhBYjNlSHlTSHZHMS0tRzJTRWEyV19yWW9SYnNPMkV4V",
+      "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNWW4tRzNwc05FVzFQNU40bVpIUUhKQmNpRjdMQUUwcDhoejRhTnMxNFBaRFJ0QWdScmdpNENNOUozeGpOOGViVGpEUzRjVmNNdFdTMUptZ3hBSGhwUzRNdms5T2lRdU5tYU1mdDlLT09kZzhtU3ZhM08tSXVVeGF1cU9SY204S2RWTmsxM0cwNXBHVU8wYjZFYWotajJkT2ZhTDMyVE45aFFLSk03ZjVDNHBTTWp4NVZqQ1lJT3JNR0taQ2Q2d1BFM1F3OV90RjZoUjBPOU52T1FsUmo1SnRqVnlKMkdvMDFTbk1DUzdaVGVKejhRYzZSbmljMFpEa1JLRm95UHRoNDRSdWJWRzNVdGFfMERqQ0FLY2FaZGYxaDlUa1lhV0N2YXZrakJpNkNBT05rbUJCZlRScUFSUjhFcThobEoxT2hWZVNVUVIwc0o5bEd4ZTZQa1BoNjB4b3VhQW95azhvcVJXbTkxOGJXbzJPOGl6aE1aQ3NGVFN3OVhxNzNwUVJKNHZ5MHBzQTlKbnZ3UDF5U3NSWkRYVFpVcGQxTzFqVllnb01VOTRLYWJNaHJ5Yzk4ZTdlTVJ1MFk1a2htMUM3OUMxdWxvNDBSZQ?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:51:19 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0ANBVV95cUxNWW4tRzNwc05FVzFQNU40bVpIUUhKQmNpRjdMQUUwcDhoejRhTnMxNFBaRFJ0QWdScmdpNENNOUozeGpOOGViVGpEUzRjVmNNdFdTMUptZ3hBSGhwUzRNdms5T2lRdU5tYU1mdDlLT09kZzhtU3ZhM08tSXVVeGF1cU9SY204S2RWTmsxM0cwNXBHV",
       "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
-    },
-    {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 14:49:10 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
-    },
-    {
-      "title": "【21:31 即時新聞】Sandisk (SNDK) 勁揚逾5% 再創新高：多家外資調高目標價＋AI NAND 緊缺推升評價 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVhFdVZLODRMWmQ2Ty0zZ2NhQjR4a0VDaE9xZS05OFZRVFVvU1ZtRGg0dUtDREZPS0lnZ3htNXQ0dUdYRWVoWDBKQUpPUkpLT24zdEVFc2tFNVJ0cVNRWkpyVnMtUVF1bzJ6WVQzSFhVeHkxNEt6MFhwaTNuRGNmTFd1d185RzBzQVg0eVR3?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 13:34:35 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVhFdVZLODRMWmQ2Ty0zZ2NhQjR4a0VDaE9xZS05OFZRVFVvU1ZtRGg0dUtDREZPS0lnZ3htNXQ0dUdYRWVoWDBKQUpPUkpLT24zdEVFc2tFNVJ0cVNRWkpyVnMtUVF1bzJ6WVQzSFhVeHkxNEt6MFhwaTNuRGNmTFd1d185RzBzQVg0eVR3?oc=5",
-      "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
     },
     {
-      "title": "券商看旺、喊「買進」 NAND Flash 廠鎧俠飆史高 - TechNews 科技新報",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkIzRWpPUnFSTVF5N20wSmEwX1pRZ0RER3ZiVE5EdDRoYzFMMUM2ZUZnNHB1WmE2YWxWTXJwdF9qeDRDcm5KdHdpZUg3MVdNc2UxaHYzNHdnWHhlcW5USkdpZDdwa0R4T0VSZlZzTldRRmFfS21EbkxXVjFiOUpOVVBhQzdwUmNCYjhITnZ3SmNuQ2hDbEJicDhLYXRPeFp6OFZTcllR?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 06:13:12 GMT",
-      "source": "TechNews 科技新報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkIzRWpPUnFSTVF5N20wSmEwX1pRZ0RER3ZiVE5EdDRoYzFMMUM2ZUZnNHB1WmE2YWxWTXJwdF9qeDRDcm5KdHdpZUg3MVdNc2UxaHYzNHdnWHhlcW5USkdpZDdwa0R4T0VSZlZzTldRRmFfS21EbkxXVjFiOUpOVVBhQzdwUmNCYjhITnZ3SmNuQ",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
+      "title": "COMPUTEX／創見榮獲永續設計獎金獎 | 產業熱點 | 產業 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWFsNXVqT0o2QWpNVXNwNmMyRkRtQk5pTHE0eUtVcHQtaFAzbTRjZ2hPZko4Sm9MWHpIWE40X3RaQmlkTmtSUHhGR3YzVXJYWmxsR3g2LTktTEl6el8wT2RpMUtkS3oySUhBSmI2REcwdVkwSWY5dXlndkszcU42Y2l0VGNudUhkMFcxZHVBb00?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 09:56:41 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWFsNXVqT0o2QWpNVXNwNmMyRkRtQk5pTHE0eUtVcHQtaFAzbTRjZ2hPZko4Sm9MWHpIWE40X3RaQmlkTmtSUHhGR3YzVXJYWmxsR3g2LTktTEl6el8wT2RpMUtkS3oySUhBSmI2REcwdVkwSWY5dXlndkszcU42Y2l0VGNudUhkMFcxZHVBb00?o",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
     },
     {
-      "title": "高盛單月兩度上調三星與 SK 海力士目標價！記憶體超級週期延長至 2028 年 - 鏈新聞 ABMedia",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVFUVlZKVVFadXFiWEdxamFBakM0NnlMZEJLWmNOZFBvZk5sR0ZRekVka2VUbHVZYllPaVRYRTEwVGNwX0pBcDBXRDVMUHFscjlWRHV0VnpPVzJSZEJLckdfNnBjQ1NyQ21xamt3RVp4QXUxOFJwMHd6OFU?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 05:06:16 GMT",
-      "source": "鏈新聞 ABMedia",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOVFUVlZKVVFadXFiWEdxamFBakM0NnlMZEJLWmNOZFBvZk5sR0ZRekVka2VUbHVZYllPaVRYRTEwVGNwX0pBcDBXRDVMUHFscjlWRHV0VnpPVzJSZEJLckdfNnBjQ1NyQ21xamt3RVp4QXUxOFJwMHd6OFU?oc=5\" target=\"_blank\"&gt;高盛單月",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
+      "title": "創見榮獲COMPUTEX 2026永續設計獎金獎 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RYi10TGh3amlDSVhDb3hBcFh3MmFVT3ZrVGJsTHdmNFdXV3pMU1F4Z2ZjckZGdkRVVWNOSGJ2S25rWTlLVWhtTVNCVHhJWXN1aXBPRHV30gFWQVVfeXFMTlFiLXRMaHdqaUNJWENveEFwWHcyYVVPdmtUYmxMd2Y0V1dXekxTUXhnZmNyRkZ2RFVVY05IYnZLbmtZOUtVaG1NU0JUeElZc3VpcE9EdXc?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 09:56:40 GMT",
+      "source": "UDN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RYi10TGh3amlDSVhDb3hBcFh3MmFVT3ZrVGJsTHdmNFdXV3pMU1F4Z2ZjckZGdkRVVWNOSGJ2S25rWTlLVWhtTVNCVHhJWXN1aXBPRHV30gFWQVVfeXFMTlFiLXRMaHdqaUNJWENveEFwWHcyYVVPdmtUYmxMd2Y0V1dXekxTUXhnZmNyRkZ2RFVVY",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
     },
     {
-      "title": "閃存漲價 5.5 倍後迎來轉折？長江存儲產能提前爆發的關鍵時刻 - unwire PRO",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTzRsOU5ad2pPcTctUlBWRnNEazlGYjA2WWY0LTlLX2FKR1FxakpzWmtZVm9pYVZuZWZobWhvVEhoa2JxSTNnTi1ROXk2YjEtdjdleklaSzNDTEJvcHpUMnhSV2dEM01ieG5ndTJDd1lHR3B1MWR4VWZB?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 04:01:01 GMT",
-      "source": "unwire PRO",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTzRsOU5ad2pPcTctUlBWRnNEazlGYjA2WWY0LTlLX2FKR1FxakpzWmtZVm9pYVZuZWZobWhvVEhoa2JxSTNnTi1ROXk2YjEtdjdleklaSzNDTEJvcHpUMnhSV2dEM01ieG5ndTJDd1lHR3B1MWR4VWZB?oc=5\" target=\"_blank\"&gt;閃存漲價 5.",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-02T03:47:32.860Z"
+      "title": "5檔記憶體股漲停！廣穎4月EPS衝2.66元 - 鏡週刊Mirror Media",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zNHBZTEFfVUJqMXNZdTByR0dTV1BaR3hOMGd5ZkdnUWdRLTM5eVN3UmJvTC1EX0V4VElmVlJKemRGdktfVk9lcUNXMDc4YnJaRjJHc1U2ZVc3TnpjNXpmc0J30gFiQVVfeXFMTzM0cFlMQV9VQmoxc1l1MHJHR1NXUFpHeE4wZ3lmR2dRZ1EtMzl5U3dSYm9MLURfRXhUSWZWUkp6ZEZ2S19WT2VxQ1cwNzhiclpGMkdzVTZlVzdOemM1emZzQnc?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 09:36:00 GMT",
+      "source": "鏡週刊Mirror Media",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zNHBZTEFfVUJqMXNZdTByR0dTV1BaR3hOMGd5ZkdnUWdRLTM5eVN3UmJvTC1EX0V4VElmVlJKemRGdktfVk9lcUNXMDc4YnJaRjJHc1U2ZVc3TnpjNXpmc0J30gFiQVVfeXFMTzM0cFlMQV9VQmoxc1l1MHJHR1NXUFpHeE4wZ3lmR2dRZ1EtMzl5U",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
+    },
+    {
+      "title": "創見資訊榮獲 COMPUTEX 2026永續設計獎金獎 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NdER5NTBkU0gyZE9yRHdTTW9NMHloTDNIeTFZTEluWTFWN0ZLbjFhMzFMZk5ZdW5mdmhWSlBBbE5tcWpvZm5CWjhxcm54YVBUVldtLXNR0gFWQVVfeXFMTU10RHk1MGRTSDJkT3JEd1NNb00weWhMM0h5MVlMSW5ZMVY3RktuMWEzMUxmTll1bmZ2aFZKUEFsTm1xam9mbkJaOHFybnhhUFRWV20tc1E?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 09:30:27 GMT",
+      "source": "UDN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NdER5NTBkU0gyZE9yRHdTTW9NMHloTDNIeTFZTEluWTFWN0ZLbjFhMzFMZk5ZdW5mdmhWSlBBbE5tcWpvZm5CWjhxcm54YVBUVldtLXNR0gFWQVVfeXFMTU10RHk1MGRTSDJkT3JEd1NNb00weWhMM0h5MVlMSW5ZMVY3RktuMWEzMUxmTll1bmZ2a",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
+    },
+    {
+      "title": "記憶體股5檔收漲停　廣穎提前開獎「單月獲利年增13200 %」 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1YktLQ21RS01xT3ZhRzlIZHdDN1FPSjI3ZFFhdHQ0MXd0aHJZaU5tYTBUQm1wMzREY0dFaURyWXVrdWIycFMwYmh4Y2NTWHJ4emfSAW5BVV95cUxNXzN3aHNvUTY0OXltdXFNSnplTkhWUkktU2dydGM2QXZNSk5UTGJDV29BRFEwMlZ4TEFxWGpDTmdEOTItWk1peFVET2NZc0daTFVzM0FLZWkyVTViWXMzQTdNZVA2ZlZoZC1kSDFzZw?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 08:14:00 GMT",
+      "source": "ETtoday財經雲",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1YktLQ21RS01xT3ZhRzlIZHdDN1FPSjI3ZFFhdHQ0MXd0aHJZaU5tYTBUQm1wMzREY0dFaURyWXVrdWIycFMwYmh4Y2NTWHJ4emfSAW5BVV95cUxNXzN3aHNvUTY0OXltdXFNSnplTkhWUkktU2dydGM2QXZNSk5UTGJDV29BRFEwMlZ4TEFxWGpDT",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
+    },
+    {
+      "title": "台塑、宜鼎、高通三方強強聯手策略合作 推出「AI 工安視覺解決方案」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RjAxejVoSkVMRENHUG04T1kwaHBFMlFMQXlSaDNpSC1PaEpOLW5KRXRXZWlrN0FrS1ZoSGczXzJCTE9DeklCakZDaTV2WXVZ0gFWQVVfeXFMTmFZSV9XSldrVHM5aktjeW40VFRsckl1M19UeVNkTS1oQV84MVhtR2x6NmZHLXZnMlhmNExIOXpiWm92dDZucEUxV19hdVpFZWlSV0ZnWHc?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 06:16:08 GMT",
+      "source": "UDN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RjAxejVoSkVMRENHUG04T1kwaHBFMlFMQXlSaDNpSC1PaEpOLW5KRXRXZWlrN0FrS1ZoSGczXzJCTE9DeklCakZDaTV2WXVZ0gFWQVVfeXFMTmFZSV9XSldrVHM5aktjeW40VFRsckl1M19UeVNkTS1oQV84MVhtR2x6NmZHLXZnMlhmNExIOXpiW",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-03T03:56:14.452Z"
     }
   ]
 }

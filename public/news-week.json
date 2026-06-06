@@ -1,122 +1,72 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-05T03:36:18.773Z",
-  "generatedAtTW": "2026-06-05 11:36 台灣時間",
+  "generatedAt": "2026-06-06T02:57:03.743Z",
+  "generatedAtTW": "2026-06-06 10:57 台灣時間",
   "stats": {
-    "total": 8,
-    "positive": 1,
-    "negative": 1,
-    "neutral": 6,
+    "total": 3,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 3,
     "byCategory": {
       "創見資訊": {
-        "total": 3,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 2
-      },
-      "上游供應商": {
-        "total": 3,
-        "positive": 0,
-        "negative": 1,
-        "neutral": 2
-      },
-      "競品": {
         "total": 2,
         "positive": 0,
         "negative": 0,
         "neutral": 2
+      },
+      "上游供應商": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
+      },
+      "競品": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-04",
-        "positive": 1,
-        "negative": 1,
-        "neutral": 6,
-        "total": 8
+        "date": "2026-06-05",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 3,
+        "total": 3
       }
     ]
   },
   "news": [
     {
-      "title": "記憶體派對快結束？分析師示警DRAM、NAND價格即將觸頂回落 美光暴跌逾7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MNU9hLUxqYWRPWlN2LVNuQ3hHWm5FTGxyc2l2QW5QdW9BN1o1ekZONTM1bWxTeElITng4d0tWbFhwT0VmRWwtYzhrN1JXVEE?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 23:35:16 GMT",
-      "source": "news.cnyes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MNU9hLUxqYWRPWlN2LVNuQ3hHWm5FTGxyc2l2QW5QdW9BN1o1ekZONTM1bWxTeElITng4d0tWbFhwT0VmRWwtYzhrN1JXVEE?oc=5\" target=\"_blank\"&gt;記憶體派對快結束？分析師示警DRAM、NAND價格即將觸頂回落 美光暴跌逾7%&lt;/a&gt;&amp;nbsp;&amp;",
-      "category": "上游供應商",
-      "sentiment": "negative",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
-    },
-    {
-      "title": "長江 NAND 市占 全球第四 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbUN0aTB1ZEVIYU9nV3h0cEttX29qLVlhZVpKQzgwVVlKUndDRlJFSzgwdkg1U2FUTEpjc0h5cHZoczI0a1dLYzNEOFVlbGo5azVGY2FfSksyQdIBX0FVX3lxTFA4dGJxcVI3eVRmc21xOFhVWHVQdGlYOFlNajRDNWFvNTR4TnFtYm5CNUNKQUdmbWZKSjJqMmxkdXN0UzlMOGhOeGZUSXlUY0tSY0h6Sk92SmZRWi1Zd0FR?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 18:26:44 GMT",
-      "source": "經濟日報",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbUN0aTB1ZEVIYU9nV3h0cEttX29qLVlhZVpKQzgwVVlKUndDRlJFSzgwdkg1U2FUTEpjc0h5cHZoczI0a1dLYzNEOFVlbGo5azVGY2FfSksyQdIBX0FVX3lxTFA4dGJxcVI3eVRmc21xOFhVWHVQdGlYOFlNajRDNWFvNTR4TnFtYm5CNUNKQUdmb",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
-    },
-    {
-      "title": "2451 創見 - 創見股價高檔繼續震盪- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yOVJlN2pWLTZrOFNTX2ozaFhiNW4yTk5PcllXWEVPdjFuQW9WUUJPakZNV1BqeG5LcEtfeUNjQUVuaGZxNEVvSW1xMHR5QlFWMXA2ZWRoNnA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 13:15:22 GMT",
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 23:36:31 GMT",
       "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yOVJlN2pWLTZrOFNTX2ozaFhiNW4yTk5PcllXWEVPdjFuQW9WUUJPakZNV1BqeG5LcEtfeUNjQUVuaGZxNEVvSW1xMHR5QlFWMXA2ZWRoNnA?oc=5\" target=\"_blank\"&gt;2451 創見 - 創見股價高檔繼續震盪- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&am",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
+      "fetchedAt": "2026-06-06T02:57:03.743Z"
     },
     {
-      "title": "SP廣穎電通COMPUTEX 2026 展現 AI 時代資料架構實力攜手產業夥伴打造智慧工業及多元的儲存場景 - XFastest News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qUEV4MEVYY2JGb0VfWmxUSkF4NWM0RW9wcEwtWVBSb1B6c1hzQXNEZXVaLVdaZWpvanA1ZS1OSHNzN1R2bHIzOWJXaDhlTzlpSVZHaXRJbFRTRW1qdXdnTWpzQkNuUExIZGtxZQ?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 12:23:25 GMT",
-      "source": "XFastest News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5qUEV4MEVYY2JGb0VfWmxUSkF4NWM0RW9wcEwtWVBSb1B6c1hzQXNEZXVaLVdaZWpvanA1ZS1OSHNzN1R2bHIzOWJXaDhlTzlpSVZHaXRJbFRTRW1qdXdnTWpzQkNuUExIZGtxZQ?oc=5\" target=\"_blank\"&gt;SP廣穎電通COMPUTEX 2026 展現 AI",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
-    },
-    {
-      "title": "【06/04券商評等報告彙整】創見(2451) 今日僅1家券商發布績效評等報告，評價為看多，目標價為393元。 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RaHdzNE9mU1EwYWJtMzA0YlhrMTdYU1hMRG1xUG5BQzJ2cTlhdU1hT2J4WnNHMmtIZ3dXN3hmUXRqcENia0IxZFZQS3BwVng0ZHpfcXF2Xzg2TWN3aTNaYzB4cXpzUXM?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 10:50:03 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RaHdzNE9mU1EwYWJtMzA0YlhrMTdYU1hMRG1xUG5BQzJ2cTlhdU1hT2J4WnNHMmtIZ3dXN3hmUXRqcENia0IxZFZQS3BwVng0ZHpfcXF2Xzg2TWN3aTNaYzB4cXpzUXM?oc=5\" target=\"_blank\"&gt;【06/04券商評等報告彙整】創見(2451) 今日僅1家券商發",
+      "title": "討論牆 | 盤中速報 - 創見(2451)急跌-3.28%報369.0元，成交5,176張 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5td2VkeUJDQmpJSFBPUk9JMnUzcVR4UkhzRXh3OHEyMXlvMno4Q1pERU5jMkN5RTFqS3JtNGxqOC1jNFJhSFZYVENNclRRdE5STENsTnZ2U2pXV0lMclVCVDNQZGQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 08:34:50 GMT",
+      "source": "LINE TODAY",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5td2VkeUJDQmpJSFBPUk9JMnUzcVR4UkhzRXh3OHEyMXlvMno4Q1pERU5jMkN5RTFqS3JtNGxqOC1jNFJhSFZYVENNclRRdE5STENsTnZ2U2pXV0lMclVCVDNQZGQ?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)急跌-3.28%報369.0元",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
+      "fetchedAt": "2026-06-06T02:57:03.743Z"
     },
     {
-      "title": "137億賺飽飽！記憶體大廠5月營收年增469.83% 漲勢一秒刷新天花板紀錄 - FTNN 新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRm5aT3ZNNEI1MVNOUFBZak42TDhnZGpLTE9qdFA1cHQ3REVqc3dLYTNKZVZEcndQS01uN2N0VWNtR1ZkSXlBZmZVSQ?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 09:35:00 GMT",
-      "source": "FTNN 新聞網",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRm5aT3ZNNEI1MVNOUFBZak42TDhnZGpLTE9qdFA1cHQ3REVqc3dLYTNKZVZEcndQS01uN2N0VWNtR1ZkSXlBZmZVSQ?oc=5\" target=\"_blank\"&gt;137億賺飽飽！記憶體大廠5月營收年增469.83% 漲勢一秒刷新天花板紀錄&lt;/a&gt;&amp;nbsp;&amp;nbsp;&",
-      "category": "創見資訊",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
-    },
-    {
-      "title": "廣穎電通COMPUTEX聚焦AI落地應用，攜手研揚、凌華、友通展示邊緣AI場景 - 4Gamers",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2dvMl9MVHRtYmxpVkE2ek9RN29XYTZMaHNvX01ETTRqcEJ4MVVxdzM0c1hTWER5N29YSnNXTzdPTkpfYWFuNzFKYWl4ZTVCelRQS2lSVm9iTVVrSDRPNTVXaVZhT3A2R2ZxdjlHdWduV1Q3YWY0elM4UEt4Q2t1NjltcDR1OWJwMjYxVg?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 09:29:25 GMT",
-      "source": "4Gamers",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2dvMl9MVHRtYmxpVkE2ek9RN29XYTZMaHNvX01ETTRqcEJ4MVVxdzM0c1hTWER5N29YSnNXTzdPTkpfYWFuNzFKYWl4ZTVCelRQS2lSVm9iTVVrSDRPNTVXaVZhT3A2R2ZxdjlHdWduV1Q3YWY0elM4UEt4Q2t1NjltcDR1OWJwMjYxVg?oc=5\" ",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
-    },
-    {
-      "title": "Samsung 在 2026 年第一季持續主導全球 NAND flash 存儲晶片市場 - Techritual Hong Kong",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTcTRIeGZvNWJnWWYxZ2huRy1fVWFBaE9HaF9NVjg3QUdFZWFXUUZwX21OWG5TS013MkJhZXNZcklTWmRNbS01eUxlWVgtWGdrRHlCcEVENDI?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 08:09:22 GMT",
-      "source": "Techritual Hong Kong",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTcTRIeGZvNWJnWWYxZ2huRy1fVWFBaE9HaF9NVjg3QUdFZWFXUUZwX21OWG5TS013MkJhZXNZcklTWmRNbS01eUxlWVgtWGdrRHlCcEVENDI?oc=5\" target=\"_blank\"&gt;Samsung 在 2026 年第一季持續主導全球 NAND flash 存儲晶片市場&lt;/a&gt",
+      "title": "美光股價重挫 7% 波及 10 台廠跌停！分析師警告：記憶體價格 2026 年中見頂 - 鏈新聞 ABMedia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdmZmbEhzd2MxbDV1WXY5REhiN2Rtc2JaOFpGeDBTc3VTZ1hsWEhVb1lmVmZiVTB3QmhTWHA3MnNNTjI2Nlp5OTU2TkRyZHZkRkpTaFh6MkhSZk9aY2Q2NzBOWXBrRDNoLVZydTdB?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 03:29:50 GMT",
+      "source": "鏈新聞 ABMedia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdmZmbEhzd2MxbDV1WXY5REhiN2Rtc2JaOFpGeDBTc3VTZ1hsWEhVb1lmVmZiVTB3QmhTWHA3MnNNTjI2Nlp5OTU2TkRyZHZkRkpTaFh6MkhSZk9aY2Q2NzBOWXBrRDNoLVZydTdB?oc=5\" target=\"_blank\"&gt;美光股價重挫 7% 波及 10 台廠跌停！分析",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-05T03:36:18.773Z"
+      "fetchedAt": "2026-06-06T02:57:03.743Z"
     }
   ]
 }

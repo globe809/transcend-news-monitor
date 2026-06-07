@@ -1,72 +1,69 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-06T02:57:03.743Z",
-  "generatedAtTW": "2026-06-06 10:57 台灣時間",
+  "generatedAt": "2026-06-07T03:43:15.050Z",
+  "generatedAtTW": "2026-06-07 11:43 台灣時間",
   "stats": {
-    "total": 3,
-    "positive": 0,
+    "total": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 3,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 2
-      },
-      "上游供應商": {
         "total": 1,
         "positive": 0,
         "negative": 0,
         "neutral": 1
       },
-      "競品": {
+      "上游供應商": {
         "total": 0,
         "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 1,
+        "positive": 1,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-05",
+        "date": "2026-06-06",
         "positive": 0,
         "negative": 0,
-        "neutral": 3,
-        "total": 3
+        "neutral": 1,
+        "total": 1
+      },
+      {
+        "date": "2026-06-07",
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0,
+        "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 23:36:31 GMT",
+      "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHWnJ6TkVDdktmTkhVZXJ2T3gweDZIc3YxU2xvdDNRRW5FM0lBbkJuZEo5RE5WOEQ1UHVYd29wajhreWZpWkF0MUFoYUxQTE9vcWVxTS1yT1pnaEY3TEVoMmJwMkI5b2Q0RUpKbVNKUjBlTGhCek9ZZklvSC1ZaHF1bE9PUnJLZ2NrUXMxUUVpSl84dlF1d2JuaGp6S2VvRTBzMm5jeWlzV3AybHhuSUVma3F2akZld3VXWlRvc2hKaWprM0VYWXdVNC1rTEVYZXNTcUc3T091T09nSEhVSzJiRnMyNTZhNzQ4bWYydVpsT1F0SktqRWdsTlQ2N0N1Wkx6WHJFVmY4NWhqQlJaRkgwMl9mdmU3SG5DZ1RxVFhJcUZ0a2xleWt1eUtadWtaWUVXWnV6MFdkS3BEQmpNSW9pV1dIOUR4RU1MN21HclpLdXh2NE1mcnllbFdNM2o2ZzBPRUFZd1FjbkxOdQ?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 00:56:00 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHW",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-07T03:43:15.050Z"
+    },
+    {
+      "title": "2451 創見 - 00919處理創見的進度- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOE9iSXVqYzlQWFcxMXFqdDBlMXhIdlF5SmNpNmFRY282TllvcTVmSU5WaWhIcFprU25ZNURyMmJ6QlZnRVJHaTZEV1ZKMzdOcjlfazFvc2o?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 08:11:27 GMT",
       "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOE9iSXVqYzlQWFcxMXFqdDBlMXhIdlF5SmNpNmFRY282TllvcTVmSU5WaWhIcFprU25ZNURyMmJ6QlZnRVJHaTZEV1ZKMzdOcjlfazFvc2o?oc=5\" target=\"_blank\"&gt;2451 創見 - 00919處理創見的進度- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-06T02:57:03.743Z"
-    },
-    {
-      "title": "討論牆 | 盤中速報 - 創見(2451)急跌-3.28%報369.0元，成交5,176張 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5td2VkeUJDQmpJSFBPUk9JMnUzcVR4UkhzRXh3OHEyMXlvMno4Q1pERU5jMkN5RTFqS3JtNGxqOC1jNFJhSFZYVENNclRRdE5STENsTnZ2U2pXV0lMclVCVDNQZGQ?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 08:34:50 GMT",
-      "source": "LINE TODAY",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5td2VkeUJDQmpJSFBPUk9JMnUzcVR4UkhzRXh3OHEyMXlvMno4Q1pERU5jMkN5RTFqS3JtNGxqOC1jNFJhSFZYVENNclRRdE5STENsTnZ2U2pXV0lMclVCVDNQZGQ?oc=5\" target=\"_blank\"&gt;討論牆 | 盤中速報 - 創見(2451)急跌-3.28%報369.0元",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-06T02:57:03.743Z"
-    },
-    {
-      "title": "美光股價重挫 7% 波及 10 台廠跌停！分析師警告：記憶體價格 2026 年中見頂 - 鏈新聞 ABMedia",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdmZmbEhzd2MxbDV1WXY5REhiN2Rtc2JaOFpGeDBTc3VTZ1hsWEhVb1lmVmZiVTB3QmhTWHA3MnNNTjI2Nlp5OTU2TkRyZHZkRkpTaFh6MkhSZk9aY2Q2NzBOWXBrRDNoLVZydTdB?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 03:29:50 GMT",
-      "source": "鏈新聞 ABMedia",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdmZmbEhzd2MxbDV1WXY5REhiN2Rtc2JaOFpGeDBTc3VTZ1hsWEhVb1lmVmZiVTB3QmhTWHA3MnNNTjI2Nlp5OTU2TkRyZHZkRkpTaFh6MkhSZk9aY2Q2NzBOWXBrRDNoLVZydTdB?oc=5\" target=\"_blank\"&gt;美光股價重挫 7% 波及 10 台廠跌停！分析",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-06T02:57:03.743Z"
+      "fetchedAt": "2026-06-07T03:43:15.050Z"
     }
   ]
 }

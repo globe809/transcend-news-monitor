@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-07T03:43:15.050Z",
-  "fetchedAtTW": "2026-06-07 11:43 台灣時間",
+  "fetchedAt": "2026-06-08T03:51:59.131Z",
+  "fetchedAtTW": "2026-06-08 11:51 台灣時間",
   "stats": {
-    "total": 2,
+    "total": 3,
     "positive": 1,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
         "total": 1,
@@ -14,10 +14,10 @@
         "neutral": 1
       },
       "上游供應商": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
         "total": 1,
@@ -28,41 +28,51 @@
     },
     "trend": [
       {
-        "date": "2026-06-06",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      },
-      {
         "date": "2026-06-07",
         "positive": 1,
         "negative": 0,
-        "neutral": 0,
+        "neutral": 1,
+        "total": 2
+      },
+      {
+        "date": "2026-06-08",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
         "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHWnJ6TkVDdktmTkhVZXJ2T3gweDZIc3YxU2xvdDNRRW5FM0lBbkJuZEo5RE5WOEQ1UHVYd29wajhreWZpWkF0MUFoYUxQTE9vcWVxTS1yT1pnaEY3TEVoMmJwMkI5b2Q0RUpKbVNKUjBlTGhCek9ZZklvSC1ZaHF1bE9PUnJLZ2NrUXMxUUVpSl84dlF1d2JuaGp6S2VvRTBzMm5jeWlzV3AybHhuSUVma3F2akZld3VXWlRvc2hKaWprM0VYWXdVNC1rTEVYZXNTcUc3T091T09nSEhVSzJiRnMyNTZhNzQ4bWYydVpsT1F0SktqRWdsTlQ2N0N1Wkx6WHJFVmY4NWhqQlJaRkgwMl9mdmU3SG5DZ1RxVFhJcUZ0a2xleWt1eUtadWtaWUVXWnV6MFdkS3BEQmpNSW9pV1dIOUR4RU1MN21HclpLdXh2NE1mcnllbFdNM2o2ZzBPRUFZd1FjbkxOdQ?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 00:56:00 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHW",
-      "category": "競品",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-07T03:43:15.050Z"
+      "title": "[儲存裝置] Silicon Motion 慧榮展示 Edge AI SSD 控制器 SM2524XT PCIe Gen5 無快取飆破 14GB/s - XFastest",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVRlQUZvbl9QOW1wTXZTMDhsLUY1N0JDRXo5cmNSTmE1ZDdDS0VVdjVQczlEamtfMWRFdHMyRGZPWGdXZFY2UnAyTDJkQXowSERPLUFMM29MNzA?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 03:28:49 GMT",
+      "source": "XFastest",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVRlQUZvbl9QOW1wTXZTMDhsLUY1N0JDRXo5cmNSTmE1ZDdDS0VVdjVQczlEamtfMWRFdHMyRGZPWGdXZFY2UnAyTDJkQXowSERPLUFMM29MNzA?oc=5\" target=\"_blank\"&gt;[儲存裝置] Silicon Motion 慧榮展示 Edge AI SSD 控制器 SM252",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-08T03:51:59.131Z"
     },
     {
-      "title": "2451 創見 - 00919處理創見的進度- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOE9iSXVqYzlQWFcxMXFqdDBlMXhIdlF5SmNpNmFRY282TllvcTVmSU5WaWhIcFprU25ZNURyMmJ6QlZnRVJHaTZEV1ZKMzdOcjlfazFvc2o?oc=5",
-      "pubDate": "Sat, 06 Jun 2026 08:11:27 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOE9iSXVqYzlQWFcxMXFqdDBlMXhIdlF5SmNpNmFRY282TllvcTVmSU5WaWhIcFprU25ZNURyMmJ6QlZnRVJHaTZEV1ZKMzdOcjlfazFvc2o?oc=5\" target=\"_blank\"&gt;2451 創見 - 00919處理創見的進度- 股市爆料同學會&lt;/a&gt;&amp;nbsp;&",
+      "title": "記憶體股5檔收漲停 廣穎提前開獎「單月獲利年增13200%」 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQzMzTnN2bXE1REpKaE9leDBPQjktR2ZaZ1VHb19fclpydHN5eFJBU2Z5Nm4tZW9sS2dXVGtMX1ZTY2ZGSE1MWWYyQTZlczJhdkpiRHdQMHVmVm04ZDNYSktGYlJKYUhpYXIwNTkzaG5lNEhRYzZsVFZQTTBvbzdIb2ZRazNkYldwZkVNbDZkcU02RlVtbkZrdkhrdVFYRnpoRU9tWkozR05lREdLWXZCS2hER19JSGRsVlJCQjBLNElBejg2cmdra21oS2d4WA?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 15:37:54 GMT",
+      "source": "MSN",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQ",
+      "category": "競品",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-08T03:51:59.131Z"
+    },
+    {
+      "title": "COMPUTEX直擊》Edge AI與AI PC引爆記憶體需求！創見(2451)看旺2026全年，視覺模組下半年迎爆發 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YT3BiOGZCQzIxSHcwY1VUSFdTSmRWQ1BkMWNieS1CZXBaTWhRTG9SM3hXTzZ5ZnpYMjVUR2VoU0ZmVTlDcU9DQ3dxYw?oc=5",
+      "pubDate": "Sun, 07 Jun 2026 05:00:10 GMT",
+      "source": "news.cnyes.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YT3BiOGZCQzIxSHcwY1VUSFdTSmRWQ1BkMWNieS1CZXBaTWhRTG9SM3hXTzZ5ZnpYMjVUR2VoU0ZmVTlDcU9DQ3dxYw?oc=5\" target=\"_blank\"&gt;COMPUTEX直擊》Edge AI與AI PC引爆記憶體需求！創見(2451)看旺2026全年，視覺模組下半年迎爆發&lt;/a&gt;",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-07T03:43:15.050Z"
+      "fetchedAt": "2026-06-08T03:51:59.131Z"
     }
   ]
 }

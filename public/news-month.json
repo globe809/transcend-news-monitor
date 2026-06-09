@@ -1,42 +1,42 @@
 {
   "period": "month",
-  "generatedAt": "2026-06-08T03:51:59.131Z",
-  "generatedAtTW": "2026-06-08 11:51 台灣時間",
+  "generatedAt": "2026-06-09T02:56:09.572Z",
+  "generatedAtTW": "2026-06-09 10:56 台灣時間",
   "stats": {
-    "total": 3,
+    "total": 4,
     "positive": 1,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 3,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
+        "total": 2,
+        "positive": 1,
         "negative": 0,
         "neutral": 1
       },
       "上游供應商": {
-        "total": 1,
+        "total": 2,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 2
       },
       "競品": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-07",
+        "date": "2026-06-08",
         "positive": 1,
         "negative": 0,
-        "neutral": 1,
-        "total": 2
+        "neutral": 2,
+        "total": 3
       },
       {
-        "date": "2026-06-08",
+        "date": "2026-06-09",
         "positive": 0,
         "negative": 0,
         "neutral": 1,
@@ -46,34 +46,44 @@
   },
   "news": [
     {
+      "title": "COMPUTEX直擊》Edge AI與AI PC引爆記憶體需求！創見(2451)看旺2026全年，視覺模組下半年迎爆發| 優分析 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SHYwN0pEM1JhOGhYcXp5UnR3MVNYTml1aXJueUdONFlUUVJSenRqRFNrbm56NWFxYldJZVU3N0pNNDkwSllHV3VieDJ2ajAxTXYtVXU5YTJBRDgxajhSbTJqaENrM3p1N1hPd2FLbUdmMzJJNWc?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 01:39:56 GMT",
+      "source": "LINE TODAY",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41SHYwN0pEM1JhOGhYcXp5UnR3MVNYTml1aXJueUdONFlUUVJSenRqRFNrbm56NWFxYldJZVU3N0pNNDkwSllHV3VieDJ2ajAxTXYtVXU5YTJBRDgxajhSbTJqaENrM3p1N1hPd2FLbUdmMzJJNWc?oc=5\" target=\"_blank\"&gt;COMPUTEX直擊》E",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-09T02:56:09.572Z"
+    },
+    {
+      "title": "記憶體牛市未完！美光飆近10% 華爾街估DRAM、NAND缺貨到2028年底 - AASTOCKS.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LXhoS0hPUlBpUjhXN3lVUEs5TlZvNFZJMHVCeEZqT3NXRGtLXzRHRHpHa1VEMzZ6UlY3NzJCU3BwWkNPYWFoT19KZk40Ulp0WVd6dWluZVV3T0Q1MENzc2l5RUxUR0I2cVVZRDhR?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 22:30:00 GMT",
+      "source": "AASTOCKS.com",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LXhoS0hPUlBpUjhXN3lVUEs5TlZvNFZJMHVCeEZqT3NXRGtLXzRHRHpHa1VEMzZ6UlY3NzJCU3BwWkNPYWFoT19KZk40Ulp0WVd6dWluZVV3T0Q1MENzc2l5RUxUR0I2cVVZRDhR?oc=5\" target=\"_blank\"&gt;記憶體牛市未完！美光飆近10% 華爾街估DRA",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-09T02:56:09.572Z"
+    },
+    {
+      "title": "邊緣AI與轉單效應助攻，創見營收表現創新高-財經焦點情報站 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRS1odHpHYW5YWUdkcEV5d2czelE4OGk2aGpQWkFLejhMYVpNNTVCdWRwLXVUeXhLMzlpbncwazFGdk1WeEkzWEtOajBHamp6NWpzODZBOGM5MkpIVGxsUnFmU0psWFFVWVpra1BQWHJJN3dFXzYyaml5N05seXFaOWR3?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 05:14:38 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRS1odHpHYW5YWUdkcEV5d2czelE4OGk2aGpQWkFLejhMYVpNNTVCdWRwLXVUeXhLMzlpbncwazFGdk1WeEkzWEtOajBHamp6NWpzODZBOGM5MkpIVGxsUnFmU0psWFFVWVpra1BQWHJJN3dFXzYyaml5N05seXFaOWR3?oc=5\" target=\"_blank",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-09T02:56:09.572Z"
+    },
+    {
       "title": "[儲存裝置] Silicon Motion 慧榮展示 Edge AI SSD 控制器 SM2524XT PCIe Gen5 無快取飆破 14GB/s - XFastest",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVRlQUZvbl9QOW1wTXZTMDhsLUY1N0JDRXo5cmNSTmE1ZDdDS0VVdjVQczlEamtfMWRFdHMyRGZPWGdXZFY2UnAyTDJkQXowSERPLUFMM29MNzA?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 03:28:49 GMT",
+      "pubDate": "Mon, 08 Jun 2026 03:40:49 GMT",
       "source": "XFastest",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVRlQUZvbl9QOW1wTXZTMDhsLUY1N0JDRXo5cmNSTmE1ZDdDS0VVdjVQczlEamtfMWRFdHMyRGZPWGdXZFY2UnAyTDJkQXowSERPLUFMM29MNzA?oc=5\" target=\"_blank\"&gt;[儲存裝置] Silicon Motion 慧榮展示 Edge AI SSD 控制器 SM252",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-08T03:51:59.131Z"
-    },
-    {
-      "title": "記憶體股5檔收漲停 廣穎提前開獎「單月獲利年增13200%」 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQzMzTnN2bXE1REpKaE9leDBPQjktR2ZaZ1VHb19fclpydHN5eFJBU2Z5Nm4tZW9sS2dXVGtMX1ZTY2ZGSE1MWWYyQTZlczJhdkpiRHdQMHVmVm04ZDNYSktGYlJKYUhpYXIwNTkzaG5lNEhRYzZsVFZQTTBvbzdIb2ZRazNkYldwZkVNbDZkcU02RlVtbkZrdkhrdVFYRnpoRU9tWkozR05lREdLWXZCS2hER19JSGRsVlJCQjBLNElBejg2cmdra21oS2d4WA?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 15:37:54 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQ",
-      "category": "競品",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-08T03:51:59.131Z"
-    },
-    {
-      "title": "COMPUTEX直擊》Edge AI與AI PC引爆記憶體需求！創見(2451)看旺2026全年，視覺模組下半年迎爆發 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YT3BiOGZCQzIxSHcwY1VUSFdTSmRWQ1BkMWNieS1CZXBaTWhRTG9SM3hXTzZ5ZnpYMjVUR2VoU0ZmVTlDcU9DQ3dxYw?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 05:00:10 GMT",
-      "source": "news.cnyes.com",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YT3BiOGZCQzIxSHcwY1VUSFdTSmRWQ1BkMWNieS1CZXBaTWhRTG9SM3hXTzZ5ZnpYMjVUR2VoU0ZmVTlDcU9DQ3dxYw?oc=5\" target=\"_blank\"&gt;COMPUTEX直擊》Edge AI與AI PC引爆記憶體需求！創見(2451)看旺2026全年，視覺模組下半年迎爆發&lt;/a&gt;",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-08T03:51:59.131Z"
+      "fetchedAt": "2026-06-09T02:56:09.572Z"
     }
   ]
 }

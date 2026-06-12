@@ -1,12 +1,12 @@
 {
   "period": "year",
-  "generatedAt": "2026-06-11T03:49:00.820Z",
-  "generatedAtTW": "2026-06-11 11:49 台灣時間",
+  "generatedAt": "2026-06-12T03:46:07.770Z",
+  "generatedAtTW": "2026-06-12 11:46 台灣時間",
   "stats": {
-    "total": 2,
+    "total": 3,
     "positive": 1,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -15,10 +15,10 @@
         "neutral": 0
       },
       "上游供應商": {
-        "total": 1,
+        "total": 2,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 2
       },
       "競品": {
         "total": 1,
@@ -32,31 +32,41 @@
         "date": "2026-06",
         "positive": 1,
         "negative": 0,
-        "neutral": 1,
-        "total": 2
+        "neutral": 2,
+        "total": 3
       }
     ]
   },
   "news": [
     {
-      "title": "今年內量產！SK海力士V10 NAND採375層堆疊設計 「鉬取代鎢」有望助力性能提升 - Yahoo 財經",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdldFVUVRRGdDMzZuMkdWS3BJSm9vcFF4aDJTQVRqbTdHcU9uYWFNaEg3NGo2V0ZBTnM0anI0YnhDUXB1SnZ1c1g5M25sejF6UFg1T0ZyMzdsWE9uZkd2NzRROEdTWElFTVRYSEw0OUZBbV9RVjJmYlpfVWhTYm84YkJyeWFIek9jS21GTTFHdFk4NTNQTlc0NV9XX0NEVWhWZy1FWU4waEY1eHJtLTFHQnFYVlZMczd2anIxREhiZWpIOUtpQ0xZUDBUZFgtbGpMOWQ0OXM4RzVCS0ZiQjU0cWNXS3loRjJRZE8yRFpEQlJlMEFNd0ZGUVdLQkU2LVhDZ2JsYlBYTERrTGwtUUVxOG9JYU5MNkRyU2VaNHdtSk84NF9YRjdIWFFHb214UzJJbGtlTFIxNlNHNnhCLWY5SktuYlN3bmt2blNEelRNVVRJdlpHUUF0RGVTc2Q4cVgtd1JIZ0pQbU9kdUpiU1oya1FTMHowYmR0ZzNBc0Z3bnU1TnMxR0JNYzdGZklnUmQweFBzekhWSHExTzZxa1BldkNmQjFfb0U4Qndj?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 03:33:45 GMT",
-      "source": "Yahoo 財經",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdldFVUVRRGdDMzZuMkdWS3BJSm9vcFF4aDJTQVRqbTdHcU9uYWFNaEg3NGo2V0ZBTnM0anI0YnhDUXB1SnZ1c1g5M25sejF6UFg1T0ZyMzdsWE9uZkd2NzRROEdTWElFTVRYSEw0OUZBbV9RVjJmYlpfVWhTYm84YkJyeWFIek9jS21GTTFHdFk4N",
+      "title": "SK 海力士與三星競爭 NAND Flash 堆疊層數，鉬元素市場爆紅看漲 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemhvbllyNEpYeEJ3VWJ4Q1JGZGU0QXIxT29Cczk5endFaHVHYThxRndTV3pVXzFTSUpLTkNzVFFYWURRUmJHNHY0ckNJWHZyLUNjNnNjSV9BUUdlYk1mbFhPWGs3S2xIUFRFVFMxRTc2WElUY29YUW9OWW1XblJPbVp3UGl4UXdMUW5VR2IzQURRLWFBLTFqOWNLd1h2YmJRUXBETUJHcE5lU2RvTmtCVkE0ZU41SWtLeFhibA?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 00:41:43 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQemhvbllyNEpYeEJ3VWJ4Q1JGZGU0QXIxT29Cczk5endFaHVHYThxRndTV3pVXzFTSUpLTkNzVFFYWURRUmJHNHY0ckNJWHZyLUNjNnNjSV9BUUdlYk1mbFhPWGs3S2xIUFRFVFMxRTc2WElUY29YUW9OWW1XblJPbVp3UGl4UXdMUW5VR2IzQURRL",
       "category": "上游供應商",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-11T03:49:00.820Z"
+      "fetchedAt": "2026-06-12T03:46:07.770Z"
     },
     {
       "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHWnJ6TkVDdktmTkhVZXJ2T3gweDZIc3YxU2xvdDNRRW5FM0lBbkJuZEo5RE5WOEQ1UHVYd29wajhreWZpWkF0MUFoYUxQTE9vcWVxTS1yT1pnaEY3TEVoMmJwMkI5b2Q0RUpKbVNKUjBlTGhCek9ZZklvSC1ZaHF1bE9PUnJLZ2NrUXMxUUVpSl84dlF1d2JuaGp6S2VvRTBzMm5jeWlzV3AybHhuSUVma3F2akZld3VXWlRvc2hKaWprM0VYWXdVNC1rTEVYZXNTcUc3T091T09nSEhVSzJiRnMyNTZhNzQ4bWYydVpsT1F0SktqRWdsTlQ2N0N1Wkx6WHJFVmY4NWhqQlJaRkgwMl9mdmU3SG5DZ1RxVFhJcUZ0a2xleWt1eUtadWtaWUVXWnV6MFdkS3BEQmpNSW9pV1dIOUR4RU1MN21HclpLdXh2NE1mcnllbFdNM2o2ZzBPRUFZd1FjbkxOdQ?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 09:39:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPVnRIZVM1SUxDN0NQeTliQ3ZqUm5wWE5CU2dvbmtzVUY3dDNJSVkyR1Y3cFQ4SFltcWRqRkdFRmVyS0t1b2RFZngtd1htS1Njd3E4ZlE3bVVGUEdOWkg4XzNfMnVlQ3U0TTlFcnRUNldsbWc3d0xZbzR3TFJmcFRaamw4M05ZWmZBWExVbWlVenA3Tmg2b2M1RFRHMGU5U25rSzZLczUtTEdxWVJ4RE5QNkJISVAxRGhNbmZqeWtJSy0xZTFiM2plVFlTYUMxX0tlMzhlRE01MDRnRHY2VGVDUlpnT3F1QWt6b2NFYlJDa2xTdXJTU0Ztak5CTFdqZldqZU41WkQ2a1M1QTQ4TEE5cUt5Q19HMVJYYWJTTC1pT1F0d3pBdjFoeFpObXAyMVQxM2s3M2dmREdhU1oxa2poVmNlbW9FbTNXOHMtQktBZ1pqcXNQdElBZm1ycWtZR0RZamhXX2JDdUY0alQ2YkVVdTVSS1pHRG82Vzg4WVNjeElnUExpSDh1UmVkR0g3bk13TkQ4eDF1NVJkaDVyRENWZ3pnWnNOcktFUThKOVEzNDZNUW5oeVhrczQtYmZIR0lSQm9pMHFwb0U3Y0JodWt2SjlB?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 10:43:40 GMT",
       "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHW",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxPVnRIZVM1SUxDN0NQeTliQ3ZqUm5wWE5CU2dvbmtzVUY3dDNJSVkyR1Y3cFQ4SFltcWRqRkdFRmVyS0t1b2RFZngtd1htS1Njd3E4ZlE3bVVGUEdOWkg4XzNfMnVlQ3U0TTlFcnRUNldsbWc3d0xZbzR3TFJmcFRaamw4M05ZWmZBWExVbWlVenA3T",
       "category": "競品",
       "sentiment": "positive",
-      "fetchedAt": "2026-06-11T03:49:00.820Z"
+      "fetchedAt": "2026-06-12T03:46:07.770Z"
+    },
+    {
+      "title": "SMI新SSD控制器SM2524XT，無DRAM快取仍飆每秒14GB讀取 - 4Gamers",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9Hdkl1MXB6cldnSGJncVpCNkgtNlA0Q1VyakNwUmJ3T2ZDb2FqZEZnSkZyRXFBS3g0VlhjTmh4WlprZkpnSGxZaWpGWXp3eWdhT1JkTG80UzR4REM3RTBqMXY0Y1N5WDI3YjVUcGJ2MlpkUERhT1QwUVJrdHR1cXdmdFpjUHJ0eVoyY0xSVTVoWWlrZ3c?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 06:00:00 GMT",
+      "source": "4Gamers",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9Hdkl1MXB6cldnSGJncVpCNkgtNlA0Q1VyakNwUmJ3T2ZDb2FqZEZnSkZyRXFBS3g0VlhjTmh4WlprZkpnSGxZaWpGWXp3eWdhT1JkTG80UzR4REM3RTBqMXY0Y1N5WDI3YjVUcGJ2MlpkUERhT1QwUVJrdHR1cXdmdFpjUHJ0eVoyY0xSVTVoW",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-12T03:46:07.770Z"
     }
   ]
 }

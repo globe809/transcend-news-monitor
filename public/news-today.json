@@ -1,12 +1,12 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-13T03:33:31.793Z",
-  "generatedAtTW": "2026-06-13 11:33 台灣時間",
+  "generatedAt": "2026-06-14T03:54:29.664Z",
+  "generatedAtTW": "2026-06-14 11:54 台灣時間",
   "stats": {
-    "total": 4,
+    "total": 3,
     "positive": 2,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
         "total": 1,
@@ -16,31 +16,24 @@
       },
       "上游供應商": {
         "total": 1,
-        "positive": 0,
+        "positive": 1,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "競品": {
-        "total": 2,
-        "positive": 2,
+        "total": 1,
+        "positive": 1,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-12",
+        "date": "2026-06-13",
         "positive": 2,
         "negative": 0,
         "neutral": 1,
         "total": 3
-      },
-      {
-        "date": "2026-06-13",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
       }
     ]
   },
@@ -48,42 +41,32 @@
     {
       "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 00:00:56 GMT",
+      "pubDate": "Sat, 13 Jun 2026 23:54:20 GMT",
       "source": "CMoney",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-13T03:33:31.793Z"
-    },
-    {
-      "title": "豐田 22 年日本一哥地位終結 被日本記憶體 Kioxia 搶走龍頭寶座 - 電腦領域HKEPC Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPd0FTVHJGSm44TXQ2WUF0dVJBcFd6UzNJanR0b1lEa3lGRDFEbF96akM3UVdjRGxHUE9UWVBVSUpOeEhVWWFfOFZLZUE2cmtqbERld3FvcEhGdDF0bjI5MVVjQXIxVzRXYl9CWE1FRUJuRUhXSGprb3JXNlJmYjlpSmthOUFoYThsSy1xYjR6MVJCdlViSEpNRGtxS1dZd09oRnBVZFBhdWtyUlNGbnpPZGVWQzUzODFJQ2FVaWVkMkNyOTF1Ri1qTUNUWnpzWDRVanJTeUJvWGtZTlZxd25GVE5FUjFHRWxtVGowUzVYR2daaTJCc20tS2x0NWVHaEFBZkZkYU5lWDdJOXk2eXNHTkRVUnlGR0JzMUs0UDFtSUlIamEtbTJVZ0xURzhEUVJyQmx5WW93Wjc2cnMtUWt4MElKWjRtcC05dFJ1dHYxMWVVeVhrb2t0ekJxOURvNjJaYnl2VmJEbw?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 09:24:36 GMT",
-      "source": "電腦領域HKEPC Hardware",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPd0FTVHJGSm44TXQ2WUF0dVJBcFd6UzNJanR0b1lEa3lGRDFEbF96akM3UVdjRGxHUE9UWVBVSUpOeEhVWWFfOFZLZUE2cmtqbERld3FvcEhGdDF0bjI5MVVjQXIxVzRXYl9CWE1FRUJuRUhXSGprb3JXNlJmYjlpSmthOUFoYThsSy1xYjR6MVJCd",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-13T03:33:31.793Z"
-    },
-    {
-      "title": "記憶體股5檔收漲停 廣穎提前開獎「單月獲利年增13200%」 - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQzMzTnN2bXE1REpKaE9leDBPQjktR2ZaZ1VHb19fclpydHN5eFJBU2Z5Nm4tZW9sS2dXVGtMX1ZTY2ZGSE1MWWYyQTZlczJhdkpiRHdQMHVmVm04ZDNYSktGYlJKYUhpYXIwNTkzaG5lNEhRYzZsVFZQTTBvbzdIb2ZRazNkYldwZkVNbDZkcU02RlVtbkZrdkhrdVFYRnpoRU9tWkozR05lREdLWXZCS2hER19JSGRsVlJCQjBLNElBejg2cmdra21oS2d4WA?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 08:15:07 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOc2NQaC1HVGxZWk9hVHVkME4yb2NpQjNKUks1dW9SUlFWaURWNm4zdTFYdmFtZ0NYTVN1RHdVVk11MHluSkxLUTM0TlYwQkdvRkVGenFRZ1hSWkRHMldhcjEyN3Q3azVGRndxSXJZV1Z4UTkxZFN4S3h0MnlXN0h5RDFRMWE4cS1iYVRJdS1sUjJGQ",
-      "category": "競品",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-13T03:33:31.793Z"
+      "fetchedAt": "2026-06-14T03:54:29.664Z"
     },
     {
       "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHWnJ6TkVDdktmTkhVZXJ2T3gweDZIc3YxU2xvdDNRRW5FM0lBbkJuZEo5RE5WOEQ1UHVYd29wajhreWZpWkF0MUFoYUxQTE9vcWVxTS1yT1pnaEY3TEVoMmJwMkI5b2Q0RUpKbVNKUjBlTGhCek9ZZklvSC1ZaHF1bE9PUnJLZ2NrUXMxUUVpSl84dlF1d2JuaGp6S2VvRTBzMm5jeWlzV3AybHhuSUVma3F2akZld3VXWlRvc2hKaWprM0VYWXdVNC1rTEVYZXNTcUc3T091T09nSEhVSzJiRnMyNTZhNzQ4bWYydVpsT1F0SktqRWdsTlQ2N0N1Wkx6WHJFVmY4NWhqQlJaRkgwMl9mdmU3SG5DZ1RxVFhJcUZ0a2xleWt1eUtadWtaWUVXWnV6MFdkS3BEQmpNSW9pV1dIOUR4RU1MN21HclpLdXh2NE1mcnllbFdNM2o2ZzBPRUFZd1FjbkxOdQ?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 05:58:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPVnRIZVM1SUxDN0NQeTliQ3ZqUm5wWE5CU2dvbmtzVUY3dDNJSVkyR1Y3cFQ4SFltcWRqRkdFRmVyS0t1b2RFZngtd1htS1Njd3E4ZlE3bVVGUEdOWkg4XzNfMnVlQ3U0TTlFcnRUNldsbWc3d0xZbzR3TFJmcFRaamw4M05ZWmZBWExVbWlVenA3Tmg2b2M1RFRHMGU5U25rSzZLczUtTEdxWVJ4RE5QNkJISVAxRGhNbmZqeWtJSy0xZTFiM2plVFlTYUMxX0tlMzhlRE01MDRnRHY2VGVDUlpnT3F1QWt6b2NFYlJDa2xTdXJTU0Ztak5CTFdqZldqZU41WkQ2a1M1QTQ4TEE5cUt5Q19HMVJYYWJTTC1pT1F0d3pBdjFoeFpObXAyMVQxM2s3M2dmREdhU1oxa2poVmNlbW9FbTNXOHMtQktBZ1pqcXNQdElBZm1ycWtZR0RZamhXX2JDdUY0alQ2YkVVdTVSS1pHRG82Vzg4WVNjeElnUExpSDh1UmVkR0g3bk13TkQ4eDF1NVJkaDVyRENWZ3pnWnNOcktFUThKOVEzNDZNUW5oeVhrczQtYmZIR0lSQm9pMHFwb0U3Y0JodWt2SjlB?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 18:24:05 GMT",
       "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHW",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxPVnRIZVM1SUxDN0NQeTliQ3ZqUm5wWE5CU2dvbmtzVUY3dDNJSVkyR1Y3cFQ4SFltcWRqRkdFRmVyS0t1b2RFZngtd1htS1Njd3E4ZlE3bVVGUEdOWkg4XzNfMnVlQ3U0TTlFcnRUNldsbWc3d0xZbzR3TFJmcFRaamw4M05ZWmZBWExVbWlVenA3T",
       "category": "競品",
       "sentiment": "positive",
-      "fetchedAt": "2026-06-13T03:33:31.793Z"
+      "fetchedAt": "2026-06-14T03:54:29.664Z"
+    },
+    {
+      "title": "Sandisk Corporation (SNDK)：AI 需求推動，是否該成為你的投資新寵？ - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm5BWU05ZVR1ZklqR3J1dWtfS2ozczZGMGE4WWVrc05TdEsyYVo2eHhuam9sU1ROaDdkcDA0UjZsU1Ewb1JsNzVTVlhjWWxtYnRULWxkM0pTQVpzMjVWZjVxRlZQY0JQbk5hOHJHMHNlNVNPRW1QdXhacGxVbEtJSGxwazJRWWpIREN3RXB3?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 14:07:35 GMT",
+      "source": "CMoney投資網誌",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm5BWU05ZVR1ZklqR3J1dWtfS2ozczZGMGE4WWVrc05TdEsyYVo2eHhuam9sU1ROaDdkcDA0UjZsU1Ewb1JsNzVTVlhjWWxtYnRULWxkM0pTQVpzMjVWZjVxRlZQY0JQbk5hOHJHMHNlNVNPRW1QdXhacGxVbEtJSGxwazJRWWpIREN3RXB3?oc=5",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-14T03:54:29.664Z"
     }
   ]
 }

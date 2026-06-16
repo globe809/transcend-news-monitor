@@ -1,10 +1,10 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-15T04:06:37.332Z",
-  "generatedAtTW": "2026-06-15 12:06 台灣時間",
+  "generatedAt": "2026-06-16T03:56:18.330Z",
+  "generatedAtTW": "2026-06-16 11:56 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 1,
+    "total": 1,
+    "positive": 0,
     "negative": 0,
     "neutral": 1,
     "byCategory": {
@@ -21,42 +21,32 @@
         "neutral": 0
       },
       "競品": {
-        "total": 1,
-        "positive": 1,
+        "total": 0,
+        "positive": 0,
         "negative": 0,
         "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-14",
-        "positive": 1,
+        "date": "2026-06-15",
+        "positive": 0,
         "negative": 0,
         "neutral": 1,
-        "total": 2
+        "total": 1
       }
     ]
   },
   "news": [
     {
-      "title": "5檔記憶體股亮燈漲停! 廣穎4月EPS衝2.66元 年增13200% - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHWnJ6TkVDdktmTkhVZXJ2T3gweDZIc3YxU2xvdDNRRW5FM0lBbkJuZEo5RE5WOEQ1UHVYd29wajhreWZpWkF0MUFoYUxQTE9vcWVxTS1yT1pnaEY3TEVoMmJwMkI5b2Q0RUpKbVNKUjBlTGhCek9ZZklvSC1ZaHF1bE9PUnJLZ2NrUXMxUUVpSl84dlF1d2JuaGp6S2VvRTBzMm5jeWlzV3AybHhuSUVma3F2akZld3VXWlRvc2hKaWprM0VYWXdVNC1rTEVYZXNTcUc3T091T09nSEhVSzJiRnMyNTZhNzQ4bWYydVpsT1F0SktqRWdsTlQ2N0N1Wkx6WHJFVmY4NWhqQlJaRkgwMl9mdmU3SG5DZ1RxVFhJcUZ0a2xleWt1eUtadWtaWUVXWnV6MFdkS3BEQmpNSW9pV1dIOUR4RU1MN21HclpLdXh2NE1mcnllbFdNM2o2ZzBPRUFZd1FjbkxOdQ?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 17:16:08 GMT",
-      "source": "MSN",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcVQ1Tno2cFNnb296a3R2ZmZpcS10cWVZUkVlR0k3TWxRY1Q4a2VFUDdoWGxGVkhlZmlRVkY4YXlUVnVyd2syeE1jYXhNYVF1eEhkeXgyeThSTUVYa0Ixc3c0Q3V2Y1ExOHJMYUFRUExvbllDbC0ycHY5X3BIbVQwSGZTaFdnZ2hrVzRaeVNpS2lHW",
-      "category": "競品",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-15T04:06:37.332Z"
-    },
-    {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 08:48:05 GMT",
+      "title": "2451 創見 - 同是模組廠，但路不一定相同- 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtamJJR3FUaE5OaUhELVlEalE1ZmNxYUc2dGhDS1ZTeGVsWXdEUjZkUnFPUnlrQWNoeWJpTThrTG1zSmNMeVNsenVubk1FV2ZQTFRwYmxRMmQ?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 21:52:57 GMT",
       "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtamJJR3FUaE5OaUhELVlEalE1ZmNxYUc2dGhDS1ZTeGVsWXdEUjZkUnFPUnlrQWNoeWJpTThrTG1zSmNMeVNsenVubk1FV2ZQTFRwYmxRMmQ?oc=5\" target=\"_blank\"&gt;2451 創見 - 同是模組廠，但路不一定相同- 股市爆料同學會&lt;/a&gt;&amp;nbsp;",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-15T04:06:37.332Z"
+      "fetchedAt": "2026-06-16T03:56:18.330Z"
     }
   ]
 }

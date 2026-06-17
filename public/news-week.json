@@ -1,18 +1,18 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-16T03:56:18.330Z",
-  "generatedAtTW": "2026-06-16 11:56 台灣時間",
+  "generatedAt": "2026-06-17T03:57:49.186Z",
+  "generatedAtTW": "2026-06-17 11:57 台灣時間",
   "stats": {
-    "total": 1,
+    "total": 0,
     "positive": 0,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "上游供應商": {
         "total": 0,
@@ -27,26 +27,7 @@
         "neutral": 0
       }
     },
-    "trend": [
-      {
-        "date": "2026-06-15",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      }
-    ]
+    "trend": []
   },
-  "news": [
-    {
-      "title": "2451 創見 - 同是模組廠，但路不一定相同- 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtamJJR3FUaE5OaUhELVlEalE1ZmNxYUc2dGhDS1ZTeGVsWXdEUjZkUnFPUnlrQWNoeWJpTThrTG1zSmNMeVNsenVubk1FV2ZQTFRwYmxRMmQ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 21:52:57 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtamJJR3FUaE5OaUhELVlEalE1ZmNxYUc2dGhDS1ZTeGVsWXdEUjZkUnFPUnlrQWNoeWJpTThrTG1zSmNMeVNsenVubk1FV2ZQTFRwYmxRMmQ?oc=5\" target=\"_blank\"&gt;2451 創見 - 同是模組廠，但路不一定相同- 股市爆料同學會&lt;/a&gt;&amp;nbsp;",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-16T03:56:18.330Z"
-    }
-  ]
+  "news": []
 }

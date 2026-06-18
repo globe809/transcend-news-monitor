@@ -1,24 +1,24 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-17T03:57:49.186Z",
-  "generatedAtTW": "2026-06-17 11:57 台灣時間",
+  "generatedAt": "2026-06-18T03:45:40.908Z",
+  "generatedAtTW": "2026-06-18 11:45 台灣時間",
   "stats": {
-    "total": 0,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "上游供應商": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
         "total": 0,
@@ -27,7 +27,36 @@
         "neutral": 0
       }
     },
-    "trend": []
+    "trend": [
+      {
+        "date": "2026-06-17",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 2,
+        "total": 2
+      }
+    ]
   },
-  "news": []
+  "news": [
+    {
+      "title": "AI啟示錄：記憶體廠Kioxia登頂日本股王 半導體稱霸亞洲股市 - 香港經濟日報HKET",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNOGVLamh0WnRBQnBoTGZ2RnhSMEl5cVJKNERGS2JveGJRT0tBUy1hZGN6MURlRzAyTWNQeGg4dEZscGdMZkc3QTB4UWRFelpna29uLUZycU5hdGVFR1VWR3ltMjRKaGltT3BMc3NuTFpMaUp0OXk4cmZuZ0ltWG1GcVJUN3lSX0M4UzhBRzlBNDgtT19nVERueEttYWhXYzM4cFRXUllDM0RhbldSUF9LMFpFMHF5XzhwcDlXZ2JnWVJhUUJESFBqQTA4Z1d6N2dTOHZvd2J0bVg5TGNSbmZkbmFrZklibDRjYXVsYjU1bmE0aDlPLW10VklfX0RkaUk5RXd5TWUyeGZjVTQyZGg2dHZVTFZtQVlMTjROOVJjVlhlYjhiSVVoOUhMcHU0Qy00eTAtbFZCc0tMWnJycjFha3UwUng4SXN6Tm9WZ1ZxUHN2R2ZmM2FUdXRtQjdsQ2JkMWd4ZXU0R0FldW50VFdvZ25MaFU5Q0lObXZaSmhEUGxDQQ?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 17:02:14 GMT",
+      "source": "香港經濟日報HKET",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNOGVLamh0WnRBQnBoTGZ2RnhSMEl5cVJKNERGS2JveGJRT0tBUy1hZGN6MURlRzAyTWNQeGg4dEZscGdMZkc3QTB4UWRFelpna29uLUZycU5hdGVFR1VWR3ltMjRKaGltT3BMc3NuTFpMaUp0OXk4cmZuZ0ltWG1GcVJUN3lSX0M4UzhBRzlBNDgtT",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-18T03:45:40.908Z"
+    },
+    {
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 12:54:12 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-18T03:45:40.908Z"
+    }
+  ]
 }

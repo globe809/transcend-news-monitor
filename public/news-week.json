@@ -1,7 +1,7 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-19T04:07:53.390Z",
-  "generatedAtTW": "2026-06-19 12:07 台灣時間",
+  "generatedAt": "2026-06-20T03:31:23.704Z",
+  "generatedAtTW": "2026-06-20 11:31 台灣時間",
   "stats": {
     "total": 2,
     "positive": 0,
@@ -29,11 +29,18 @@
     },
     "trend": [
       {
-        "date": "2026-06-18",
+        "date": "2026-06-19",
         "positive": 0,
         "negative": 0,
-        "neutral": 2,
-        "total": 2
+        "neutral": 1,
+        "total": 1
+      },
+      {
+        "date": "2026-06-20",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
       }
     ]
   },
@@ -41,22 +48,22 @@
     {
       "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 13:50:59 GMT",
+      "pubDate": "Sat, 20 Jun 2026 00:19:11 GMT",
       "source": "CMoney",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-19T04:07:53.390Z"
+      "fetchedAt": "2026-06-20T03:31:23.704Z"
     },
     {
-      "title": "華碩電腦獲COMPUTEX 2026永續設計獎旗艦規模組金獎 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OGtwUEFIeXBxWjJibVduNDdBbVZlNHpzQVBsSjF0elF2R0VrWHZnX19FQXRZYlY4aXVGQTVDaUFqSkYxS25TYVlDYXl5eG1FNTNlLVFR?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 09:14:52 GMT",
-      "source": "中央社 CNA",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OGtwUEFIeXBxWjJibVduNDdBbVZlNHpzQVBsSjF0elF2R0VrWHZnX19FQXRZYlY4aXVGQTVDaUFqSkYxS25TYVlDYXl5eG1FNTNlLVFR?oc=5\" target=\"_blank\"&gt;華碩電腦獲COMPUTEX 2026永續設計獎旗艦規模組金獎&lt;/a&gt;&amp;nbsp;&amp;",
+      "title": "2451 創見 - https://youtu.be/CiiYZGqGqkI - 股市爆料同學會 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZGFUQnQzcHJnRDBSRGladU1vZDBRN3BDQkJyLWF4WUwtUzZvVE5oV191UVA0MHQ2WDd2Slp4N09iUVp5VHZ1azRKOFJqMDNySlc3dWI5QTg?oc=5",
+      "pubDate": "Fri, 19 Jun 2026 09:19:06 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZGFUQnQzcHJnRDBSRGladU1vZDBRN3BDQkJyLWF4WUwtUzZvVE5oV191UVA0MHQ2WDd2Slp4N09iUVp5VHZ1azRKOFJqMDNySlc3dWI5QTg?oc=5\" target=\"_blank\"&gt;2451 創見 - https://youtu.be/CiiYZGqGqkI - 股市爆料同學會&lt;",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-19T04:07:53.390Z"
+      "fetchedAt": "2026-06-20T03:31:23.704Z"
     }
   ]
 }

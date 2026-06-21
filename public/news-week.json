@@ -1,18 +1,18 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-20T03:31:23.704Z",
-  "generatedAtTW": "2026-06-20 11:31 台灣時間",
+  "generatedAt": "2026-06-21T04:02:27.112Z",
+  "generatedAtTW": "2026-06-21 12:02 台灣時間",
   "stats": {
-    "total": 2,
+    "total": 1,
     "positive": 0,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 2
+        "neutral": 1
       },
       "上游供應商": {
         "total": 0,
@@ -29,14 +29,7 @@
     },
     "trend": [
       {
-        "date": "2026-06-19",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      },
-      {
-        "date": "2026-06-20",
+        "date": "2026-06-21",
         "positive": 0,
         "negative": 0,
         "neutral": 1,
@@ -48,22 +41,12 @@
     {
       "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 00:19:11 GMT",
+      "pubDate": "Sun, 21 Jun 2026 01:40:50 GMT",
       "source": "CMoney",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-20T03:31:23.704Z"
-    },
-    {
-      "title": "2451 創見 - https://youtu.be/CiiYZGqGqkI - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZGFUQnQzcHJnRDBSRGladU1vZDBRN3BDQkJyLWF4WUwtUzZvVE5oV191UVA0MHQ2WDd2Slp4N09iUVp5VHZ1azRKOFJqMDNySlc3dWI5QTg?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 09:19:06 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZGFUQnQzcHJnRDBSRGladU1vZDBRN3BDQkJyLWF4WUwtUzZvVE5oV191UVA0MHQ2WDd2Slp4N09iUVp5VHZ1azRKOFJqMDNySlc3dWI5QTg?oc=5\" target=\"_blank\"&gt;2451 創見 - https://youtu.be/CiiYZGqGqkI - 股市爆料同學會&lt;",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-20T03:31:23.704Z"
+      "fetchedAt": "2026-06-21T04:02:27.112Z"
     }
   ]
 }

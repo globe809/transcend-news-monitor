@@ -1,18 +1,18 @@
 {
   "period": "year",
-  "generatedAt": "2026-06-21T04:02:27.112Z",
-  "generatedAtTW": "2026-06-21 12:02 台灣時間",
+  "generatedAt": "2026-06-22T04:03:11.860Z",
+  "generatedAtTW": "2026-06-22 12:03 台灣時間",
   "stats": {
-    "total": 1,
+    "total": 0,
     "positive": 0,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
+        "total": 0,
         "positive": 0,
         "negative": 0,
-        "neutral": 1
+        "neutral": 0
       },
       "上游供應商": {
         "total": 0,
@@ -27,26 +27,7 @@
         "neutral": 0
       }
     },
-    "trend": [
-      {
-        "date": "2026-06",
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1,
-        "total": 1
-      }
-    ]
+    "trend": []
   },
-  "news": [
-    {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sun, 21 Jun 2026 01:40:50 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-21T04:02:27.112Z"
-    }
-  ]
+  "news": []
 }

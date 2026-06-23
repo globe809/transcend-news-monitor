@@ -1,24 +1,24 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-22T04:03:11.860Z",
-  "generatedAtTW": "2026-06-22 12:03 台灣時間",
+  "generatedAt": "2026-06-23T03:24:44.447Z",
+  "generatedAtTW": "2026-06-23 11:24 台灣時間",
   "stats": {
-    "total": 0,
-    "positive": 0,
+    "total": 12,
+    "positive": 3,
     "negative": 0,
-    "neutral": 0,
+    "neutral": 9,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
+        "total": 3,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 3
       },
       "上游供應商": {
-        "total": 0,
-        "positive": 0,
+        "total": 9,
+        "positive": 3,
         "negative": 0,
-        "neutral": 0
+        "neutral": 6
       },
       "競品": {
         "total": 0,
@@ -27,7 +27,136 @@
         "neutral": 0
       }
     },
-    "trend": []
+    "trend": [
+      {
+        "date": "2026-06-22",
+        "positive": 3,
+        "negative": 0,
+        "neutral": 9,
+        "total": 12
+      }
+    ]
   },
-  "news": []
+  "news": [
+    {
+      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 22:19:08 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "Sandisk預測人工智慧將徹底改變NAND市場，摩根士丹利專家發聲 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcEFWZkdQMmpZV0k4WXh1UmhydEhlb1dCQVlMSEZXQWRTcVNLM3pOMzRzLS1acU9JTURQUnpXSGNQc1NKRHdySFFTbUFyYUFVQ3YwUjI5VzMzb2VWQURnQTlhRG9GQkE?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 17:03:43 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcEFWZkdQMmpZV0k4WXh1UmhydEhlb1dCQVlMSEZXQWRTcVNLM3pOMzRzLS1acU9JTURQUnpXSGNQc1NKRHdySFFTbUFyYUFVQ3YwUjI5VzMzb2VWQURnQTlhRG9GQkE?oc=5\" target=\"_blank\"&gt;Sandisk預測人工智慧將徹底改變NAND市場，摩根士丹利專家",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "【06/22 申報轉讓】創見(2451)董事束道安於22日申報轉讓創見股票9張 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UanFqRWloT005R0ZpRmk0M3Ywd3NIaHBZZlVvTk9scGl0anRhRHdyYTBJdFY2SDBBS3dhQUkxeUpfUW5vVE1wM21fVy16VUJZS1BYOUNwWjR5eC0tbDhHSUJnZlo1WFk?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 13:10:04 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UanFqRWloT005R0ZpRmk0M3Ywd3NIaHBZZlVvTk9scGl0anRhRHdyYTBJdFY2SDBBS3dhQUkxeUpfUW5vVE1wM21fVy16VUJZS1BYOUNwWjR5eC0tbDhHSUJnZlo1WFk?oc=5\" target=\"_blank\"&gt;【06/22 申報轉讓】創見(2451)董事束道安於22日申報轉",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "【06/22 申報轉讓】創見(2451)經理人方文政於22日申報轉讓創見股票14張 - CMoney",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzUGRNMGF2bGxzc2VEbDZ4MS12eDRRWW41cWxKMXdrdlpIODZFVmIyY2tyN2NIdWRJRXJJNVlyXzVzbldxLWZBRk5qdWtzVnlEYzFFQTVnWU91NUM0Q1NuSDBXSjFBMDA?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 13:10:04 GMT",
+      "source": "CMoney",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzUGRNMGF2bGxzc2VEbDZ4MS12eDRRWW41cWxKMXdrdlpIODZFVmIyY2tyN2NIdWRJRXJJNVlyXzVzbldxLWZBRk5qdWtzVnlEYzFFQTVnWU91NUM0Q1NuSDBXSjFBMDA?oc=5\" target=\"_blank\"&gt;【06/22 申報轉讓】創見(2451)經理人方文政於22日申報",
+      "category": "創見資訊",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "記憶體大廠SanDisk押注NAND垂直堆疊 拚未來以HBF提升容量、速度 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTl0ZjFpOGt5bWI1Y0pOdWdTYVIxWE9PUGxWLVVCSkRLdG5lQVJaa1UyekRtLWVlMXFQMVpJUXc0akNOOXBLOHVIYlFBaVhaUGd0TDBwUXV2TkFGd2pxdElTZnZWUGRjNnF0TnlvMFFWUWo4aVRsb1ZWa3FsYXowZNIBX0FVX3lxTE5hQ19BOHVXc3liaG8wbGJMN0w5SGI1STJOUWx1aERnRWhMV3FxWHdCdnRlTnpCaDF6OTVQalF2WjQyd3Q3VGFTeDYxSHFXNlFCM1NvNmx0WDdxWVgzUmdj?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 09:31:29 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTl0ZjFpOGt5bWI1Y0pOdWdTYVIxWE9PUGxWLVVCSkRLdG5lQVJaa1UyekRtLWVlMXFQMVpJUXc0akNOOXBLOHVIYlFBaVhaUGd0TDBwUXV2TkFGd2pxdElTZnZWUGRjNnF0TnlvMFFWUWo4aVRsb1ZWa3FsYXowZNIBX0FVX3lxTE5hQ19BOHVXc",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "HBM 速度、NAND 容量不再二擇一！SanDisk 新專利如何打造記憶體護城河？ - 鏈新聞 ABMedia",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SSjJuaFB4bUxFWGItOG12Z3c5elpBcFFsUm9rY2xHUFRoWVAxeGFCU2ZzbDdVRVc3VERRa2tZMXlMc3g2NmYtdWxUU185ckkyc29yRW1B?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 07:39:00 GMT",
+      "source": "鏈新聞 ABMedia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SSjJuaFB4bUxFWGItOG12Z3c5elpBcFFsUm9rY2xHUFRoWVAxeGFCU2ZzbDdVRVc3VERRa2tZMXlMc3g2NmYtdWxUU185ckkyc29yRW1B?oc=5\" target=\"_blank\"&gt;HBM 速度、NAND 容量不再二擇一！SanDisk 新專利如何打造記憶體護城河？&lt;/a&gt;&am",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "SanDisk 推出 HBF NAND 技術 將 NAND 顆粒垂直堆疊在 GPU 下方 - 電腦領域HKEPC Hardware",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRm1OakRCSnJTdHdMOWdibXZ2dFFkeFBqd0lDQ2lqcHM5em8xMVp2OTVBT0lia3BKdmpKTGZ3a1BGd0xCUy1IT2Y1SWRLajQ2ZVN5NGdfSGR0MTB1Q3hLZjB5ZzNVU0VNTldEVmU0bFNpbTBUS1lYZ00waXY5LV9KcmpVeTRoRVJlTk1CQjFUb3h6eUQyZllpM1FpUzhvVDhIN09pWDU2al9QclFiR0Z2eG5JbTUzbzZhaW1lLXBmd2tFNmdjc0hzQ0tqYmF2WnI0SG9iUFVQNXhWUWVDS0VoSXhZRFJxcGU5QU9kbGdHdEFzbmRLVTcweVIzMXVPYTBleDhEdFdTQnVmZ01FWFZFU1FB?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 06:55:16 GMT",
+      "source": "電腦領域HKEPC Hardware",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPRm1OakRCSnJTdHdMOWdibXZ2dFFkeFBqd0lDQ2lqcHM5em8xMVp2OTVBT0lia3BKdmpKTGZ3a1BGd0xCUy1IT2Y1SWRLajQ2ZVN5NGdfSGR0MTB1Q3hLZjB5ZzNVU0VNTldEVmU0bFNpbTBUS1lYZ00waXY5LV9KcmpVeTRoRVJlTk1CQjFUb3h6e",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "SanDisk註冊晶片封裝新專利，將NAND堆疊在AI晶片作為晶片與HBM間的大容量緩衝(249544) - Cool3c",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xV0hLYkFNM0N1VGx5U2hwYnBqRmhiaV9ZdmNlUkpRZHJrU2draFU3RXoyN1JuLWtGeXdhSlhZbDVVdWhsR1ZNRk5VZ0kyQQ?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 06:53:00 GMT",
+      "source": "Cool3c",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xV0hLYkFNM0N1VGx5U2hwYnBqRmhiaV9ZdmNlUkpRZHJrU2draFU3RXoyN1JuLWtGeXdhSlhZbDVVdWhsR1ZNRk5VZ0kyQQ?oc=5\" target=\"_blank\"&gt;SanDisk註冊晶片封裝新專利，將NAND堆疊在AI晶片作為晶片與HBM間的大容量緩衝(249544)&lt;/a&gt;&am",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "[記憶體 卡 碟] 隨著HBM缺貨阻礙人工智慧熱潮，Sandisk押注在High Bandwidth Flash(HBF)上 - XFastest",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qcG9DT0xDaUNIU0taNnVZcXpraXM3Wjd5b2VmUzUtWXJzNU5Ha0oyd01fZWkxWDE2N1p0Zzhvdi1FRVZJbDBlMi1WNkFJejkzWXkyM3FqZ0tTbVU?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 06:33:43 GMT",
+      "source": "XFastest",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qcG9DT0xDaUNIU0taNnVZcXpraXM3Wjd5b2VmUzUtWXJzNU5Ha0oyd01fZWkxWDE2N1p0Zzhvdi1FRVZJbDBlMi1WNkFJejkzWXkyM3FqZ0tTbVU?oc=5\" target=\"_blank\"&gt;[記憶體 卡 碟] 隨著HBM缺貨阻礙人工智慧熱潮，Sandisk押注在High Bandwid",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "突破傳統旁側配置，SanDisk 新專利將 NAND 快閃記憶體「墊」在 GPU 底下 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmV5OFVmZkRsX001bjZxRXhWbTFuTnlQY0pYVGdWVEZ2dWNXVENzMnFpQUFhZUJpdFRqZ2hEa212Mnl5azZOai1qbXdMbTlDeHZkQjVOTDdYdHVJS0tUa0hpRkM1YS1Dd2EzcWs3aTlTcVo5b001dnIzZWd0VnZtbzNwUng5dXFUSG9LTU9WanlPQ3RZN3ZGa1dkYWFRYUgzRWNCMG0wM0ZnR3FBT3p1VVg1ajdwSnFNSlhUcQ?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 06:08:12 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmV5OFVmZkRsX001bjZxRXhWbTFuTnlQY0pYVGdWVEZ2dWNXVENzMnFpQUFhZUJpdFRqZ2hEa212Mnl5azZOai1qbXdMbTlDeHZkQjVOTDdYdHVJS0tUa0hpRkM1YS1Dd2EzcWs3aTlTcVo5b001dnIzZWd0VnZtbzNwUng5dXFUSG9LTU9WanlPQ",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "美光財報將優於預期？分析師：花旗研報太保守、NAND 成 DRAM 瓶頸最大受益者 - 鏈新聞 ABMedia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjdhQ0pQTk1zWXJGd0J4M2EzTndVZ1NtcE1RNjY5TnZsY1VHRl9ITTRqZllNelpKVHY1QXpORnFhMzBsdXlmQ2xHLTN3THhVR180WUhxR1pOZDBWNGEteGFJbjZHOHI3WVVoTG9lWTRrRHA4SWpwTVd4eVRQc1ltYmcyZTU?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 05:09:36 GMT",
+      "source": "鏈新聞 ABMedia",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjdhQ0pQTk1zWXJGd0J4M2EzTndVZ1NtcE1RNjY5TnZsY1VHRl9ITTRqZllNelpKVHY1QXpORnFhMzBsdXlmQ2xHLTN3THhVR180WUhxR1pOZDBWNGEteGFJbjZHOHI3WVVoTG9lWTRrRHA4SWpwTVd4eVRQc1ltYmcyZTU?oc=5\" target=\"_bl",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    },
+    {
+      "title": "突破AI記憶體容量限制！Sandisk全新封裝專利將NAND Flash直接堆疊於AI晶片下方作為巨量緩存 - Mashdigi",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY0dhSkhGSzg2cmFCdjBTMGZ3M3ZMTDFWMFZMUk8yM1UyemtQbXJnWTNpMkZ0NmtRSHZ4NHRZUjZVekJfU3BVU3gyLUQyT0tsdEVja2JKdGNhXzQtM0xya0NYRTJ5UjZQR0YxakJUX0MzRUN2eDhuWUZMQ1dBQ3FxdWNsN29RcDdtTkF6LXM3dTBrdGVVSW9wTjR0bk1kQm5weTN5NmRoaU0ta0Qzdk42dzNNVmJNYlMtZXZJZ0MwaThUNlJXX1lmMFpYczAwNWxlMUhCY0dvYkdFZTNhbWVoTVcwYjZ2aE03QWhhTXFsQWNJeXhoWVBN?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 04:22:29 GMT",
+      "source": "Mashdigi",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY0dhSkhGSzg2cmFCdjBTMGZ3M3ZMTDFWMFZMUk8yM1UyemtQbXJnWTNpMkZ0NmtRSHZ4NHRZUjZVekJfU3BVU3gyLUQyT0tsdEVja2JKdGNhXzQtM0xya0NYRTJ5UjZQR0YxakJUX0MzRUN2eDhuWUZMQ1dBQ3FxdWNsN29RcDdtTkF6LXM3dTBrd",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-23T03:24:44.447Z"
+    }
+  ]
 }

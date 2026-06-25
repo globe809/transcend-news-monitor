@@ -1,24 +1,24 @@
 {
   "period": "year",
-  "generatedAt": "2026-06-24T03:27:07.641Z",
-  "generatedAtTW": "2026-06-24 11:27 台灣時間",
+  "generatedAt": "2026-06-25T03:24:16.784Z",
+  "generatedAtTW": "2026-06-25 11:24 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 0,
+    "total": 5,
+    "positive": 5,
     "negative": 0,
-    "neutral": 2,
+    "neutral": 0,
     "byCategory": {
       "創見資訊": {
-        "total": 0,
-        "positive": 0,
+        "total": 2,
+        "positive": 2,
         "negative": 0,
         "neutral": 0
       },
       "上游供應商": {
-        "total": 2,
-        "positive": 0,
+        "total": 3,
+        "positive": 3,
         "negative": 0,
-        "neutral": 2
+        "neutral": 0
       },
       "競品": {
         "total": 0,
@@ -30,33 +30,63 @@
     "trend": [
       {
         "date": "2026-06",
-        "positive": 0,
+        "positive": 5,
         "negative": 0,
-        "neutral": 2,
-        "total": 2
+        "neutral": 0,
+        "total": 5
       }
     ]
   },
   "news": [
     {
-      "title": "外資一調價，Sandisk 突然轉強，NAND 風向變了嗎？ - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQU2ZyYVZ2bHZMODd5dlZGRzNSZ1d6Tks0d3ZSVUhDTWVTY2dHYW1renhxdEJBbFJOVlBKVGRuNHdwb05qcG9BQTdaNkttTjl2UHNYUG1ndlJPdFNLLVVjY1hvN2EycWY3NERYaEwwVXpfcW1ycnVUNlhqSmRyUVpoZG84Z19RalBST25KT1ZReVF4d0E0eEtpVHF5eE9JcDFiMUZDc1JMa3FfUXhqbldYWENDOEFHckwzV1RWb3cxRzFqUy1oS1Mtc2xwRVduc3BKSDZVMkZoUUZ5WU5CNjdpblFIU1pNanBiUEtOMmlERlducVEzUmdjN1RHdHZwbmpXcWp0MmUzMDhocnNoVEd5Z3F4dUtrM2xoRHlLN0dxSF9OMkF4cGlPSUI1amlWekJmYWJRTzIzbVhyU3h6Z3V3Q1V3MmhVbDlDQllvOHQ0RVR3Q2ZmN0tjRGhySnIzOUU?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 01:37:31 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxQU2ZyYVZ2bHZMODd5dlZGRzNSZ1d6Tks0d3ZSVUhDTWVTY2dHYW1renhxdEJBbFJOVlBKVGRuNHdwb05qcG9BQTdaNkttTjl2UHNYUG1ndlJPdFNLLVVjY1hvN2EycWY3NERYaEwwVXpfcW1ycnVUNlhqSmRyUVpoZG84Z19RalBST25KT1ZReVF4d",
-      "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-24T03:27:07.641Z"
+      "title": "創見搶攻工業級記憶體市場 宣布推出新一代218層3D NAND - 知新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtdlY4VUw0N3pLYTBrNC1ITU1NSkRuVWo0WXRqYVpPZF80RG9aN3lJTG9WQjZpQlotOW5aUXprVU85LW1pSWpNOFp0RzR3QUJHU1d4clpFSWZrblFHV25VOG9EZTVfYkZhUGxRZ3lKNA?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 00:45:00 GMT",
+      "source": "知新聞",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBtdlY4VUw0N3pLYTBrNC1ITU1NSkRuVWo0WXRqYVpPZF80RG9aN3lJTG9WQjZpQlotOW5aUXprVU85LW1pSWpNOFp0RzR3QUJHU1d4clpFSWZrblFHV25VOG9EZTVfYkZhUGxRZ3lKNA?oc=5\" target=\"_blank\"&gt;創見搶攻工業級記憶體市場 宣布推出新一代2",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-25T03:24:16.784Z"
     },
     {
-      "title": "SK海力士、三星壓力來了？中國NAND殺進韓國　長江存儲市占飆升 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40MEZTeHpuT3ZzZVI4UkNMNHVidTh3ZTM4cUFRMmIyLTlmZl9ERFlJV1FoRXdQU1hkT3FUNmZHbWdOekVWaU5jcWtmdGrSAVJBVV95cUxPVkRlUEs2TFp6eWxURnl1bnhwUkxtVFpERHo5cHcySHZGaUVPMGJvelhVcktvcThPSGNyTDd4NjBpQmlqOWl6ZTZnQmVrXzM1Tm1n?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 07:40:39 GMT",
-      "source": "NOWnews今日新聞",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE40MEZTeHpuT3ZzZVI4UkNMNHVidTh3ZTM4cUFRMmIyLTlmZl9ERFlJV1FoRXdQU1hkT3FUNmZHbWdOekVWaU5jcWtmdGrSAVJBVV95cUxPVkRlUEs2TFp6eWxURnl1bnhwUkxtVFpERHo5cHcySHZGaUVPMGJvelhVcktvcThPSGNyTDd4NjBpQmlqO",
+      "title": "突破AI記憶體容量限制！Sandisk全新封裝專利將NAND Flash直接堆疊於AI晶片下方作為巨量緩存 - udn科技玩家",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMl9BOENwVE9pZzRVeU56T2o3X3RLM0ZVTzYxelhDQWhOM1h2dlU2NjFKZ201dlIzVE9haDJya0NLNW9PNGxxYzFSc181Z2tOeVJRYVI3MjY0NzdZNnZIQzVNVjhmOHJtOGpnTVN2RUtkNXZFbnU2YTdPQ2I?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 00:41:53 GMT",
+      "source": "udn科技玩家",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMl9BOENwVE9pZzRVeU56T2o3X3RLM0ZVTzYxelhDQWhOM1h2dlU2NjFKZ201dlIzVE9haDJya0NLNW9PNGxxYzFSc181Z2tOeVJRYVI3MjY0NzdZNnZIQzVNVjhmOHJtOGpnTVN2RUtkNXZFbnU2YTdPQ2I?oc=5\" target=\"_blank\"&gt;突破AI",
       "category": "上游供應商",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-24T03:27:07.641Z"
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-25T03:24:16.784Z"
+    },
+    {
+      "title": "外資大和關注美光第三季亮眼財報背後，5 年客戶長約與記憶體吃緊至 2027 年後 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFZraGFmY21IY1VqcmhYUlBNUElQQzdaSko5T2dCbmQweHUtdHhpSTBxWmE0Rl9jQzVtVDFkeHoyWTJNdFliQURqZTdZc1FnTVhIalRvMDExYUMyQ09KTzU4emlNUXVBbXJIWmpKVVhZcGVwXzdjTXdlaWx5Y2NyZm52aFJxY2tma2VuY2tGNFpORG9JaWw5SDdQX2NWZjZrT2dOZFdyRE1jSzNXYXVPbzZJSXA2Z3p6cFNzNzNB?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 00:11:15 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFZraGFmY21IY1VqcmhYUlBNUElQQzdaSko5T2dCbmQweHUtdHhpSTBxWmE0Rl9jQzVtVDFkeHoyWTJNdFliQURqZTdZc1FnTVhIalRvMDExYUMyQ09KTzU4emlNUXVBbXJIWmpKVVhZcGVwXzdjTXdlaWx5Y2NyZm52aFJxY2tma2VuY2tGNFpOR",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-25T03:24:16.784Z"
+    },
+    {
+      "title": "Kioxia簽署第20屆亞運和第5 屆亞帕運合作協議 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NQjB1R0tkVjJ2cWNiRGpRN1dySXRqd3EtS3Z4dVpERlVNQXZUVnFxNEZ5M04zbnpCS2l0QnVad3dGQzlFUUV2dWNFQTVCY1lZWS1ubkJDRGRubDEwQmcyT2stMTFRaTdxU2tv?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 09:58:00 GMT",
+      "source": "Business Wire",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9NQjB1R0tkVjJ2cWNiRGpRN1dySXRqd3EtS3Z4dVpERlVNQXZUVnFxNEZ5M04zbnpCS2l0QnVad3dGQzlFUUV2dWNFQTVCY1lZWS1ubkJDRGRubDEwQmcyT2stMTFRaTdxU2tv?oc=5\" target=\"_blank\"&gt;Kioxia簽署第20屆亞運和第5 屆亞帕運合作協議&",
+      "category": "上游供應商",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-25T03:24:16.784Z"
+    },
+    {
+      "title": "創見推出 218 層堆疊 3D NAND 工業儲存解決方案，布局 AI 運算與邊緣應用 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHh5ZVVINzJlNUlNRUNPcEprN3FMa3B0R3NVVTlDSndwNnFzVTJIUUt5ZjRLZ01IbnliNER5OXI2MEw2eVFxeVNULXdYR3JlU2VCYmUybElsWFFCTWE4djl4ajdkZ21ob1JlbklxdnpDTEM4dFlQOVA5NGdaQXl1OG1SZ0hkX0hOaG5pdFZNaERTbDNPbFFRSnE2OVl6b2JGanBLaVF2dw?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 04:37:39 GMT",
+      "source": "TechNews 科技新報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORHh5ZVVINzJlNUlNRUNPcEprN3FMa3B0R3NVVTlDSndwNnFzVTJIUUt5ZjRLZ01IbnliNER5OXI2MEw2eVFxeVNULXdYR3JlU2VCYmUybElsWFFCTWE4djl4ajdkZ21ob1JlbklxdnpDTEM4dFlQOVA5NGdaQXl1OG1SZ0hkX0hOaG5pdFZNaERTb",
+      "category": "創見資訊",
+      "sentiment": "positive",
+      "fetchedAt": "2026-06-25T03:24:16.784Z"
     }
   ]
 }

@@ -1,39 +1,46 @@
 {
   "period": "week",
-  "generatedAt": "2026-06-26T03:32:29.489Z",
-  "generatedAtTW": "2026-06-26 11:32 台灣時間",
+  "generatedAt": "2026-06-27T02:55:01.563Z",
+  "generatedAtTW": "2026-06-27 10:55 台灣時間",
   "stats": {
-    "total": 5,
-    "positive": 2,
+    "total": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 3,
+    "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 2,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 2
-      },
-      "上游供應商": {
-        "total": 2,
-        "positive": 2,
-        "negative": 0,
-        "neutral": 0
-      },
-      "競品": {
         "total": 1,
         "positive": 0,
         "negative": 0,
         "neutral": 1
+      },
+      "上游供應商": {
+        "total": 1,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       }
     },
     "trend": [
       {
-        "date": "2026-06-25",
-        "positive": 2,
+        "date": "2026-06-26",
+        "positive": 1,
         "negative": 0,
-        "neutral": 3,
-        "total": 5
+        "neutral": 0,
+        "total": 1
+      },
+      {
+        "date": "2026-06-27",
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "total": 1
       }
     ]
   },
@@ -41,52 +48,22 @@
     {
       "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 22:17:50 GMT",
+      "pubDate": "Sat, 27 Jun 2026 02:15:06 GMT",
       "source": "CMoney",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "category": "創見資訊",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-26T03:32:29.489Z"
+      "fetchedAt": "2026-06-27T02:55:01.563Z"
     },
     {
-      "title": "5289預測 — 2027的目標價 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YN2dFV00zWk1QNXppN2pGM19hbk1oUFNRTXZwWmVuWi1hVXpBTVp6SXJmWFlxdG5yNlJJNTB4eHRIYjZuY0QyQ01SY051M3kxM0dvUHpTa3dEQjlHZWR5RUdfdmx0dElKNUhFMzB3Nko3TWE2bnc?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 18:44:13 GMT",
-      "source": "TradingView",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YN2dFV00zWk1QNXppN2pGM19hbk1oUFNRTXZwWmVuWi1hVXpBTVp6SXJmWFlxdG5yNlJJNTB4eHRIYjZuY0QyQ01SY051M3kxM0dvUHpTa3dEQjlHZWR5RUdfdmx0dElKNUhFMzB3Nko3TWE2bnc?oc=5\" target=\"_blank\"&gt;5289預測 — 202",
-      "category": "競品",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-26T03:32:29.489Z"
-    },
-    {
-      "title": "【21:30 即時新聞】Sandisk (SNDK) 暴漲16.9%：受惠 Citi 調高目標價與 AI NAND 需求前景轉強 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYWRlWVlKX0Z0bElza1FNZ3Rwb1ZZLVBxVXBnZjdBVnVvbzNMVlV0QlBrdGRhQVA3b2ZRZU1zTmxrRmpOT0dKanRUX0V4VE1zMXFtSWt5TGVvaDJTdjN5bks4UGhNRFY5YmlhSmpuRVQydFlkekNwbmtQUHZTSEN0cVp6dGpBcmFSa25La0phTHJmV0VTSzZlSzJyYTZOZDVialhkSUlKV1hXWUl4Y2lET2s3b2FrcXRFaTctdzB1N2ozbmMxRExEclNmaV9qSms?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 13:31:00 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYWRlWVlKX0Z0bElza1FNZ3Rwb1ZZLVBxVXBnZjdBVnVvbzNMVlV0QlBrdGRhQVA3b2ZRZU1zTmxrRmpOT0dKanRUX0V4VE1zMXFtSWt5TGVvaDJTdjN5bks4UGhNRFY5YmlhSmpuRVQydFlkekNwbmtQUHZTSEN0cVp6dGpBcmFSa25La0phTHJmV",
+      "title": "記憶體漲價列車沒停！群聯、南亞科迎獲利爆發期 目標價上看「這數字」 - 財訊",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ndkw3eEhRNGRlcU92RWtKR2dOTlI4WFloU3l0UTNUdThZLVp5cXZqQXFyUTItMGItc3p1cFpHa2Z5Qi1tdWhWM0RjdmVNb2ZiTk42eWtoR3dzRllGWWFJU3B4OHZiOUhWRTVWM1pUU3FkWE9mZnR3U2hfNA?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 07:41:11 GMT",
+      "source": "財訊",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ndkw3eEhRNGRlcU92RWtKR2dOTlI4WFloU3l0UTNUdThZLVp5cXZqQXFyUTItMGItc3p1cFpHa2Z5Qi1tdWhWM0RjdmVNb2ZiTk42eWtoR3dzRllGWWFJU3B4OHZiOUhWRTVWM1pUU3FkWE9mZnR3U2hfNA?oc=5\" target=\"_blank\"&gt;記憶體漲價",
       "category": "上游供應商",
       "sentiment": "positive",
-      "fetchedAt": "2026-06-26T03:32:29.489Z"
-    },
-    {
-      "title": "2451 創見 - 美光炸裂財測，飆漲背後黑馬解析!! - 股市爆料同學會 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uX1NLVGIwRGQ0UXJXUXI2Q1dKdG5fc0tETE0yVWIydjlFcDJMeVRMd3JMUXIweWpmNE9uQXNMZE5WUm11TzZBQ0RJUG51c2dEd0toaTJoUkI?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 08:41:00 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uX1NLVGIwRGQ0UXJXUXI2Q1dKdG5fc0tETE0yVWIydjlFcDJMeVRMd3JMUXIweWpmNE9uQXNMZE5WUm11TzZBQ0RJUG51c2dEd0toaTJoUkI?oc=5\" target=\"_blank\"&gt;2451 創見 - 美光炸裂財測，飆漲背後黑馬解析!! - 股市爆料同學會&lt;/a&gt;&amp;",
-      "category": "創見資訊",
-      "sentiment": "neutral",
-      "fetchedAt": "2026-06-26T03:32:29.489Z"
-    },
-    {
-      "title": "美光科技第三季業績大爆發！DRAM與NAND營收年增340% - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHBQRGNPbFMzTmVxMkhFWExJaVhleU9iZFJoMXJ3RGZiQmNPZzJYRURpUjZ6ZU5fRVNQUUczU0FYX0lES19WUXVNSktqTnhSWnhJUjNRSXZRaTJmc1BvVy1pTFA3T042VldXZDBCR2MwNmtybkp2YXlBTzhFZnNVVm9ydkdTcWMxcEd1SmhR?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 07:54:08 GMT",
-      "source": "CMoney投資網誌",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHBQRGNPbFMzTmVxMkhFWExJaVhleU9iZFJoMXJ3RGZiQmNPZzJYRURpUjZ6ZU5fRVNQUUczU0FYX0lES19WUXVNSktqTnhSWnhJUjNRSXZRaTJmc1BvVy1pTFA3T042VldXZDBCR2MwNmtybkp2YXlBTzhFZnNVVm9ydkdTcWMxcEd1SmhR?oc=5",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-26T03:32:29.489Z"
+      "fetchedAt": "2026-06-27T02:55:01.563Z"
     }
   ]
 }

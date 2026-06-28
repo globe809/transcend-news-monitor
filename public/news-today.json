@@ -1,40 +1,33 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-27T02:55:01.563Z",
-  "generatedAtTW": "2026-06-27 10:55 台灣時間",
+  "generatedAt": "2026-06-28T03:37:56.103Z",
+  "generatedAtTW": "2026-06-28 11:37 台灣時間",
   "stats": {
-    "total": 2,
-    "positive": 1,
+    "total": 1,
+    "positive": 0,
     "negative": 0,
     "neutral": 1,
     "byCategory": {
       "創見資訊": {
-        "total": 1,
-        "positive": 0,
-        "negative": 0,
-        "neutral": 1
-      },
-      "上游供應商": {
-        "total": 1,
-        "positive": 1,
-        "negative": 0,
-        "neutral": 0
-      },
-      "競品": {
         "total": 0,
         "positive": 0,
         "negative": 0,
         "neutral": 0
+      },
+      "上游供應商": {
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
+      },
+      "競品": {
+        "total": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1
       }
     },
     "trend": [
-      {
-        "date": "2026-06-26",
-        "positive": 1,
-        "negative": 0,
-        "neutral": 0,
-        "total": 1
-      },
       {
         "date": "2026-06-27",
         "positive": 0,
@@ -46,24 +39,14 @@
   },
   "news": [
     {
-      "title": "創見(2451) 個股概覽 | 個股 - 股市 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 02:15:06 GMT",
-      "source": "CMoney",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc3NCalhTWXpYdTNVWWM3U3ZSY05sZ0R0V1gyUldKdFcxQ2hpOGlmWjZyWHRxN09qdGN2YTFiVV9DQ3lid1ZYeHRYTG1nSXM3akVz?oc=5\" target=\"_blank\"&gt;創見(2451) 個股概覽 | 個股 - 股市&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
-      "category": "創見資訊",
+      "title": "金士頓KF316C10BK2/8雙通道兩組 - Mobile01",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1US28zejk2c3RHbzBUSW5pcEJhWHlQTm9ZOWZvWml1UzI5ZUN1a3JpOEQ0Y0gzSExIZTZ0WHhPTWNUcFhqNUI5ZnhHUmlsQmFkQnEzM3A3UXlJejQ0RlBEMlFFRkI2Zw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 16:00:05 GMT",
+      "source": "Mobile01",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1US28zejk2c3RHbzBUSW5pcEJhWHlQTm9ZOWZvWml1UzI5ZUN1a3JpOEQ0Y0gzSExIZTZ0WHhPTWNUcFhqNUI5ZnhHUmlsQmFkQnEzM3A3UXlJejQ0RlBEMlFFRkI2Zw?oc=5\" target=\"_blank\"&gt;金士頓KF316C10BK2/8雙通道兩組&lt;/a&gt;&a",
+      "category": "競品",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-27T02:55:01.563Z"
-    },
-    {
-      "title": "記憶體漲價列車沒停！群聯、南亞科迎獲利爆發期 目標價上看「這數字」 - 財訊",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ndkw3eEhRNGRlcU92RWtKR2dOTlI4WFloU3l0UTNUdThZLVp5cXZqQXFyUTItMGItc3p1cFpHa2Z5Qi1tdWhWM0RjdmVNb2ZiTk42eWtoR3dzRllGWWFJU3B4OHZiOUhWRTVWM1pUU3FkWE9mZnR3U2hfNA?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 07:41:11 GMT",
-      "source": "財訊",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ndkw3eEhRNGRlcU92RWtKR2dOTlI4WFloU3l0UTNUdThZLVp5cXZqQXFyUTItMGItc3p1cFpHa2Z5Qi1tdWhWM0RjdmVNb2ZiTk42eWtoR3dzRllGWWFJU3B4OHZiOUhWRTVWM1pUU3FkWE9mZnR3U2hfNA?oc=5\" target=\"_blank\"&gt;記憶體漲價",
-      "category": "上游供應商",
-      "sentiment": "positive",
-      "fetchedAt": "2026-06-27T02:55:01.563Z"
+      "fetchedAt": "2026-06-28T03:37:56.103Z"
     }
   ]
 }

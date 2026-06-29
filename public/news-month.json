@@ -1,7 +1,7 @@
 {
   "period": "month",
-  "generatedAt": "2026-06-28T03:37:56.103Z",
-  "generatedAtTW": "2026-06-28 11:37 台灣時間",
+  "generatedAt": "2026-06-29T03:42:26.629Z",
+  "generatedAtTW": "2026-06-29 11:42 台灣時間",
   "stats": {
     "total": 1,
     "positive": 0,
@@ -29,7 +29,7 @@
     },
     "trend": [
       {
-        "date": "2026-06-27",
+        "date": "2026-06-28",
         "positive": 0,
         "negative": 0,
         "neutral": 1,
@@ -39,14 +39,14 @@
   },
   "news": [
     {
-      "title": "金士頓KF316C10BK2/8雙通道兩組 - Mobile01",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1US28zejk2c3RHbzBUSW5pcEJhWHlQTm9ZOWZvWml1UzI5ZUN1a3JpOEQ0Y0gzSExIZTZ0WHhPTWNUcFhqNUI5ZnhHUmlsQmFkQnEzM3A3UXlJejQ0RlBEMlFFRkI2Zw?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 16:00:05 GMT",
-      "source": "Mobile01",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1US28zejk2c3RHbzBUSW5pcEJhWHlQTm9ZOWZvWml1UzI5ZUN1a3JpOEQ0Y0gzSExIZTZ0WHhPTWNUcFhqNUI5ZnhHUmlsQmFkQnEzM3A3UXlJejQ0RlBEMlFFRkI2Zw?oc=5\" target=\"_blank\"&gt;金士頓KF316C10BK2/8雙通道兩組&lt;/a&gt;&a",
+      "title": "宜鼎跨雲端並於2011 Super Computing亮相 - CTIMES",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1dnMG1vU09kQWlRNk1XU212N0JNQnJXWTZfRjMxWWpiY0lEVHk3Q21oRXZWZnk0QVZ6MHRIcjJJNm5RR1RSVkVvaWV6WVk4eHVXcjhEMjBpcEtlZHBRTWdQRG9IWHl3VVBoVDlCdDByTGxHejJyd2p2TkNjNUt0SmdyQy1zLWp3Q0VfXzVnXzJtRVhxYy1V?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 22:31:08 GMT",
+      "source": "CTIMES",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1dnMG1vU09kQWlRNk1XU212N0JNQnJXWTZfRjMxWWpiY0lEVHk3Q21oRXZWZnk0QVZ6MHRIcjJJNm5RR1RSVkVvaWV6WVk4eHVXcjhEMjBpcEtlZHBRTWdQRG9IWHl3VVBoVDlCdDByTGxHejJyd2p2TkNjNUt0SmdyQy1zLWp3Q0VfXzVnXzJtR",
       "category": "競品",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-28T03:37:56.103Z"
+      "fetchedAt": "2026-06-29T03:42:26.629Z"
     }
   ]
 }

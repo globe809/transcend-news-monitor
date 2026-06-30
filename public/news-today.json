@@ -1,12 +1,12 @@
 {
   "period": "today",
-  "generatedAt": "2026-06-29T03:42:26.629Z",
-  "generatedAtTW": "2026-06-29 11:42 台灣時間",
+  "generatedAt": "2026-06-30T03:30:33.665Z",
+  "generatedAtTW": "2026-06-30 11:30 台灣時間",
   "stats": {
-    "total": 1,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 1,
+    "neutral": 2,
     "byCategory": {
       "創見資訊": {
         "total": 0,
@@ -15,10 +15,10 @@
         "neutral": 0
       },
       "上游供應商": {
-        "total": 0,
+        "total": 1,
         "positive": 0,
         "negative": 0,
-        "neutral": 0
+        "neutral": 1
       },
       "競品": {
         "total": 1,
@@ -29,24 +29,34 @@
     },
     "trend": [
       {
-        "date": "2026-06-28",
+        "date": "2026-06-29",
         "positive": 0,
         "negative": 0,
-        "neutral": 1,
-        "total": 1
+        "neutral": 2,
+        "total": 2
       }
     ]
   },
   "news": [
     {
-      "title": "宜鼎跨雲端並於2011 Super Computing亮相 - CTIMES",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1dnMG1vU09kQWlRNk1XU212N0JNQnJXWTZfRjMxWWpiY0lEVHk3Q21oRXZWZnk0QVZ6MHRIcjJJNm5RR1RSVkVvaWV6WVk4eHVXcjhEMjBpcEtlZHBRTWdQRG9IWHl3VVBoVDlCdDByTGxHejJyd2p2TkNjNUt0SmdyQy1zLWp3Q0VfXzVnXzJtRVhxYy1V?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 22:31:08 GMT",
-      "source": "CTIMES",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1dnMG1vU09kQWlRNk1XU212N0JNQnJXWTZfRjMxWWpiY0lEVHk3Q21oRXZWZnk0QVZ6MHRIcjJJNm5RR1RSVkVvaWV6WVk4eHVXcjhEMjBpcEtlZHBRTWdQRG9IWHl3VVBoVDlCdDByTGxHejJyd2p2TkNjNUt0SmdyQy1zLWp3Q0VfXzVnXzJtR",
+      "title": "ADATA 25 周年雙喜臨門！連續七年摘下亞洲企業社會責任獎 - UNIKO's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBldHU5ZWlZc3lrcXVBYU8tSGgzdXZZZWZMZEw1TlQxWHBVWjNfRzRzM1pVelduNWhQV3lGdzJXa3VpREFxZWVCd29WX0pfWmZPRTI3SHd6LWdqTjU4a1dvSHk2SVd4V0tncUhrZlFCQlg?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 12:35:47 GMT",
+      "source": "UNIKO's Hardware",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBldHU5ZWlZc3lrcXVBYU8tSGgzdXZZZWZMZEw1TlQxWHBVWjNfRzRzM1pVelduNWhQV3lGdzJXa3VpREFxZWVCd29WX0pfWmZPRTI3SHd6LWdqTjU4a1dvSHk2SVd4V0tncUhrZlFCQlg?oc=5\" target=\"_blank\"&gt;ADATA 25 周年雙喜臨門！連續七年",
       "category": "競品",
       "sentiment": "neutral",
-      "fetchedAt": "2026-06-29T03:42:26.629Z"
+      "fetchedAt": "2026-06-30T03:30:33.665Z"
+    },
+    {
+      "title": "三星、SK海力士大擴產 台灣記憶體廠抗韓流...以守代攻 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Z1lPRkR0TnJ2NjVoT21UX2x0aThEazBuQnJTNGs0MWUtTjl5SHZURExvMC1tMDBSdlIwNG1uY21DLTJPa2p2WGtaM053UXliWFZZUHk2YjhnQdIBX0FVX3lxTE1Wd2k1TU5jbnRBeHl1LXc5U3RZSDRFTDJ2VXR0YU12NTJHMDBzOUF1VVRySE9IYTYtYTNhWFNUSDR6T29TZFFBNGpxeTZoYllPb1JhQnNtVUxCQ01fc3R3?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 09:00:00 GMT",
+      "source": "經濟日報",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Z1lPRkR0TnJ2NjVoT21UX2x0aThEazBuQnJTNGs0MWUtTjl5SHZURExvMC1tMDBSdlIwNG1uY21DLTJPa2p2WGtaM053UXliWFZZUHk2YjhnQdIBX0FVX3lxTE1Wd2k1TU5jbnRBeHl1LXc5U3RZSDRFTDJ2VXR0YU12NTJHMDBzOUF1VVRySE9IY",
+      "category": "上游供應商",
+      "sentiment": "neutral",
+      "fetchedAt": "2026-06-30T03:30:33.665Z"
     }
   ]
 }
